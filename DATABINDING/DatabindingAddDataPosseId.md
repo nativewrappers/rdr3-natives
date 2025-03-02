@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7D0F2014DB28DD01
-Any _DATABINDING_ADD_DATA_POSSE_ID(Any p0,const char* p1,Any posseId);
+Any _DATABINDING_ADD_DATA_POSSE_ID(Any p0,char* p1,Any posseId);
 ```
 
 

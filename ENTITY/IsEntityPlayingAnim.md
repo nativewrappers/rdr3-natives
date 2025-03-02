@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDEE49D5CA6C49148
-BOOL IS_ENTITY_PLAYING_ANIM(Entity entity,const char* animDict,const char* animName,int animType);
+BOOL IS_ENTITY_PLAYING_ANIM(Entity entity,char* animDict,char* animName,int animType);
 ```
 
 

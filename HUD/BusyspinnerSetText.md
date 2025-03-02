@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7F78CD75CC4539E4
-void _BUSYSPINNER_SET_TEXT(const char* text);
+void _BUSYSPINNER_SET_TEXT(char* text);
 ```
 
 

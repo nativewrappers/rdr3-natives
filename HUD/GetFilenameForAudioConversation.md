@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCFEDCCAD3C5BA90D
-char* GET_FILENAME_FOR_AUDIO_CONVERSATION(const char* labelName);
+char* GET_FILENAME_FOR_AUDIO_CONVERSATION(char* labelName);
 ```
 
 Gets a string literal from a label name.

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0000000085488C49
-Any SC_PRESENCE_ATTR_SET_INT_EX(const char* attrName,int value,BOOL p2);
+Any SC_PRESENCE_ATTR_SET_INT_EX(char* attrName,int value,BOOL p2);
 ```
 
 

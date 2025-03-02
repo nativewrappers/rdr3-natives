@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAD74C22A541AB987
-void _ANIMPOSTFX_STOP_TAG(const char* effectName);
+void _ANIMPOSTFX_STOP_TAG(char* effectName);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x19B14E04B009E28B
-void _SET_PED_PROMPT_NAME_2(Ped ped,const char* name);
+void _SET_PED_PROMPT_NAME_2(Ped ped,char* name);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7B2027BAC5C8EC89
-int LAUNCH_UIAPP_WITH_ENTRY(const char* appName,const char* entry);
+int LAUNCH_UIAPP_WITH_ENTRY(char* appName,char* entry);
 ```
 
 

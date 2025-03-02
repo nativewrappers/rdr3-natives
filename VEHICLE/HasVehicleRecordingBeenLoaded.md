@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBA9325BE372AB6EA
-BOOL HAS_VEHICLE_RECORDING_BEEN_LOADED(int recording,const char* script);
+BOOL HAS_VEHICLE_RECORDING_BEEN_LOADED(int recording,char* script);
 ```
 
 See REQUEST_VEHICLE_RECORDING

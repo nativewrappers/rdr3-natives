@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA9016536015DE29D
-Any _DOES_ANIM_SCENE_PLAY_LIST_EXIST(AnimScene animScene,const char* playbackListName);
+Any _DOES_ANIM_SCENE_PLAY_LIST_EXIST(AnimScene animScene,char* playbackListName);
 ```
 
 

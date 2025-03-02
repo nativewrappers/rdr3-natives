@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8C109958C9BB559D
-int _UGC_QUERY_BY_CATEGORY(int categoryType,int p1,int maxGet,const char* contentTypeName,int p4,BOOL p5);
+int _UGC_QUERY_BY_CATEGORY(int categoryType,int p1,int maxGet,char* contentTypeName,int p4,BOOL p5);
 ```
 
 Returns ugcRequestId

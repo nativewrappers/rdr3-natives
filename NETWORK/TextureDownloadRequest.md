@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x16160DA74A8E74A2
-int TEXTURE_DOWNLOAD_REQUEST(Any* gamerHandle,const char* filePath,const char* name,BOOL p3);
+int TEXTURE_DOWNLOAD_REQUEST(Any* gamerHandle,char* filePath,char* name,BOOL p3);
 ```
 
 Returns textureDownloadId

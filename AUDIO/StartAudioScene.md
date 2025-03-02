@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x013A80FC08F6E4F2
-BOOL START_AUDIO_SCENE(const char* scene);
+BOOL START_AUDIO_SCENE(char* scene);
 ```
 
 

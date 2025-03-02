@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE37ACEE15AC50C7E
-void _0xE37ACEE15AC50C7E(Ped ped,const char* p1);
+void _0xE37ACEE15AC50C7E(Ped ped,char* p1);
 ```
 
 _SET_PED_IN*

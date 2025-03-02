@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB72999D3120599DF
-Any _NETWORK_PERSONA_PHOTO_WRITE_SC_PROFILE(const char* texture,int personaPhotoType,int formatIndex);
+Any _NETWORK_PERSONA_PHOTO_WRITE_SC_PROFILE(char* texture,int personaPhotoType,int formatIndex);
 ```
 
 Returns false if pedshot push failed

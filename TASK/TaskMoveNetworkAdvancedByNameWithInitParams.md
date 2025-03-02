@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7B6A04F98BBAFB2C
-void TASK_MOVE_NETWORK_ADVANCED_BY_NAME_WITH_INIT_PARAMS(Ped ped,const char* moveNetworkDefName,Any* taskData,float xPos,float yPos,float zPos,float xRot,float yRot,float zRot,int p9,float p10,int p11,int p12,int flag,int p14);
+void TASK_MOVE_NETWORK_ADVANCED_BY_NAME_WITH_INIT_PARAMS(Ped ped,char* moveNetworkDefName,Any* taskData,float xPos,float yPos,float zPos,float xRot,float yRot,float zRot,int p9,float p10,int p11,int p12,int flag,int p14);
 ```
 
 

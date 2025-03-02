@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF372BC22FCB88606
-Any ADD_RELATIONSHIP_GROUP(const char* name,Hash* groupHash);
+Any ADD_RELATIONSHIP_GROUP(char* name,Hash* groupHash);
 ```
 
 The hash of the created relationship group is output in the second parameter.

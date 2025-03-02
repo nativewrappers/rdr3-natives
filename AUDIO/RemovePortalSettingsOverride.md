@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB4BBFD9CD8B3922B
-void REMOVE_PORTAL_SETTINGS_OVERRIDE(const char* p0);
+void REMOVE_PORTAL_SETTINGS_OVERRIDE(char* p0);
 ```
 
 

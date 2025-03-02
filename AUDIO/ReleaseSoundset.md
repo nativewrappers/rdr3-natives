@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x531A78D6BF27014B
-void _RELEASE_SOUNDSET(const char* soundsetName);
+void _RELEASE_SOUNDSET(char* soundsetName);
 ```
 
 

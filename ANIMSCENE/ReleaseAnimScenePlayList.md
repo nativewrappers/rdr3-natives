@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAE6ADA8FE7E84ACC
-Any _RELEASE_ANIM_SCENE_PLAY_LIST(AnimScene animScene,const char* playlistName);
+Any _RELEASE_ANIM_SCENE_PLAY_LIST(AnimScene animScene,char* playlistName);
 ```
 
 

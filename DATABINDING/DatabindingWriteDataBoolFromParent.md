@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBDFE546E4C2D0E21
-void _DATABINDING_WRITE_DATA_BOOL_FROM_PARENT(Any p0,const char* p1,BOOL p2);
+void _DATABINDING_WRITE_DATA_BOOL_FROM_PARENT(Any p0,char* p1,BOOL p2);
 ```
 
 

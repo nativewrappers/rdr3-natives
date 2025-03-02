@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFFC24B988B938B38
-void SET_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped,const char* animName,const char* animDict);
+void SET_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped,char* animName,char* animDict);
 ```
 
 

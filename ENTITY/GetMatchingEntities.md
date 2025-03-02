@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x84CCF9A12942C83D
-int GET_MATCHING_ENTITIES(Volume volume,ItemSet itemSet,int entityType,Any p3,Hash p4,const char* p5);
+int GET_MATCHING_ENTITIES(Volume volume,ItemSet itemSet,int entityType,Any p3,Hash p4,char* p5);
 ```
 
 

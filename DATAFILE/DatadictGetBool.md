@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x175E915A486EE548
-BOOL DATADICT_GET_BOOL(Any* objectData,const char* key);
+BOOL DATADICT_GET_BOOL(Any* objectData,char* key);
 ```
 
 

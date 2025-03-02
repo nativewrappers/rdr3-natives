@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB0A6CFD2C69C1088
-void SET_TASK_MOVE_NETWORK_SIGNAL_BOOL(Ped ped,const char* signalName,BOOL value);
+void SET_TASK_MOVE_NETWORK_SIGNAL_BOOL(Ped ped,char* signalName,BOOL value);
 ```
 
 

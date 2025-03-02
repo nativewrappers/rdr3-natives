@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3373779BAF7CAF48
-void _SET_WEATHER_VARIATION(const char* weatherType,const char* variation);
+void _SET_WEATHER_VARIATION(char* weatherType,char* variation);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/weather/weather_variations.lua

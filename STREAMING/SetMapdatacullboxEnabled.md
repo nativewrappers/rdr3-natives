@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3CACC83F6FED837C
-void SET_MAPDATACULLBOX_ENABLED(const char* name,BOOL toggle);
+void SET_MAPDATACULLBOX_ENABLED(char* name,BOOL toggle);
 ```
 
 

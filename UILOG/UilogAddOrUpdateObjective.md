@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB43163388484CC87
-void _UILOG_ADD_OR_UPDATE_OBJECTIVE(int p0,Hash p1,Hash p2,const char* p3,BOOL p4,BOOL p5,BOOL p6);
+void _UILOG_ADD_OR_UPDATE_OBJECTIVE(int p0,Hash p1,Hash p2,char* p3,BOOL p4,BOOL p5,BOOL p6);
 ```
 
 

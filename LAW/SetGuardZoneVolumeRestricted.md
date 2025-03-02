@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x35815F372D43E1E5
-void _SET_GUARD_ZONE_VOLUME_RESTRICTED(const char* name,Volume volume);
+void _SET_GUARD_ZONE_VOLUME_RESTRICTED(char* name,Volume volume);
 ```
 
 

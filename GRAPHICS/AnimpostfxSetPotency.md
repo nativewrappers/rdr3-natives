@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF972F0AB16DC5260
-void _ANIMPOSTFX_SET_POTENCY(const char* effectName,int p1,float potency);
+void _ANIMPOSTFX_SET_POTENCY(char* effectName,int p1,float potency);
 ```
 
 Health Core Effect Filter Potency: p1 = 1

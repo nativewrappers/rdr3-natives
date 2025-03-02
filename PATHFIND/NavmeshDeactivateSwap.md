@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x527B97C203BB8606
-Any _NAVMESH_DEACTIVATE_SWAP(const char* name);
+Any _NAVMESH_DEACTIVATE_SWAP(char* name);
 ```
 
 

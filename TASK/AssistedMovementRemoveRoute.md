@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3548536485DD792B
-void ASSISTED_MOVEMENT_REMOVE_ROUTE(const char* route);
+void ASSISTED_MOVEMENT_REMOVE_ROUTE(char* route);
 ```
 
 

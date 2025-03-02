@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCFE122EC635CC2B2
-void _TRIGGER_TRAIN_WHISTLE(Vehicle train,const char* whistleSequence,BOOL p2,BOOL p3);
+void _TRIGGER_TRAIN_WHISTLE(Vehicle train,char* whistleSequence,BOOL p2,BOOL p3);
 ```
 
 whistleSequence: ACKNOWLEDGE, BACKING_UP, CROSSING, DANGER, MOVING, NEXT_STATION, PASSING, STOPPED

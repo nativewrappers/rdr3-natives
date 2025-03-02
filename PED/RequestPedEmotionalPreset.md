@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5C3C55EAAD19915F
-void _REQUEST_PED_EMOTIONAL_PRESET(Ped ped,const char* name);
+void _REQUEST_PED_EMOTIONAL_PRESET(Ped ped,char* name);
 ```
 
 For more information, see common:/data/emotional_presets.meta

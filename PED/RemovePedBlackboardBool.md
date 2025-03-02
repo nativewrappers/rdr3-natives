@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA6F67BEC53379A32
-void _REMOVE_PED_BLACKBOARD_BOOL(Ped ped,const char* variableName);
+void _REMOVE_PED_BLACKBOARD_BOOL(Ped ped,char* variableName);
 ```
 
 

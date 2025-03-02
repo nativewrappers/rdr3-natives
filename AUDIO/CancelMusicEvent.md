@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5B17A90291133DA5
-BOOL CANCEL_MUSIC_EVENT(const char* eventName);
+BOOL CANCEL_MUSIC_EVENT(char* eventName);
 ```
 
 

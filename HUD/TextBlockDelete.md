@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAA03F130A637D923
-void _TEXT_BLOCK_DELETE(const char* textBlock);
+void _TEXT_BLOCK_DELETE(char* textBlock);
 ```
 
 

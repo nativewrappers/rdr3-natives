@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x61B2AAEF645DDAF0
-BOOL _0x61B2AAEF645DDAF0(int mgmEventHandle,const char* p1,int seatId,int p3,BOOL p4);
+BOOL _0x61B2AAEF645DDAF0(int mgmEventHandle,char* p1,int seatId,int p3,BOOL p4);
 ```
 
 Only used in tg_p R* Script

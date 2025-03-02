@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x503703EC1781B7D6
-void SET_VARIABLE_ON_SOUND(int soundId,const char* variableName,float variableValue);
+void SET_VARIABLE_ON_SOUND(int soundId,char* variableName,float variableValue);
 ```
 
 Old Name: _SET_VARIABLE_ON_SOUND_WITH_ID

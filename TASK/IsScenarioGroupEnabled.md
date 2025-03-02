@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x367A09DED4E05B99
-BOOL IS_SCENARIO_GROUP_ENABLED(const char* scenarioGroup);
+BOOL IS_SCENARIO_GROUP_ENABLED(char* scenarioGroup);
 ```
 
 

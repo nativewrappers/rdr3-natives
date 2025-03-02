@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA1300DE03E5D1973
-int _CREATE_MGM_SYSTEM(const char* mgmFilename);
+int _CREATE_MGM_SYSTEM(char* mgmFilename);
 ```
 
 Returns mgmHandle

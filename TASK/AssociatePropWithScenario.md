@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8360C47380B6F351
-Any _ASSOCIATE_PROP_WITH_SCENARIO(int scenario,Entity entity,const char* propName,BOOL p3);
+Any _ASSOCIATE_PROP_WITH_SCENARIO(int scenario,Entity entity,char* propName,BOOL p3);
 ```
 
 

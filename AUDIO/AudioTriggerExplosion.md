@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x374F0E716BFCDE82
-void AUDIO_TRIGGER_EXPLOSION(const char* name,float x,float y,float z);
+void AUDIO_TRIGGER_EXPLOSION(char* name,float x,float y,float z);
 ```
 
 

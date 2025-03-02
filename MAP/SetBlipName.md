@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9CB1A1623062F402
-void _SET_BLIP_NAME(Blip blip,const char* name);
+void _SET_BLIP_NAME(Blip blip,char* name);
 ```
 
 

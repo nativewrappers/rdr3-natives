@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x842CCC9491FFCD9B
-Hash _ANIMPOSTFX_GET_STACKHASH(const char* effectName);
+Hash _ANIMPOSTFX_GET_STACKHASH(char* effectName);
 ```
 
 Known effects: MP_Trans_SceneToPhoto

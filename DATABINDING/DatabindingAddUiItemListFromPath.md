@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDB5B9A474148F699
-Any _DATABINDING_ADD_UI_ITEM_LIST_FROM_PATH(const char* p0,const char* p1);
+Any _DATABINDING_ADD_UI_ITEM_LIST_FROM_PATH(char* p0,char* p1);
 ```
 
 

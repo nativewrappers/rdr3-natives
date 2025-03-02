@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1D6A14F1F9A736FC
-Player NETWORK_GET_HOST_OF_SCRIPT(const char* scriptName,int p1,int p2);
+Player NETWORK_GET_HOST_OF_SCRIPT(char* scriptName,int p1,int p2);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9D40DF90FAD26098
-BOOL NETWORK_IS_SCRIPT_ACTIVE(const char* scriptName,int p1,BOOL p2,int p3);
+BOOL NETWORK_IS_SCRIPT_ACTIVE(char* scriptName,int p1,BOOL p2,int p3);
 ```
 
 

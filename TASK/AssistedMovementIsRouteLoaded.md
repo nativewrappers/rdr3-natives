@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x60F9A4393A21F741
-BOOL ASSISTED_MOVEMENT_IS_ROUTE_LOADED(const char* route);
+BOOL ASSISTED_MOVEMENT_IS_ROUTE_LOADED(char* route);
 ```
 
 

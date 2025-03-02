@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE42D1042F09865FE
-BOOL _UGC_IS_BOOK_MARKED(const char* contentId);
+BOOL _UGC_IS_BOOK_MARKED(char* contentId);
 ```
 
 

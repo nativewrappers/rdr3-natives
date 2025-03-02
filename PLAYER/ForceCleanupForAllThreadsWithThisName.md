@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDAACAF8B687F2353
-void FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME(const char* name,int cleanupFlags);
+void FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME(char* name,int cleanupFlags);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8952E857696B8A79
-void _SET_STATE_PHOTO_TAKEN_STAT(const char* p0);
+void _SET_STATE_PHOTO_TAKEN_STAT(char* p0);
 ```
 
 

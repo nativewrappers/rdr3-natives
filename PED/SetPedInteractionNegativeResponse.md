@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA3C53CDE922BC78B
-void _SET_PED_INTERACTION_NEGATIVE_RESPONSE(Ped ped,const char* speech);
+void _SET_PED_INTERACTION_NEGATIVE_RESPONSE(Ped ped,char* speech);
 ```
 
 

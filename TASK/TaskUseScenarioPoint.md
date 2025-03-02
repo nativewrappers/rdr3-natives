@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCCDAE6324B6A821C
-void TASK_USE_SCENARIO_POINT(Ped ped,int scenario,const char* conditionalAnim,int p3,BOOL p4,BOOL p5,Hash p6,BOOL p7,float p8,BOOL p9);
+void TASK_USE_SCENARIO_POINT(Ped ped,int scenario,char* conditionalAnim,int p3,BOOL p4,BOOL p5,Hash p6,BOOL p7,float p8,BOOL p9);
 ```
 
 

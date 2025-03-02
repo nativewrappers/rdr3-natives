@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x354837E5A5BAA5AF
-void PREFETCH_SRL(const char* srl);
+void PREFETCH_SRL(char* srl);
 ```
 
 

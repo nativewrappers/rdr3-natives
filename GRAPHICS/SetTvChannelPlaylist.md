@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDEC6B25F5DC8925B
-void SET_TV_CHANNEL_PLAYLIST(int tvChannel,const char* playlistName,BOOL restart);
+void SET_TV_CHANNEL_PLAYLIST(int tvChannel,char* playlistName,BOOL restart);
 ```
 
 

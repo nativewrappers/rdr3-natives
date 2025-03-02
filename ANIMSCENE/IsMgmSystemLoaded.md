@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFDFC14799373283F
-Any _IS_MGM_SYSTEM_LOADED(const char* mgmFilename);
+Any _IS_MGM_SYSTEM_LOADED(char* mgmFilename);
 ```
 
 MGM stands for MiniGameMoments.

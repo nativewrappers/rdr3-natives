@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1F1F957154EC51DF
-BOOL LOAD_STREAM(const char* streamName,const char* soundSet);
+BOOL LOAD_STREAM(char* streamName,char* soundSet);
 ```
 
 

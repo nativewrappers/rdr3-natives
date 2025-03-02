@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2412216FCC7B4E3E
-void _UNLOAD_CINEMATIC_CAMERA_LOCATION(const char* dictionaryName);
+void _UNLOAD_CINEMATIC_CAMERA_LOCATION(char* dictionaryName);
 ```
 
 

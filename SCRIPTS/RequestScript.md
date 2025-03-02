@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x46ED607DDD40D7FE
-void REQUEST_SCRIPT(const char* scriptName);
+void REQUEST_SCRIPT(char* scriptName);
 ```
 
 

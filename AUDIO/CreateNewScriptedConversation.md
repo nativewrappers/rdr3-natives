@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD2C91A0B572AAE56
-Any CREATE_NEW_SCRIPTED_CONVERSATION(const char* convoRoot);
+Any CREATE_NEW_SCRIPTED_CONVERSATION(char* convoRoot);
 ```
 
 

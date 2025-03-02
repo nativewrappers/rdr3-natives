@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x798BE43C9393632B
-void _UNLOAD_CAMERA_DATA_DICT(const char* cameraDictionary);
+void _UNLOAD_CAMERA_DATA_DICT(char* cameraDictionary);
 ```
 
 

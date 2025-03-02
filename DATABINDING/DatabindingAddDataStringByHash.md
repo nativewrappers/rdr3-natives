@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEAD09E76E22630C3
-Any _DATABINDING_ADD_DATA_STRING_BY_HASH(Any p0,Hash p1,const char* p2);
+Any _DATABINDING_ADD_DATA_STRING_BY_HASH(Any p0,Hash p1,char* p2);
 ```
 
 

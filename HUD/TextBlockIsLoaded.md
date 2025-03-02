@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD0976CC34002DB57
-Any TEXT_BLOCK_IS_LOADED(const char* textBlock);
+Any TEXT_BLOCK_IS_LOADED(char* textBlock);
 ```
 
 

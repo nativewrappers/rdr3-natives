@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x786591D986DE9159
-Any STOP_ENTITY_ANIM(Entity entity,const char* animation,const char* animGroup,float p3);
+Any STOP_ENTITY_ANIM(Entity entity,char* animation,char* animGroup,float p3);
 ```
 
 

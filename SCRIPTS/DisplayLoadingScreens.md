@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1E5B70E53DB661E5
-void _DISPLAY_LOADING_SCREENS(Hash p0,Hash p1,Hash p2,const char* gamemodeName,const char* title,const char* subtitle);
+void _DISPLAY_LOADING_SCREENS(Hash p0,Hash p1,Hash p2,char* gamemodeName,char* title,char* subtitle);
 ```
 
 

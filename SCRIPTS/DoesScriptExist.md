@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x552B171E3F69E5AE
-BOOL DOES_SCRIPT_EXIST(const char* scriptName);
+BOOL DOES_SCRIPT_EXIST(char* scriptName);
 ```
 
 

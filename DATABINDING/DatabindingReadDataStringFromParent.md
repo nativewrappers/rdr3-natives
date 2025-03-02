@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6323AD277C4A2AFB
-Any _DATABINDING_READ_DATA_STRING_FROM_PARENT(Any p0,const char* p1);
+Any _DATABINDING_READ_DATA_STRING_FROM_PARENT(Any p0,char* p1);
 ```
 
 

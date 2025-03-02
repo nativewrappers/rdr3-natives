@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x44DB62727762FD9B
-int DECOR_GET_INT(Entity entity,const char* propertyName);
+int DECOR_GET_INT(Entity entity,char* propertyName);
 ```
 
 

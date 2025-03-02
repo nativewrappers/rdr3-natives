@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x274B3DABF7E72DEF
-void RESET_PARTICLE_FX_OVERRIDE(const char* name);
+void RESET_PARTICLE_FX_OVERRIDE(char* name);
 ```
 
 Resets the effect of SET_PARTICLE_FX_OVERRIDE

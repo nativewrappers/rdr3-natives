@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4AE1DFF337A86FDE
-BOOL BG_DOES_LAUNCH_PARAM_EXIST(int scriptIndex,const char* p1);
+BOOL BG_DOES_LAUNCH_PARAM_EXIST(int scriptIndex,char* p1);
 ```
 
 

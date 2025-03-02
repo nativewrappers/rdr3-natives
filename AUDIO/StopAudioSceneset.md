@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9428447DED71FC7E
-void _STOP_AUDIO_SCENESET(const char* sceneset);
+void _STOP_AUDIO_SCENESET(char* sceneset);
 ```
 
 

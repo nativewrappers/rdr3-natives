@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x54D6900929CCF162
-BOOL HAS_STREAMED_TEXTURE_DICT_LOADED(const char* textureDict);
+BOOL HAS_STREAMED_TEXTURE_DICT_LOADED(char* textureDict);
 ```
 
 

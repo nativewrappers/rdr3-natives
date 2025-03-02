@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x80D78BDC9D88EF07
-int _INVENTORY_CREATE_ITEM_COLLECTION(int inventoryId,const char* filterName,Hash slotId,int* size);
+int _INVENTORY_CREATE_ITEM_COLLECTION(int inventoryId,char* filterName,Hash slotId,int* size);
 ```
 
 filterName (collections): "ALL", "ALL SATCHEL", "ALL HORSES", "ALL COACHES", "ALL MOUNTS", "ALL CLOTHING", "ALL WEAPONS", "ALL SATCHEL EXCLUDING CLOTHING", "ALL EXCLUDING CLOTHING"

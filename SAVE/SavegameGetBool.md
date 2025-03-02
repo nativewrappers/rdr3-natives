@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBB7F4273C186BC4B
-void _SAVEGAME_GET_BOOL(Any* p0,const char* variableName);
+void _SAVEGAME_GET_BOOL(Any* p0,char* variableName);
 ```
 
 Does the exact same as 0x529B9CCD0972AF4E

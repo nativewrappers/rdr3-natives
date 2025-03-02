@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA381DE86EE170C4A
-Any _DATABINDING_ADD_DATA_STRING_FROM_PATH(const char* p0,const char* p1,const char* p2);
+Any _DATABINDING_ADD_DATA_STRING_FROM_PATH(char* p0,char* p1,char* p2);
 ```
 
 

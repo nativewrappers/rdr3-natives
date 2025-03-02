@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x98AF2BB6F62BD588
-BOOL REGISTER_NAMED_RENDERTARGET(const char* name,BOOL p1);
+BOOL REGISTER_NAMED_RENDERTARGET(char* name,BOOL p1);
 ```
 
 

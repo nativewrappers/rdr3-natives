@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD3852F22AB713A1F
-BOOL ARE_STRINGS_EQUAL(const char* string1,const char* string2);
+BOOL ARE_STRINGS_EQUAL(char* string1,char* string2);
 ```
 
 

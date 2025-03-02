@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x844CEEE428EA35B0
-float _GET_TASK_MOVE_NETWORK_PHASE_FLOAT(Ped ped,const char* phaseName);
+float _GET_TASK_MOVE_NETWORK_PHASE_FLOAT(Ped ped,char* phaseName);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x07A6F6447ECA9B64
-Any GET_ANIM_SCENE_BOOL(AnimScene animScene,const char* name);
+Any GET_ANIM_SCENE_BOOL(AnimScene animScene,char* name);
 ```
 
 

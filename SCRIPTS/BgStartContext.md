@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x49BA5678BA040CA7
-void BG_START_CONTEXT(const char* contextName);
+void BG_START_CONTEXT(char* contextName);
 ```
 
 Inserts the given context into the background scripts context map.

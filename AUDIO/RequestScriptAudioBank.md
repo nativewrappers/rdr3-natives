@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2F844A8B08D76685
-BOOL REQUEST_SCRIPT_AUDIO_BANK(const char* audioBank);
+BOOL REQUEST_SCRIPT_AUDIO_BANK(char* audioBank);
 ```
 
 

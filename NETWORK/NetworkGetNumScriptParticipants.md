@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3658E8CD94FC121A
-int NETWORK_GET_NUM_SCRIPT_PARTICIPANTS(const char* scriptName,int instanceId,Hash position);
+int NETWORK_GET_NUM_SCRIPT_PARTICIPANTS(char* scriptName,int instanceId,Hash position);
 ```
 
 

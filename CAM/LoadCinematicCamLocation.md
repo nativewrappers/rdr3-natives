@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1B3C2D961F5FC0E1
-void _LOAD_CINEMATIC_CAM_LOCATION(const char* locationDictName);
+void _LOAD_CINEMATIC_CAM_LOCATION(char* locationDictName);
 ```
 
 

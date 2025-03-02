@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x83CDB10EA29B370B
-void TASK_PLAY_ANIM_ADVANCED(Ped ped,const char* animDict,const char* animName,float posX,float posY,float posZ,float rotX,float rotY,float rotZ,float speed,float speedMultiplier,int duration,int flags,float p13,int p14,int p15,int p16);
+void TASK_PLAY_ANIM_ADVANCED(Ped ped,char* animDict,char* animName,float posX,float posY,float posZ,float rotX,float rotY,float rotZ,float speed,float speedMultiplier,int duration,int flags,float p13,int p14,int p15,int p16);
 ```
 
 flags: see TASK_PLAY_ANIM

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE459C941431E0FFA
-Vector3 DATADICT_GET_VECTOR(Any* objectData,const char* key);
+Vector3 DATADICT_GET_VECTOR(Any* objectData,char* key);
 ```
 
 

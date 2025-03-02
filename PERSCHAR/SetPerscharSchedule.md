@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x187D65F3AEC5D679
-void _SET_PERSCHAR_SCHEDULE(Hash persCharHash,const char* schedule);
+void _SET_PERSCHAR_SCHEDULE(Hash persCharHash,char* schedule);
 ```
 
 

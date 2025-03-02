@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3ABF7BA1C3E2C8CF
-void BG_END_CONTEXT(const char* contextName);
+void BG_END_CONTEXT(char* contextName);
 ```
 
 Deletes the given context from the background scripts context map.

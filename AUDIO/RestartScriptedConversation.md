@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9AEB285D1818C9AC
-void RESTART_SCRIPTED_CONVERSATION(const char* p0);
+void RESTART_SCRIPTED_CONVERSATION(char* p0);
 ```
 
 

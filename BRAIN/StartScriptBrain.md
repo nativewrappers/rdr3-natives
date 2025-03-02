@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6F62FAE266DCFC81
-int _START_SCRIPT_BRAIN(Entity entity,const char* scriptName,int p2,Any* p3,int p4,BOOL p5);
+int _START_SCRIPT_BRAIN(Entity entity,char* scriptName,int p2,Any* p3,int p4,BOOL p5);
 ```
 
 Returns threadId

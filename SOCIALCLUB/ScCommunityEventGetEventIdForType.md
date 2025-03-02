@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x03C03ABBABBEF752
-int SC_COMMUNITY_EVENT_GET_EVENT_ID_FOR_TYPE(const char* p0);
+int SC_COMMUNITY_EVENT_GET_EVENT_ID_FOR_TYPE(char* p0);
 ```
 
 

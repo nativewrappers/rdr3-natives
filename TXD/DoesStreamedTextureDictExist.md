@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7332461FC59EB7EC
-Any DOES_STREAMED_TEXTURE_DICT_EXIST(const char* textureDict);
+Any DOES_STREAMED_TEXTURE_DICT_EXIST(char* textureDict);
 ```
 
 

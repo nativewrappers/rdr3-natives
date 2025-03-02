@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1D6650420CEC9D3B
-void SET_AMBIENT_ZONE_STATE_PERSISTENT(const char* ambientZone,BOOL p1,BOOL p2);
+void SET_AMBIENT_ZONE_STATE_PERSISTENT(char* ambientZone,BOOL p1,BOOL p2);
 ```
 
 

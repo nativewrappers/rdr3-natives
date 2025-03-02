@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBB1E41DD3D3C6250
-void _SET_EVENT_TRACKER_FOR_PED(Ped ped,const char* eventName,int p2);
+void _SET_EVENT_TRACKER_FOR_PED(Ped ped,char* eventName,int p2);
 ```
 
 

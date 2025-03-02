@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3C6490D940FF5D0B
-void _CREATE_ROPE_WINDING_ABILITY(int ropeId,const char* p1,const char* ropeModelType,float length,BOOL p4);
+void _CREATE_ROPE_WINDING_ABILITY(int ropeId,char* p1,char* ropeModelType,float length,BOOL p4);
 ```
 
 Combining this with ADD_ROPE enables winding

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB4FD7446BAB2F394
-void ANIMPOSTFX_STOP(const char* effectName);
+void ANIMPOSTFX_STOP(char* effectName);
 ```
 
 

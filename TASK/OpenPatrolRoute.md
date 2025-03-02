@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA36BFB5EE89F3D82
-void OPEN_PATROL_ROUTE(const char* patrolRoute);
+void OPEN_PATROL_ROUTE(char* patrolRoute);
 ```
 
 Note: patrolRoute must be prefixed with 'miss_' for it to be valid

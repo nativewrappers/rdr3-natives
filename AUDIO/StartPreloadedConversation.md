@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x23641AFE870AF385
-void START_PRELOADED_CONVERSATION(const char* convoRoot);
+void START_PRELOADED_CONVERSATION(char* convoRoot);
 ```
 
 

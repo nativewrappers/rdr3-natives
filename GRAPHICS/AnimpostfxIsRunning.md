@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4A123E85D7C4CA0B
-BOOL ANIMPOSTFX_IS_RUNNING(const char* effectName);
+BOOL ANIMPOSTFX_IS_RUNNING(char* effectName);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4FF713B2F17A391E
-void DATABINDING_WRITE_STRING_FROM_PARENT(Any p0,const char* p1,const char* p2);
+void DATABINDING_WRITE_STRING_FROM_PARENT(Any p0,char* p1,char* p2);
 ```
 
 

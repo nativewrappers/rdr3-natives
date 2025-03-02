@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x927B810E43E99932
-Any _IS_CAMERA_AVAILABLE(const char* cameraDictionary);
+Any _IS_CAMERA_AVAILABLE(char* cameraDictionary);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB727A847862CB00A
-Any _LOAD_MGM_ASSETS(const char* mgmFilename);
+Any _LOAD_MGM_ASSETS(char* mgmFilename);
 ```
 
 Used to request MiniGameMoments Assets.

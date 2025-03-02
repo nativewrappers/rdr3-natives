@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2BF96692C67F3E53
-void REMOVE_ANIM_SCENE_ENTITY(AnimScene animScene,const char* entityName,Entity entity);
+void REMOVE_ANIM_SCENE_ENTITY(AnimScene animScene,char* entityName,Entity entity);
 ```
 
 

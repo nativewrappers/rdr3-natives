@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2D4F9C852CE8A253
-Any _ANIMPOSTFX_IS_TAG_PLAYING(const char* effectName);
+Any _ANIMPOSTFX_IS_TAG_PLAYING(char* effectName);
 ```
 
 

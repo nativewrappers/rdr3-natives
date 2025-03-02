@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDF0D54BE7A776737
-BOOL IS_SCRIPTED_CONVERSATION_LOADED(const char* convoRoot);
+BOOL IS_SCRIPTED_CONVERSATION_LOADED(char* convoRoot);
 ```
 
 

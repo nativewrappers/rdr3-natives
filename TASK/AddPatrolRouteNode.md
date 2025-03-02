@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8EDF950167586B7C
-void ADD_PATROL_ROUTE_NODE(int nodeId,const char* scenarioName,float x,float y,float z,float lookPosX,float lookPosY,float lookPosZ,int duration,BOOL p9);
+void ADD_PATROL_ROUTE_NODE(int nodeId,char* scenarioName,float x,float y,float z,float lookPosX,float lookPosY,float lookPosZ,int duration,BOOL p9);
 ```
 
 

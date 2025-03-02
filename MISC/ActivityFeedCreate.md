@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCC7FC854B956A128
-void ACTIVITY_FEED_CREATE(const char* p0,const char* p1);
+void ACTIVITY_FEED_CREATE(char* p0,char* p1);
 ```
 
 nullsub, doesn't do anything

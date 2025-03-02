@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4F0C413926060B38
-void FORCE_USE_AUDIO_GAME_OBJECT(Vehicle vehicle,const char* audioName);
+void FORCE_USE_AUDIO_GAME_OBJECT(Vehicle vehicle,char* audioName);
 ```
 
 Old name: _FORCE_VEHICLE_ENGINE_AUDIO

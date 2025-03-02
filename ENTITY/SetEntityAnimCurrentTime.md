@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x11CDABDC7783B2BC
-void _SET_ENTITY_ANIM_CURRENT_TIME(Entity entity,const char* animDict,const char* animName,float time);
+void _SET_ENTITY_ANIM_CURRENT_TIME(Entity entity,char* animDict,char* animName,float time);
 ```
 
 

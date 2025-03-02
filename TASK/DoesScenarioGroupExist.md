@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF9034C136C9E00D3
-BOOL DOES_SCENARIO_GROUP_EXIST(const char* scenarioGroup);
+BOOL DOES_SCENARIO_GROUP_EXIST(char* scenarioGroup);
 ```
 
 

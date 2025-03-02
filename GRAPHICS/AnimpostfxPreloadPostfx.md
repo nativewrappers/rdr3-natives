@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5199405EABFBD7F0
-void _ANIMPOSTFX_PRELOAD_POSTFX(const char* effectName);
+void _ANIMPOSTFX_PRELOAD_POSTFX(char* effectName);
 ```
 
 

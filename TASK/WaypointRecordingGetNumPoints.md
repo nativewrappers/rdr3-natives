@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5343532C01A07234
-BOOL WAYPOINT_RECORDING_GET_NUM_POINTS(const char* waypointRecording,int* points);
+BOOL WAYPOINT_RECORDING_GET_NUM_POINTS(char* waypointRecording,int* points);
 ```
 
 

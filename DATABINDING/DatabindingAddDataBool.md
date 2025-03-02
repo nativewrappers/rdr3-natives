@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x58BAA5F635DA2FF4
-Any _DATABINDING_ADD_DATA_BOOL(Any p0,const char* p1,BOOL p2);
+Any _DATABINDING_ADD_DATA_BOOL(Any p0,char* p1,BOOL p2);
 ```
 
 

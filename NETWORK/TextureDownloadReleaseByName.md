@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7A17B7981560FFA5
-void _TEXTURE_DOWNLOAD_RELEASE_BY_NAME(const char* name);
+void _TEXTURE_DOWNLOAD_RELEASE_BY_NAME(char* name);
 ```
 
 

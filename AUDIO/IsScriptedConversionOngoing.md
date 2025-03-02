@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF01C570E0A0A1E67
-Any _IS_SCRIPTED_CONVERSION_ONGOING(const char* p0);
+Any _IS_SCRIPTED_CONVERSION_ONGOING(char* p0);
 ```
 
 

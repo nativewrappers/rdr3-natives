@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDDF803377F94AAA8
-void SET_PED_GESTURE_GROUP(Ped ped,const char* gesture,int p2);
+void SET_PED_GESTURE_GROUP(Ped ped,char* gesture,int p2);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2D537BA194896636
-void TASK_MOVE_NETWORK_BY_NAME(Ped ped,const char* task,float multiplier,BOOL p3,const char* animDict,int flags);
+void TASK_MOVE_NETWORK_BY_NAME(Ped ped,char* task,float multiplier,BOOL p3,char* animDict,int flags);
 ```
 
 

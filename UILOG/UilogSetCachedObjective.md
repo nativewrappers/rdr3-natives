@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFA233F8FE190514C
-void _UILOG_SET_CACHED_OBJECTIVE(const char* p0);
+void _UILOG_SET_CACHED_OBJECTIVE(char* p0);
 ```
 
 

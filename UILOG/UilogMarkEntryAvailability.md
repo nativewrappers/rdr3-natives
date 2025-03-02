@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x13E8D7DD08543482
-void _UILOG_MARK_ENTRY_AVAILABILITY(int p0,Hash p1,int p2,const char* p3);
+void _UILOG_MARK_ENTRY_AVAILABILITY(int p0,Hash p1,int p2,char* p3);
 ```
 
 

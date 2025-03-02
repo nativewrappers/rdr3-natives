@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC474CF16EDA45DC9
-void REQUEST_VEHICLE_RECORDING(int recording,const char* script);
+void REQUEST_VEHICLE_RECORDING(int recording,char* script);
 ```
 
 Request the vehicle recording defined by the lowercase format string "%s%03d.yvr". For example, REQUEST_VEHICLE_RECORDING(1, "FBIs1UBER") corresponds to fbis1uber001.yvr.

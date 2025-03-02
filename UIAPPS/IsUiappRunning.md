@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDE4A9B35D028979F
-BOOL IS_UIAPP_RUNNING(const char* appName);
+BOOL IS_UIAPP_RUNNING(char* appName);
 ```
 
 

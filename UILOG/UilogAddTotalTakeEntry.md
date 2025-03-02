@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x60C59968E8E87E6B
-void _UILOG_ADD_TOTAL_TAKE_ENTRY(Hash p0,Hash p1,const char* p2,const char* p3,Hash p4);
+void _UILOG_ADD_TOTAL_TAKE_ENTRY(Hash p0,Hash p1,char* p2,char* p3,Hash p4);
 ```
 
 

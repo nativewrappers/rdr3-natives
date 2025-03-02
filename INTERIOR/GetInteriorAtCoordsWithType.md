@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAAD6170AA33B13C0
-Interior GET_INTERIOR_AT_COORDS_WITH_TYPE(float x,float y,float z,const char* interiorType);
+Interior GET_INTERIOR_AT_COORDS_WITH_TYPE(float x,float y,float z,char* interiorType);
 ```
 
 

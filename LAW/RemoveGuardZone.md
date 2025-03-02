@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x67EBDD958835956C
-void _REMOVE_GUARD_ZONE(const char* name);
+void _REMOVE_GUARD_ZONE(char* name);
 ```
 
 

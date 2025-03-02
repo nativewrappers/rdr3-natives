@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC6DE040378364798
-void _GOOGLE_ANALYTICS_POP_PAGE(const char* pageName);
+void _GOOGLE_ANALYTICS_POP_PAGE(char* pageName);
 ```
 
 

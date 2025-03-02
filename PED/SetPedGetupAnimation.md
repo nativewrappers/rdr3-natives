@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3AE3552E7C207CC5
-void _SET_PED_GETUP_ANIMATION(Ped ped,const char* animName,BOOL p2);
+void _SET_PED_GETUP_ANIMATION(Ped ped,char* animName,BOOL p2);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3A379D2166CF5B92
-void SET_ANIM_SCENE_INT(AnimScene animScene,const char* name,int value,BOOL p3);
+void SET_ANIM_SCENE_INT(AnimScene animScene,char* name,int value,BOOL p3);
 ```
 
 

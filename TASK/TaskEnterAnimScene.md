@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC2329B0206426644
-void TASK_ENTER_ANIM_SCENE(Ped ped,AnimScene animScene,const char* entityName,const char* playbackListName,float enterSpeed,BOOL bAutoStart,int flag,int p7,float p8);
+void TASK_ENTER_ANIM_SCENE(Ped ped,AnimScene animScene,char* entityName,char* playbackListName,float enterSpeed,BOOL bAutoStart,int flag,int p7,float p8);
 ```
 
 flags:

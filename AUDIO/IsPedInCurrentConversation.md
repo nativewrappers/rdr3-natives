@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x049E937F18F4020C
-BOOL IS_PED_IN_CURRENT_CONVERSATION(const char* p0,Ped ped,Any p2);
+BOOL IS_PED_IN_CURRENT_CONVERSATION(char* p0,Ped ped,Any p2);
 ```
 
 

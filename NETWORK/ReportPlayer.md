@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA197C35F73AC0F12
-void _REPORT_PLAYER(Player player,int reportType,const char* description,const char* horseName);
+void _REPORT_PLAYER(Player player,int reportType,char* description,char* horseName);
 ```
 
 

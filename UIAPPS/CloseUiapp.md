@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x818C6CA9B659E8EC
-void _CLOSE_UIAPP(const char* appName);
+void _CLOSE_UIAPP(char* appName);
 ```
 
 

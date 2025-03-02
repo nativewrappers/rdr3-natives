@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD5BB4025AE449A4E
-void SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT(Ped ped,const char* signalName,float value);
+void SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT(Ped ped,char* signalName,float value);
 ```
 
 

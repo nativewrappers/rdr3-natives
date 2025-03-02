@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6B17C62C9635D2DC
-void START_SCRIPT_CONVERSATION(const char* convoRoot,BOOL p1,BOOL p2,BOOL clone);
+void START_SCRIPT_CONVERSATION(char* convoRoot,BOOL p1,BOOL p2,BOOL clone);
 ```
 
 

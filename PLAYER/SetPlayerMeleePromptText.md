@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0FAF95D71ED67ADE
-void _SET_PLAYER_MELEE_PROMPT_TEXT(Player player,const char* label);
+void _SET_PLAYER_MELEE_PROMPT_TEXT(Player player,char* label);
 ```
 
 Sets the melee combat prompt for a specific player using a predefined text entry. use game string or 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5F8E0303C229C84B
-void _SET_LOCKON_FOCUS_FIRE_VFX(Player player,const char* p1);
+void _SET_LOCKON_FOCUS_FIRE_VFX(Player player,char* p1);
 ```
 
 Focus Fire VFX start for player: p1 = focusfire

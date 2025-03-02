@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA10DB07FC234DD12
-void USE_PARTICLE_FX_ASSET(const char* fxName);
+void USE_PARTICLE_FX_ASSET(char* fxName);
 ```
 
 fxName: see data_0/data/effects/ptfx/fxlists/

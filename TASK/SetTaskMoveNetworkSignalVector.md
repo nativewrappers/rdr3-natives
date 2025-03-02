@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4662BFE01938D98D
-void _SET_TASK_MOVE_NETWORK_SIGNAL_VECTOR(Ped ped,const char* signalName,float x,float y,float z);
+void _SET_TASK_MOVE_NETWORK_SIGNAL_VECTOR(Ped ped,char* signalName,float x,float y,float z);
 ```
 
 

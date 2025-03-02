@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4102732DF6B4005F
-void ANIMPOSTFX_PLAY(const char* effectName);
+void ANIMPOSTFX_PLAY(char* effectName);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/graphics/animpostfx

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x537F44CB0D7F150D
-BOOL DOES_ANIM_DICT_EXIST(const char* animDict);
+BOOL DOES_ANIM_DICT_EXIST(char* animDict);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA5B769058763E497
-float GET_WAYPOINT_DISTANCE_ALONG_ROUTE(const char* waypointRecording,int p1);
+float GET_WAYPOINT_DISTANCE_ALONG_ROUTE(char* waypointRecording,int p1);
 ```
 
 

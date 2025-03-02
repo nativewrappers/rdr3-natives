@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD79DEEFB53455EBA
-int STOP_SCRIPTED_CONVERSATION(const char* p0,BOOL p1,BOOL p2);
+int STOP_SCRIPTED_CONVERSATION(char* p0,BOOL p1,BOOL p2);
 ```
 
 

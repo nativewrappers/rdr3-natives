@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBC016635D6A73B31
-void _CINEMATIC_LOCATION_TRIGGER_SCRIPTED_SHOT_EVENT_2(const char* dictionary,const char* shotName,int duration);
+void _CINEMATIC_LOCATION_TRIGGER_SCRIPTED_SHOT_EVENT_2(char* dictionary,char* shotName,int duration);
 ```
 
 

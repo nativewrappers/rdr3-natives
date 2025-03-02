@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6378A235374B852F
-void _BLOCK_SPEECH_CONTEXT(const char* context,BOOL block);
+void _BLOCK_SPEECH_CONTEXT(char* context,BOOL block);
 ```
 
 

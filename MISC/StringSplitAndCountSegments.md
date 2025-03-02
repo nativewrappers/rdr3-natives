@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x94E8CA3DEE952789
-Any _STRING_SPLIT_AND_COUNT_SEGMENTS(const char* inputString,const char* delimiters);
+Any _STRING_SPLIT_AND_COUNT_SEGMENTS(char* inputString,char* delimiters);
 ```
 
 Not officially named 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCF11C0CEB40C401B
-void _INT_TO_STRING(int value,const char* format,char* buffer);
+void _INT_TO_STRING(int value,char* format,char* buffer);
 ```
 
 Note: the buffer should be exactly 32 bytes long

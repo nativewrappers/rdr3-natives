@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3A9A281FF71249E9
-void _ANIMPOSTFX_PLAY_TIMED(const char* effectName,int duration);
+void _ANIMPOSTFX_PLAY_TIMED(char* effectName,int duration);
 ```
 
 

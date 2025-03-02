@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0C827D175F1292F2
-Any _DATABINDING_GET_DATA_CONTAINER_FROM_PATH(const char* p0);
+Any _DATABINDING_GET_DATA_CONTAINER_FROM_PATH(char* p0);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x98EFA132A4117BE1
-void SET_PED_NAME_DEBUG(Ped ped,const char* name);
+void SET_PED_NAME_DEBUG(Ped ped,char* name);
 ```
 
 nullsub, doesn't do anything

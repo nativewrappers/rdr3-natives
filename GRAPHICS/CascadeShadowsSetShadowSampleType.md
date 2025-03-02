@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCE4774E0F9AD48D1
-void CASCADE_SHADOWS_SET_SHADOW_SAMPLE_TYPE(const char* type);
+void CASCADE_SHADOWS_SET_SHADOW_SAMPLE_TYPE(char* type);
 ```
 
 Possible values:

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE81651AD79516E48
-int START_NEW_SCRIPT(const char* scriptName,int stackSize);
+int START_NEW_SCRIPT(char* scriptName,int stackSize);
 ```
 
 

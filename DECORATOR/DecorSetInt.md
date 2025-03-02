@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE88F4D7F52A6090F
-BOOL DECOR_SET_INT(Entity entity,const char* propertyName,int value);
+BOOL DECOR_SET_INT(Entity entity,char* propertyName,int value);
 ```
 
 Sets property to int.

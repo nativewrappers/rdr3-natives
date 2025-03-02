@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBE22B26DD764C040
-Vector3 GET_ANIM_INITIAL_OFFSET_POSITION(const char* animDict,const char* animName,float x,float y,float z,float xRot,float yRot,float zRot,float p8,int p9);
+Vector3 GET_ANIM_INITIAL_OFFSET_POSITION(char* animDict,char* animName,float x,float y,float z,float xRot,float yRot,float zRot,float p8,int p9);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x782C94DB6469634D
-void _CLEAR_LAUNCH_PARAM(const char* paramName);
+void _CLEAR_LAUNCH_PARAM(char* paramName);
 ```
 
 

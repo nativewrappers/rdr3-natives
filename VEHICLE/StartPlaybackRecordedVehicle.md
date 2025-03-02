@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4932B84E3276508E
-void START_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle,int recording,const char* script,BOOL p3);
+void START_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle,int recording,char* script,BOOL p3);
 ```
 
 p3 is some flag related to 'trailers' (invokes CVehicle::GetTrailer).

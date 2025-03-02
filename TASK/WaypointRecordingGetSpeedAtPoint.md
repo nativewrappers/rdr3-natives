@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x005622AEBC33ACA9
-float WAYPOINT_RECORDING_GET_SPEED_AT_POINT(const char* waypointRecording,int point);
+float WAYPOINT_RECORDING_GET_SPEED_AT_POINT(char* waypointRecording,int point);
 ```
 
 

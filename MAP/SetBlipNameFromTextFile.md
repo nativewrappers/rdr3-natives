@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0A062D6D7C0B2C2C
-void SET_BLIP_NAME_FROM_TEXT_FILE(Blip blip,const char* textLabel);
+void SET_BLIP_NAME_FROM_TEXT_FILE(Blip blip,char* textLabel);
 ```
 
 

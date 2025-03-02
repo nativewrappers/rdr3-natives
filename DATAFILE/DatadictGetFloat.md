@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x814643ECA258ADF5
-float DATADICT_GET_FLOAT(Any* objectData,const char* key);
+float DATADICT_GET_FLOAT(Any* objectData,char* key);
 ```
 
 

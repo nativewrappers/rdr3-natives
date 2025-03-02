@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x00000000467F4CAA
-Any SC_PRESENCE_ATTR_SET_FLOAT_EX(const char* attrName,float value,BOOL p2);
+Any SC_PRESENCE_ATTR_SET_FLOAT_EX(char* attrName,float value,BOOL p2);
 ```
 
 

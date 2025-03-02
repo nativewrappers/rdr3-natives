@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x480357EE890C295A
-int GET_CURRENT_SCRIPTED_CONVERSATION_LINE(const char* p0);
+int GET_CURRENT_SCRIPTED_CONVERSATION_LINE(char* p0);
 ```
 
 

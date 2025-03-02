@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x604190F0CF0DF158
-void _SET_PED_GRAPPLE_SEQUENCE(Ped ped,const char* grappleSequence);
+void _SET_PED_GRAPPLE_SEQUENCE(Ped ped,char* grappleSequence);
 ```
 
 

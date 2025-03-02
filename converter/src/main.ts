@@ -103,7 +103,13 @@ setImmediate(async () => {
 				// special case
 				if (converted_aliases === "") converted_aliases = undefined;
 			}
-			const converted_params = native_data.params.map((v) => `${v.type} ${v.name}`).join(",");
+			const converted_params = native_data.params.map((v) => { 
+				let return_type = v.type;
+				if (return_type.includes('const char')) {
+					return_type = `char*`;
+				}
+				return `${return_type} ${v.name}`
+			}).join(",");
 			const converted_param_markdown = native_data.params.map((v) => `* **${v.name}**:`).join("\n");
 			const examples_converted = native_data.examples.map((v) => `${v}\n`).join("\n");
 			const native_gen = `---

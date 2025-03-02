@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1FCA98E33C1437B3
-AnimScene _CREATE_ANIM_SCENE(const char* animDict,int flags,const char* playbackListName,BOOL p3,BOOL p4);
+AnimScene _CREATE_ANIM_SCENE(char* animDict,int flags,char* playbackListName,BOOL p3,BOOL p4);
 ```
 
 flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eAnimSceneFlag

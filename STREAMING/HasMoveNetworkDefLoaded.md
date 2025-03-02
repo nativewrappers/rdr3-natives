@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2C04D89A0FB4E244
-Any HAS_MOVE_NETWORK_DEF_LOADED(const char* name);
+Any HAS_MOVE_NETWORK_DEF_LOADED(char* name);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCC24CB07F60B496E
-float GET_ANIM_SCENE_FLOAT(AnimScene animScene,const char* name);
+float GET_ANIM_SCENE_FLOAT(AnimScene animScene,char* name);
 ```
 
 

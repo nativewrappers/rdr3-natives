@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x817FA1B1EE7CD6F0
-void REMOVE_CLIP_SET(const char* clipSet);
+void REMOVE_CLIP_SET(char* clipSet);
 ```
 
 Alias for REMOVE_ANIM_SET.

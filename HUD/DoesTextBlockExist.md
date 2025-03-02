@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2C729F2B94CEA911
-Any _DOES_TEXT_BLOCK_EXIST(const char* textDatabase);
+Any _DOES_TEXT_BLOCK_EXIST(char* textDatabase);
 ```
 
 

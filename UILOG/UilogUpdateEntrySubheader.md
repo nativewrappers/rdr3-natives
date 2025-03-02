@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x80D6524190258C3E
-void _UILOG_UPDATE_ENTRY_SUBHEADER(int p0,Hash p1,const char* p2);
+void _UILOG_UPDATE_ENTRY_SUBHEADER(int p0,Hash p1,char* p2);
 ```
 
 

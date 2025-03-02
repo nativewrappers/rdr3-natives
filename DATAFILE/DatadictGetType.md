@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x92E11E3CA4C7CDF0
-int DATADICT_GET_TYPE(Any* objectData,const char* key);
+int DATADICT_GET_TYPE(Any* objectData,char* key);
 ```
 
 Types:

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1F0E401031E20146
-Any _IS_ANIM_SCENE_PLAYBACK_LIST_PHASE_ACTIVE(AnimScene animScene,const char* phaseName);
+Any _IS_ANIM_SCENE_PLAYBACK_LIST_PHASE_ACTIVE(AnimScene animScene,char* phaseName);
 ```
 
 

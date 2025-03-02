@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5B6193813E03E4E9
-char* _FORMAT_PLAYER_NAME_STRING(const char* string);
+char* _FORMAT_PLAYER_NAME_STRING(char* string);
 ```
 
 

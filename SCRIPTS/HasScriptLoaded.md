@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE97BD36574F8B0A6
-BOOL HAS_SCRIPT_LOADED(const char* scriptName);
+BOOL HAS_SCRIPT_LOADED(char* scriptName);
 ```
 
 Returns if a script has been loaded into the game. Used to see if a script was loaded after requesting.

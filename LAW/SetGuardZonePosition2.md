@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2F9005E2EA4E5EE4
-void _SET_GUARD_ZONE_POSITION_2(const char* name,float x,float y,float z);
+void _SET_GUARD_ZONE_POSITION_2(char* name,float x,float y,float z);
 ```
 
 

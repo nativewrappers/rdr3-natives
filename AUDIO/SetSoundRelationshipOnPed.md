@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2E31ACA7477CF00F
-void _SET_SOUND_RELATIONSHIP_ON_PED(Ped ped,const char* p1,const char* p2);
+void _SET_SOUND_RELATIONSHIP_ON_PED(Ped ped,char* p1,char* p2);
 ```
 
 p1: Entity.Relationship

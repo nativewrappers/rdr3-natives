@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3CF96E16265B7DC8
-Any _TEXT_BLOCK_IS_STREAMED(const char* textBlock);
+Any _TEXT_BLOCK_IS_STREAMED(char* textBlock);
 ```
 
 

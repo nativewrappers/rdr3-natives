@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBDED916A9F9B0604
-Any _REQUEST_PED_FOR_SCENARIO_TYPE(Ped ped,Object object,const char* p2,Hash scenarioType,const char* p4,BOOL p5);
+Any _REQUEST_PED_FOR_SCENARIO_TYPE(Ped ped,Object object,char* p2,Hash scenarioType,char* p4,BOOL p5);
 ```
 
 
