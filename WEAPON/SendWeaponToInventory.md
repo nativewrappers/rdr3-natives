@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE9BD19F8121ADE3E
-void _SEND_WEAPON_TO_INVENTORY(Ped ped,Hash weaponHash);
+void _SEND_WEAPON_TO_INVENTORY(Ped ped, Hash weaponHash);
 ```
 
 Appears to just send specified weapon to your horse holster without having to be close

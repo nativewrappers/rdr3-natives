@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x48DE78AF2C8885B8
-BOOL NETWORK_CLAN_GET_MEMBERSHIP_DESC(Any* memberDesc,int p1);
+BOOL NETWORK_CLAN_GET_MEMBERSHIP_DESC(Any* memberDesc, int p1);
 ```
 
 

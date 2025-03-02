@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCACAB2B123BBDBD6
-Any _0xCACAB2B123BBDBD6(Any p0,Any p1,Any p2);
+Any _0xCACAB2B123BBDBD6(Any p0, Any p1, Any p2);
 ```
 
 

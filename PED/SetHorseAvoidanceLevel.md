@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDDCF6FEA5D7ACC17
-void SET_HORSE_AVOIDANCE_LEVEL(Ped horse,int avoidanceLevel);
+void SET_HORSE_AVOIDANCE_LEVEL(Ped horse, int avoidanceLevel);
 ```
 
 -1 - HORSE_ASSIST__NO_CHANGE

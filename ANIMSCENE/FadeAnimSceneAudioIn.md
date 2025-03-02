@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA41351EA2A18A0AD
-void FADE_ANIM_SCENE_AUDIO_IN(AnimScene animScene,float p1);
+void FADE_ANIM_SCENE_AUDIO_IN(AnimScene animScene, float p1);
 ```
 
 

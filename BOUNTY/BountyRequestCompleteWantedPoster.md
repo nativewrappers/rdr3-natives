@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x727AB6F008BB9F29
-Any _BOUNTY_REQUEST_COMPLETE_WANTED_POSTER(Any* outRpcGuid,Any* p1);
+Any _BOUNTY_REQUEST_COMPLETE_WANTED_POSTER(Any* outRpcGuid, Any* p1);
 ```
 
 

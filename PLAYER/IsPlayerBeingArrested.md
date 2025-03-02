@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC8183AE963C58374
-BOOL IS_PLAYER_BEING_ARRESTED(Player player,BOOL atArresting);
+BOOL IS_PLAYER_BEING_ARRESTED(Player player, BOOL atArresting);
 ```
 
 Return true while player is being arrested / busted.

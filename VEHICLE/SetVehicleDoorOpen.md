@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x550CE392A4672412
-void SET_VEHICLE_DOOR_OPEN(Vehicle vehicle,int doorId,BOOL loose,BOOL openInstantly);
+void SET_VEHICLE_DOOR_OPEN(Vehicle vehicle, int doorId, BOOL loose, BOOL openInstantly);
 ```
 
 doorId: see SET_VEHICLE_DOOR_SHUT

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8D1249BD28791878
-int _UI_FEED_POST_GAME_UPDATE_SHARD(Any* p0,Any* p1,BOOL p2);
+int _UI_FEED_POST_GAME_UPDATE_SHARD(Any* p0, Any* p1, BOOL p2);
 ```
 
 

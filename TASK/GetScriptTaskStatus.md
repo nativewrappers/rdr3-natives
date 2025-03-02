@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x77F1BEB8863288D5
-int GET_SCRIPT_TASK_STATUS(Ped ped,Hash taskHash,BOOL p2);
+int GET_SCRIPT_TASK_STATUS(Ped ped, Hash taskHash, BOOL p2);
 ```
 
 Gets the status of a script-assigned task, and returns an int between 0-8

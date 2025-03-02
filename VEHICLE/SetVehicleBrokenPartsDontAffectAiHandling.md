@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCEC4CA2CAB8FA98C
-void SET_VEHICLE_BROKEN_PARTS_DONT_AFFECT_AI_HANDLING(Vehicle vehicle,BOOL p1);
+void SET_VEHICLE_BROKEN_PARTS_DONT_AFFECT_AI_HANDLING(Vehicle vehicle, BOOL p1);
 ```
 
 

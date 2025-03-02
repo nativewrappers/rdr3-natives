@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x96AA1304D30E6BC3
-void RESET_ANIMAL_TUNING_BOOL_PARAM(Ped animal,int index);
+void RESET_ANIMAL_TUNING_BOOL_PARAM(Ped animal, int index);
 ```
 
 

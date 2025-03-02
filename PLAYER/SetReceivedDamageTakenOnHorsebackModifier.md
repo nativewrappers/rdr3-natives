@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB427911EA6DFFEF3
-void _SET_RECEIVED_DAMAGE_TAKEN_ON_HORSEBACK_MODIFIER(Player player,float damageDecrease);
+void _SET_RECEIVED_DAMAGE_TAKEN_ON_HORSEBACK_MODIFIER(Player player, float damageDecrease);
 ```
 
 Decreases the damage the player receives while on horseback

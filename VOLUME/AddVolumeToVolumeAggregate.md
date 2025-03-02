@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x12FCAA23F2320422
-void _ADD_VOLUME_TO_VOLUME_AGGREGATE(Volume aggregate,Hash typeHash,float x,float y,float z,float rotX,float rotY,float rotZ,float scaleX,float scaleY,float scaleZ);
+void _ADD_VOLUME_TO_VOLUME_AGGREGATE(Volume aggregate, Hash typeHash, float x, float y, float z, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3332695B01015DF9
-int _ITEMDATABASE_GET_BUNDLE_ITEM_COUNT(int bundleId,Any* data);
+int _ITEMDATABASE_GET_BUNDLE_ITEM_COUNT(int bundleId, Any* data);
 ```
 
 

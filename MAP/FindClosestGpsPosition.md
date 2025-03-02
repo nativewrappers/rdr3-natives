@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3FDA2B79AEEE351C
-Any _FIND_CLOSEST_GPS_POSITION(float x,float y,float z,Vector3* outPosition);
+Any _FIND_CLOSEST_GPS_POSITION(float x, float y, float z, Vector3* outPosition);
 ```
 
 

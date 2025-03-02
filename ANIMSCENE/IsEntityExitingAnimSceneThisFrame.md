@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x005E6F28DD7ED58D
-Any IS_ENTITY_EXITING_ANIM_SCENE_THIS_FRAME(AnimScene animScene,char* entityName);
+Any IS_ENTITY_EXITING_ANIM_SCENE_THIS_FRAME(AnimScene animScene, char* entityName);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0C827D175F1292F3
-Any _DATABINDING_GET_DATA_CONTAINER_FROM_CHILD_INDEX(Hash entryId,int p1);
+Any _DATABINDING_GET_DATA_CONTAINER_FROM_CHILD_INDEX(Hash entryId, int p1);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x33B81A2C07A51FFF
-void DEACTIVATE_INTERIOR_ENTITY_SET(Interior interior,char* entitySetName,BOOL p2);
+void DEACTIVATE_INTERIOR_ENTITY_SET(Interior interior, char* entitySetName, BOOL p2);
 ```
 
 

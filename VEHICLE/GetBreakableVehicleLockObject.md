@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x58F2244C1286D09A
-Object _GET_BREAKABLE_VEHICLE_LOCK_OBJECT(Vehicle vehicle,int index);
+Object _GET_BREAKABLE_VEHICLE_LOCK_OBJECT(Vehicle vehicle, int index);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFA2ECC78A6014D4F
-void _ADD_BLOOD_POOL(float x,float y,float z,BOOL unused);
+void _ADD_BLOOD_POOL(float x, float y, float z, BOOL unused);
 ```
 
 https://i.imgur.com/ULQU9US.jpg

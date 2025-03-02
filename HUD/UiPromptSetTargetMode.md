@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5F6503D9CD2754EB
-void _UI_PROMPT_SET_TARGET_MODE(Prompt prompt,float p1,float p2,Any p3);
+void _UI_PROMPT_SET_TARGET_MODE(Prompt prompt, float p1, float p2, Any p3);
 ```
 
 

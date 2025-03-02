@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF7424890E4A094C0
-Entity _GET_ENTITY_BY_DOORHASH(Hash doorHash,int p1);
+Entity _GET_ENTITY_BY_DOORHASH(Hash doorHash, int p1);
 ```
 
 Params: p1 = 0 in R* Scripts (GET_DOOR_ENTITY_FROM_ID)

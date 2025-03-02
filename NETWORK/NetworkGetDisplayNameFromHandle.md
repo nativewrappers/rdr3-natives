@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7FEE4F07C54B6B3C
-Any _NETWORK_GET_DISPLAY_NAME_FROM_HANDLE(Any* gamerHandle,char* displayName);
+Any _NETWORK_GET_DISPLAY_NAME_FROM_HANDLE(Any* gamerHandle, char* displayName);
 ```
 
 Example:

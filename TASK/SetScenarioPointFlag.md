@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5AF19B6CC2115D34
-void _SET_SCENARIO_POINT_FLAG(int scenario,int flag,BOOL value);
+void _SET_SCENARIO_POINT_FLAG(int scenario, int flag, BOOL value);
 ```
 
 flag: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CScenarioPointFlags__Flags

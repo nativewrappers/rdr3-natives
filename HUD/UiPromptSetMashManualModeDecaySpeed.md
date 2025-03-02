@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7D393C247FB9B431
-void _UI_PROMPT_SET_MASH_MANUAL_MODE_DECAY_SPEED(Prompt prompt,float speed);
+void _UI_PROMPT_SET_MASH_MANUAL_MODE_DECAY_SPEED(Prompt prompt, float speed);
 ```
 
 standard (prompt not held) rate: 0.035f

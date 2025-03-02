@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x761B0E69AC4D007E
-BOOL HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_BROKEN(float p0,float p1,float p2,float p3,Hash modelHash,Any p5);
+BOOL HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_BROKEN(float p0, float p1, float p2, float p3, Hash modelHash, Any p5);
 ```
 
 

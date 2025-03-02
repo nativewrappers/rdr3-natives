@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF29CF591C4BF6CEE
-void SET_PED_SEEING_RANGE(Ped ped,float value);
+void SET_PED_SEEING_RANGE(Ped ped, float value);
 ```
 
 

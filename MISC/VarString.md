@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFA925AC00EB830B9
-long VAR_STRING(int flags, ...);
+long VAR_STRING(int flags,  ...);
 ```
 
 Note: The first bit in 'flags' must not be set.

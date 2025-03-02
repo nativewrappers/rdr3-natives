@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFCA8FB9E15FA80D3
-void _SET_PED_PROMPT_NAME_FROM_GXT_ENTRY(Ped ped,Hash gxtEntryHash);
+void _SET_PED_PROMPT_NAME_FROM_GXT_ENTRY(Ped ped, Hash gxtEntryHash);
 ```
 
 

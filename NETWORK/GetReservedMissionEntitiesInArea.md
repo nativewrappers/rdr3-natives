@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5E71E72A94985214
-void GET_RESERVED_MISSION_ENTITIES_IN_AREA(float x,float y,float z,BOOL p3,int* peds,int* vehicles,int* objects,int* pickups);
+void GET_RESERVED_MISSION_ENTITIES_IN_AREA(float x, float y, float z, BOOL p3, int* peds, int* vehicles, int* objects, int* pickups);
 ```
 
 Used in Script Function NET_ACE_CLIENT_VERIFY_ENTITY_RESERVATIONS

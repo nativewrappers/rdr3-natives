@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA917E39F2CEFD215
-void _TASK_START_SCENARIO_IN_PLACE_2(Ped ped,Any p1,char* p2,int p3,BOOL p4,float p5,BOOL p6);
+void _TASK_START_SCENARIO_IN_PLACE_2(Ped ped, Any p1, char* p2, int p3, BOOL p4, float p5, BOOL p6);
 ```
 
 Takes scenario point handle instead of hash

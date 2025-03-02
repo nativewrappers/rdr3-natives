@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x627F7F3A0C4C51FF
-void _CLEAR_PELT_FROM_HORSE(Ped horse,int peltId);
+void _CLEAR_PELT_FROM_HORSE(Ped horse, int peltId);
 ```
 
 

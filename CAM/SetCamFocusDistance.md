@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x11F32BB61B756732
-void _SET_CAM_FOCUS_DISTANCE(Cam cam,float distance);
+void _SET_CAM_FOCUS_DISTANCE(Cam cam, float distance);
 ```
 
 

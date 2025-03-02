@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6111B8F9413F413A
-Hash _ITEMDATABASE_GET_ITEM_TAG_TYPE(Hash item,Hash tag);
+Hash _ITEMDATABASE_GET_ITEM_TAG_TYPE(Hash item, Hash tag);
 ```
 
 

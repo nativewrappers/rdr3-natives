@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBA62B4D80FA66BD6
-void SCRIPT_RACE_PLAYER_HIT_CHECKPOINT(int part,int checkpoint,int lap,int time);
+void SCRIPT_RACE_PLAYER_HIT_CHECKPOINT(int part, int checkpoint, int lap, int time);
 ```
 
 

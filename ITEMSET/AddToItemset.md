@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xABE74510883C7950
-BOOL ADD_TO_ITEMSET(Entity entity,ItemSet itemset);
+BOOL ADD_TO_ITEMSET(Entity entity, ItemSet itemset);
 ```
 
 

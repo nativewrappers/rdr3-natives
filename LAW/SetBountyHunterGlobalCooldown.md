@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF19706B1F8FFA88F
-void _SET_BOUNTY_HUNTER_GLOBAL_COOLDOWN(Hash p0,int p1);
+void _SET_BOUNTY_HUNTER_GLOBAL_COOLDOWN(Hash p0, int p1);
 ```
 
 p0 is always BOUNTYHUNTERSGLOBALCOOLDOWN in R* scripts

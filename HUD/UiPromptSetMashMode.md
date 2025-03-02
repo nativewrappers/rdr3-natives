@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDF6423BF071C7F71
-void _UI_PROMPT_SET_MASH_MODE(Prompt prompt,int mashes);
+void _UI_PROMPT_SET_MASH_MODE(Prompt prompt, int mashes);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4EF23E04A0C8FF51
-Any BOUNTY_GET_BOUNTY_ON_PLAYER(Any* gamerHandle,Any* bountyData);
+Any BOUNTY_GET_BOUNTY_ON_PLAYER(Any* gamerHandle, Any* bountyData);
 ```
 
 

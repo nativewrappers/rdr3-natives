@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEB6F1A9B5510A5D2
-void SET_OBJECT_TAKES_DAMAGE_FROM_COLLIDING_WITH_BUILDINGS(Object object,BOOL enabled);
+void SET_OBJECT_TAKES_DAMAGE_FROM_COLLIDING_WITH_BUILDINGS(Object object, BOOL enabled);
 ```
 
 

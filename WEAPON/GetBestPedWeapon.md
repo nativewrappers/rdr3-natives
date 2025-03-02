@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8483E98E8B888AE2
-Hash GET_BEST_PED_WEAPON(Ped ped,BOOL p1,BOOL p2);
+Hash GET_BEST_PED_WEAPON(Ped ped, BOOL p1, BOOL p2);
 ```
 
 

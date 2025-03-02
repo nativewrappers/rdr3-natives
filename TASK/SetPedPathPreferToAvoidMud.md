@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8BB283A7888AD1AD
-void _SET_PED_PATH_PREFER_TO_AVOID_MUD(Ped ped,BOOL preferAvoidMud,float p2);
+void _SET_PED_PATH_PREFER_TO_AVOID_MUD(Ped ped, BOOL preferAvoidMud, float p2);
 ```
 
 

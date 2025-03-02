@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7632755962AB9922
-void SET_MISSION_TRAIN_COORDS(Vehicle train,float x,float y,float z);
+void SET_MISSION_TRAIN_COORDS(Vehicle train, float x, float y, float z);
 ```
 
 

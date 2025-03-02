@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x767FBC2AC802EF3E
-BOOL STAT_ID_GET_INT(Any* statId,int* p1);
+BOOL STAT_ID_GET_INT(Any* statId, int* p1);
 ```
 
 statId: see STAT_ID_IS_VALID

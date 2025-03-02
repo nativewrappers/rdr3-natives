@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCAB4DD2D5B2B7246
-void _ANIMPOSTFX_SET_STRENGTH(char* effectName,float strength);
+void _ANIMPOSTFX_SET_STRENGTH(char* effectName, float strength);
 ```
 
 must be called after ANIMPOSTFX_PLAY, strength 0.0f - 1.0f

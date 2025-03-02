@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x12F6C6ED3EFF42DE
-void _0x12F6C6ED3EFF42DE(Vehicle vehicle,float x,float y,float z);
+void _0x12F6C6ED3EFF42DE(Vehicle vehicle, float x, float y, float z);
 ```
 
 Params: coords = GET_ENTITY_VELOCITY

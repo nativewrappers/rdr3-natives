@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCCE219C922737BFA
-void PLAY_SOUND_FROM_COORD(char* SoundName,float positionX,float positionY,float positionZ,char* SetName,BOOL bOverNetwork,int nNetworkRange,BOOL isExteriorLoc,int p8);
+void PLAY_SOUND_FROM_COORD(char* SoundName, float positionX, float positionY, float positionZ, char* SetName, BOOL bOverNetwork, int nNetworkRange, BOOL isExteriorLoc, int p8);
 ```
 
 Old name: _PLAY_SOUND_FROM_POSITION

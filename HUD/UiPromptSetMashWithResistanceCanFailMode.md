@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDC0CB602DEADBA53
-void _UI_PROMPT_SET_MASH_WITH_RESISTANCE_CAN_FAIL_MODE(Prompt prompt,int mashes,float decreaseSpeed,float startProgress);
+void _UI_PROMPT_SET_MASH_WITH_RESISTANCE_CAN_FAIL_MODE(Prompt prompt, int mashes, float decreaseSpeed, float startProgress);
 ```
 
 For startProgress, 0.0f - 1.0f is a percentage value, so 0.5f = 50% progress. Range: 0.0f - 1.0f

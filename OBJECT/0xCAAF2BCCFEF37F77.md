@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCAAF2BCCFEF37F77
-void _0xCAAF2BCCFEF37F77(Object object,Any p1);
+void _0xCAAF2BCCFEF37F77(Object object, Any p1);
 ```
 
 _SET_OBJECT_*

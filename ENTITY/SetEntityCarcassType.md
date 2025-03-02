@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x399657ED871B3A6C
-void _SET_ENTITY_CARCASS_TYPE(Entity entity,Hash type);
+void _SET_ENTITY_CARCASS_TYPE(Entity entity, Hash type);
 ```
 
 Changes type and quality of skins

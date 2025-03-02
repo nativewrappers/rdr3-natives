@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB8C984C0D47F4F07
-void _SET_CLOUD_LAYER(float x,float y,int p2);
+void _SET_CLOUD_LAYER(float x, float y, int p2);
 ```
 
 

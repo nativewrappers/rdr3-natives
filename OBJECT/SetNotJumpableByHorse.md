@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE1C708BA4885796B
-void _SET_NOT_JUMPABLE_BY_HORSE(Object object,BOOL p1);
+void _SET_NOT_JUMPABLE_BY_HORSE(Object object, BOOL p1);
 ```
 
 Sets object as not jumpable by horse.

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFAA10F1FAFB11AF2
-void SET_PLAYER_VISIBLE_LOCALLY(Player player,BOOL toggle);
+void SET_PLAYER_VISIBLE_LOCALLY(Player player, BOOL toggle);
 ```
 
 

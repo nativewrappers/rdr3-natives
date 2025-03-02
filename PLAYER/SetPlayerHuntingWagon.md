@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6A4404BDFA62CE2C
-void _SET_PLAYER_HUNTING_WAGON(Player player,Vehicle wagon);
+void _SET_PLAYER_HUNTING_WAGON(Player player, Vehicle wagon);
 ```
 
 Only applies to HUNTERCART01

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x227B06324234FB09
-Any SET_PED_AS_TEMP_PLAYER_HORSE(Player player,Ped horse);
+Any SET_PED_AS_TEMP_PLAYER_HORSE(Player player, Ped horse);
 ```
 
 

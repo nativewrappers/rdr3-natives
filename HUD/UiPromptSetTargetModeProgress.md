@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x00123054BEC8A30F
-void _UI_PROMPT_SET_TARGET_MODE_PROGRESS(Prompt prompt,float progress);
+void _UI_PROMPT_SET_TARGET_MODE_PROGRESS(Prompt prompt, float progress);
 ```
 
 

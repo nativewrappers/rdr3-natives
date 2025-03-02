@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x77A1EEC547E7FCF1
-void PLAY_ENTITY_SCRIPTED_ANIM(Entity entity,Any* args);
+void PLAY_ENTITY_SCRIPTED_ANIM(Entity entity, Any* args);
 ```
 
 

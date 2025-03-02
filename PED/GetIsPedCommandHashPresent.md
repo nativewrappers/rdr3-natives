@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x68821369A2CEADD5
-Any _GET_IS_PED_COMMAND_HASH_PRESENT(Ped ped,Hash commandHash);
+Any _GET_IS_PED_COMMAND_HASH_PRESENT(Ped ped, Hash commandHash);
 ```
 
 

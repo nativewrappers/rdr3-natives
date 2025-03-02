@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE296208C273BD7F0
-void _REQUEST_LETTER_BOX_OVERTIME(int p0,int p1,BOOL p2,int p3,BOOL p4,BOOL p5);
+void _REQUEST_LETTER_BOX_OVERTIME(int p0, int p1, BOOL p2, int p3, BOOL p4, BOOL p5);
 ```
 
 

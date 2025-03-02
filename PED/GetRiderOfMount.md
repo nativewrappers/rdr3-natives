@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB676EFDA03DADA52
-Ped _GET_RIDER_OF_MOUNT(Ped mount,BOOL p1);
+Ped _GET_RIDER_OF_MOUNT(Ped mount, BOOL p1);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9A77DFD295E29B09
-void TOGGLE_SCENARIO_PED_COWER_IN_PLACE(Ped ped,BOOL toggle);
+void TOGGLE_SCENARIO_PED_COWER_IN_PLACE(Ped ped, BOOL toggle);
 ```
 
 If toggle is true, when the ped is using a scenario he will stop it and become scared

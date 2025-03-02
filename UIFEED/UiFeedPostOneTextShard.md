@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x860DDFE97CC94DF0
-int _UI_FEED_POST_ONE_TEXT_SHARD(Any* p0,Any* p1,BOOL p2);
+int _UI_FEED_POST_ONE_TEXT_SHARD(Any* p0, Any* p1, BOOL p2);
 ```
 
 

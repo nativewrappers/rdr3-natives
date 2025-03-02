@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x89049DD63C08B5D1
-void PLAY_STREAM_FROM_PED(Ped ped,int streamId);
+void PLAY_STREAM_FROM_PED(Ped ped, int streamId);
 ```
 
 

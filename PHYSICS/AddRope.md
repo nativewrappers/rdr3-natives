@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE832D760399EB220
-int ADD_ROPE(float x,float y,float z,float rotX,float rotY,float rotZ,float length,int ropeType,float maxLength,float minLength,float p10,BOOL p11,BOOL p12,BOOL rigid,float p14,BOOL breakWhenShot,Any* unkPtr,BOOL p17);
+int ADD_ROPE(float x, float y, float z, float rotX, float rotY, float rotZ, float length, int ropeType, float maxLength, float minLength, float p10, BOOL p11, BOOL p12, BOOL rigid, float p14, BOOL breakWhenShot, Any* unkPtr, BOOL p17);
 ```
 
 There are 19 types of rope, from type = 0 to type = 18

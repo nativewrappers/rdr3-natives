@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB285AD0EC870B2DF
-void _SET_PED_ACTIVE_PLAYER_TYPE(Ped ped,Hash playerType);
+void _SET_PED_ACTIVE_PLAYER_TYPE(Ped ped, Hash playerType);
 ```
 
 Params: hash - ARTHUR or JOHN

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC1E8A365BF3B29F2
-void SET_PED_RESET_FLAG(Ped ped,int flagId,BOOL doReset);
+void SET_PED_RESET_FLAG(Ped ped, int flagId, BOOL doReset);
 ```
 
 Needs to be called every frame

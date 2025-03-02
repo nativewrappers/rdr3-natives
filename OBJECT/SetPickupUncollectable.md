@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4A8CB328CD6F1C9B
-void SET_PICKUP_UNCOLLECTABLE(Any p0,Any p1);
+void SET_PICKUP_UNCOLLECTABLE(Any p0, Any p1);
 ```
 
 

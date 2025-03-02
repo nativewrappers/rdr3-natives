@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x37FB1C870E2EC2C6
-void TASK_RIDE_TRAIN(Ped ped,Vehicle train,int scenarioPoint,Hash scenarioHash);
+void TASK_RIDE_TRAIN(Ped ped, Vehicle train, int scenarioPoint, Hash scenarioHash);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF9F0B3028431967B
-char* _UGC_QUERY_GET_OWNER_ID(Any p0,int index);
+char* _UGC_QUERY_GET_OWNER_ID(Any p0, int index);
 ```
 
 

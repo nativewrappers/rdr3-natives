@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB56D41A694E42E86
-void _ADD_AMBIENT_AVOIDANCE_RESTRICTION(Volume volume,int includeFlags,int excludeFlags,Hash p3,Hash p4,Hash p5,int p6);
+void _ADD_AMBIENT_AVOIDANCE_RESTRICTION(Volume volume, int includeFlags, int excludeFlags, Hash p3, Hash p4, Hash p5, int p6);
 ```
 
 flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/PedFilterFlags

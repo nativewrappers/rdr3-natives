@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x33281167E4942E4F
-void RENDER_SCRIPT_CAMS(BOOL render,BOOL ease,int easeTime,BOOL p3,BOOL p4,int p5);
+void RENDER_SCRIPT_CAMS(BOOL render, BOOL ease, int easeTime, BOOL p3, BOOL p4, int p5);
 ```
 
 ease - smooth transition between the camera's positions

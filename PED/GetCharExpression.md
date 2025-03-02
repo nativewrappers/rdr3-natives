@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFD1BA1EEF7985BB8
-float _GET_CHAR_EXPRESSION(Ped ped,int index);
+float _GET_CHAR_EXPRESSION(Ped ped, int index);
 ```
 
 Gets MetaPedExpression at index specified

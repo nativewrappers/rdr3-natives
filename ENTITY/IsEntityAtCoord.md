@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5E58342602E94718
-BOOL IS_ENTITY_AT_COORD(Entity entity,float xPos,float yPos,float zPos,float xSize,float ySize,float zSize,BOOL p7,BOOL p8,int p9);
+BOOL IS_ENTITY_AT_COORD(Entity entity, float xPos, float yPos, float zPos, float xSize, float ySize, float zSize, BOOL p7, BOOL p8, int p9);
 ```
 
 Checks if entity is within x/y/zSize distance of x/y/z. 

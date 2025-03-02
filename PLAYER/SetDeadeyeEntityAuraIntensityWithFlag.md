@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x131E294EF60160DF
-void _SET_DEADEYE_ENTITY_AURA_INTENSITY_WITH_FLAG(Player player,float p1,float p2,float p3,float intensity,int flag);
+void _SET_DEADEYE_ENTITY_AURA_INTENSITY_WITH_FLAG(Player player, float p1, float p2, float p3, float intensity, int flag);
 ```
 
 Applies a customizable aura effect to nearby entities when Deadeye is active, with control over aura intensity and additional behavior based on a flag parameter.

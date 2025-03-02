@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA9EF4AD10BDDDB57
-void _SET_WEAPON_SOOT(Object weaponObject,float level,BOOL p2);
+void _SET_WEAPON_SOOT(Object weaponObject, float level, BOOL p2);
 ```
 
 

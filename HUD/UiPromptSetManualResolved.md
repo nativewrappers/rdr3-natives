@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA520C7B05FA4EB2A
-void _UI_PROMPT_SET_MANUAL_RESOLVED(Prompt prompt,Any p1);
+void _UI_PROMPT_SET_MANUAL_RESOLVED(Prompt prompt, Any p1);
 ```
 
 

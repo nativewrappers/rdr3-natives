@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEE066C7006C49C0A
-void PLAY_ANIMAL_VOCALIZATION(Ped ped,char* vocalizationName,BOOL p2);
+void PLAY_ANIMAL_VOCALIZATION(Ped ped, char* vocalizationName, BOOL p2);
 ```
 
 

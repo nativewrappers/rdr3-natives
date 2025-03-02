@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE73A266DB0CA9042
-void TASK_PAUSE(Ped ped,int ms);
+void TASK_PAUSE(Ped ped, int ms);
 ```
 
 This tasks the ped to do nothing for the specified amount of milliseconds.

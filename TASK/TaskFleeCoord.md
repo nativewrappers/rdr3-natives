@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x58428248BF4B64E4
-void TASK_FLEE_COORD(Ped ped,float x,float y,float z,int fleeStyle,int p5,float p6,int duration,int p8);
+void TASK_FLEE_COORD(Ped ped, float x, float y, float z, int fleeStyle, int p5, float p6, int duration, int p8);
 ```
 
 Params: p5 = some flag?, p6 = -1.0f, p8 = 0 in R* Scripts

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE2A2AA2F659D77A7
-void TASK_VEHICLE_DRIVE_TO_COORD(Ped ped,Vehicle vehicle,float x,float y,float z,float speed,Any style,Hash vehicleModel,int drivingMode,float stopRange,float straightLineDist);
+void TASK_VEHICLE_DRIVE_TO_COORD(Ped ped, Vehicle vehicle, float x, float y, float z, float speed, Any style, Hash vehicleModel, int drivingMode, float stopRange, float straightLineDist);
 ```
 
 stopRange: how close vehicle will get to destination before stopping, default 4.0

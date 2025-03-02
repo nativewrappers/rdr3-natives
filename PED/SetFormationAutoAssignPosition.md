@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x478F6B9920446CE2
-void _SET_FORMATION_AUTO_ASSIGN_POSITION(int groupId,BOOL toggle);
+void _SET_FORMATION_AUTO_ASSIGN_POSITION(int groupId, BOOL toggle);
 ```
 
 

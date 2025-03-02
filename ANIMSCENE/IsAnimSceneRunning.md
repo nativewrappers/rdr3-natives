@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCBFC7725DE6CE2E0
-Any IS_ANIM_SCENE_RUNNING(AnimScene animScene,BOOL p1);
+Any IS_ANIM_SCENE_RUNNING(AnimScene animScene, BOOL p1);
 ```
 
 

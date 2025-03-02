@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6B9FE4F0BA521A19
-void UI_STATE_MACHINE_REQUEST_EXIT(Any p0,Any p1);
+void UI_STATE_MACHINE_REQUEST_EXIT(Any p0, Any p1);
 ```
 
 

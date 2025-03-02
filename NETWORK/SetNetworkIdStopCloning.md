@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9ED3108D6847760A
-void SET_NETWORK_ID_STOP_CLONING(int networkId,BOOL bStopCloning);
+void SET_NETWORK_ID_STOP_CLONING(int networkId, BOOL bStopCloning);
 ```
 
 

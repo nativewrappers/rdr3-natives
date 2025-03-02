@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFBDFE1C1356E12E8
-Any _NETWORK_GET_GAMER_SESSION_FROM_HANDLE(Any* data,int count);
+Any _NETWORK_GET_GAMER_SESSION_FROM_HANDLE(Any* data, int count);
 ```
 
 

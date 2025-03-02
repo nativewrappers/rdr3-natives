@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6B5DDFB967E5073D
-void _SET_DEADEYE_TAGGING_ENABLED(Player player,BOOL toggle);
+void _SET_DEADEYE_TAGGING_ENABLED(Player player, BOOL toggle);
 ```
 
 

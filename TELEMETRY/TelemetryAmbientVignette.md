@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3145044F3990D321
-void _TELEMETRY_AMBIENT_VIGNETTE(Any p0,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6);
+void _TELEMETRY_AMBIENT_VIGNETTE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
 ```
 
 

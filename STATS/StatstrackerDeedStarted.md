@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB2A38826E5886E83
-void STATSTRACKER_DEED_STARTED(Hash p0,Any p1);
+void STATSTRACKER_DEED_STARTED(Hash p0, Any p1);
 ```
 
 

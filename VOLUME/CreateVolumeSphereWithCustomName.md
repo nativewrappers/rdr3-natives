@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x10157BC3247FF3BA
-Volume _CREATE_VOLUME_SPHERE_WITH_CUSTOM_NAME(float x,float y,float z,float rotX,float rotY,float rotZ,float scaleX,float scaleY,float scaleZ,char* name);
+Volume _CREATE_VOLUME_SPHERE_WITH_CUSTOM_NAME(float x, float y, float z, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ, char* name);
 ```
 
 

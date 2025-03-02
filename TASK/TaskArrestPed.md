@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF3B9A78A178572B1
-void TASK_ARREST_PED(Ped ped,Ped target);
+void TASK_ARREST_PED(Ped ped, Ped target);
 ```
 
 

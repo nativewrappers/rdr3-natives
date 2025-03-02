@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA46E98BDC407E23D
-Any SET_VOLUME_SCALE(Volume volume,float scaleX,float scaleY,float scaleZ);
+Any SET_VOLUME_SCALE(Volume volume, float scaleX, float scaleY, float scaleZ);
 ```
 
 

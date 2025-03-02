@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x83ED1FC9DF3411F5
-void _SPAWNPOINTS_START_SEARCH_WITH_VOLUME(Volume volume,int spawnpointsFlag,float p2,int duration,float p4);
+void _SPAWNPOINTS_START_SEARCH_WITH_VOLUME(Volume volume, int spawnpointsFlag, float p2, int duration, float p4);
 ```
 
 

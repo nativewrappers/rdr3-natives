@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x646ED1A1D28487DF
-void _GENERATE_SWATCH_TEXTURE_DIRECTLY(int slot,Any p1);
+void _GENERATE_SWATCH_TEXTURE_DIRECTLY(int slot, Any p1);
 ```
 
 Example: https://pastebin.com/tTgpER9A

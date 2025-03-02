@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA80FF73F772ACF6A
-void SET_WANTED_SCORE(Player player,int intensity);
+void SET_WANTED_SCORE(Player player, int intensity);
 ```
 
 

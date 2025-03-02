@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCC6656799977741B
-void _UI_PROMPT_SET_STANDARD_MODE(Prompt prompt,BOOL releaseMode);
+void _UI_PROMPT_SET_STANDARD_MODE(Prompt prompt, BOOL releaseMode);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6BEB168D5195E7AB
-Any _PARSEDDATA_GET_NUM_CHILDREN(Any p0,Any p1);
+Any _PARSEDDATA_GET_NUM_CHILDREN(Any p0, Any p1);
 ```
 
 

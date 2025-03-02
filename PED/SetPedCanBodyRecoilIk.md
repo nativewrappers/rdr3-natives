@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEE9DF765990E8D1D
-void SET_PED_CAN_BODY_RECOIL_IK(Ped PedIndex,BOOL bEnableIK);
+void SET_PED_CAN_BODY_RECOIL_IK(Ped PedIndex, BOOL bEnableIK);
 ```
 
 

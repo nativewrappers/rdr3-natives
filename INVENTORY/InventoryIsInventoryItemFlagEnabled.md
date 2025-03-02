@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x245D07651B1D183B
-Any _INVENTORY_IS_INVENTORY_ITEM_FLAG_ENABLED(Hash item,int flag);
+Any _INVENTORY_IS_INVENTORY_ITEM_FLAG_ENABLED(Hash item, int flag);
 ```
 
 flag: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ItemDatabaseItemFlags

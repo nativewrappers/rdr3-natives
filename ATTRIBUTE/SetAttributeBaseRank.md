@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5DA12E025D47D4E5
-void SET_ATTRIBUTE_BASE_RANK(Ped ped,int attributeIndex,int newValue);
+void SET_ATTRIBUTE_BASE_RANK(Ped ped, int attributeIndex, int newValue);
 ```
 
 attributeIndex:

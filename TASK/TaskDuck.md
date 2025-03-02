@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA14B5FBF986BAC23
-void TASK_DUCK(Ped ped,int time);
+void TASK_DUCK(Ped ped, int time);
 ```
 
 

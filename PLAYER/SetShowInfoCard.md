@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDC68829BB3F37023
-void _SET_SHOW_INFO_CARD(Player player,BOOL showingInfoCard);
+void _SET_SHOW_INFO_CARD(Player player, BOOL showingInfoCard);
 ```
 
 

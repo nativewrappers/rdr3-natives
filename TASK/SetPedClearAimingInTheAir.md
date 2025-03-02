@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x34C0010188D7C54A
-void _SET_PED_CLEAR_AIMING_IN_THE_AIR(Ped ped,Any p1);
+void _SET_PED_CLEAR_AIMING_IN_THE_AIR(Ped ped, Any p1);
 ```
 
 

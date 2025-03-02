@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x01B21B81865E2A1F
-void _SET_PED_SCENT(Ped ped,float scent);
+void _SET_PED_SCENT(Ped ped, float scent);
 ```
 
 0.0 - 1.0

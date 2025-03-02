@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD3A7B003ED343FD9
-void _APPLY_SHOP_ITEM_TO_PED(Ped ped,Hash componentHash,BOOL immediately,BOOL isMp,BOOL p4);
+void _APPLY_SHOP_ITEM_TO_PED(Ped ped, Hash componentHash, BOOL immediately, BOOL isMp, BOOL p4);
 ```
 
 

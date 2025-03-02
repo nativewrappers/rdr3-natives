@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4AD019591E94C064
-Any PREPARE_SOUND_WITH_ENTITY(char* soundName,Entity entity,char* soundsetName,int soundId);
+Any PREPARE_SOUND_WITH_ENTITY(char* soundName, Entity entity, char* soundsetName, int soundId);
 ```
 
 

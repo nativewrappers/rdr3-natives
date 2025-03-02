@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEAF87DA2BE78A15B
-void _0xEAF87DA2BE78A15B(Any p0,Any p1);
+void _0xEAF87DA2BE78A15B(Any p0, Any p1);
 ```
 
 

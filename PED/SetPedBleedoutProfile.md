@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x66C047719B0E80E1
-void _SET_PED_BLEEDOUT_PROFILE(Ped ped,Hash bleedoutProfile);
+void _SET_PED_BLEEDOUT_PROFILE(Ped ped, Hash bleedoutProfile);
 ```
 
 Bleedout profiles:

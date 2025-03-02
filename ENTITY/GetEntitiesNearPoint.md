@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x59B57C4B06531E1E
-int _GET_ENTITIES_NEAR_POINT(float x,float y,float z,float radius,ItemSet itemSet,int p5);
+int _GET_ENTITIES_NEAR_POINT(float x, float y, float z, float radius, ItemSet itemSet, int p5);
 ```
 
 

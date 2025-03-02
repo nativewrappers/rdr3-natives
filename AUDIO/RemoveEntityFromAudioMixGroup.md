@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x18EB48CFC41F2EA0
-void REMOVE_ENTITY_FROM_AUDIO_MIX_GROUP(Entity entity,float p1);
+void REMOVE_ENTITY_FROM_AUDIO_MIX_GROUP(Entity entity, float p1);
 ```
 
 

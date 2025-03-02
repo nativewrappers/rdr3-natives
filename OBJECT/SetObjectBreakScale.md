@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFFB99FFD17F65889
-void _SET_OBJECT_BREAK_SCALE(Object object,float scale);
+void _SET_OBJECT_BREAK_SCALE(Object object, float scale);
 ```
 
 

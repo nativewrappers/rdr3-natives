@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC019112F8995DC1C
-BOOL CASHINVENTORY_INIT_SESSION_STATUS(int* p0,int* p1);
+BOOL CASHINVENTORY_INIT_SESSION_STATUS(int* p0, int* p1);
 ```
 
 

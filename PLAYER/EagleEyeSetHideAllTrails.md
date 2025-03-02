@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x330CA55A3647FA1C
-void _EAGLE_EYE_SET_HIDE_ALL_TRAILS(Player player,BOOL hide);
+void _EAGLE_EYE_SET_HIDE_ALL_TRAILS(Player player, BOOL hide);
 ```
 
 Sets whether all trails are hidden during Eagle Eye mode.

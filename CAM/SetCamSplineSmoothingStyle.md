@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x84B3645618E726B0
-void SET_CAM_SPLINE_SMOOTHING_STYLE(Cam cam,int smoothingStyle);
+void SET_CAM_SPLINE_SMOOTHING_STYLE(Cam cam, int smoothingStyle);
 ```
 
 

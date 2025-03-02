@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA8432A14D4DC2101
-void _REQUEST_METADATA_AT_COORD(float x,float y,float z);
+void _REQUEST_METADATA_AT_COORD(float x, float y, float z);
 ```
 
 

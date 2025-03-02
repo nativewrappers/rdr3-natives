@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7F9B9791D4CB71F6
-int CAN_PED_SEE_ENTITY(Ped ped,Entity targetEntity,BOOL p2,BOOL p3);
+int CAN_PED_SEE_ENTITY(Ped ped, Entity targetEntity, BOOL p2, BOOL p3);
 ```
 
 Returns:

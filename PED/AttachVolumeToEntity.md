@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7C00CFC48A782DC0
-void _ATTACH_VOLUME_TO_ENTITY(Volume volume,Entity entity,float offsetX,float offsetY,float offsetZ,float rotX,float rotY,float rotZ,int p8,BOOL p9);
+void _ATTACH_VOLUME_TO_ENTITY(Volume volume, Entity entity, float offsetX, float offsetY, float offsetZ, float rotX, float rotY, float rotZ, int p8, BOOL p9);
 ```
 
 

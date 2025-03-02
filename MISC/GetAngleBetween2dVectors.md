@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD0DFE1C486097BBB
-float GET_ANGLE_BETWEEN_2D_VECTORS(float x1,float y1,float x2,float y2);
+float GET_ANGLE_BETWEEN_2D_VECTORS(float x1, float y1, float x2, float y2);
 ```
 
 

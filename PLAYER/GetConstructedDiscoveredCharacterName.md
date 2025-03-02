@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8E84119A23C16623
-Hash _GET_CONSTRUCTED_DISCOVERED_CHARACTER_NAME(Hash p0,BOOL model,BOOL outfit);
+Hash _GET_CONSTRUCTED_DISCOVERED_CHARACTER_NAME(Hash p0, BOOL model, BOOL outfit);
 ```
 
 p0: mostly Ped Hashes

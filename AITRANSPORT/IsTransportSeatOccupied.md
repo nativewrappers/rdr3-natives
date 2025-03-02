@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2E2E06023D07631E
-Any _IS_TRANSPORT_SEAT_OCCUPIED(Entity transportEntity,int seatIndex);
+Any _IS_TRANSPORT_SEAT_OCCUPIED(Entity transportEntity, int seatIndex);
 ```
 
 

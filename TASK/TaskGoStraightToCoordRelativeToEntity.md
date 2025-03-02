@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x61E360B7E040D12E
-void TASK_GO_STRAIGHT_TO_COORD_RELATIVE_TO_ENTITY(Ped ped,Entity entity,float xOffset,float Yoffset,float zOffset,int moveBlendRatio,int timeBeforeTeleport,int p7);
+void TASK_GO_STRAIGHT_TO_COORD_RELATIVE_TO_ENTITY(Ped ped, Entity entity, float xOffset, float Yoffset, float zOffset, int moveBlendRatio, int timeBeforeTeleport, int p7);
 ```
 
 Tells the ped to go to an offset coord from an entity, without using the navmesh. if timeBeforeTeleport is -1 the ped will never warp, p7 is 1 or 0 still unknown param 

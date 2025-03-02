@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x314C5465195F3B30
-void _SET_META_PED_WEARINESS(Ped ped,float weariness);
+void _SET_META_PED_WEARINESS(Ped ped, float weariness);
 ```
 
 Sets ped eye redness, weariness: 0.f to 1.f

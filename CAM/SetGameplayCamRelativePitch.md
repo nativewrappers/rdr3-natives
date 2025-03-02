@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFB760AF4F537B8BF
-void SET_GAMEPLAY_CAM_RELATIVE_PITCH(float x,float Value2);
+void SET_GAMEPLAY_CAM_RELATIVE_PITCH(float x, float Value2);
 ```
 
 Sets the camera pitch.

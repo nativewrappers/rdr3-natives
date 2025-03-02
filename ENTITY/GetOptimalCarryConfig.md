@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x34F008A7E48C496B
-Hash _GET_OPTIMAL_CARRY_CONFIG(Entity entity,int index);
+Hash _GET_OPTIMAL_CARRY_CONFIG(Entity entity, int index);
 ```
 
 Valid indices: 0 - 3

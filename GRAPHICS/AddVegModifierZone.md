@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBD3324281E8B9933
-int _ADD_VEG_MODIFIER_ZONE(Volume volume,int p1,int flags,int p3);
+int _ADD_VEG_MODIFIER_ZONE(Volume volume, int p1, int flags, int p3);
 ```
 
 Adds Vegetation Blocking Zone, Added Snow Flattening veg mod Zone

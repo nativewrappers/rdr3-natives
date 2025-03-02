@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x463803429297117C
-Any SET_PED_SHOULD_PLAY_QUICK_SCENARIO_EXIT(Ped ped,float x,float y,float z,int lookIntensity,BOOL p5);
+Any SET_PED_SHOULD_PLAY_QUICK_SCENARIO_EXIT(Ped ped, float x, float y, float z, int lookIntensity, BOOL p5);
 ```
 
 lookIntensity: see SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x01BA3AED21C16CFB
-void SET_DISABLE_FRAG_DAMAGE(Object object,BOOL toggle);
+void SET_DISABLE_FRAG_DAMAGE(Object object, BOOL toggle);
 ```
 
 

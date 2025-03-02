@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE0FA74AA3CCE650B
-void SET_PLAYER_ARRESTED_IN_REGION(Player player,Hash lawRegionHash);
+void SET_PLAYER_ARRESTED_IN_REGION(Player player, Hash lawRegionHash);
 ```
 
 

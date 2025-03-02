@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x82CFA50E34681CA5
-Vector3 GET_WORLD_POSITION_OF_ENTITY_BONE(Entity entity,int boneIndex);
+Vector3 GET_WORLD_POSITION_OF_ENTITY_BONE(Entity entity, int boneIndex);
 ```
 
 Returns the coordinates of an entity-bone.

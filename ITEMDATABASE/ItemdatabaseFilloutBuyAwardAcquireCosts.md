@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB52E20F6767A09A2
-Any _ITEMDATABASE_FILLOUT_BUY_AWARD_ACQUIRE_COSTS(Hash award,Any* outData,int* outUnk,int p3);
+Any _ITEMDATABASE_FILLOUT_BUY_AWARD_ACQUIRE_COSTS(Hash award, Any* outData, int* outUnk, int p3);
 ```
 
 

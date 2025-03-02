@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4F5EBE70081E5A20
-int _CREATE_GRAVITY_WELL(float xPos,float yPos,float zPos,float heading,float radius,float p5,float p6,float p7,BOOL stopAtDestination);
+int _CREATE_GRAVITY_WELL(float xPos, float yPos, float zPos, float heading, float radius, float p5, float p6, float p7, BOOL stopAtDestination);
 ```
 
 Creates a handle to an instance of "CScriptResource_GravityWell", this system forces local ped to target specified position when moving, however player still can interrupt this.

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD1A226F2E05E58FC
-void _NETWORK_START_GANG(BOOL openStatus,int campSize);
+void _NETWORK_START_GANG(BOOL openStatus, int campSize);
 ```
 
 openStatus = true -> sets privacyType = 2 (PUBLIC_ADVERTISED)

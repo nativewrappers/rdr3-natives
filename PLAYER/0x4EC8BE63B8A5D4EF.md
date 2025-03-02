@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4EC8BE63B8A5D4EF
-void _0x4EC8BE63B8A5D4EF(Player player,int p1);
+void _0x4EC8BE63B8A5D4EF(Player player, int p1);
 ```
 
 

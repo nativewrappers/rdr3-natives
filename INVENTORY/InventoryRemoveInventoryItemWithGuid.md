@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3E4E811480B3AE79
-Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_GUID(int inventoryId,Any* guid,int quantity,Hash removeReason);
+Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_GUID(int inventoryId, Any* guid, int quantity, Hash removeReason);
 ```
 
 

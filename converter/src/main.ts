@@ -109,7 +109,7 @@ setImmediate(async () => {
 					return_type = `char*`;
 				}
 				return `${return_type} ${v.name}`
-			}).join(",");
+			}).join(", ");
 			const converted_param_markdown = native_data.params.map((v) => `* **${v.name}**:`).join("\n");
 			const examples_converted = native_data.examples.map((v) => `${v}\n`).join("\n");
 			const native_gen = `---

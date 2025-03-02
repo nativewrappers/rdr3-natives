@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1794B4FCC84D812F
-void SET_ENTITY_VISIBLE(Entity entity,BOOL toggle);
+void SET_ENTITY_VISIBLE(Entity entity, BOOL toggle);
 ```
 
 

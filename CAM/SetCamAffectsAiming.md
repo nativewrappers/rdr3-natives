@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3CB9E8BDE5E76F33
-void SET_CAM_AFFECTS_AIMING(Cam cam,BOOL toggle);
+void SET_CAM_AFFECTS_AIMING(Cam cam, BOOL toggle);
 ```
 
 Allows you to aim and shoot at the direction the camera is facing.

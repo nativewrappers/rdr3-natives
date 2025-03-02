@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x23D9C1F2E4098EDC
-Any _NETWORK_SESSION_REQUEST_SESSION_ON_CALL(int flags,int category,Any* p2,int userHash,Any* sessionRequestId);
+Any _NETWORK_SESSION_REQUEST_SESSION_ON_CALL(int flags, int category, Any* p2, int userHash, Any* sessionRequestId);
 ```
 
 category:

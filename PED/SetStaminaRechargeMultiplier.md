@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x345C9F993A8AB4A4
-void _SET_STAMINA_RECHARGE_MULTIPLIER(Ped ped,int multiplier);
+void _SET_STAMINA_RECHARGE_MULTIPLIER(Ped ped, int multiplier);
 ```
 
 

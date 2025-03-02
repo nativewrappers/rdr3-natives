@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDE1B1907A83A1550
-void _SET_HEALTH_RECHARGE_MULTIPLIER(Ped ped,int multiplier);
+void _SET_HEALTH_RECHARGE_MULTIPLIER(Ped ped, int multiplier);
 ```
 
 

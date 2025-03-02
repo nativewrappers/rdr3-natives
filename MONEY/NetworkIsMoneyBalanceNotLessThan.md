@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAEC5F0119867E457
-Any _NETWORK_IS_MONEY_BALANCE_NOT_LESS_THAN(int cashBalance,int goldBarBalance);
+Any _NETWORK_IS_MONEY_BALANCE_NOT_LESS_THAN(int cashBalance, int goldBarBalance);
 ```
 
 

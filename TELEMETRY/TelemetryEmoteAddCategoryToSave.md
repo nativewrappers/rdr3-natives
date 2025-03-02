@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2C24AF8EEEEF8A55
-void _TELEMETRY_EMOTE_ADD_CATEGORY_TO_SAVE(Any p0,Any p1,Hash emote);
+void _TELEMETRY_EMOTE_ADD_CATEGORY_TO_SAVE(Any p0, Any p1, Hash emote);
 ```
 
 

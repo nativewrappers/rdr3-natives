@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x94B1E71B144356A5
-void DISABLE_VEHICLE_WEAPON(BOOL disabled,Hash weaponHash,Vehicle vehicle,Ped owner);
+void DISABLE_VEHICLE_WEAPON(BOOL disabled, Hash weaponHash, Vehicle vehicle, Ped owner);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2FCD528A397E5C88
-void _CLEAR_VOLUME_AREA(Volume volume,int flag);
+void _CLEAR_VOLUME_AREA(Volume volume, int flag);
 ```
 
 

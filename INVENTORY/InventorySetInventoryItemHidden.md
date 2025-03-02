@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9A113C660AEA3832
-void _INVENTORY_SET_INVENTORY_ITEM_HIDDEN(int inventoryId,Any* guid,BOOL hidden);
+void _INVENTORY_SET_INVENTORY_ITEM_HIDDEN(int inventoryId, Any* guid, BOOL hidden);
 ```
 
 Used with CClothingItem

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD66C9E72B3CC4982
-int NETWORK_DISPLAYNAMES_FROM_HANDLES_START(Any* p0,Any p1);
+int NETWORK_DISPLAYNAMES_FROM_HANDLES_START(Any* p0, Any p1);
 ```
 
 Hardcoded to return -1.

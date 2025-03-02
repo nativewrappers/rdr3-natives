@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCD356B42C57BFE01
-BOOL _GET_CORRECT_KIT_EMOTE_TWIRL_GUN(Ped ped,Any* weaponGuid);
+BOOL _GET_CORRECT_KIT_EMOTE_TWIRL_GUN(Ped ped, Any* weaponGuid);
 ```
 
 _GET_BEST_* - _GET_CLOSEST_*

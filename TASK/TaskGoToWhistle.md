@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBAD6545608CECA6E
-void TASK_GO_TO_WHISTLE(Ped ped,Ped p1,int whistleType);
+void TASK_GO_TO_WHISTLE(Ped ped, Ped p1, int whistleType);
 ```
 
 enum eWhistleType

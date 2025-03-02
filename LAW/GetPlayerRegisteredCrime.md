@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x532C5FDDB986EE5C
-Any GET_PLAYER_REGISTERED_CRIME(Player player,int p1,Hash* crimeType);
+Any GET_PLAYER_REGISTERED_CRIME(Player player, int p1, Hash* crimeType);
 ```
 
 

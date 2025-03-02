@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDD560ABEF5D3784C
-void _GET_FORCED_WEATHER(Hash* weather,Hash* p1);
+void _GET_FORCED_WEATHER(Hash* weather, Hash* p1);
 ```
 
 Returns the weather type that has been set by a script

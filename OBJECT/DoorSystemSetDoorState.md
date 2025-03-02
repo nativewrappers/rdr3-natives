@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6BAB9442830C7F53
-void DOOR_SYSTEM_SET_DOOR_STATE(Hash doorHash,int state);
+void DOOR_SYSTEM_SET_DOOR_STATE(Hash doorHash, int state);
 ```
 
 Door lock states:

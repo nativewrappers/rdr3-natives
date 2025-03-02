@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA5BAE410B03E7371
-void _EQUIP_META_PED_OUTFIT_EXTRA(Ped ped,int component,Any p2,Any p3);
+void _EQUIP_META_PED_OUTFIT_EXTRA(Ped ped, int component, Any p2, Any p3);
 ```
 
 Changes Multiplayer ped face and body type components, they can be stacked

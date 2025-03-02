@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE84AAC1B22A73E99
-void _SET_BIT_FLAG(Any* bitFlags,int flag);
+void _SET_BIT_FLAG(Any* bitFlags, int flag);
 ```
 
 Similar to SET_BIT but specifically designed for large (>32 flags) bit flag sets.

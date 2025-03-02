@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFCF37A457CB96DC0
-BOOL IS_PED_HEADING_TOWARDS_POSITION(Ped ped,float x,float y,float z,float p4);
+BOOL IS_PED_HEADING_TOWARDS_POSITION(Ped ped, float x, float y, float z, float p4);
 ```
 
 

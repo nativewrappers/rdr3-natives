@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9B657550DF55EC96
-Hash COMPENDIUM_GET_SUBCATEGORY_PED_IS_IN(Hash category,Ped ped);
+Hash COMPENDIUM_GET_SUBCATEGORY_PED_IS_IN(Hash category, Ped ped);
 ```
 
 

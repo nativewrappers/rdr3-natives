@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1FA132CBCD7CB239
-void _CLEAR_PED_COMBAT_STYLE_MOD(Ped ped,Hash combatStyleModHash);
+void _CLEAR_PED_COMBAT_STYLE_MOD(Ped ped, Hash combatStyleModHash);
 ```
 
 _CLEAR_PED_COMBAT_*

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x684C96CC7C66E8EF
-void _UI_PROMPT_ADD_GROUP_LINK(Any p0,Prompt prompt,Any p2);
+void _UI_PROMPT_ADD_GROUP_LINK(Any p0, Prompt prompt, Any p2);
 ```
 
 

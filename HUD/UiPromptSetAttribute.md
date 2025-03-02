@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x560E76D5E2E1803F
-void _UI_PROMPT_SET_ATTRIBUTE(Prompt prompt,int attribute,BOOL enabled);
+void _UI_PROMPT_SET_ATTRIBUTE(Prompt prompt, int attribute, BOOL enabled);
 ```
 
 attribute: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eUIPromptAttribute

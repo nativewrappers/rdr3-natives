@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB7C7BDC375AEA9A4
-void _STOP_FIRE_IN_BOX(float posX,float posY,float posZ,float rotX,float rotY,float rotZ,float scaleX,float scaleY,float scaleZ);
+void _STOP_FIRE_IN_BOX(float posX, float posY, float posZ, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5DD02A8318420DD7
-void _UI_PROMPT_SET_TEXT(Prompt prompt,char* text);
+void _UI_PROMPT_SET_TEXT(Prompt prompt, char* text);
 ```
 
 

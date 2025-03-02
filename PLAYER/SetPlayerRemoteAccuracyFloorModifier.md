@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDEE80FEDFDD43C9B
-void _SET_PLAYER_REMOTE_ACCURACY_FLOOR_MODIFIER(Player player,float accuracy);
+void _SET_PLAYER_REMOTE_ACCURACY_FLOOR_MODIFIER(Player player, float accuracy);
 ```
 
 

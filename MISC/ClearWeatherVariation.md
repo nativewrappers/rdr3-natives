@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0E71C80FA4EC8147
-void _CLEAR_WEATHER_VARIATION(char* weatherType,BOOL p1);
+void _CLEAR_WEATHER_VARIATION(char* weatherType, BOOL p1);
 ```
 
 

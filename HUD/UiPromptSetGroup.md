@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2F11D3A254169EA4
-void _UI_PROMPT_SET_GROUP(Prompt prompt,int groupId,int tabIndex);
+void _UI_PROMPT_SET_GROUP(Prompt prompt, int groupId, int tabIndex);
 ```
 
 tabIndex: specifies tab of prompt

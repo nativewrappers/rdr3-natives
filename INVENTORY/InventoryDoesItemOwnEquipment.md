@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x88B58B83A43A8CAB
-Any _INVENTORY_DOES_ITEM_OWN_EQUIPMENT(int inventoryId,Any* guid,Hash item);
+Any _INVENTORY_DOES_ITEM_OWN_EQUIPMENT(int inventoryId, Any* guid, Hash item);
 ```
 
 

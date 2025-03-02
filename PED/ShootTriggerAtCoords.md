@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4C57F27D1554E6B0
-Any _SHOOT_TRIGGER_AT_COORDS(Ped ped,float x,float y,float z,int p4,float p5,int p6,float p7);
+Any _SHOOT_TRIGGER_AT_COORDS(Ped ped, float x, float y, float z, int p4, float p5, int p6, float p7);
 ```
 
 Triggers a gunshot

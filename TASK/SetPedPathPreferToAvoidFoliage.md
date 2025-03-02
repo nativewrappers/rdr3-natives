@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x12990818C1D35886
-void _SET_PED_PATH_PREFER_TO_AVOID_FOLIAGE(Ped ped,BOOL preferAvoidFoliage,float p2);
+void _SET_PED_PATH_PREFER_TO_AVOID_FOLIAGE(Ped ped, BOOL preferAvoidFoliage, float p2);
 ```
 
 

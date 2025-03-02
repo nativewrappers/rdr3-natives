@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0BDDB8D9EC6BCF3C
-void SET_PED_GROUP_MEMBER_PASSENGER_INDEX(Ped ped,int index);
+void SET_PED_GROUP_MEMBER_PASSENGER_INDEX(Ped ped, int index);
 ```
 
 

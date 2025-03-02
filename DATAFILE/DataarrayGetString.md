@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB6790A8FF80F889F
-char* DATAARRAY_GET_STRING(Any* arrayData,int arrayIndex);
+char* DATAARRAY_GET_STRING(Any* arrayData, int arrayIndex);
 ```
 
 

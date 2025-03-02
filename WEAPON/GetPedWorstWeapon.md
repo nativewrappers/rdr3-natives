@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDA37A053C1522F5D
-Hash _GET_PED_WORST_WEAPON(Ped ped,BOOL p1,BOOL p2,BOOL p3);
+Hash _GET_PED_WORST_WEAPON(Ped ped, BOOL p1, BOOL p2, BOOL p3);
 ```
 
 

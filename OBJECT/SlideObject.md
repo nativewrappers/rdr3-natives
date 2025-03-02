@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2FDFF4107B8C1147
-BOOL SLIDE_OBJECT(Object object,float toX,float toY,float toZ,float speedX,float speedY,float speedZ,BOOL collision);
+BOOL SLIDE_OBJECT(Object object, float toX, float toY, float toZ, float speedX, float speedY, float speedZ, BOOL collision);
 ```
 
 

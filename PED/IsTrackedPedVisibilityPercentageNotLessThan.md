@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x164CECC59E70DF86
-Any _IS_TRACKED_PED_VISIBILITY_PERCENTAGE_NOT_LESS_THAN(Ped ped,float percent);
+Any _IS_TRACKED_PED_VISIBILITY_PERCENTAGE_NOT_LESS_THAN(Ped ped, float percent);
 ```
 
 

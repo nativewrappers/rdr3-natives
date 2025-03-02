@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEF7AB1A0E8C86170
-void _SET_MP_GAMER_TAG_UNK_ALLOW_LOCALIZED(int gamerTagId,BOOL allow);
+void _SET_MP_GAMER_TAG_UNK_ALLOW_LOCALIZED(int gamerTagId, BOOL allow);
 ```
 
 nullsub, doesn't do anything

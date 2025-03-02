@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x84DAAE11E9EE4FC3
-void SET_VEHICLE_STEER_BIAS(Vehicle vehicle,float value);
+void SET_VEHICLE_STEER_BIAS(Vehicle vehicle, float value);
 ```
 
 Locks the vehicle's steering to the desired angle, explained below.

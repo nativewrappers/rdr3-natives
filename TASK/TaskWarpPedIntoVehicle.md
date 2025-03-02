@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9A7D091411C5F684
-void TASK_WARP_PED_INTO_VEHICLE(Ped ped,Vehicle vehicle,int seat);
+void TASK_WARP_PED_INTO_VEHICLE(Ped ped, Vehicle vehicle, int seat);
 ```
 
 

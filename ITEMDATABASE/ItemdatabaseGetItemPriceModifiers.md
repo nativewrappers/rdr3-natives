@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4EB37AAB79AB0C48
-Any _ITEMDATABASE_GET_ITEM_PRICE_MODIFIERS(Hash key,Any* outData);
+Any _ITEMDATABASE_GET_ITEM_PRICE_MODIFIERS(Hash key, Any* outData);
 ```
 
 

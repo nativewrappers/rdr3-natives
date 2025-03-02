@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x81D16C4FF3A77ADF
-void _TASK_CUT_FREE_HOGTIED_TARGET_PED(Ped ped,Ped targetPed);
+void _TASK_CUT_FREE_HOGTIED_TARGET_PED(Ped ped, Ped targetPed);
 ```
 
 

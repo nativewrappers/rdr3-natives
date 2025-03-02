@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7CC2186C32D3540A
-int _GET_PED_ATTITUDE(Ped ped,Player player);
+int _GET_PED_ATTITUDE(Ped ped, Player player);
 ```
 
 AI_ATTITUDE_NEUTRAL = 0,

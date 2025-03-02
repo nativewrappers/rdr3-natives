@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9F97E85EC142255E
-void _PAUSE_CAMERA_FOCUS(Cam cam,BOOL pause);
+void _PAUSE_CAMERA_FOCUS(Cam cam, BOOL pause);
 ```
 
 

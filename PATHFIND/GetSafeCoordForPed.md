@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB61C8E878A4199CA
-BOOL GET_SAFE_COORD_FOR_PED(float x,float y,float z,BOOL onGround,Vector3* outPosition,int flags);
+BOOL GET_SAFE_COORD_FOR_PED(float x, float y, float z, BOOL onGround, Vector3* outPosition, int flags);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9D09D8493747CF02
-BOOL IS_BULLET_IN_ANGLED_AREA(float p0,float p1,float p2,float p3,float p4,float p5,float p6,BOOL p7);
+BOOL IS_BULLET_IN_ANGLED_AREA(float p0, float p1, float p2, float p3, float p4, float p5, float p6, BOOL p7);
 ```
 
 

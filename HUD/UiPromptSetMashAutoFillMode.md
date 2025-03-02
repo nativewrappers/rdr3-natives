@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6C39587D7CC66801
-void _UI_PROMPT_SET_MASH_AUTO_FILL_MODE(Prompt prompt,int autoFillTimeMs,int mashes);
+void _UI_PROMPT_SET_MASH_AUTO_FILL_MODE(Prompt prompt, int autoFillTimeMs, int mashes);
 ```
 
 

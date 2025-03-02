@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEEE6EACBE8874FBA
-BOOL NETWORK_CLAN_PLAYER_GET_DESC(Any* clanDesc,int bufferSize,Any* gamerHandle);
+BOOL NETWORK_CLAN_PLAYER_GET_DESC(Any* clanDesc, int bufferSize, Any* gamerHandle);
 ```
 
 

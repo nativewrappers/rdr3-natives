@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x216343750545A486
-void _SET_PED_PATH_PREFER_HORSE_WALKABLE(Ped ped,BOOL preferHorseWalkable,float p2);
+void _SET_PED_PATH_PREFER_HORSE_WALKABLE(Ped ped, BOOL preferHorseWalkable, float p2);
 ```
 
 

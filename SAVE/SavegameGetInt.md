@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x529B9CCD0972AF4E
-void _SAVEGAME_GET_INT(Any* p0,char* variableName);
+void _SAVEGAME_GET_INT(Any* p0, char* variableName);
 ```
 
 

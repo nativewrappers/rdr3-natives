@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8F4F050054005C27
-Any _IS_BIT_FLAG_SET(Any* bitFlags,int flag);
+Any _IS_BIT_FLAG_SET(Any* bitFlags, int flag);
 ```
 
 

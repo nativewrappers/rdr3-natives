@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7ACF124C12A2B045
-void ACTION_MANAGER_ENABLE_ACTION(Hash hash,BOOL enable);
+void ACTION_MANAGER_ENABLE_ACTION(Hash hash, BOOL enable);
 ```
 
 Appears to remove stealth kill action from memory (?)

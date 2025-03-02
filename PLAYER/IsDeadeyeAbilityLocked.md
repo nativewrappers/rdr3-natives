@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8A0643B0B4CA276B
-Any _IS_DEADEYE_ABILITY_LOCKED(Player player,int abilityType);
+Any _IS_DEADEYE_ABILITY_LOCKED(Player player, int abilityType);
 ```
 
 

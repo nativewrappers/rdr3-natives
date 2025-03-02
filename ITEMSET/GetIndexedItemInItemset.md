@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x275A2E2C0FAB7612
-ScrHandle GET_INDEXED_ITEM_IN_ITEMSET(int index,ItemSet itemset);
+ScrHandle GET_INDEXED_ITEM_IN_ITEMSET(int index, ItemSet itemset);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCB73D7521E7103F0
-int _UI_PROMPT_GET_GROUP_ID_FOR_SCENARIO_POINT(Any p0,int p1);
+int _UI_PROMPT_GET_GROUP_ID_FOR_SCENARIO_POINT(Any p0, int p1);
 ```
 
 

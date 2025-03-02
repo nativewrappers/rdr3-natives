@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x91FE941F9FCFB702
-int _REQUEST_META_PED_ASSET_BUNDLE(Hash asset,int p1);
+int _REQUEST_META_PED_ASSET_BUNDLE(Hash asset, int p1);
 ```
 
 Returns requestId

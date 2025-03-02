@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1473D3AF51D54276
-void _UI_PROMPT_SET_PRESSED_TIMED_MODE(Prompt prompt,int depletionTimeMs);
+void _UI_PROMPT_SET_PRESSED_TIMED_MODE(Prompt prompt, int depletionTimeMs);
 ```
 
 

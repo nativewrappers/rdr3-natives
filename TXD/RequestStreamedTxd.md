@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDB1BD07FB464584D
-void REQUEST_STREAMED_TXD(Hash txdHash,BOOL p1);
+void REQUEST_STREAMED_TXD(Hash txdHash, BOOL p1);
 ```
 
 

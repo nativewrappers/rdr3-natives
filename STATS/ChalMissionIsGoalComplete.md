@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC0BB774787BBF301
-Any CHAL_MISSION_IS_GOAL_COMPLETE(Hash missionHash,Hash goalHash);
+Any CHAL_MISSION_IS_GOAL_COMPLETE(Hash missionHash, Hash goalHash);
 ```
 
 

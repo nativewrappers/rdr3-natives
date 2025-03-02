@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x413C6C763A4AFFAD
-void SET_PED_DEFENSIVE_AREA_DIRECTION(Ped ped,float p1,float p2,float p3,BOOL p4);
+void SET_PED_DEFENSIVE_AREA_DIRECTION(Ped ped, float p1, float p2, float p3, BOOL p4);
 ```
 
 

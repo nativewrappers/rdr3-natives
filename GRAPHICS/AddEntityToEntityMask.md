@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC6F81FCD15350323
-void _ADD_ENTITY_TO_ENTITY_MASK(Entity entity,int mask);
+void _ADD_ENTITY_TO_ENTITY_MASK(Entity entity, int mask);
 ```
 
 

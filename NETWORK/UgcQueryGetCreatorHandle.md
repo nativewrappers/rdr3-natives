@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xADB56322EEDFBDC9
-Any _UGC_QUERY_GET_CREATOR_HANDLE(Any p0,int index,Any* gamerHandle);
+Any _UGC_QUERY_GET_CREATOR_HANDLE(Any p0, int index, Any* gamerHandle);
 ```
 
 

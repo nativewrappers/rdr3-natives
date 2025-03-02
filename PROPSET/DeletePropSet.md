@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x58AC173A55D9D7B4
-void _DELETE_PROP_SET(PropSet propSet,BOOL p1,BOOL p2);
+void _DELETE_PROP_SET(PropSet propSet, BOOL p1, BOOL p2);
 ```
 
 

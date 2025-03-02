@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x622B1980CBE13332
-BOOL DOES_ENTITY_BELONG_TO_THIS_SCRIPT(Entity entity,BOOL p1);
+BOOL DOES_ENTITY_BELONG_TO_THIS_SCRIPT(Entity entity, BOOL p1);
 ```
 
 

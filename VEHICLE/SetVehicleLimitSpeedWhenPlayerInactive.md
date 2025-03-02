@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8F75941C86EEBFCA
-void SET_VEHICLE_LIMIT_SPEED_WHEN_PLAYER_INACTIVE(Vehicle vehicle,BOOL p1);
+void SET_VEHICLE_LIMIT_SPEED_WHEN_PLAYER_INACTIVE(Vehicle vehicle, BOOL p1);
 ```
 
 _SET_VEHICLE_LI*

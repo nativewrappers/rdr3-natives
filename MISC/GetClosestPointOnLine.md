@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x83ACC65D9ACEC5EF
-Vector3 GET_CLOSEST_POINT_ON_LINE(float p0,float p1,float p2,float p3,float p4,float p5,float p6,float p7,float p8,BOOL p9);
+Vector3 GET_CLOSEST_POINT_ON_LINE(float p0, float p1, float p2, float p3, float p4, float p5, float p6, float p7, float p8, BOOL p9);
 ```
 
 

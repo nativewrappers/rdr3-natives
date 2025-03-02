@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3B882A96EA77D5B1
-void CLEAR_AREA(float x,float y,float z,float radius,int flag);
+void CLEAR_AREA(float x, float y, float z, float radius, int flag);
 ```
 
 Possible flag names:

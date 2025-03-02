@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8C825BDC7741D37C
-void SET_HIGH_FALL_TASK(Ped ped,int p1,int p2,int p3);
+void SET_HIGH_FALL_TASK(Ped ped, int p1, int p2, int p3);
 ```
 
 Makes the ped ragdoll like when falling from a great height

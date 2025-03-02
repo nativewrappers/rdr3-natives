@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x91BE51AEC4E99710
-void SET_VEHICLE_HANDBRAKE(Vehicle vehicle,BOOL toggle);
+void SET_VEHICLE_HANDBRAKE(Vehicle vehicle, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9C4352134B2835FB
-void _REPORT_PLAYER_LAW_DISPATCH_RESPONSE_OVERRIDE(Player player,Hash dispatchResponseHash);
+void _REPORT_PLAYER_LAW_DISPATCH_RESPONSE_OVERRIDE(Player player, Hash dispatchResponseHash);
 ```
 
 

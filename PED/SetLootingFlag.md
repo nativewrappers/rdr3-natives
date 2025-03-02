@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6569F31A01B4C097
-void SET_LOOTING_FLAG(Ped ped,int lootFlag,BOOL enabled);
+void SET_LOOTING_FLAG(Ped ped, int lootFlag, BOOL enabled);
 ```
 
 https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CLootingFlags__Flags

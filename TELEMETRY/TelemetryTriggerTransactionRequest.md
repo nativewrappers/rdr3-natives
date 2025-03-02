@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x80A02D9F948A8BCA
-BOOL _TELEMETRY_TRIGGER_TRANSACTION_REQUEST(Any* requestId,Any* transactionId);
+BOOL _TELEMETRY_TRIGGER_TRANSACTION_REQUEST(Any* requestId, Any* transactionId);
 ```
 
 Returns false when transaction request is failing

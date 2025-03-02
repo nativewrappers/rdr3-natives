@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x26695EC767728D84
-void SET_RAGDOLL_BLOCKING_FLAGS(Ped ped,int flags);
+void SET_RAGDOLL_BLOCKING_FLAGS(Ped ped, int flags);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/AI/RAGDOLL_BLOCKING_FLAGS

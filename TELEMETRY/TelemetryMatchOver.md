@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA2058154357726BB
-void _TELEMETRY_MATCH_OVER(Any p0,Any p1,Any p2,Any p3,Any p4);
+void _TELEMETRY_MATCH_OVER(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 

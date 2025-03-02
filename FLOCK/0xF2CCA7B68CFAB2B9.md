@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF2CCA7B68CFAB2B9
-void _0xF2CCA7B68CFAB2B9(Hash species,float x1,float y1,float z1,float x2,float y2,float z2,float x3,float y3,float z3,float p10,float p11,float p12,float p13);
+void _0xF2CCA7B68CFAB2B9(Hash species, float x1, float y1, float z1, float x2, float y2, float z2, float x3, float y3, float z3, float p10, float p11, float p12, float p13);
 ```
 
 species: SPECIES_BIRD_CROW

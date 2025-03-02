@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEDD95A39E5544DE8
-int SHIFT_LEFT(int value,int bitShift);
+int SHIFT_LEFT(int value, int bitShift);
 ```
 
 

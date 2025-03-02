@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA88E215CEB0435C0
-Any _REQUEST_ENTITY_LOOT_LIST(Ped mount,Any* argStruct,Hash visiblelootslotrequestType,int flag,int p4,BOOL p5);
+Any _REQUEST_ENTITY_LOOT_LIST(Ped mount, Any* argStruct, Hash visiblelootslotrequestType, int flag, int p4, BOOL p5);
 ```
 
 

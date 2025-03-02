@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD049FDAF089FDDB0
-void _0xD049FDAF089FDDB0(Ped ped,Hash p1,float p2);
+void _0xD049FDAF089FDDB0(Ped ped, Hash p1, float p2);
 ```
 
 

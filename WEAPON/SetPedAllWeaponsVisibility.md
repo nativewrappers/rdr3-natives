@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4F806A6CFED89468
-void _SET_PED_ALL_WEAPONS_VISIBILITY(Ped ped,BOOL visible);
+void _SET_PED_ALL_WEAPONS_VISIBILITY(Ped ped, BOOL visible);
 ```
 
 

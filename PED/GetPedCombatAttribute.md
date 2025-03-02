@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCC2B20596E29E4E3
-Any _GET_PED_COMBAT_ATTRIBUTE(Ped ped,int attributeIndex);
+Any _GET_PED_COMBAT_ATTRIBUTE(Ped ped, int attributeIndex);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEF3C68F56BAD7B69
-void _TELEMETRY_MATCH_VOTE(Any* p0,Any* p1);
+void _TELEMETRY_MATCH_VOTE(Any* p0, Any* p1);
 ```
 
 

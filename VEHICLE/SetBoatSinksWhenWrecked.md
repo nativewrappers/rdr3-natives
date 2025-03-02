@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x62A6D317A011EA1D
-void SET_BOAT_SINKS_WHEN_WRECKED(Vehicle vehicle,BOOL toggle);
+void SET_BOAT_SINKS_WHEN_WRECKED(Vehicle vehicle, BOOL toggle);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA98FCAFD7893C834
-void UPDATE_TASK_HANDS_UP_DURATION(Ped ped,int duration);
+void UPDATE_TASK_HANDS_UP_DURATION(Ped ped, int duration);
 ```
 
 

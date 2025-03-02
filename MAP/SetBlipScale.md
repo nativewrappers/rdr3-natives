@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD38744167B2FA257
-void SET_BLIP_SCALE(Blip blip,float scale);
+void SET_BLIP_SCALE(Blip blip, float scale);
 ```
 
 

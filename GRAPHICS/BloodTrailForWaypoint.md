@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB9C92616929CC25D
-void _BLOOD_TRAIL_FOR_WAYPOINT(char* waypointRecording,float p1);
+void _BLOOD_TRAIL_FOR_WAYPOINT(char* waypointRecording, float p1);
 ```
 
 p1: 0.3f in R* Scripts

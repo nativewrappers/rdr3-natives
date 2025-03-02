@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0772F87D7B07719A
-Any _GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_SP(Player player,int p1,Hash discoveryHash);
+Any _GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_SP(Player player, int p1, Hash discoveryHash);
 ```
 
 

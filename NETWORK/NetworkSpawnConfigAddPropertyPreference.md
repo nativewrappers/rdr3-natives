@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEB6027FD1B4600D5
-void _NETWORK_SPAWN_CONFIG_ADD_PROPERTY_PREFERENCE(int configProperty,BOOL include,float weight);
+void _NETWORK_SPAWN_CONFIG_ADD_PROPERTY_PREFERENCE(int configProperty, BOOL include, float weight);
 ```
 
 

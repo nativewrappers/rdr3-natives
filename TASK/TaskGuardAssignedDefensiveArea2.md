@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1FC9B33976BACD6C
-void _TASK_GUARD_ASSIGNED_DEFENSIVE_AREA_2(Ped ped,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6,Any p7);
+void _TASK_GUARD_ASSIGNED_DEFENSIVE_AREA_2(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
 ```
 
 

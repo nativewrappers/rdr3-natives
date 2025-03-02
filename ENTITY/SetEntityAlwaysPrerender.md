@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xACAD101E1FB66689
-void SET_ENTITY_ALWAYS_PRERENDER(Entity entity,BOOL toggle);
+void SET_ENTITY_ALWAYS_PRERENDER(Entity entity, BOOL toggle);
 ```
 
 

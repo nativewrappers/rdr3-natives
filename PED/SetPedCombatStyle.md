@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8ACC0506743A8A5C
-void _SET_PED_COMBAT_STYLE(Ped ped,Hash combatStyleHash,int p2,float duration);
+void _SET_PED_COMBAT_STYLE(Ped ped, Hash combatStyleHash, int p2, float duration);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_STYLES

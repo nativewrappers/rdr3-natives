@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEAF682A14F8E5F53
-Ped _CREATE_META_PED_OUTFIT_PED(int requestId,float x,float y,float z,float heading,BOOL p5,BOOL p6,BOOL p7,BOOL p8);
+Ped _CREATE_META_PED_OUTFIT_PED(int requestId, float x, float y, float z, float heading, BOOL p5, BOOL p6, BOOL p7, BOOL p8);
 ```
 
 Creates metaped from ped outfit requestId. See _REQUEST_METAPED_OUTFIT

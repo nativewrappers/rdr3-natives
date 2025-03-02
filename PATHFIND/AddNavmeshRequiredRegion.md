@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x387EAD7EE42F6685
-void ADD_NAVMESH_REQUIRED_REGION(float x,float y,float radius);
+void ADD_NAVMESH_REQUIRED_REGION(float x, float y, float radius);
 ```
 
 

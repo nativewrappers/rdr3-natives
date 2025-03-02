@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0C093C1787F18519
-Any _INVENTORY_GET_INVENTORY_ITEM_INSPECTION_INFO(Hash item,Any* info);
+Any _INVENTORY_GET_INVENTORY_ITEM_INSPECTION_INFO(Hash item, Any* info);
 ```
 
 

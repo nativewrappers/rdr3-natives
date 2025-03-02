@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x423DE3854BB50894
-void NETWORK_SET_IN_SPECTATOR_MODE(BOOL toggle,Ped playerPed);
+void NETWORK_SET_IN_SPECTATOR_MODE(BOOL toggle, Ped playerPed);
 ```
 
 

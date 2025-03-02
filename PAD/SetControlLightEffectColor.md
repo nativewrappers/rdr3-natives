@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8290252FFF36ACB5
-void SET_CONTROL_LIGHT_EFFECT_COLOR(int control,int red,int green,int blue);
+void SET_CONTROL_LIGHT_EFFECT_COLOR(int control, int red, int green, int blue);
 ```
 
 nullsub, doesn't do anything

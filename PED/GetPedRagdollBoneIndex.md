@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC5303F460A40D21D
-int _GET_PED_RAGDOLL_BONE_INDEX(Ped ped,int boneId);
+int _GET_PED_RAGDOLL_BONE_INDEX(Ped ped, int boneId);
 ```
 
 Returns boneIndex

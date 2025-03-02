@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x203BEFFDBE12E96A
-void _SET_ENTITY_COORDS_AND_HEADING(Entity entity,float xPos,float yPos,float zPos,float heading,BOOL xAxis,BOOL yAxis,BOOL zAxis);
+void _SET_ENTITY_COORDS_AND_HEADING(Entity entity, float xPos, float yPos, float zPos, float heading, BOOL xAxis, BOOL yAxis, BOOL zAxis);
 ```
 
 

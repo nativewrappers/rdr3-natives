@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9993F1E11944A3DD
-Any _UGC_QUERY_GET_PUBLISHED(Any p0,Any p1);
+Any _UGC_QUERY_GET_PUBLISHED(Any p0, Any p1);
 ```
 
 

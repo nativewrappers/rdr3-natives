@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEDD964B7984AC291
-Any _BLIP_SET_STYLE(Blip blip,Hash styleHash);
+Any _BLIP_SET_STYLE(Blip blip, Hash styleHash);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/blip_styles

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x856FF92C57742AE5
-Any _ITEMDATABASE_CAN_EQUIP_ITEM_ON_CATEGORY(Hash key,Hash category,Hash slotId);
+Any _ITEMDATABASE_CAN_EQUIP_ITEM_ON_CATEGORY(Hash key, Hash category, Hash slotId);
 ```
 
 

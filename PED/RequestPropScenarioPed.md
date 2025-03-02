@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBEC65C6049B3219D
-Any _REQUEST_PROP_SCENARIO_PED(Ped ped,Object object,char* p2,char* p3,char* p4,BOOL p5);
+Any _REQUEST_PROP_SCENARIO_PED(Ped ped, Object object, char* p2, char* p3, char* p4, BOOL p5);
 ```
 
 

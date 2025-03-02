@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEED08A3A98B847E2
-void END_DUEL(Ped ped,BOOL p1,float p2);
+void END_DUEL(Ped ped, BOOL p1, float p2);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x506CE71FB6E8CF5E
-void SET_MIN_TIME_BEFORE_HORSE_BUCKING(Ped mount,int iMinBuckTime);
+void SET_MIN_TIME_BEFORE_HORSE_BUCKING(Ped mount, int iMinBuckTime);
 ```
 
 

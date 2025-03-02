@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x25F6EF88664540E2
-void SET_FOCUS_POS_AND_VEL(float x,float y,float z,float offsetX,float offsetY,float offsetZ);
+void SET_FOCUS_POS_AND_VEL(float x, float y, float z, float offsetX, float offsetY, float offsetZ);
 ```
 
 

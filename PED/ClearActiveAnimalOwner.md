@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBCC76708E5677E1D
-void _CLEAR_ACTIVE_ANIMAL_OWNER(Ped horse,BOOL clear);
+void _CLEAR_ACTIVE_ANIMAL_OWNER(Ped horse, BOOL clear);
 ```
 
 Used in Script Functions PLAYER_HORSE_RELEASE_HORSE_TO_AMBIENT_WORLD (p1 = true), HORSE_SETUP_PLAYER_HORSE_ATTRIBUTES (p1 = false)

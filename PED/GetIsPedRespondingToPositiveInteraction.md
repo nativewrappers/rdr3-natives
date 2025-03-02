@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9337183FDA2E9035
-Any GET_IS_PED_RESPONDING_TO_POSITIVE_INTERACTION(Ped ped,Player player);
+Any GET_IS_PED_RESPONDING_TO_POSITIVE_INTERACTION(Ped ped, Player player);
 ```
 
 

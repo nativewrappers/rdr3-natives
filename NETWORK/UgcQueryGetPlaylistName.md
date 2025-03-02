@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCAF50048C8D0FBA0
-char* _UGC_QUERY_GET_PLAYLIST_NAME(Any p0,int index);
+char* _UGC_QUERY_GET_PLAYLIST_NAME(Any p0, int index);
 ```
 
 

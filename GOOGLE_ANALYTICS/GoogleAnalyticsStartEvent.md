@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1C54F031D7C0F7AC
-BOOL _GOOGLE_ANALYTICS_START_EVENT(char* eventCategory,char* eventAction,char* eventLabel,int eventValue);
+BOOL _GOOGLE_ANALYTICS_START_EVENT(char* eventCategory, char* eventAction, char* eventLabel, int eventValue);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x260BE8F09E326A20
-void BRING_VEHICLE_TO_HALT(Vehicle vehicle,float distance,int duration,BOOL unknown);
+void BRING_VEHICLE_TO_HALT(Vehicle vehicle, float distance, int duration, BOOL unknown);
 ```
 
 This native makes the vehicle stop immediately

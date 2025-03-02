@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9AB192A9EF980EED
-Any ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH(Hash effectNameHash,int p1,BOOL p2,BOOL* p3);
+Any ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH(Hash effectNameHash, int p1, BOOL p2, BOOL* p3);
 ```
 
 

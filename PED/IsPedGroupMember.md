@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9BB01E3834671191
-BOOL IS_PED_GROUP_MEMBER(Ped ped,int groupId,BOOL p2);
+BOOL IS_PED_GROUP_MEMBER(Ped ped, int groupId, BOOL p2);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE0447DEF81CCDFD2
-void SET_PLAYER_SIMULATE_AIMING(Player player,BOOL toggle);
+void SET_PLAYER_SIMULATE_AIMING(Player player, BOOL toggle);
 ```
 
 

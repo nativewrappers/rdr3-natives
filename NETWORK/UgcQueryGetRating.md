@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x24CD8FAEA1368379
-float _UGC_QUERY_GET_RATING(Any p0,int index,int p2);
+float _UGC_QUERY_GET_RATING(Any p0, int index, int p2);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x60614A0AB580A2B5
-Any _ITEMDATABASE_FILLOUT_MODIFIER(Hash key,int index,Any* outData);
+Any _ITEMDATABASE_FILLOUT_MODIFIER(Hash key, int index, Any* outData);
 ```
 
 

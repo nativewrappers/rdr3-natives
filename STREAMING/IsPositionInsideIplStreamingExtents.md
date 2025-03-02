@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x73B40D97D7BAAD77
-Any _IS_POSITION_INSIDE_IPL_STREAMING_EXTENTS(Hash iplHash,float x,float y,float z);
+Any _IS_POSITION_INSIDE_IPL_STREAMING_EXTENTS(Hash iplHash, float x, float y, float z);
 ```
 
 Returns true if IPL is streamed in (?)

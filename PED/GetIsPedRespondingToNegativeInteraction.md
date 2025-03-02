@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA454D234E45BB6E5
-Any GET_IS_PED_RESPONDING_TO_NEGATIVE_INTERACTION(Ped ped,Player player);
+Any GET_IS_PED_RESPONDING_TO_NEGATIVE_INTERACTION(Ped ped, Player player);
 ```
 
 

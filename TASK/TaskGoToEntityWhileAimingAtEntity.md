@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x97465886D35210E9
-void TASK_GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY(Ped ped,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6,Any p7,Any p8,Any p9,Any p10);
+void TASK_GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10);
 ```
 
 shootatEntity:

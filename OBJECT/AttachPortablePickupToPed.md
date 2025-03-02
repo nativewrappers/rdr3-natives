@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8DC39368BDD57755
-void ATTACH_PORTABLE_PICKUP_TO_PED(Object pickupObject,Ped ped);
+void ATTACH_PORTABLE_PICKUP_TO_PED(Object pickupObject, Ped ped);
 ```
 
 

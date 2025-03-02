@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x082C043C7AFC3747
-void _DISABLE_COMPOSITE_PICK_PROMPT_THIS_FRAME(int compositeId,BOOL disable);
+void _DISABLE_COMPOSITE_PICK_PROMPT_THIS_FRAME(int compositeId, BOOL disable);
 ```
 
 disables composite Pick prompt

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF6262491C7704A63
-void _INCAPACITATED_REVIVE(Ped ped,Ped ped2);
+void _INCAPACITATED_REVIVE(Ped ped, Ped ped2);
 ```
 
 

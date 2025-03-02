@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x886E37EC497200B6
-BOOL IS_ENTITY_IN_AIR(Entity entity,Any p1);
+BOOL IS_ENTITY_IN_AIR(Entity entity, Any p1);
 ```
 
 

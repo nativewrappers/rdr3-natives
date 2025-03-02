@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x82FA24C3D3FCD9B7
-Any _INVENTORY_GET_ITEM_FROM_COLLECTION_INDEX(int collectionId,int itemIndex,Any* itemData);
+Any _INVENTORY_GET_ITEM_FROM_COLLECTION_INDEX(int collectionId, int itemIndex, Any* itemData);
 ```
 
 collectionId is < outCollectionSize

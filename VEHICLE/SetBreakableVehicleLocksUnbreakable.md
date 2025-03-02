@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBC4735F48CD983EF
-void SET_BREAKABLE_VEHICLE_LOCKS_UNBREAKABLE(Vehicle vehicle,BOOL toggle);
+void SET_BREAKABLE_VEHICLE_LOCKS_UNBREAKABLE(Vehicle vehicle, BOOL toggle);
 ```
 
 

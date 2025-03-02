@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x49A8447533308BCF
-void _VIRTUAL_COLLECTION_SET_INTEREST_INDEX(Any p0,int interestIndex);
+void _VIRTUAL_COLLECTION_SET_INTEREST_INDEX(Any p0, int interestIndex);
 ```
 
 

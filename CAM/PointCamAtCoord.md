@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x948B39341C3A40C2
-void POINT_CAM_AT_COORD(Cam cam,float x,float y,float z);
+void POINT_CAM_AT_COORD(Cam cam, float x, float y, float z);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x87B5905ECA623B68
-void REMOVE_PARTICLE_FX_IN_RANGE(float X,float Y,float Z,float radius);
+void REMOVE_PARTICLE_FX_IN_RANGE(float X, float Y, float Z, float radius);
 ```
 
 

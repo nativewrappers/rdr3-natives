@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDF85637F22706891
-Volume CREATE_VOLUME_BOX(float x,float y,float z,float rotX,float rotY,float rotZ,float scaleX,float scaleY,float scaleZ);
+Volume CREATE_VOLUME_BOX(float x, float y, float z, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDA26263C87CCE9C1
-void _STAT_ITEM_FISH_CAUGHT(Ped fish,float weight,Hash category,Hash subcategory);
+void _STAT_ITEM_FISH_CAUGHT(Ped fish, float weight, Hash category, Hash subcategory);
 ```
 
 

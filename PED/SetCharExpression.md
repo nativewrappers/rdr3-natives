@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5653AB26C82938CF
-void _SET_CHAR_EXPRESSION(Ped ped,int index,float value);
+void _SET_CHAR_EXPRESSION(Ped ped, int index, float value);
 ```
 
 Sets MetaPedExpression at index specified. Morphs components, such as changing body size or facial features.

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDEC85C174751292B
-void _UI_PROMPT_SET_TAG(Prompt prompt,Any p1);
+void _UI_PROMPT_SET_TAG(Prompt prompt, Any p1);
 ```
 
 

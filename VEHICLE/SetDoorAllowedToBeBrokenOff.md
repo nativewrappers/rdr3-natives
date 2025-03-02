@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x081FB9D6422F804C
-void SET_DOOR_ALLOWED_TO_BE_BROKEN_OFF(Vehicle vehicle,int doorId,BOOL isBreakable);
+void SET_DOOR_ALLOWED_TO_BE_BROKEN_OFF(Vehicle vehicle, int doorId, BOOL isBreakable);
 ```
 
 doorId: see SET_VEHICLE_DOOR_SHUT

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x97764E8AC6487A9A
-int _UGC_QUERY_GET_LANGUAGE(Any p0,int index);
+int _UGC_QUERY_GET_LANGUAGE(Any p0, int index);
 ```
 
 

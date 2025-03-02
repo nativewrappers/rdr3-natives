@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8C7C7FF7CF0E5153
-void STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP(BOOL render,float distance,int blendBackSmoothingType,BOOL p3,BOOL p4,BOOL p5);
+void STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP(BOOL render, float distance, int blendBackSmoothingType, BOOL p3, BOOL p4, BOOL p5);
 ```
 
 This native makes the gameplay camera zoom into first person/third person with a special effect.

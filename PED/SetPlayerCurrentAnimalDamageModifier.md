@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9EFF3C91DF38304F
-Any _SET_PLAYER_CURRENT_ANIMAL_DAMAGE_MODIFIER(Player player,float modifier,int p2,int p3);
+Any _SET_PLAYER_CURRENT_ANIMAL_DAMAGE_MODIFIER(Player player, float modifier, int p2, int p3);
 ```
 
 Animal Skin Quality Modifier

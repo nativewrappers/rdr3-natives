@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5AE99C571D5BBE5D
-void TRIGGER_SCRIPT_EVENT(int eventGroup,Any* eventData,int eventDataSize,int scriptMetadataIndex,int* playerBits);
+void TRIGGER_SCRIPT_EVENT(int eventGroup, Any* eventData, int eventDataSize, int scriptMetadataIndex, int* playerBits);
 ```
 
 eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QUEUE_NETWORK (CEventGroupScriptNetwork), 2 = unk, 3 = unk, 4 = SCRIPT_EVENT_QUEUE_SCRIPT_ERRORS (CEventGroupScriptErrors)

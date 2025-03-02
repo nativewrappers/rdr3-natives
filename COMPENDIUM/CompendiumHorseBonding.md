@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x725D52F21A5E9E50
-void COMPENDIUM_HORSE_BONDING(Ped ped,int bondingLevel);
+void COMPENDIUM_HORSE_BONDING(Ped ped, int bondingLevel);
 ```
 
 

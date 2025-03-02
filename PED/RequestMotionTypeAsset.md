@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF7EA250B9A919E03
-void _REQUEST_MOTION_TYPE_ASSET(Hash nameHash,Ped ped);
+void _REQUEST_MOTION_TYPE_ASSET(Hash nameHash, Ped ped);
 ```
 
 

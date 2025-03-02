@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB39C81628EF10B42
-BOOL GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX,float worldY,float worldZ,float* screenX,float* screenY);
+BOOL GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX, float worldY, float worldZ, float* screenX, float* screenY);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x82BFB5B367957699
-char* COMPENDIUM_GET_SUBCATEGORY_SAMPLE_TOAST_DESC_PROGRESS(Hash category,Hash subcategory);
+char* COMPENDIUM_GET_SUBCATEGORY_SAMPLE_TOAST_DESC_PROGRESS(Hash category, Hash subcategory);
 ```
 
 

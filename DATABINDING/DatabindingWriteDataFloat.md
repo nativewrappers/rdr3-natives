@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDF504BECEB15DA93
-void _DATABINDING_WRITE_DATA_FLOAT(Any p0,float p1);
+void _DATABINDING_WRITE_DATA_FLOAT(Any p0, float p1);
 ```
 
 

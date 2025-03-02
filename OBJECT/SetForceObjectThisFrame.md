@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF538081986E49E9D
-void SET_FORCE_OBJECT_THIS_FRAME(float x,float y,float z,float p3);
+void SET_FORCE_OBJECT_THIS_FRAME(float x, float y, float z, float p3);
 ```
 
 

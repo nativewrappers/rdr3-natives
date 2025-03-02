@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF2753D691BCDA314
-Any _INVENTORY_SWAP_INVENTORY_ITEM(int inventoryId,Any* guid1,Any* guid2);
+Any _INVENTORY_SWAP_INVENTORY_ITEM(int inventoryId, Any* guid1, Any* guid2);
 ```
 
 

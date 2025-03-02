@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFFD54D9FE71B966A
-void _SET_PED_ACTIVATE_WOUND_EFFECT(Ped ped,int p1,int boneId,float moveWoundLeftRight,float bloodFountainPressure,float yaw,float bloodFountainDirection,float bloodFountainPulse,float p8,float p9);
+void _SET_PED_ACTIVATE_WOUND_EFFECT(Ped ped, int p1, int boneId, float moveWoundLeftRight, float bloodFountainPressure, float yaw, float bloodFountainDirection, float bloodFountainPulse, float p8, float p9);
 ```
 
 bloodFountainPressure: visible effect from 0.0 till 20.0

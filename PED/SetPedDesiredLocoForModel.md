@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x923583741DC87BCE
-void _SET_PED_DESIRED_LOCO_FOR_MODEL(Ped ped,char* locomotionArchetype);
+void _SET_PED_DESIRED_LOCO_FOR_MODEL(Ped ped, char* locomotionArchetype);
 ```
 
 Seems to set the ped's loco type.

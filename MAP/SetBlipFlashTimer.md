@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x02FF4CF43B7209D1
-void SET_BLIP_FLASH_TIMER(Blip blip,int blipType,Hash blipHash);
+void SET_BLIP_FLASH_TIMER(Blip blip, int blipType, Hash blipHash);
 ```
 
 

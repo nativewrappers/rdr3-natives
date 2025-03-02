@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x794AB1379A74064D
-int CREATE_SCENARIO_POINT_HASH_ATTACHED_TO_ENTITY(Entity entity,Hash scenarioHash,float x,float y,float z,float heading,Any p6,Any p7,BOOL p8);
+int CREATE_SCENARIO_POINT_HASH_ATTACHED_TO_ENTITY(Entity entity, Hash scenarioHash, float x, float y, float z, float heading, Any p6, Any p7, BOOL p8);
 ```
 
 Returns scenario

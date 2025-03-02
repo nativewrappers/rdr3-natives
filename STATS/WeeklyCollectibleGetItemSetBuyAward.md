@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x610783F646894D25
-Hash WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD(Hash chalHash,int index);
+Hash WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD(Hash chalHash, int index);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x11A7FF918EF6BC66
-void _SET_WEAPON_DEGRADATION_MODIFIER(Player player,float modifier);
+void _SET_WEAPON_DEGRADATION_MODIFIER(Player player, float modifier);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x780C5B9AE2819807
-Any _INVENTORY_FITS_SLOT_ID(Hash item,Hash slotId);
+Any _INVENTORY_FITS_SLOT_ID(Hash item, Hash slotId);
 ```
 
 

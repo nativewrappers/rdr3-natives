@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x45F13B7E0A15C880
-Blip BLIP_ADD_FOR_RADIUS(Hash blipHash,float x,float y,float z,float radius);
+Blip BLIP_ADD_FOR_RADIUS(Hash blipHash, float x, float y, float z, float radius);
 ```
 
 

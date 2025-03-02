@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x348F211CA2404039
-int NAVMESH_REQUEST_PATH(Ped ped,float x1,float y1,float z1,float x2,float y2,float z2,int bitFlag);
+int NAVMESH_REQUEST_PATH(Ped ped, float x1, float y1, float z1, float x2, float y2, float z2, int bitFlag);
 ```
 
 Starts a nav mesh query for a path between coordinates with a given ped and returns a handle to be validated by _NAVMESH_REQUESTED_QUERY_STATUS and then _NAVMESH_REQUESTED_PATH_WAYPOINTS_FOUND

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE3A46370F70F3607
-void _INVENTORY_DISABLE_WEAPONS(int inventoryId,Any p1);
+void _INVENTORY_DISABLE_WEAPONS(int inventoryId, Any p1);
 ```
 
 Params: p1 = 0

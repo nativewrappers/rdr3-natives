@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1240E8596A8308B9
-void SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON(Vehicle vehicle,BOOL toggle);
+void SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON(Vehicle vehicle, BOOL toggle);
 ```
 
 

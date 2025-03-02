@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7AEFB85C1D49DEB6
-void SET_PED_ACCURACY(Ped ped,int accuracy);
+void SET_PED_ACCURACY(Ped ped, int accuracy);
 ```
 
 accuracy = 0-100, 100 being perfectly accurate

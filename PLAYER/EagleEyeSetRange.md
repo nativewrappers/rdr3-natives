@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x22C8B10802301381
-void _EAGLE_EYE_SET_RANGE(Player player,float range);
+void _EAGLE_EYE_SET_RANGE(Player player, float range);
 ```
 
 

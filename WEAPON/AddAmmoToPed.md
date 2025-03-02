@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB190BCA3F4042F95
-void _ADD_AMMO_TO_PED(Ped ped,Hash weaponHash,int amount,Hash addReason);
+void _ADD_AMMO_TO_PED(Ped ped, Hash weaponHash, int amount, Hash addReason);
 ```
 
 addReason:

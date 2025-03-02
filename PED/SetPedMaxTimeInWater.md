@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x43C851690662113D
-void SET_PED_MAX_TIME_IN_WATER(Ped ped,float value);
+void SET_PED_MAX_TIME_IN_WATER(Ped ped, float value);
 ```
 
 

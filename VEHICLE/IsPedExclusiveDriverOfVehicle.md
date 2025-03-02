@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB213D2A560B2E48B
-Any _IS_PED_EXCLUSIVE_DRIVER_OF_VEHICLE(Ped ped,Vehicle vehicle,int* outIndex);
+Any _IS_PED_EXCLUSIVE_DRIVER_OF_VEHICLE(Ped ped, Vehicle vehicle, int* outIndex);
 ```
 
 

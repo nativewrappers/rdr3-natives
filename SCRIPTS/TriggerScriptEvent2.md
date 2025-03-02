@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8B61C950A148FFA2
-void _TRIGGER_SCRIPT_EVENT_2(Any* eventData,int eventDataSize,int scriptMetadataIndex,int threadId);
+void _TRIGGER_SCRIPT_EVENT_2(Any* eventData, int eventDataSize, int scriptMetadataIndex, int threadId);
 ```
 
 

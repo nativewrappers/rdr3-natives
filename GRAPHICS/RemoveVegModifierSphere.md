@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9CF1836C03FB67A2
-void REMOVE_VEG_MODIFIER_SPHERE(int vegModifierHandle,int p1);
+void REMOVE_VEG_MODIFIER_SPHERE(int vegModifierHandle, int p1);
 ```
 
 

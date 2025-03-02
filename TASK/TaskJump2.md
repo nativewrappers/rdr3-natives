@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x91083103137D7254
-void _TASK_JUMP_2(Ped ped,float x,float y,float z,Entity entity);
+void _TASK_JUMP_2(Ped ped, float x, float y, float z, Entity entity);
 ```
 
 

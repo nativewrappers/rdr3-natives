@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7C1C2062CFAD06FE
-void _UNLOCK_GET_ITEM_ROLE_UNLOCK_INFO(Hash unlockHash,Any* outData);
+void _UNLOCK_GET_ITEM_ROLE_UNLOCK_INFO(Hash unlockHash, Any* outData);
 ```
 
 

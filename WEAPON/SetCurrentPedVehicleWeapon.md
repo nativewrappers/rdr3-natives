@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x75C55983C2C39DAA
-BOOL SET_CURRENT_PED_VEHICLE_WEAPON(Ped ped,Hash weaponHash);
+BOOL SET_CURRENT_PED_VEHICLE_WEAPON(Ped ped, Hash weaponHash);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x339E16B41780FC35
-int _UI_STICKY_FEED_CREATE_WARNING_MESSAGE(Any* p0,Any* p1,BOOL p2);
+int _UI_STICKY_FEED_CREATE_WARNING_MESSAGE(Any* p0, Any* p1, BOOL p2);
 ```
 
 Example: https://pastebin.com/6mLtee2S

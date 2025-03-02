@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x16B23D4F7A1F50D9
-void _TELEMETRY_FAVOR_EMOTE(Any p0,Any p1,Any p2);
+void _TELEMETRY_FAVOR_EMOTE(Any p0, Any p1, Any p2);
 ```
 
 

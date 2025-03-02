@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x013A7BA5015C1372
-void _SET_PED_IGNORE_DEAD_BODIES(Ped ped,BOOL toggle);
+void _SET_PED_IGNORE_DEAD_BODIES(Ped ped, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9B4F7E3E4F9C77B3
-Any _IS_ROPE_ATTACHED_TO_ENTITY(int ropeId,Entity entity);
+Any _IS_ROPE_ATTACHED_TO_ENTITY(int ropeId, Entity entity);
 ```
 
 

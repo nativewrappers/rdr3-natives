@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4CACA84440FA26F6
-BOOL NETWORK_GET_ASSISTED_DAMAGE_OF_ENTITY(Player player,Entity entity,int* p2);
+BOOL NETWORK_GET_ASSISTED_DAMAGE_OF_ENTITY(Player player, Entity entity, int* p2);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA29FD00D45311EB7
-float GET_PED_BLACKBOARD_SCRIPT_FLOAT(Ped ped,char* variableName);
+float GET_PED_BLACKBOARD_SCRIPT_FLOAT(Ped ped, char* variableName);
 ```
 
 

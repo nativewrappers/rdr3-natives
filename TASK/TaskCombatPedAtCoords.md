@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC624414FA748B9BA
-void _TASK_COMBAT_PED_AT_COORDS(Ped ped,float x,float y,float z,int p4,int p5);
+void _TASK_COMBAT_PED_AT_COORDS(Ped ped, float x, float y, float z, int p4, int p5);
 ```
 
 Coords: volume coords used in R* Script smuggler2

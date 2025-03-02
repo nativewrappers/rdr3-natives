@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB98B78C3768AF6E0
-float _GET_TEMPERATURE_AT_COORDS(float x,float y,float z);
+float _GET_TEMPERATURE_AT_COORDS(float x, float y, float z);
 ```
 
 

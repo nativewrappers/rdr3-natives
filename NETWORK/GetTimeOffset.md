@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x017008CCDAD48503
-int GET_TIME_OFFSET(int timeA,int timeB);
+int GET_TIME_OFFSET(int timeA, int timeB);
 ```
 
 Adds the first argument to the second.

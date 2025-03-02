@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x876E4A35C73A6655
-void _UI_PROMPT_SET_TRANSPORT_MODE(Prompt prompt,int mode);
+void _UI_PROMPT_SET_TRANSPORT_MODE(Prompt prompt, int mode);
 ```
 
 TM_ANY = 0,

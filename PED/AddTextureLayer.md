@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x86BB5FF45F193A02
-int _ADD_TEXTURE_LAYER(int textureId,Hash albedoHash,Hash normalHash,Hash materialHash,int blendType,float texAlpha,int sheetGridIndex);
+int _ADD_TEXTURE_LAYER(int textureId, Hash albedoHash, Hash normalHash, Hash materialHash, int blendType, float texAlpha, int sheetGridIndex);
 ```
 
 Creates ped overlay in texture override data and returns it's index.

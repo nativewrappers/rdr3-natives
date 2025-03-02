@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFBA08C503DD5FA58
-Pickup CREATE_PICKUP(Hash pickupHash,float x,float y,float z,int flags,int p5,BOOL p6,Hash modelHash,int p8,float p9,Any p10);
+Pickup CREATE_PICKUP(Hash pickupHash, float x, float y, float z, int flags, int p5, BOOL p6, Hash modelHash, int p8, float p9, Any p10);
 ```
 
 https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/Placement%20Flags

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x227522FD59DDB7E8
-Any _INVENTORY_SET_INVENTORY_ITEM_INSPECTION_ENABLED(int inventoryId,Any* p1,BOOL enabled);
+Any _INVENTORY_SET_INVENTORY_ITEM_INSPECTION_ENABLED(int inventoryId, Any* p1, BOOL enabled);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6E884BAB713A2A94
-void SET_VEHICLE_UNDRIVEABLE(Vehicle vehicle,BOOL toggle);
+void SET_VEHICLE_UNDRIVEABLE(Vehicle vehicle, BOOL toggle);
 ```
 
 

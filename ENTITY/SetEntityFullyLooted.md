@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6BCF5F3D8FFE988D
-void _SET_ENTITY_FULLY_LOOTED(Entity entity,BOOL looted);
+void _SET_ENTITY_FULLY_LOOTED(Entity entity, BOOL looted);
 ```
 
 

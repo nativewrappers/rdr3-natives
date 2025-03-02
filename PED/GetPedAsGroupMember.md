@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x51455483CF23ED97
-Ped GET_PED_AS_GROUP_MEMBER(int groupID,int memberNumber);
+Ped GET_PED_AS_GROUP_MEMBER(int groupID, int memberNumber);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE7E4C198B0185900
-void BREAK_OBJECT_FRAGMENT_CHILD(Object object,Any p1,BOOL p2);
+void BREAK_OBJECT_FRAGMENT_CHILD(Object object, Any p1, BOOL p2);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2F25D9AEFA34FBA2
-void REGISTER_TARGET(Ped ped,Ped targetPed,BOOL p2);
+void REGISTER_TARGET(Ped ped, Ped targetPed, BOOL p2);
 ```
 
 

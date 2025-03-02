@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD8254CB2C586412B
-Any IS_ANIM_SCENE_FINISHED(AnimScene animScene,BOOL p1);
+Any IS_ANIM_SCENE_FINISHED(AnimScene animScene, BOOL p1);
 ```
 
 

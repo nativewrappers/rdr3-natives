@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x04ACFAC71E6858F9
-void TASK_WALK_AWAY(Ped ped,Entity entity);
+void TASK_WALK_AWAY(Ped ped, Entity entity);
 ```
 
 

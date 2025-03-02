@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4707E9C23D8CA3FE
-void _REMOVE_TARGET(Ped ped,Ped targetPed);
+void _REMOVE_TARGET(Ped ped, Ped targetPed);
 ```
 
 

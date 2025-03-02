@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x36D0F2BA2C0D9BDE
-Any _0x36D0F2BA2C0D9BDE(Entity entity,int p1);
+Any _0x36D0F2BA2C0D9BDE(Entity entity, int p1);
 ```
 
 _ADD* (_ADD_SHOCKING_EVENT_* ?)

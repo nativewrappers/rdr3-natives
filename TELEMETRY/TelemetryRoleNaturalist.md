@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6FB9EA308F302922
-void _TELEMETRY_ROLE_NATURALIST(Any transactionId,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6,Any p7,Any p8,Any p9);
+void _TELEMETRY_ROLE_NATURALIST(Any transactionId, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9);
 ```
 
 

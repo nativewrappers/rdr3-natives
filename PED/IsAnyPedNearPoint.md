@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x083961498679DC9F
-BOOL IS_ANY_PED_NEAR_POINT(float x,float y,float z,float radius);
+BOOL IS_ANY_PED_NEAR_POINT(float x, float y, float z, float radius);
 ```
 
 

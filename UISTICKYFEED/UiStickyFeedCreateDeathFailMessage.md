@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x815C4065AE6E6071
-int _UI_STICKY_FEED_CREATE_DEATH_FAIL_MESSAGE(Any* p0,Any* p1,BOOL p2);
+int _UI_STICKY_FEED_CREATE_DEATH_FAIL_MESSAGE(Any* p0, Any* p1, BOOL p2);
 ```
 
 Example: https://pastebin.com/JygJShNU

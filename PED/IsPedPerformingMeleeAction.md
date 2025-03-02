@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDCCA191DF9980FD7
-BOOL IS_PED_PERFORMING_MELEE_ACTION(Ped ped,int p1,Hash p2);
+BOOL IS_PED_PERFORMING_MELEE_ACTION(Ped ped, int p1, Hash p2);
 ```
 
 

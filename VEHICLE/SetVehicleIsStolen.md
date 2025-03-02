@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6C32FC81DFF25C9A
-void SET_VEHICLE_IS_STOLEN(Vehicle vehicle,BOOL isStolen);
+void SET_VEHICLE_IS_STOLEN(Vehicle vehicle, BOOL isStolen);
 ```
 
 

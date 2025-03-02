@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x244F70C84C547D2D
-void WAYPOINT_PLAYBACK_RESUME(Ped ped,BOOL p1,int p2,int p3);
+void WAYPOINT_PLAYBACK_RESUME(Ped ped, BOOL p1, int p2, int p3);
 ```
 
 

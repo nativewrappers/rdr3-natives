@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9A2304A64C3C8423
-BOOL IS_ENTITY_TOUCHING_ENTITY(Entity entity,Entity targetEntity);
+BOOL IS_ENTITY_TOUCHING_ENTITY(Entity entity, Entity targetEntity);
 ```
 
 

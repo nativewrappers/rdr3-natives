@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x527EA3DB8BC7F03B
-void TASK_WANDER_SWIM(Ped ped,Any p1);
+void TASK_WANDER_SWIM(Ped ped, Any p1);
 ```
 
 

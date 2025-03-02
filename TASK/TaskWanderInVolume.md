@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9FDA168777B28424
-void TASK_WANDER_IN_VOLUME(Ped ped,Volume volume,float p2,float p3,int p4);
+void TASK_WANDER_IN_VOLUME(Ped ped, Volume volume, float p2, float p3, int p4);
 ```
 
 

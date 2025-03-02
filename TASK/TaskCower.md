@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3EB1FE9E8E908E15
-void TASK_COWER(Ped ped,int duration,Ped pedToCowerFrom,char* p3);
+void TASK_COWER(Ped ped, int duration, Ped pedToCowerFrom, char* p3);
 ```
 
 

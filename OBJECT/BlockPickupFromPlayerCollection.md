@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB8F5062070BB6DBD
-void BLOCK_PICKUP_FROM_PLAYER_COLLECTION(Any p0,Any p1);
+void BLOCK_PICKUP_FROM_PLAYER_COLLECTION(Any p0, Any p1);
 ```
 
 

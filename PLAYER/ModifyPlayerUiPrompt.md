@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0751D461F06E41CE
-void _MODIFY_PLAYER_UI_PROMPT(Player player,int promptType,int promptMode,BOOL disabled);
+void _MODIFY_PLAYER_UI_PROMPT(Player player, int promptType, int promptMode, BOOL disabled);
 ```
 
 Params: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePromptType

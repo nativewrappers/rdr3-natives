@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF45E46DEECF7DF6E
-void _0xF45E46DEECF7DF6E(int bitFlag,Any p1,Any p2,Any p3,Any p4);
+void _0xF45E46DEECF7DF6E(int bitFlag, Any p1, Any p2, Any p3, Any p4);
 ```
 
 

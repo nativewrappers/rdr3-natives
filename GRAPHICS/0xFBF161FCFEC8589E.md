@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFBF161FCFEC8589E
-BOOL _0xFBF161FCFEC8589E(char* effectName,int p1,BOOL p2,BOOL* p3);
+BOOL _0xFBF161FCFEC8589E(char* effectName, int p1, BOOL p2, BOOL* p3);
 ```
 
 ANIMPOSTFX_*

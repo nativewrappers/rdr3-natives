@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDCCAA7C3BFD88862
-Any _INVENTORY_MOVE_INVENTORY_ITEM(int inventoryId,Any* guid1,Any* guid2,Hash slotId,int quantity,Any* outGuid);
+Any _INVENTORY_MOVE_INVENTORY_ITEM(int inventoryId, Any* guid1, Any* guid2, Hash slotId, int quantity, Any* outGuid);
 ```
 
 guid1: old parent GUID

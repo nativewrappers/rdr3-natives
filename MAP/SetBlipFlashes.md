@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0DF2B55F717DDB10
-Any SET_BLIP_FLASHES(Blip blip,int* p1,Hash* p2);
+Any SET_BLIP_FLASHES(Blip blip, int* p1, Hash* p2);
 ```
 
 

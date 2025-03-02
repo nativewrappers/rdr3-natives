@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x44D59EC597BBF348
-void _NETWORK_SPAWN_CONFIG_ADD_PROPERTY_SCRIPTED(int configProperty,BOOL include);
+void _NETWORK_SPAWN_CONFIG_ADD_PROPERTY_SCRIPTED(int configProperty, BOOL include);
 ```
 
 

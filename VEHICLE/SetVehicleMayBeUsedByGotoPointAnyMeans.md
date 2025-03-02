@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7549B9E841940695
-void SET_VEHICLE_MAY_BE_USED_BY_GOTO_POINT_ANY_MEANS(Vehicle vehicle,BOOL p1);
+void SET_VEHICLE_MAY_BE_USED_BY_GOTO_POINT_ANY_MEANS(Vehicle vehicle, BOOL p1);
 ```
 
 

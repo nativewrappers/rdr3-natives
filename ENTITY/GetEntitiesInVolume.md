@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x886171A12F400B89
-int _GET_ENTITIES_IN_VOLUME(Volume volume,ItemSet itemSet,int entityType);
+int _GET_ENTITIES_IN_VOLUME(Volume volume, ItemSet itemSet, int entityType);
 ```
 
 

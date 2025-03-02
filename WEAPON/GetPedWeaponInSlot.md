@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDBC4B552B2AE9A83
-Hash _GET_PED_WEAPON_IN_SLOT(Ped ped,Hash slotHash);
+Hash _GET_PED_WEAPON_IN_SLOT(Ped ped, Hash slotHash);
 ```
 
 slotHash is usually just the weaponHash name, but WEAPON_* is replaced with SLOT_*

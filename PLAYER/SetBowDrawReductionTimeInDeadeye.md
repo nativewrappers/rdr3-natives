@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBE0C524970892D41
-void _SET_BOW_DRAW_REDUCTION_TIME_IN_DEADEYE(Player player,float drawReductionTime);
+void _SET_BOW_DRAW_REDUCTION_TIME_IN_DEADEYE(Player player, float drawReductionTime);
 ```
 
 

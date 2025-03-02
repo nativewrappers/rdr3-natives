@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x101F538C25ABB39A
-Any NETWORK_RESET_POPULATION(BOOL p0,int p1);
+Any NETWORK_RESET_POPULATION(BOOL p0, int p1);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5A498FCA232F71E1
-void _SET_SPECIAL_ABILITY_MULTIPLIER(Player player,float multiplier);
+void _SET_SPECIAL_ABILITY_MULTIPLIER(Player player, float multiplier);
 ```
 
 

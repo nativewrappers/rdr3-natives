@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDDBD560745B1EE9C
-void CHAL_ADD_GOAL_PROGRESS_INT_BY_SCORE_ID(Hash p0,int value);
+void CHAL_ADD_GOAL_PROGRESS_INT_BY_SCORE_ID(Hash p0, int value);
 ```
 
 

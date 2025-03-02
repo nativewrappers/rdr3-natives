@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6DE03BCC15E81710
-Vector3 _GET_NEAREST_TRAIN_TRACK_POSITION(float x,float y,float z);
+Vector3 _GET_NEAREST_TRAIN_TRACK_POSITION(float x, float y, float z);
 ```
 
 

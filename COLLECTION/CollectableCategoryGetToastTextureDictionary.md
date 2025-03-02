@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x13AAECDA43318BFE
-Hash _COLLECTABLE_CATEGORY_GET_TOAST_TEXTURE_DICTIONARY(Hash collectableCategory,Hash collectableSubcategory);
+Hash _COLLECTABLE_CATEGORY_GET_TOAST_TEXTURE_DICTIONARY(Hash collectableCategory, Hash collectableSubcategory);
 ```
 
 

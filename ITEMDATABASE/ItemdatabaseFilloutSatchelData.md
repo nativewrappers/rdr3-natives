@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4776EFD78F75C23F
-Any _ITEMDATABASE_FILLOUT_SATCHEL_DATA(Hash key,int* outSatchelItemSize);
+Any _ITEMDATABASE_FILLOUT_SATCHEL_DATA(Hash key, int* outSatchelItemSize);
 ```
 
 

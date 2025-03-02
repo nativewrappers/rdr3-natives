@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA8A74AA79FB67159
-void _SET_GUARD_ZONE_VOLUME_REGISTRATION_END(char* name,Volume volume);
+void _SET_GUARD_ZONE_VOLUME_REGISTRATION_END(char* name, Volume volume);
 ```
 
 

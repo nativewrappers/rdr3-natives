@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xACA45DDCEF6071C4
-void _SET_PLAYER_CAN_PICKUP_HAT(Player player,BOOL canPickup);
+void _SET_PLAYER_CAN_PICKUP_HAT(Player player, BOOL canPickup);
 ```
 
 Enables or disables the Pick Up prompt for a hat on the ground for the specified player. When set to true, the player will see a prompt to pick up the hat if they are near it.

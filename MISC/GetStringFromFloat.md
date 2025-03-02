@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2B6846401D68E563
-char* _GET_STRING_FROM_FLOAT(float value,int digits);
+char* _GET_STRING_FROM_FLOAT(float value, int digits);
 ```
 
 

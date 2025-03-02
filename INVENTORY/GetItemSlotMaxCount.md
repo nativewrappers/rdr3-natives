@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE80E50BEE276A54A
-int _GET_ITEM_SLOT_MAX_COUNT(Hash provision,Hash slotId);
+int _GET_ITEM_SLOT_MAX_COUNT(Hash provision, Hash slotId);
 ```
 
 

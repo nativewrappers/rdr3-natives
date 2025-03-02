@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5B4BBE80AD5972DC
-int _CREATE_HERB_COMPOSITES(Hash asset,float x,float y,float z,float heading,int groundSetting,Any* p6,int p7);
+int _CREATE_HERB_COMPOSITES(Hash asset, float x, float y, float z, float heading, int groundSetting, Any* p6, int p7);
 ```
 
 groundSetting: 0: spawn on ground, 2 (1?): do not spawn on ground

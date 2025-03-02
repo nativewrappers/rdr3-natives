@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5420D398A42917FC
-BOOL _STAT_PHEROMONE_COOLDOWN_LEGENDARY_ANIMAL(Entity entity,Any* statId);
+BOOL _STAT_PHEROMONE_COOLDOWN_LEGENDARY_ANIMAL(Entity entity, Any* statId);
 ```
 
 statId: see STAT_ID_IS_VALID

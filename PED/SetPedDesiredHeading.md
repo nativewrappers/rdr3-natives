@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAA5A7ECE2AA8FE70
-void SET_PED_DESIRED_HEADING(Ped ped,float heading);
+void SET_PED_DESIRED_HEADING(Ped ped, float heading);
 ```
 
 

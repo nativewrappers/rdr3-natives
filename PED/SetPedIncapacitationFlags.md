@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD67B6F3BCF81BA47
-void _SET_PED_INCAPACITATION_FLAGS(Ped ped,int flags);
+void _SET_PED_INCAPACITATION_FLAGS(Ped ped, int flags);
 ```
 
 

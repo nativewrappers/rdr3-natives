@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5D1EB123EAC5D071
-void SET_GAMEPLAY_CAM_RELATIVE_HEADING(float heading,float p1);
+void SET_GAMEPLAY_CAM_RELATIVE_HEADING(float heading, float p1);
 ```
 
 Sets the camera position relative to heading in float from -360 to +360.

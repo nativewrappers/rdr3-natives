@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9578986A6105A6AD
-BOOL GET_PROJECTILE_OF_PROJECTILE_TYPE_WITHIN_DISTANCE(Ped ped,Hash weaponHash,float distance,Vector3* outCoords,Object* outProjectile,BOOL p5,BOOL mustBeOwnedByThisPed);
+BOOL GET_PROJECTILE_OF_PROJECTILE_TYPE_WITHIN_DISTANCE(Ped ped, Hash weaponHash, float distance, Vector3* outCoords, Object* outProjectile, BOOL p5, BOOL mustBeOwnedByThisPed);
 ```
 
 

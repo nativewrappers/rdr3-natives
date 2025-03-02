@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF3735ACD11ACD501
-Any _SET_TASK_FISHING(Ped ped,Any* p1);
+Any _SET_TASK_FISHING(Ped ped, Any* p1);
 ```
 
 Only used in R* Scripts fishing_core and av_fishing_river

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9D64D7405520E3D3
-void STOP_PED_SPEAKING(Ped ped,BOOL shaking);
+void STOP_PED_SPEAKING(Ped ped, BOOL shaking);
 ```
 
 

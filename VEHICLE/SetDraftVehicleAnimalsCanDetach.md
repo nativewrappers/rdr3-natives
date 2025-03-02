@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6090A031C69F384E
-void _SET_DRAFT_VEHICLE_ANIMALS_CAN_DETACH(Vehicle draft,BOOL canDetach);
+void _SET_DRAFT_VEHICLE_ANIMALS_CAN_DETACH(Vehicle draft, BOOL canDetach);
 ```
 
 

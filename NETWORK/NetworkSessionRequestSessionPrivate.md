@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x39A8EF7AF29A192C
-Any NETWORK_SESSION_REQUEST_SESSION_PRIVATE(int flags,int numPlayers,int userHash,Any* sessionRequestId);
+Any NETWORK_SESSION_REQUEST_SESSION_PRIVATE(int flags, int numPlayers, int userHash, Any* sessionRequestId);
 ```
 
 Session flag 'SF_PRIVATE' is set internally

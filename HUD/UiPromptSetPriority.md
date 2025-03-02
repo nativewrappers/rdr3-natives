@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCA24F528D0D16289
-void _UI_PROMPT_SET_PRIORITY(Prompt prompt,int priority);
+void _UI_PROMPT_SET_PRIORITY(Prompt prompt, int priority);
 ```
 
 priority: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePromptPriority

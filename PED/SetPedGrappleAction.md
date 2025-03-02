@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8301D87B1B89E219
-void _SET_PED_GRAPPLE_ACTION(Ped ped,Hash grappleAction);
+void _SET_PED_GRAPPLE_ACTION(Ped ped, Hash grappleAction);
 ```
 
 

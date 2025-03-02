@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBB6F89150BC9D16B
-void SET_VEHICLE_EXTRA(Vehicle vehicle,int extraId,BOOL disable);
+void SET_VEHICLE_EXTRA(Vehicle vehicle, int extraId, BOOL disable);
 ```
 
 Note: only some vehicle have extras

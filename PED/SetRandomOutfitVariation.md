@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x283978A15512B2FE
-void _SET_RANDOM_OUTFIT_VARIATION(Ped ped,BOOL p1);
+void _SET_RANDOM_OUTFIT_VARIATION(Ped ped, BOOL p1);
 ```
 
 

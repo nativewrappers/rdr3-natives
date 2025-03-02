@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x26FDF5E99AA2F3E9
-void DATADICT_SET_INT(Any* objectData,char* key,int value);
+void DATADICT_SET_INT(Any* objectData, char* key, int value);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC716EB2BD16370A3
-void TASK_LASSO_PED(Ped ped,Ped targetPed);
+void TASK_LASSO_PED(Ped ped, Ped targetPed);
 ```
 
 

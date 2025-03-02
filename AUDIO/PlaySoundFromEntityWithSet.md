@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF1C5310FEAA36B48
-void _PLAY_SOUND_FROM_ENTITY_WITH_SET(int soundId,char* soundName,Entity entity,char* soundsetName,BOOL p4,Any p5);
+void _PLAY_SOUND_FROM_ENTITY_WITH_SET(int soundId, char* soundName, Entity entity, char* soundsetName, BOOL p4, Any p5);
 ```
 
 Params: p5 seems to be always 0

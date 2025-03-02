@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x61BEFBA3CE7A3BC8
-BOOL _0x61BEFBA3CE7A3BC8(Hash collectableCategory,int p1);
+BOOL _0x61BEFBA3CE7A3BC8(Hash collectableCategory, int p1);
 ```
 
 Params: collectableCategory = WEEKLY_COLLECTABLES

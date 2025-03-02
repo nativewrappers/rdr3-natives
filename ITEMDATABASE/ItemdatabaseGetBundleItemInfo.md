@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5D48A77E4B668B57
-Any _ITEMDATABASE_GET_BUNDLE_ITEM_INFO(int bundleId,Any* data,int index,Hash* outBundle);
+Any _ITEMDATABASE_GET_BUNDLE_ITEM_INFO(int bundleId, Any* data, int index, Hash* outBundle);
 ```
 
 

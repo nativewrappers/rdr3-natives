@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE5564483E407F914
-void SET_AUDIO_VEHICLE_PRIORITY(Vehicle vehicle,Any p1);
+void SET_AUDIO_VEHICLE_PRIORITY(Vehicle vehicle, Any p1);
 ```
 
 

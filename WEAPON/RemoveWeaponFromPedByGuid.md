@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x51C3B71591811485
-void _REMOVE_WEAPON_FROM_PED_BY_GUID(Ped ped,Any* weaponGuid,Hash removeReason);
+void _REMOVE_WEAPON_FROM_PED_BY_GUID(Ped ped, Any* weaponGuid, Hash removeReason);
 ```
 
 

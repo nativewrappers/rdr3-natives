@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x87BE56724650408E
-Any TASK_POLICE(Ped ped,BOOL p1);
+Any TASK_POLICE(Ped ped, BOOL p1);
 ```
 
 

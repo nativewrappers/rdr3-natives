@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC04F47D488EF9EBA
-void _INVENTORY_COPY_ITEM_TO_INVENTORY(int inventoryId,int inventoryIdCloned,Any* p2,Any p3);
+void _INVENTORY_COPY_ITEM_TO_INVENTORY(int inventoryId, int inventoryIdCloned, Any* p2, Any p3);
 ```
 
 

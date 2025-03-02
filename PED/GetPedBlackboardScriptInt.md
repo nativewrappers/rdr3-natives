@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB71B91B398F8F067
-int GET_PED_BLACKBOARD_SCRIPT_INT(Ped ped,char* variableName);
+int GET_PED_BLACKBOARD_SCRIPT_INT(Ped ped, char* variableName);
 ```
 
 

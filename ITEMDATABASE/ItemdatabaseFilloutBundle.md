@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB542632693D53408
-BOOL _ITEMDATABASE_FILLOUT_BUNDLE(Hash bundle,Hash costtype,int index,Any* outData);
+BOOL _ITEMDATABASE_FILLOUT_BUNDLE(Hash bundle, Hash costtype, int index, Any* outData);
 ```
 
 

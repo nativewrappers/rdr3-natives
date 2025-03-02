@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x19C975B81BE53C28
-void _DETACH_VOLUME_FROM_ENTITY(Volume volume,Entity entity);
+void _DETACH_VOLUME_FROM_ENTITY(Volume volume, Entity entity);
 ```
 
 

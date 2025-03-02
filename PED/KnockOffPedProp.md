@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6FD7816A36615F48
-void KNOCK_OFF_PED_PROP(Ped ped,BOOL p1,BOOL p2,BOOL p3,BOOL p4);
+void KNOCK_OFF_PED_PROP(Ped ped, BOOL p1, BOOL p2, BOOL p3, BOOL p4);
 ```
 
 

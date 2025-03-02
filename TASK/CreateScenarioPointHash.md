@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x94B745CE41DB58A1
-int CREATE_SCENARIO_POINT_HASH(Hash scenarioHash,float x,float y,float z,float heading,Any p5,Any p6,BOOL p7);
+int CREATE_SCENARIO_POINT_HASH(Hash scenarioHash, float x, float y, float z, float heading, Any p5, Any p6, BOOL p7);
 ```
 
 Returns scenario

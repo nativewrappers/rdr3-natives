@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB86F7CC2DC67AC60
-Any _ITEMDATABASE_FILLOUT_UI_DATA(Hash key,Any* outData);
+Any _ITEMDATABASE_FILLOUT_UI_DATA(Hash key, Any* outData);
 ```
 
 

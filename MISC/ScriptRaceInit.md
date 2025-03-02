@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8AE059F47158417E
-void SCRIPT_RACE_INIT(int numCheckpoints,int numLaps,int numPlayers,Any p3);
+void SCRIPT_RACE_INIT(int numCheckpoints, int numLaps, int numPlayers, Any p3);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8E04FEDD28D42462
-Any PLAY_PED_AMBIENT_SPEECH_NATIVE(Ped speaker,Any* params);
+Any PLAY_PED_AMBIENT_SPEECH_NATIVE(Ped speaker, Any* params);
 ```
 
 struct ScriptedSpeechParams

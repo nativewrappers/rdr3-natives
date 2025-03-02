@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4A056257802DD3E5
-void SET_LOCKON_TO_FRIENDLY_PLAYERS(Player player,BOOL toggle);
+void SET_LOCKON_TO_FRIENDLY_PLAYERS(Player player, BOOL toggle);
 ```
 
 

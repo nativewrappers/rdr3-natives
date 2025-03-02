@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA8BA0BAE0173457B
-Ped _GET_PED_IN_DRAFT_HARNESS(Vehicle vehicle,int harnessId);
+Ped _GET_PED_IN_DRAFT_HARNESS(Vehicle vehicle, int harnessId);
 ```
 
 enum eDraftHarness

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x43FF27FC1829C202
-Any _IS_TRANSPORT_SEAT_FREE(Entity transportEntity,int seatIndex);
+Any _IS_TRANSPORT_SEAT_FREE(Entity transportEntity, int seatIndex);
 ```
 
 Called together with IS_VEHICLE_SEAT_FREE

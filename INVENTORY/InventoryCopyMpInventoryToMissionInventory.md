@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x644CCB76A76CFBD6
-void INVENTORY_COPY_MP_INVENTORY_TO_MISSION_INVENTORY(BOOL p0,BOOL p1,BOOL bCopySatchelItems,BOOL bCopyEmotes,BOOL bCopyHorse,BOOL p5);
+void INVENTORY_COPY_MP_INVENTORY_TO_MISSION_INVENTORY(BOOL p0, BOOL p1, BOOL bCopySatchelItems, BOOL bCopyEmotes, BOOL bCopyHorse, BOOL p5);
 ```
 
 

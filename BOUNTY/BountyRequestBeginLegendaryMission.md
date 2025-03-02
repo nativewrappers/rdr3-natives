@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFC81D7C7A151CFAA
-Any BOUNTY_REQUEST_BEGIN_LEGENDARY_MISSION(Any* outRpcGuid,int p1,int p2);
+Any BOUNTY_REQUEST_BEGIN_LEGENDARY_MISSION(Any* outRpcGuid, int p1, int p2);
 ```
 
 

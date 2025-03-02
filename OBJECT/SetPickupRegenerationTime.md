@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x78015C9B4B3ECC9D
-void SET_PICKUP_REGENERATION_TIME(Pickup pickup,int duration);
+void SET_PICKUP_REGENERATION_TIME(Pickup pickup, int duration);
 ```
 
 

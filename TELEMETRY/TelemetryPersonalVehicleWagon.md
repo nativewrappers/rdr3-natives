@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE67AF24C5A3B6058
-void _TELEMETRY_PERSONAL_VEHICLE_WAGON(Any p0,Any p1,Any p2);
+void _TELEMETRY_PERSONAL_VEHICLE_WAGON(Any p0, Any p1, Any p2);
 ```
 
 

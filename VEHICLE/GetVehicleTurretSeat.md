@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFF5791B7639C2A46
-Any _GET_VEHICLE_TURRET_SEAT(Vehicle vehicle,int* seatIndex);
+Any _GET_VEHICLE_TURRET_SEAT(Vehicle vehicle, int* seatIndex);
 ```
 
 

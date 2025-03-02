@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6B83617E04503888
-FireId START_SCRIPT_FIRE(float x,float y,float z,int p3,float p4,BOOL p5,char* soundsetName,float p7,int p8);
+FireId START_SCRIPT_FIRE(float x, float y, float z, int p3, float p4, BOOL p5, char* soundsetName, float p7, int p8);
 ```
 
 Starts a fire:

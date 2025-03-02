@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0D7FD6A55FD63AEF
-void _0x0D7FD6A55FD63AEF(int speechEventType,int p1,BOOL p2);
+void _0x0D7FD6A55FD63AEF(int speechEventType, int p1, BOOL p2);
 ```
 
 speechEventType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/naSpeechEventType 

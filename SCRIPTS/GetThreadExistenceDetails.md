@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD92FA81B64920E85
-void GET_THREAD_EXISTENCE_DETAILS(int threadId,BOOL* threadExists,BOOL* hasScriptHandler);
+void GET_THREAD_EXISTENCE_DETAILS(int threadId, BOOL* threadExists, BOOL* hasScriptHandler);
 ```
 
 

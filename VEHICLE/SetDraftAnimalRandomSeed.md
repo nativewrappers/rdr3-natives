@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8C6D9A399126C194
-void _SET_DRAFT_ANIMAL_RANDOM_SEED(Vehicle vehicle,int seed);
+void _SET_DRAFT_ANIMAL_RANDOM_SEED(Vehicle vehicle, int seed);
 ```
 
 

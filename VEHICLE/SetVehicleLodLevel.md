@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3FA7D7D1E0EA809E
-void _SET_VEHICLE_LOD_LEVEL(Vehicle vehicle,int lodLevel);
+void _SET_VEHICLE_LOD_LEVEL(Vehicle vehicle, int lodLevel);
 ```
 
 Ranges from -1 to 2? (internal type is int8)

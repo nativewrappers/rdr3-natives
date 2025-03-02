@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE30CF56F1EFA5F43
-int NETWORK_GET_RANDOM_INT_RANGED(int rangeStart,int rangeEnd);
+int NETWORK_GET_RANDOM_INT_RANGED(int rangeStart, int rangeEnd);
 ```
 
 

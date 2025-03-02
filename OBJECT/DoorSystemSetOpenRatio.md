@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB6E6FBA95C7324AC
-void DOOR_SYSTEM_SET_OPEN_RATIO(Hash doorHash,float ajar,BOOL forceUpdate);
+void DOOR_SYSTEM_SET_OPEN_RATIO(Hash doorHash, float ajar, BOOL forceUpdate);
 ```
 
 Sets the ajar angle of a door.

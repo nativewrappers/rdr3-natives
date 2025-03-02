@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x116443008E5CEFC3
-int GET_NTH_CLOSEST_VEHICLE_NODE_ID(float x,float y,float z,int nth,int nodetype,float p5,float p6);
+int GET_NTH_CLOSEST_VEHICLE_NODE_ID(float x, float y, float z, int nth, int nodetype, float p5, float p6);
 ```
 
 

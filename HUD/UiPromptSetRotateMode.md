@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7ABE7095FB3D2581
-void _UI_PROMPT_SET_ROTATE_MODE(Prompt prompt,float p1,BOOL counterclockwise);
+void _UI_PROMPT_SET_ROTATE_MODE(Prompt prompt, float p1, BOOL counterclockwise);
 ```
 
 Used for controllers

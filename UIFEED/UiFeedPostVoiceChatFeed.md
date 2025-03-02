@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC48152BC6B3E821C
-int _UI_FEED_POST_VOICE_CHAT_FEED(Any* p0,Any* p1,BOOL p2);
+int _UI_FEED_POST_VOICE_CHAT_FEED(Any* p0, Any* p1, BOOL p2);
 ```
 
 

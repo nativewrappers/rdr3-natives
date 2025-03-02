@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9D6E10A41D6ED6EC
-void _DATABINDING_WRITE_DATA_INT_FROM_PARENT_BY_HASH(Any p0,Hash p1,Any p2);
+void _DATABINDING_WRITE_DATA_INT_FROM_PARENT_BY_HASH(Any p0, Hash p1, Any p2);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAA135F9482C82CC3
-BOOL IS_PED_ACTIVE_IN_SCENARIO(Ped ped,int scenario);
+BOOL IS_PED_ACTIVE_IN_SCENARIO(Ped ped, int scenario);
 ```
 
 

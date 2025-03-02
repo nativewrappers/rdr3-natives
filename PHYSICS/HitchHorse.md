@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x06AADE17334F7A40
-void _HITCH_HORSE(Ped horse,float x,float y,float z);
+void _HITCH_HORSE(Ped horse, float x, float y, float z);
 ```
 
 

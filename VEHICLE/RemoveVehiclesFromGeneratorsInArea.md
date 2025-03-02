@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC619A44639BC0CB4
-void REMOVE_VEHICLES_FROM_GENERATORS_IN_AREA(Any p0,Any p1,Any p2,Any p3,Any p4,Any p5);
+void REMOVE_VEHICLES_FROM_GENERATORS_IN_AREA(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
 ```
 
 

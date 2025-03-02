@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6FB1DA3CA9DA7D90
-void PLAY_SOUND_FROM_ENTITY(char* audioName,Entity entity,char* audioRef,BOOL isNetwork,Any p4,Any p5);
+void PLAY_SOUND_FROM_ENTITY(char* audioName, Entity entity, char* audioRef, BOOL isNetwork, Any p4, Any p5);
 ```
 
 

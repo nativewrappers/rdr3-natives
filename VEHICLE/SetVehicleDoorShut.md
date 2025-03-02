@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6A3C24B91FD0EA09
-void SET_VEHICLE_DOOR_SHUT(Vehicle vehicle,int doorId,BOOL closeInstantly);
+void SET_VEHICLE_DOOR_SHUT(Vehicle vehicle, int doorId, BOOL closeInstantly);
 ```
 
 doorId: enum eDoorId

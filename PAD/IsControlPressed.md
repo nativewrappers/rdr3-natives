@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF3A21BCD95725A4A
-BOOL IS_CONTROL_PRESSED(int control,Hash action);
+BOOL IS_CONTROL_PRESSED(int control, Hash action);
 ```
 
 

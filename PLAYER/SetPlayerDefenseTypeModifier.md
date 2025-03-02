@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x93F499CAE53FCD05
-void _SET_PLAYER_DEFENSE_TYPE_MODIFIER(Player player,int type,float defenseModifier);
+void _SET_PLAYER_DEFENSE_TYPE_MODIFIER(Player player, int type, float defenseModifier);
 ```
 
 bullet damage modifier: type = 4

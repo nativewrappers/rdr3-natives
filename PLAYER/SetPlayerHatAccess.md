@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA0C683284DF027C7
-void _SET_PLAYER_HAT_ACCESS(Player player,int flag,BOOL allow);
+void _SET_PLAYER_HAT_ACCESS(Player player, int flag, BOOL allow);
 ```
 
 Sets the player's ability to wear hats based on the specified flag. The flag value determines whether the player can wear all hats or only the ones they own.

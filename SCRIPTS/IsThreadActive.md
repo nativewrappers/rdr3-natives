@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x46E9AE36D8FA6417
-BOOL IS_THREAD_ACTIVE(int threadId,BOOL ignoreKilledState);
+BOOL IS_THREAD_ACTIVE(int threadId, BOOL ignoreKilledState);
 ```
 
 

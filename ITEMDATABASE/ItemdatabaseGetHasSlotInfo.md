@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8A9BD0DB7E8376CF
-Any _ITEMDATABASE_GET_HAS_SLOT_INFO(Hash category,int index,Hash* outSlotId);
+Any _ITEMDATABASE_GET_HAS_SLOT_INFO(Hash category, int index, Hash* outSlotId);
 ```
 
 

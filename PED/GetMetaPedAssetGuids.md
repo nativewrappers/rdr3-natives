@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA9C28516A6DC9D56
-Any GET_META_PED_ASSET_GUIDS(Ped ped,int index,Hash* drawable,Hash* albedo,Hash* normal,Hash* material);
+Any GET_META_PED_ASSET_GUIDS(Ped ped, int index, Hash* drawable, Hash* albedo, Hash* normal, Hash* material);
 ```
 
 This is a way to get what drawables a ped has equipped

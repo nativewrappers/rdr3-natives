@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x351220255D64C155
-void ENABLE_CONTROL_ACTION(int control,Hash action,BOOL enableRelatedActions);
+void ENABLE_CONTROL_ACTION(int control, Hash action, BOOL enableRelatedActions);
 ```
 
 

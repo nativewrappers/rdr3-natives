@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x38D5202FF9271C62
-float GET_HEADING_FROM_VECTOR_2D(float dx,float dy);
+float GET_HEADING_FROM_VECTOR_2D(float dx, float dy);
 ```
 
 dx = x1 - x2

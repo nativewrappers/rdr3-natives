@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x04D1D4E411CE52D0
-void _SET_LIGHT_SCATTERING_DISABLED_FOR_OBJECT(Object object,BOOL disable);
+void _SET_LIGHT_SCATTERING_DISABLED_FOR_OBJECT(Object object, BOOL disable);
 ```
 
 

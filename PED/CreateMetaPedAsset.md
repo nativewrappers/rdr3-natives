@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9641A9A20310F6B8
-Entity _CREATE_META_PED_ASSET(Hash asset,float posX,float posY,float posZ,float rotX,float rotY,float rotZ,BOOL p7,BOOL p8,BOOL p9);
+Entity _CREATE_META_PED_ASSET(Hash asset, float posX, float posY, float posZ, float rotX, float rotY, float rotZ, BOOL p7, BOOL p8, BOOL p9);
 ```
 
 Creates prop from metaped asset bundle

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x52FC26D2D2FC2987
-Any _PARSEDDATA_GET_INT(Any* p0,Any* p1,Hash p2);
+Any _PARSEDDATA_GET_INT(Any* p0, Any* p1, Hash p2);
 ```
 
 

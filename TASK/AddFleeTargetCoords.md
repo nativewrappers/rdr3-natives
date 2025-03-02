@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE8F1A5B4CED3725A
-void _ADD_FLEE_TARGET_COORDS(Ped ped,float x,float y,float z,float p4);
+void _ADD_FLEE_TARGET_COORDS(Ped ped, float x, float y, float z, float p4);
 ```
 
 

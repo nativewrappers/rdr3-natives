@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x788756D73AC2E07C
-BOOL IS_SCENARIO_OCCUPIED(float p0,float p1,float p2,float p3,BOOL p4);
+BOOL IS_SCENARIO_OCCUPIED(float p0, float p1, float p2, float p3, BOOL p4);
 ```
 
 

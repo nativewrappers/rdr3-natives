@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB7017DA4D498269F
-void _SET_OBJECT_KICKABLE(Object object,BOOL kickable);
+void _SET_OBJECT_KICKABLE(Object object, BOOL kickable);
 ```
 
 

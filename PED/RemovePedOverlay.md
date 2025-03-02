@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x96C349DE04C49011
-void _REMOVE_PED_OVERLAY(int textureId,int overlayId);
+void _REMOVE_PED_OVERLAY(int textureId, int overlayId);
 ```
 
 

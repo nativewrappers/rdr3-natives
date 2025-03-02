@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCFF869CBFA210D82
-int GET_PED_NEARBY_VEHICLES(Ped ped,Any* sizeAndVehs);
+int GET_PED_NEARBY_VEHICLES(Ped ped, Any* sizeAndVehs);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1C1993824A396603
-BOOL GET_ANIMAL_TUNING_BOOL_PARAM(Ped animal,int index);
+BOOL GET_ANIMAL_TUNING_BOOL_PARAM(Ped animal, int index);
 ```
 
 index: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eAnimalTuningBools

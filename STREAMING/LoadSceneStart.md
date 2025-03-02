@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x387AD749E3B69B70
-Any LOAD_SCENE_START(float posX,float posY,float posZ,float offsetX,float offsetY,float offsetZ,float radius,int controlFlags);
+Any LOAD_SCENE_START(float posX, float posY, float posZ, float offsetX, float offsetY, float offsetZ, float radius, int controlFlags);
 ```
 
 

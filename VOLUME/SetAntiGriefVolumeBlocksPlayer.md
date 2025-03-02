@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5B23DFF8E0948BB2
-void _SET_ANTI_GRIEF_VOLUME_BLOCKS_PLAYER(Volume volume,BOOL toggle);
+void _SET_ANTI_GRIEF_VOLUME_BLOCKS_PLAYER(Volume volume, BOOL toggle);
 ```
 
 

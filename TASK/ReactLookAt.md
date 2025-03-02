@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE7FA07624574B79A
-void REACT_LOOK_AT(Ped ped,Ped targetPed,int lookIntensity,int exitAnimation,float duration,int p5,Ped targetPed2,Any p7,Any p8);
+void REACT_LOOK_AT(Ped ped, Ped targetPed, int lookIntensity, int exitAnimation, float duration, int p5, Ped targetPed2, Any p7, Any p8);
 ```
 
 lookIntensity: see SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT

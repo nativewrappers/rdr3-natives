@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF7AC7DC0DEE7C9BE
-void COPY_SCRIPT_STRUCT(Any* dst,Any* src,int size);
+void COPY_SCRIPT_STRUCT(Any* dst, Any* src, int size);
 ```
 
 Old name: _COPY_MEMORY

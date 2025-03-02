@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x75CBF20BA47E4F89
-Any _CREATE_LAW_DISPATCH_RESPONSE_FOR_COORDS(float x,float y,float z,Hash dispatchResponseHash);
+Any _CREATE_LAW_DISPATCH_RESPONSE_FOR_COORDS(float x, float y, float z, Hash dispatchResponseHash);
 ```
 
 dispatchResponseHash: see common/data/dispatchresponses/..

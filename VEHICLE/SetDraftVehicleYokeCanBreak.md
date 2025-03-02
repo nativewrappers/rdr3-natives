@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x226C6A4E3346D288
-void _SET_DRAFT_VEHICLE_YOKE_CAN_BREAK(Vehicle draft,BOOL canBreak);
+void _SET_DRAFT_VEHICLE_YOKE_CAN_BREAK(Vehicle draft, BOOL canBreak);
 ```
 
 

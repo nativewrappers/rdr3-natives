@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE2B2BB7DAC280515
-void SET_GAMEPLAY_VEHICLE_HINT(Any p0,float p1,float p2,float p3,BOOL p4,Any p5,Any p6,Any p7);
+void SET_GAMEPLAY_VEHICLE_HINT(Any p0, float p1, float p2, float p3, BOOL p4, Any p5, Any p6, Any p7);
 ```
 
 

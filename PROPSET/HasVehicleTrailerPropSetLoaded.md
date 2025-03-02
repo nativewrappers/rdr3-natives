@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8F3333F0A6900B3C
-Any _HAS_VEHICLE_TRAILER_PROP_SET_LOADED(Vehicle vehicle,int wagonIndex);
+Any _HAS_VEHICLE_TRAILER_PROP_SET_LOADED(Vehicle vehicle, int wagonIndex);
 ```
 
 

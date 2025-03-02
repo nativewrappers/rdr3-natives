@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE8EAFF7B41EDD291
-void _PLAY_SOUND_FROM_ITEM(Hash item,Hash soundSet,Any p2);
+void _PLAY_SOUND_FROM_ITEM(Hash item, Hash soundSet, Any p2);
 ```
 
 item: value returned from 0x2E1CDC1FF3B8473E

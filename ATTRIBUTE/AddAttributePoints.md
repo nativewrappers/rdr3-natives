@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x75415EE0CB583760
-void ADD_ATTRIBUTE_POINTS(Ped ped,int attributeIndex,int p2);
+void ADD_ATTRIBUTE_POINTS(Ped ped, int attributeIndex, int p2);
 ```
 
 attributeIndex: see SET_ATTRIBUTE_BASE_RANK

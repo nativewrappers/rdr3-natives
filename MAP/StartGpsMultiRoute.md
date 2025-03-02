@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3D3D15AF7BCAAF83
-void START_GPS_MULTI_ROUTE(Hash colorNameHash,BOOL onFoot,BOOL inVehicle);
+void START_GPS_MULTI_ROUTE(Hash colorNameHash, BOOL onFoot, BOOL inVehicle);
 ```
 
 

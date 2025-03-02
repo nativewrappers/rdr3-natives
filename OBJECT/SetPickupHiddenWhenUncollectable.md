@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x81218CE01B672219
-void SET_PICKUP_HIDDEN_WHEN_UNCOLLECTABLE(Any p0,Any p1);
+void SET_PICKUP_HIDDEN_WHEN_UNCOLLECTABLE(Any p0, Any p1);
 ```
 
 

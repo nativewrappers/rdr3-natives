@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC1AB7EEFD3E6EE49
-void _SET_PROP_SET_FLAG(PropSet propSet,int flag);
+void _SET_PROP_SET_FLAG(PropSet propSet, int flag);
 ```
 
 

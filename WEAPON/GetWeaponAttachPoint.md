@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCAD4FE9398820D24
-int _GET_WEAPON_ATTACH_POINT(Ped ped,int attachPoint);
+int _GET_WEAPON_ATTACH_POINT(Ped ped, int attachPoint);
 ```
 
 Returns WeaponAttachPoint

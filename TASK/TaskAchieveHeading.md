@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x93B93A37987F1F3D
-void TASK_ACHIEVE_HEADING(Ped ped,float heading,int timeout);
+void TASK_ACHIEVE_HEADING(Ped ped, float heading, int timeout);
 ```
 
 Makes the specified ped achieve the specified heading.

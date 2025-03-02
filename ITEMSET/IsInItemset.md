@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD1503C2EE2FE688C
-BOOL IS_IN_ITEMSET(Entity entity,ItemSet itemset);
+BOOL IS_IN_ITEMSET(Entity entity, ItemSet itemset);
 ```
 
 

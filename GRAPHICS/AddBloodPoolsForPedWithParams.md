@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC349EE1E6EFA494B
-void _ADD_BLOOD_POOLS_FOR_PED_WITH_PARAMS(Ped ped,float p1,float size,float p3);
+void _ADD_BLOOD_POOLS_FOR_PED_WITH_PARAMS(Ped ped, float p1, float size, float p3);
 ```
 
 

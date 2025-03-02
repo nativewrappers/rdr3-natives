@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5FF9A878C3D115B8
-Hash _GET_SHOP_ITEM_COMPONENT_CATEGORY(Hash componentHash,int metapedType,BOOL isMP);
+Hash _GET_SHOP_ITEM_COMPONENT_CATEGORY(Hash componentHash, int metapedType, BOOL isMP);
 ```
 
 

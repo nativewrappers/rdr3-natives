@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x49885D82A13EEAEA
-int _ITEMDATABASE_LOCALIZATION_GET_NUM_VALUES(Any p0,Any p1);
+int _ITEMDATABASE_LOCALIZATION_GET_NUM_VALUES(Any p0, Any p1);
 ```
 
 Returns iNumValuesForType

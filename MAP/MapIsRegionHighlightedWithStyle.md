@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE38450DBCBC70E3D
-Any _MAP_IS_REGION_HIGHLIGHTED_WITH_STYLE(Hash regionHash,Hash styleHash);
+Any _MAP_IS_REGION_HIGHLIGHTED_WITH_STYLE(Hash regionHash, Hash styleHash);
 ```
 
 

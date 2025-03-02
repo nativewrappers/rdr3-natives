@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF5E45CB1CF965D2D
-void _ADD_BLOOD_TRAIL_SPLAT(float x,float y,float z);
+void _ADD_BLOOD_TRAIL_SPLAT(float x, float y, float z);
 ```
 
 

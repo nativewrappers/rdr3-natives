@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFB5674687A1B2814
-Object _GET_ANIM_SCENE_OBJECT(AnimScene animScene,char* name,BOOL isNetwork);
+Object _GET_ANIM_SCENE_OBJECT(AnimScene animScene, char* name, BOOL isNetwork);
 ```
 
 

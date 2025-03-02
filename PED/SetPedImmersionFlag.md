@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7FB0088E8769CDDB
-void _SET_PED_IMMERSION_FLAG(Ped ped,BOOL toggle);
+void _SET_PED_IMMERSION_FLAG(Ped ped, BOOL toggle);
 ```
 
 Only used in R* Script beat_sharp_shooter

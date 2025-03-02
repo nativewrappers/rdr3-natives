@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB31A277C1AC7B7FF
-void TASK_PLAY_EMOTE_WITH_HASH(Ped ped,int emoteType,int playbackMode,Hash emote,BOOL isSecondaryTask,BOOL canBreakOut,BOOL disableEarlyOutAnimTag,BOOL ignoreInvalidMainTask,BOOL destroyProps);
+void TASK_PLAY_EMOTE_WITH_HASH(Ped ped, int emoteType, int playbackMode, Hash emote, BOOL isSecondaryTask, BOOL canBreakOut, BOOL disableEarlyOutAnimTag, BOOL ignoreInvalidMainTask, BOOL destroyProps);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/animations/kit_emotes_list.lua

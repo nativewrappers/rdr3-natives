@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF540239F9937033B
-int _ITEMDATABASE_GET_AWARD_ACQUIRE_COST_COUNT_FROM_COST_TYPE(Hash award,Hash costtype);
+int _ITEMDATABASE_GET_AWARD_ACQUIRE_COST_COUNT_FROM_COST_TYPE(Hash award, Hash costtype);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEA8F168A76A0B9BC
-Any _GET_PLAYER_UI_PROMPT_FOR_PED_IS_ENABLED(Player player,Ped ped,int promptType,int promptMode);
+Any _GET_PLAYER_UI_PROMPT_FOR_PED_IS_ENABLED(Player player, Ped ped, int promptType, int promptMode);
 ```
 
 Returns true if PromptType is enabled for ped (mount)

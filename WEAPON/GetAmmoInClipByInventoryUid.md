@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x678F00858980F516
-Any _GET_AMMO_IN_CLIP_BY_INVENTORY_UID(Ped ped,int* ammo,Any* inventoryUid);
+Any _GET_AMMO_IN_CLIP_BY_INVENTORY_UID(Ped ped, int* ammo, Any* inventoryUid);
 ```
 
 

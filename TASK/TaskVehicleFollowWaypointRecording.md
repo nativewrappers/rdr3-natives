@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3123FAA6DB1CF7ED
-void TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING(Ped ped,Vehicle vehicle,char* waypointRecording,int drivingMode,Any p4,int eWaypoint,int flag,float p7,BOOL p8,float stoppingDist,Any p10);
+void TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING(Ped ped, Vehicle vehicle, char* waypointRecording, int drivingMode, Any p4, int eWaypoint, int flag, float p7, BOOL p8, float stoppingDist, Any p10);
 ```
 
 

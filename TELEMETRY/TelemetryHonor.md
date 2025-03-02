@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE6B763C7F4902201
-void _TELEMETRY_HONOR(Any p0,Any p1);
+void _TELEMETRY_HONOR(Any p0, Any p1);
 ```
 
 

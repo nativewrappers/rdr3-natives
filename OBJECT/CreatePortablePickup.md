@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2EAF1FDB2FB55698
-Object CREATE_PORTABLE_PICKUP(Hash pickupHash,float x,float y,float z,BOOL placeOnGround,Hash modelHash);
+Object CREATE_PORTABLE_PICKUP(Hash pickupHash, float x, float y, float z, BOOL placeOnGround, Hash modelHash);
 ```
 
 

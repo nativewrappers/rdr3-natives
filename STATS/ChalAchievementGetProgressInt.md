@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x808712E428F697B8
-int CHAL_ACHIEVEMENT_GET_PROGRESS_INT(Hash p0,Hash p1);
+int CHAL_ACHIEVEMENT_GET_PROGRESS_INT(Hash p0, Hash p1);
 ```
 
 

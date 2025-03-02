@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE1EF3C1216AFF2CD
-void CLEAR_PED_TASKS(Ped ped,BOOL p1,BOOL p2);
+void CLEAR_PED_TASKS(Ped ped, BOOL p1, BOOL p2);
 ```
 
 

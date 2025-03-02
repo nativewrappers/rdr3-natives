@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDF1D85BCAF60D537
-void _TASK_CLIMB_2(Ped ped,float heading);
+void _TASK_CLIMB_2(Ped ped, float heading);
 ```
 
 

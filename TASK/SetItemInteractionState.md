@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB35370D5353995CB
-void _SET_ITEM_INTERACTION_STATE(Ped ped,Hash itemInteractionState,float p2);
+void _SET_ITEM_INTERACTION_STATE(Ped ped, Hash itemInteractionState, float p2);
 ```
 
 All Interaction states

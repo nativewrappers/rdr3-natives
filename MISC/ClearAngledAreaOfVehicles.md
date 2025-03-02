@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA4D83115C1E02F8A
-void CLEAR_ANGLED_AREA_OF_VEHICLES(Any p0,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6,Any p7);
+void CLEAR_ANGLED_AREA_OF_VEHICLES(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7);
 ```
 
 

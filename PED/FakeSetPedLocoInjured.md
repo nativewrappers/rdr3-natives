@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8B3CB08158E98481
-void _FAKE_SET_PED_LOCO_INJURED(Ped ped,BOOL enabled);
+void _FAKE_SET_PED_LOCO_INJURED(Ped ped, BOOL enabled);
 ```
 
 

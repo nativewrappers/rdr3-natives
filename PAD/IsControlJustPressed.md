@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x580417101DDB492F
-BOOL IS_CONTROL_JUST_PRESSED(int control,Hash action);
+BOOL IS_CONTROL_JUST_PRESSED(int control, Hash action);
 ```
 
 

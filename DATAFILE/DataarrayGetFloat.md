@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA9D003CF419CB81E
-float DATAARRAY_GET_FLOAT(Any* arrayData,int arrayIndex);
+float DATAARRAY_GET_FLOAT(Any* arrayData, int arrayIndex);
 ```
 
 

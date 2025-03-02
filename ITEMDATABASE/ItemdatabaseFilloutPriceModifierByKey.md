@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x40C5D95818823C94
-Any _ITEMDATABASE_FILLOUT_PRICE_MODIFIER_BY_KEY(Hash key,Any* outData);
+Any _ITEMDATABASE_FILLOUT_PRICE_MODIFIER_BY_KEY(Hash key, Any* outData);
 ```
 
 

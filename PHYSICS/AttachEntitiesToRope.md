@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3D95EC8B6D940AC3
-void ATTACH_ENTITIES_TO_ROPE(int ropeId,Entity entity1,Entity entity2,float ent1X,float ent1Y,float ent1Z,float ent2X,float ent2Y,float ent2Z,float length,int alwaysZero1,int alwaysZero2,char* boneName1,char* boneName2,BOOL p14,int boneId1,int boneId2,int alwaysZero3,int alwaysZero4,BOOL p19,BOOL p20);
+void ATTACH_ENTITIES_TO_ROPE(int ropeId, Entity entity1, Entity entity2, float ent1X, float ent1Y, float ent1Z, float ent2X, float ent2Y, float ent2Z, float length, int alwaysZero1, int alwaysZero2, char* boneName1, char* boneName2, BOOL p14, int boneId1, int boneId2, int alwaysZero3, int alwaysZero4, BOOL p19, BOOL p20);
 ```
 
 Attaches entity 1 to entity 2.

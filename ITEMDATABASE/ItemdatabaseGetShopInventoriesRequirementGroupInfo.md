@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x76C752D788A76813
-Any _ITEMDATABASE_GET_SHOP_INVENTORIES_REQUIREMENT_GROUP_INFO(Hash shopType,Hash key,int index,Any* outData);
+Any _ITEMDATABASE_GET_SHOP_INVENTORIES_REQUIREMENT_GROUP_INFO(Hash shopType, Hash key, int index, Any* outData);
 ```
 
 

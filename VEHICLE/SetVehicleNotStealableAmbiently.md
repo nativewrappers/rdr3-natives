@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x09C970AE59ABF6B2
-void SET_VEHICLE_NOT_STEALABLE_AMBIENTLY(Vehicle vehicle,BOOL p1);
+void SET_VEHICLE_NOT_STEALABLE_AMBIENTLY(Vehicle vehicle, BOOL p1);
 ```
 
 

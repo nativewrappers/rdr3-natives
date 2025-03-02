@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x592F58BC4D2A2CF3
-float _GET_PLAYER_MAX_DEAD_EYE(Player player,Any p1);
+float _GET_PLAYER_MAX_DEAD_EYE(Player player, Any p1);
 ```
 
 

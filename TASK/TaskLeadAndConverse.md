@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAA19711D33C6708C
-void TASK_LEAD_AND_CONVERSE(Ped ped,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6,Any p7,Any p8);
+void TASK_LEAD_AND_CONVERSE(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4308812A6E9CA62E
-Any _ITEMDATABASE_IS_BUNDLE_VALID(Hash bundle,int mode);
+Any _ITEMDATABASE_IS_BUNDLE_VALID(Hash bundle, int mode);
 ```
 
 Params: mode is 0

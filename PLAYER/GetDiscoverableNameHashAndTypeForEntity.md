@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0139637A3BFF8B6D
-Hash GET_DISCOVERABLE_NAME_HASH_AND_TYPE_FOR_ENTITY(Entity entity,Hash* type);
+Hash GET_DISCOVERABLE_NAME_HASH_AND_TYPE_FOR_ENTITY(Entity entity, Hash* type);
 ```
 
 Returns name hash (name) and outHash includes the type.

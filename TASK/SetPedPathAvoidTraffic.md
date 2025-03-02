@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7C015D8BCEC72CF4
-void _SET_PED_PATH_AVOID_TRAFFIC(Ped ped,BOOL avoidTraffic);
+void _SET_PED_PATH_AVOID_TRAFFIC(Ped ped, BOOL avoidTraffic);
 ```
 
 

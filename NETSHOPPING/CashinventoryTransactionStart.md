@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF039EC27F4490E96
-BOOL _CASHINVENTORY_TRANSACTION_START(int* id,Hash type,Hash actionHash);
+BOOL _CASHINVENTORY_TRANSACTION_START(int* id, Hash type, Hash actionHash);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAB643407D0B26F07
-Any _CAN_PED_USE_SCENARIO_POINT(Ped ped,int scenario,Any p2,Any p3,Any p4);
+Any _CAN_PED_USE_SCENARIO_POINT(Ped ped, int scenario, Any p2, Any p3, Any p4);
 ```
 
 p2 is always 0, p3 is always 0, p4 is always 1

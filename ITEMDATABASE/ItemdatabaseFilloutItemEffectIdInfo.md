@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCF2D360D27FD1ABF
-Any ITEMDATABASE_FILLOUT_ITEM_EFFECT_ID_INFO(Hash key,Any* outData);
+Any ITEMDATABASE_FILLOUT_ITEM_EFFECT_ID_INFO(Hash key, Any* outData);
 ```
 
 

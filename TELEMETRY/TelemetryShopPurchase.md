@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2A374E6F0075EE81
-void _TELEMETRY_SHOP_PURCHASE(Any p0,Any p1,Any p2,Any p3,Any p4);
+void _TELEMETRY_SHOP_PURCHASE(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 

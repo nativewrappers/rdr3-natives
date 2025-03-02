@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6929E22158E52265
-Any GET_PED_WEAPON_GUID_AT_ATTACH_POINT(Ped ped,int attachPoint,Any* weaponGuid);
+Any GET_PED_WEAPON_GUID_AT_ATTACH_POINT(Ped ped, int attachPoint, Any* weaponGuid);
 ```
 
 

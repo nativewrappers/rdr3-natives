@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9E2D5D6BC97A5F1E
-Any _HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON_RECENTLY(Entity entity,Hash weaponHash,int ms);
+Any _HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON_RECENTLY(Entity entity, Hash weaponHash, int ms);
 ```
 
 

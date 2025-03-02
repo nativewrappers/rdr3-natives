@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x54B187F111D9C6F8
-Any _IS_PED_IN_ANY_CONVERSATION(Ped ped,BOOL p1);
+Any _IS_PED_IN_ANY_CONVERSATION(Ped ped, BOOL p1);
 ```
 
 

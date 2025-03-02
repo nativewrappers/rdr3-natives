@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x40AB73092C95B5F5
-void _EAGLE_EYE_DISABLE_TRACKING_TRAIL(Entity entity,char* trail,Any p2,Any p3);
+void _EAGLE_EYE_DISABLE_TRACKING_TRAIL(Entity entity, char* trail, Any p2, Any p3);
 ```
 
 

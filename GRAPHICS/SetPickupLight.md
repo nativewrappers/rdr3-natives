@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7DFB49BCDB73089A
-void SET_PICKUP_LIGHT(Object object,BOOL toggle);
+void SET_PICKUP_LIGHT(Object object, BOOL toggle);
 ```
 
 https://imgur.com/a/I2swSDJ

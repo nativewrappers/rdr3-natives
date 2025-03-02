@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC1842F40FD501DA2
-void SET_VEHICLE_INFLUENCES_WANTED_LEVEL(Vehicle vehicle,BOOL toggle);
+void SET_VEHICLE_INFLUENCES_WANTED_LEVEL(Vehicle vehicle, BOOL toggle);
 ```
 
 

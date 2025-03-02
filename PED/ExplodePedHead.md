@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2D05CED3A38D0F3A
-void EXPLODE_PED_HEAD(Ped ped,Hash weaponHash);
+void EXPLODE_PED_HEAD(Ped ped, Hash weaponHash);
 ```
 
 Forces the ped to fall back and kills it.

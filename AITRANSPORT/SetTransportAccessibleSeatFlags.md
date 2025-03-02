@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDD0660C997DE94FD
-void SET_TRANSPORT_ACCESSIBLE_SEAT_FLAGS(Entity transportEntity,int flags);
+void SET_TRANSPORT_ACCESSIBLE_SEAT_FLAGS(Entity transportEntity, int flags);
 ```
 
 

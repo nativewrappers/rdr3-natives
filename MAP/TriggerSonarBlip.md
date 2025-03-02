@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x72DD432F3CDFC0EE
-void TRIGGER_SONAR_BLIP(Hash typeHash,float x,float y,float z);
+void TRIGGER_SONAR_BLIP(Hash typeHash, float x, float y, float z);
 ```
 
 

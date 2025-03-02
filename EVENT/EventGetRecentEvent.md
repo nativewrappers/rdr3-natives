@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x796EECFF0C6D39BE
-Hash _EVENT_GET_RECENT_EVENT(Entity entity,int p1,int p2);
+Hash _EVENT_GET_RECENT_EVENT(Entity entity, int p1, int p2);
 ```
 
 Returns eventType

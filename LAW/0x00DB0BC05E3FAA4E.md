@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x00DB0BC05E3FAA4E
-void _0x00DB0BC05E3FAA4E(Ped ped,int bitset);
+void _0x00DB0BC05E3FAA4E(Ped ped, int bitset);
 ```
 
 

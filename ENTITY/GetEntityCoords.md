@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA86D5F069399F44D
-Vector3 GET_ENTITY_COORDS(Entity entity,BOOL alive,BOOL realCoords);
+Vector3 GET_ENTITY_COORDS(Entity entity, BOOL alive, BOOL realCoords);
 ```
 
 Gets the current coordinates for a specified entity.

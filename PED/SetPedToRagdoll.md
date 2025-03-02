@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAE99FB955581844A
-BOOL SET_PED_TO_RAGDOLL(Ped ped,int timeMin,int timeMax,int ragdollType,BOOL abortIfInjured,BOOL abortIfDead,char* nmTaskMessageParameterName);
+BOOL SET_PED_TO_RAGDOLL(Ped ped, int timeMin, int timeMax, int ragdollType, BOOL abortIfInjured, BOOL abortIfDead, char* nmTaskMessageParameterName);
 ```
 
 nmTaskMessageParameterName: See physicstasks.ymt. Search for DraggedByCart or 0xD00820D7 (Used in R* SP Script marston8)

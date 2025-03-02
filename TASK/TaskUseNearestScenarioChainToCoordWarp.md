@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x97A28E63F0BA5631
-void TASK_USE_NEAREST_SCENARIO_CHAIN_TO_COORD_WARP(Ped ped,float x,float y,float z,float distance,BOOL p5,BOOL p6,BOOL p7,BOOL p8);
+void TASK_USE_NEAREST_SCENARIO_CHAIN_TO_COORD_WARP(Ped ped, float x, float y, float z, float distance, BOOL p5, BOOL p6, BOOL p7, BOOL p8);
 ```
 
 

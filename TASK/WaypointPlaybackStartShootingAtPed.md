@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE70BA7B90F8390DC
-void WAYPOINT_PLAYBACK_START_SHOOTING_AT_PED(Any p0,Any p1,Any p2,Any p3,Any p4);
+void WAYPOINT_PLAYBACK_START_SHOOTING_AT_PED(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 

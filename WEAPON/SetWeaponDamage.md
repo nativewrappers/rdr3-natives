@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE22060121602493B
-void _SET_WEAPON_DAMAGE(Object weaponObject,float level,BOOL p2);
+void _SET_WEAPON_DAMAGE(Object weaponObject, float level, BOOL p2);
 ```
 
 Related to weapon visual damage, not actual damage.

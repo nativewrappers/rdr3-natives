@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC412AA1C73111FE0
-void _SET_PELT_FOR_HORSE_BY_INVENTORY_ITEM(Ped horse,Hash itemHash,Hash albedo,Hash normal,BOOL p4);
+void _SET_PELT_FOR_HORSE_BY_INVENTORY_ITEM(Ped horse, Hash itemHash, Hash albedo, Hash normal, BOOL p4);
 ```
 
 Set the pelt of the animal to the back of the horse

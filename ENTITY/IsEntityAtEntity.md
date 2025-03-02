@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC057F02B837A27F6
-BOOL IS_ENTITY_AT_ENTITY(Entity entity1,Entity entity2,float xSize,float ySize,float zSize,BOOL p5,BOOL p6,int p7);
+BOOL IS_ENTITY_AT_ENTITY(Entity entity1, Entity entity2, float xSize, float ySize, float zSize, BOOL p5, BOOL p6, int p7);
 ```
 
 Checks if entity1 is within the box defined by x/y/zSize of entity2.

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFFEBE5AA96BC2E4E
-Any _0xFFEBE5AA96BC2E4E(Ped ped,Hash crimeType,BOOL p2);
+Any _0xFFEBE5AA96BC2E4E(Ped ped, Hash crimeType, BOOL p2);
 ```
 
 

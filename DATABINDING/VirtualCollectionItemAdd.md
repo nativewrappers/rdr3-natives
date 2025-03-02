@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6DCBF187221CF73D
-void _VIRTUAL_COLLECTION_ITEM_ADD(Any p0,int index,Hash p2,Any p3);
+void _VIRTUAL_COLLECTION_ITEM_ADD(Any p0, int index, Hash p2, Any p3);
 ```
 
 

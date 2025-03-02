@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x63246A24F5747510
-void _NETWORK_AUTO_SESSION_SET_ALLOWED_TO_MERGE(BOOL toggle,Any* p1,int p2);
+void _NETWORK_AUTO_SESSION_SET_ALLOWED_TO_MERGE(BOOL toggle, Any* p1, int p2);
 ```
 
 

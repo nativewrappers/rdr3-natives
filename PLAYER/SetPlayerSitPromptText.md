@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x988C9045531B9FCE
-void _SET_PLAYER_SIT_PROMPT_TEXT(Player playerID,char* label);
+void _SET_PLAYER_SIT_PROMPT_TEXT(Player playerID, char* label);
 ```
 
 Sets the sit prompt for a specific player using a predefined text entry. use game strings like PLAYER_SIT or use custom with

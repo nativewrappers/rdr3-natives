@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6C8065A3B780185B
-void SET_AMBIENT_VOICE_NAME(Ped ped,char* name);
+void SET_AMBIENT_VOICE_NAME(Ped ped, char* name);
 ```
 
 

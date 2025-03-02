@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF9A7BCF5D050D4E7
-void SHAKE_CAM(Cam cam,char* type,float amplitude);
+void SHAKE_CAM(Cam cam, char* type, float amplitude);
 ```
 
 

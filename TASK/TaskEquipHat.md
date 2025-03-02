@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAA0AF6025160243A
-void _TASK_EQUIP_HAT(Object hatObject,Ped ped);
+void _TASK_EQUIP_HAT(Object hatObject, Ped ped);
 ```
 
 _A*

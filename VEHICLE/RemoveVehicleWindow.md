@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x745F15A215F2DDF1
-void REMOVE_VEHICLE_WINDOW(Vehicle vehicle,int windowIndex);
+void REMOVE_VEHICLE_WINDOW(Vehicle vehicle, int windowIndex);
 ```
 
 windowIndex:

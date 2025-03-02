@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB78CC4B4706614B0
-void STOP_CAM_SHAKING(Cam cam,BOOL p1);
+void STOP_CAM_SHAKING(Cam cam, BOOL p1);
 ```
 
 

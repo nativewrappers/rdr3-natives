@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x789DABD18E9024DB
-void _SET_PED_GRAPPLE_FLAG(Ped ped,int flag,BOOL enable);
+void _SET_PED_GRAPPLE_FLAG(Ped ped, int flag, BOOL enable);
 ```
 
 

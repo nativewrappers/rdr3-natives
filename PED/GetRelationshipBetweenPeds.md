@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEBA5AD3A0EAF7121
-int GET_RELATIONSHIP_BETWEEN_PEDS(Ped ped1,Ped ped2);
+int GET_RELATIONSHIP_BETWEEN_PEDS(Ped ped1, Ped ped2);
 ```
 
 

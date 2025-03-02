@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB4E3BFC39CA16057
-void START_VEHICLE_HORN(Vehicle vehicle,int duration,Hash mode,BOOL forever);
+void START_VEHICLE_HORN(Vehicle vehicle, int duration, Hash mode, BOOL forever);
 ```
 
 Sounds the horn for the specified vehicle.

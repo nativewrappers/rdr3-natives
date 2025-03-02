@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE04B48F2CC926253
-void SET_PED_PATHS_BACK_TO_ORIGINAL(Any p0,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6);
+void SET_PED_PATHS_BACK_TO_ORIGINAL(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
 ```
 
 

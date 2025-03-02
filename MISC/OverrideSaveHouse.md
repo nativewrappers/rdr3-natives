@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB2C69E11A37B5AF0
-BOOL OVERRIDE_SAVE_HOUSE(BOOL override,float x,float y,float z,float heading,BOOL isAutosave,Vector3* returnCoords,float* returnHeading);
+BOOL OVERRIDE_SAVE_HOUSE(BOOL override, float x, float y, float z, float heading, BOOL isAutosave, Vector3* returnCoords, float* returnHeading);
 ```
 
 

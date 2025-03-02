@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEF29A16337FACADB
-Ped CLONE_PED(Ped ped,BOOL isNetwork,BOOL bScriptHostPed,BOOL copyHeadBlendFlag);
+Ped CLONE_PED(Ped ped, BOOL isNetwork, BOOL bScriptHostPed, BOOL copyHeadBlendFlag);
 ```
 
 

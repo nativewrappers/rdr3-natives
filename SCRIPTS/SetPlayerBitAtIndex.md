@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x31010318BA9897AC
-void _SET_PLAYER_BIT_AT_INDEX(Any* value,int bitIndex);
+void _SET_PLAYER_BIT_AT_INDEX(Any* value, int bitIndex);
 ```
 
 

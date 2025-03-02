@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE052C1B1CAA4ECE4
-BOOL IS_VEHICLE_SEAT_FREE(Vehicle vehicle,int seatIndex);
+BOOL IS_VEHICLE_SEAT_FREE(Vehicle vehicle, int seatIndex);
 ```
 
 seatIndex: see CREATE_PED_INSIDE_VEHICLE

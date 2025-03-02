@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAC6586A7FDCD4B68
-void _UI_PROMPT_SET_SPINNER_SPEED(Prompt prompt,Any p1);
+void _UI_PROMPT_SET_SPINNER_SPEED(Prompt prompt, Any p1);
 ```
 
 

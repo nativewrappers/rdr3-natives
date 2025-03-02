@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDC5E09D012D759C4
-void _EAGLE_EYE_REMOVE_PARTICLE_EFFECT_FROM_ENTITY(Entity entity1,Entity entity2,int p2);
+void _EAGLE_EYE_REMOVE_PARTICLE_EFFECT_FROM_ENTITY(Entity entity1, Entity entity2, int p2);
 ```
 
 Remove yellow particle from the entity when it was set using `0x6ECFC621A168424C` 

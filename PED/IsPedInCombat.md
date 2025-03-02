@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4859F1FC66A6278E
-BOOL IS_PED_IN_COMBAT(Ped ped,Ped target);
+BOOL IS_PED_IN_COMBAT(Ped ped, Ped target);
 ```
 
 

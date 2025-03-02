@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x459598F579C98929
-void REMOVE_PARTICLE_FX(int ptfxHandle,BOOL p1);
+void REMOVE_PARTICLE_FX(int ptfxHandle, BOOL p1);
 ```
 
 

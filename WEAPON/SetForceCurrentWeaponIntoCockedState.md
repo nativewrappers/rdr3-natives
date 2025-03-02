@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5230D3F6EE56CFE6
-void _SET_FORCE_CURRENT_WEAPON_INTO_COCKED_STATE(Ped ped,int attachPoint);
+void _SET_FORCE_CURRENT_WEAPON_INTO_COCKED_STATE(Ped ped, int attachPoint);
 ```
 
 

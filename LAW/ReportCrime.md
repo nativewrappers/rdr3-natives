@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF60386770878A98F
-void _REPORT_CRIME(Player player,Hash crimeType,int bounty,Entity entity,BOOL isKnownSuspect);
+void _REPORT_CRIME(Player player, Hash crimeType, int bounty, Entity entity, BOOL isKnownSuspect);
 ```
 
 crimeType:

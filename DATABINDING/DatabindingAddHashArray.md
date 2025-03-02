@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x52F5F08278EA5D75
-Any _DATABINDING_ADD_HASH_ARRAY(Any p0,char* p1);
+Any _DATABINDING_ADD_HASH_ARRAY(Any p0, char* p1);
 ```
 
 

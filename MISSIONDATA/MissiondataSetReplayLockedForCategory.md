@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x957A830C9B4B99EA
-void MISSIONDATA_SET_REPLAY_LOCKED_FOR_CATEGORY(Hash category,BOOL locked);
+void MISSIONDATA_SET_REPLAY_LOCKED_FOR_CATEGORY(Hash category, BOOL locked);
 ```
 
 

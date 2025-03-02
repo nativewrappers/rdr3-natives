@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x42B2DAA6B596F5F8
-Entity NETWORK_GET_ENTITY_KILLER_OF_PLAYER(Player player,Hash* weaponHash);
+Entity NETWORK_GET_ENTITY_KILLER_OF_PLAYER(Player player, Hash* weaponHash);
 ```
 
 

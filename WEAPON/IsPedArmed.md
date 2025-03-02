@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCB690F680A3EA971
-Any IS_PED_ARMED(Ped ped,int flags);
+Any IS_PED_ARMED(Ped ped, int flags);
 ```
 
 

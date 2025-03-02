@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC47D9080A9A8856A
-void _SET_SCENARIO_POINT_RADIUS(int scenario,float radius);
+void _SET_SCENARIO_POINT_RADIUS(int scenario, float radius);
 ```
 
 

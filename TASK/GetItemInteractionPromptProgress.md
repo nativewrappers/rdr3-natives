@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBC864A70AD55E0C1
-float GET_ITEM_INTERACTION_PROMPT_PROGRESS(Ped ped,Hash inputContext);
+float GET_ITEM_INTERACTION_PROMPT_PROGRESS(Ped ped, Hash inputContext);
 ```
 
 

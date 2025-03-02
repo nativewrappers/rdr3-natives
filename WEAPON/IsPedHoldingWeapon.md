@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x07E1C35F0078C3F9
-BOOL _IS_PED_HOLDING_WEAPON(Ped ped,Hash weapon);
+BOOL _IS_PED_HOLDING_WEAPON(Ped ped, Hash weapon);
 ```
 
 Returns whether the specified ped is holding a weapon with the given hash.

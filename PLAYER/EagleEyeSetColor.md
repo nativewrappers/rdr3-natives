@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2C41D93F550D5E37
-void _EAGLE_EYE_SET_COLOR(Player player,BOOL p1,Any* p2);
+void _EAGLE_EYE_SET_COLOR(Player player, BOOL p1, Any* p2);
 ```
 
 false: default eagleeye color

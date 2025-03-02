@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x93171DDDAB274EB8
-void _SET_MP_GAMER_TAG_VISIBILITY(int gamerTagId,int visibility);
+void _SET_MP_GAMER_TAG_VISIBILITY(int gamerTagId, int visibility);
 ```
 
 visibility:

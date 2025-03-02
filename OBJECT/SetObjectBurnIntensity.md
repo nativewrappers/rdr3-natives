@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC8E21C1677DC5E6F
-void _SET_OBJECT_BURN_INTENSITY(Object object,float intensity);
+void _SET_OBJECT_BURN_INTENSITY(Object object, float intensity);
 ```
 
 

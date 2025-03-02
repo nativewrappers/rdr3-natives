@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBFCEABDE34DA5085
-void SET_SWIM_MULTIPLIER_FOR_PLAYER(Player player,float multiplier);
+void SET_SWIM_MULTIPLIER_FOR_PLAYER(Player player, float multiplier);
 ```
 
 Swim speed multiplier.

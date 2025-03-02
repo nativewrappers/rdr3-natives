@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7BB967F85D8CCBDB
-void TASK_ROB_PED(Ped ped,Any p1,Any p2,Any p3,Any p4);
+void TASK_ROB_PED(Ped ped, Any p1, Any p2, Any p3, Any p4);
 ```
 
 

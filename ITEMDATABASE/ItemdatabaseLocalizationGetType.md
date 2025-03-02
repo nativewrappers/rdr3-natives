@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCABF5D41D0073D4A
-Any _ITEMDATABASE_LOCALIZATION_GET_TYPE(Any p0,Any p1);
+Any _ITEMDATABASE_LOCALIZATION_GET_TYPE(Any p0, Any p1);
 ```
 
 Returns LabelType

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6EF4E31B4D5D2DA0
-Any _DISASSOCIATE_PROP_FROM_SCENARIO(int scenario,char* propName);
+Any _DISASSOCIATE_PROP_FROM_SCENARIO(int scenario, char* propName);
 ```
 
 

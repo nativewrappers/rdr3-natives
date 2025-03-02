@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFEFCC345CE357453
-Any NETWORK_GET_RECENT_GAMER_NAMES(int p0,int p1,Any* outData,int dataSize);
+Any NETWORK_GET_RECENT_GAMER_NAMES(int p0, int p1, Any* outData, int dataSize);
 ```
 
 

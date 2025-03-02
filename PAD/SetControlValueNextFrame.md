@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE8A25867FBA3B05E
-BOOL SET_CONTROL_VALUE_NEXT_FRAME(int control,Hash action,float value);
+BOOL SET_CONTROL_VALUE_NEXT_FRAME(int control, Hash action, float value);
 ```
 
 This is for simulating player input.

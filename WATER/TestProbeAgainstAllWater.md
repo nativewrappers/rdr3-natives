@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8974647ED222EA5F
-int TEST_PROBE_AGAINST_ALL_WATER(float x1,float y1,float z1,float x2,float y2,float z2,int flags,Vector3* intersectionPos);
+int TEST_PROBE_AGAINST_ALL_WATER(float x1, float y1, float z1, float x2, float y2, float z2, int flags, Vector3* intersectionPos);
 ```
 
 enum eScriptWaterTestResult

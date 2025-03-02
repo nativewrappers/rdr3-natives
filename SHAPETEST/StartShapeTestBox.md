@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFE466162C4401D18
-ScrHandle START_SHAPE_TEST_BOX(float posX,float posY,float posZ,float dimensionsX,float dimensionsY,float dimensionsZ,float rotX,float rotY,float rotZ,int rotationOrder,int flags,Entity entityToIgnore,int options);
+ScrHandle START_SHAPE_TEST_BOX(float posX, float posY, float posZ, float dimensionsX, float dimensionsY, float dimensionsZ, float rotX, float rotY, float rotZ, int rotationOrder, int flags, Entity entityToIgnore, int options);
 ```
 
 

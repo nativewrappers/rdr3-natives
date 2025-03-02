@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x00BA333DA05ADC23
-void _SET_SPECIAL_ABILITY_TYPE(Player player,int type);
+void _SET_SPECIAL_ABILITY_TYPE(Player player, int type);
 ```
 
 SPECIAL_ABILITY_NONE = -1,

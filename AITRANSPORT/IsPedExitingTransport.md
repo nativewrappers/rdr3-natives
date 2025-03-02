@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x660639BC60157048
-Any IS_PED_EXITING_TRANSPORT(Ped ped,Entity transportEntity);
+Any IS_PED_EXITING_TRANSPORT(Ped ped, Entity transportEntity);
 ```
 
 

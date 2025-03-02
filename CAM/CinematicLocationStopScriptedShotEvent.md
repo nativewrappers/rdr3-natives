@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6D4D25C2137FF511
-void CINEMATIC_LOCATION_STOP_SCRIPTED_SHOT_EVENT(Any p0,Any p1,Any p2);
+void CINEMATIC_LOCATION_STOP_SCRIPTED_SHOT_EVENT(Any p0, Any p1, Any p2);
 ```
 
 

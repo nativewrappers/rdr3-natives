@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE952D6431689AD9A
-void CLONE_PED_TO_TARGET(Ped ped,Ped targetPed);
+void CLONE_PED_TO_TARGET(Ped ped, Ped targetPed);
 ```
 
 Copies ped's components and props to targetPed.

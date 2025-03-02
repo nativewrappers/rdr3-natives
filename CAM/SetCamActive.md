@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x87295BCA613800C8
-void SET_CAM_ACTIVE(Cam cam,BOOL active);
+void SET_CAM_ACTIVE(Cam cam, BOOL active);
 ```
 
 Set camera as active/inactive.

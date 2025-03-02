@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6D2F987736A42D4C
-void _INVENTORY_SET_INVENTORY_ITEM_WEATHER_EFFECTIVENESS(int inventoryId,Any* guid,int weatherEffectiveness);
+void _INVENTORY_SET_INVENTORY_ITEM_WEATHER_EFFECTIVENESS(int inventoryId, Any* guid, int weatherEffectiveness);
 ```
 
 OWE_INVALID = -1,

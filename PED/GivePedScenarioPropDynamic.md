@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA0774E388CE4A679
-Any _GIVE_PED_SCENARIO_PROP_DYNAMIC(Ped ped,Object object,char* p2,char* p3,BOOL p4);
+Any _GIVE_PED_SCENARIO_PROP_DYNAMIC(Ped ped, Object object, char* p2, char* p3, BOOL p4);
 ```
 
 Only used in SP R* Script rcm_jack2

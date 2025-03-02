@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x033EE4B89F3AC545
-int INVENTORY_GET_CHILDREN_IN_SLOT_COUNT(int inventoryId,Any* guid,Hash slotId);
+int INVENTORY_GET_CHILDREN_IN_SLOT_COUNT(int inventoryId, Any* guid, Hash slotId);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x60B85BED6577A35B
-void SET_PARTICLE_FX_NON_LOOPED_COLOUR(float r,float g,float b);
+void SET_PARTICLE_FX_NON_LOOPED_COLOUR(float r, float g, float b);
 ```
 
 

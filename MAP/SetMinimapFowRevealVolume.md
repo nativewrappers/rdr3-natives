@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x63CBBD6CA6F321F9
-void SET_MINIMAP_FOW_REVEAL_VOLUME(Volume volume,Hash p1);
+void SET_MINIMAP_FOW_REVEAL_VOLUME(Volume volume, Hash p1);
 ```
 
 

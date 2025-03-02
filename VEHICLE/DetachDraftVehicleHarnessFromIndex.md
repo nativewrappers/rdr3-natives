@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4402960666000E62
-Any _DETACH_DRAFT_VEHICLE_HARNESS_FROM_INDEX(Vehicle draft,int harnessId);
+Any _DETACH_DRAFT_VEHICLE_HARNESS_FROM_INDEX(Vehicle draft, int harnessId);
 ```
 
 

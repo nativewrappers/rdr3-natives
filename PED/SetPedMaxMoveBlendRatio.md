@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x433083750C5E064A
-void SET_PED_MAX_MOVE_BLEND_RATIO(Ped ped,float value);
+void SET_PED_MAX_MOVE_BLEND_RATIO(Ped ped, float value);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEB4F9A3537EEABCD
-Hash _DATABINDING_ADD_DATA_CONTAINER(Hash entryId,char* p1);
+Hash _DATABINDING_ADD_DATA_CONTAINER(Hash entryId, char* p1);
 ```
 
 Returns entryId Hash

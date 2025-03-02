@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x78030C7867D8B9B6
-void SET_ALLOW_ANY_WEAPON_DROP(Ped ped,BOOL toggle);
+void SET_ALLOW_ANY_WEAPON_DROP(Ped ped, BOOL toggle);
 ```
 
 

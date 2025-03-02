@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x06D26A96CA1BCA75
-void _SET_PED_MOTIVATION(Ped ped,int motivationState,float threshold,Ped targetPed);
+void _SET_PED_MOTIVATION(Ped ped, int motivationState, float threshold, Ped targetPed);
 ```
 
 enum eMotivationState

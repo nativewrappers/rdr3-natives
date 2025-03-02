@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9609DBDDE18FAD8C
-PropSet CREATE_PROP_SET_INSTANCE_ATTACHED_TO_ENTITY(Hash hash,float x,float y,float z,Entity entity,float p5,BOOL p6,int p7,BOOL p8);
+PropSet CREATE_PROP_SET_INSTANCE_ATTACHED_TO_ENTITY(Hash hash, float x, float y, float z, Entity entity, float p5, BOOL p6, int p7, BOOL p8);
 ```
 
 

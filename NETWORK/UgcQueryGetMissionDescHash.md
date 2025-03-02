@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA6BF569956C60A60
-Hash _UGC_QUERY_GET_MISSION_DESC_HASH(Any p0,int index);
+Hash _UGC_QUERY_GET_MISSION_DESC_HASH(Any p0, int index);
 ```
 
 

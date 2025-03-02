@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5C885E0978B6AD60
-Any _CREATE_WAYPOINT_PATH(char* pathName,Any* p1,int nodes,int p3);
+Any _CREATE_WAYPOINT_PATH(char* pathName, Any* p1, int nodes, int p3);
 ```
 
 

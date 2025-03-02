@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDCF5BA95BBF0FABA
-void _PLAY_SOUND_FROM_POSITION_WITH_ID(int soundId,char* soundName,float x,float y,float z,char* soundsetName,BOOL p6,int p7,BOOL p8);
+void _PLAY_SOUND_FROM_POSITION_WITH_ID(int soundId, char* soundName, float x, float y, float z, char* soundsetName, BOOL p6, int p7, BOOL p8);
 ```
 
 Starts Audio Loop

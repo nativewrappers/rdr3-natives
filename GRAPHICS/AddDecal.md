@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x57CB267624EF85C0
-int ADD_DECAL(Any p0,Any p1,Any p2,Any p3,Any p4,Any p5,Any p6,Any p7,Any p8,Any p9,Any p10,Any p11,Any p12,Any p13,Any p14,Any p15,Any p16,Any p17,Any p18,Any p19,Any p20,Any p21);
+int ADD_DECAL(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, Any p12, Any p13, Any p14, Any p15, Any p16, Any p17, Any p18, Any p19, Any p20, Any p21);
 ```
 
 

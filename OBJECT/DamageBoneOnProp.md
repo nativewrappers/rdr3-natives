@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE4EFB315BCD2A838
-void _DAMAGE_BONE_ON_PROP(Object object,int bone);
+void _DAMAGE_BONE_ON_PROP(Object object, int bone);
 ```
 
 

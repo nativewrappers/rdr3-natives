@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5851CC48405F4A07
-BOOL HAS_ANIM_EVENT_FIRED(Entity entity,Hash actionHash);
+BOOL HAS_ANIM_EVENT_FIRED(Entity entity, Hash actionHash);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0AE7138D0541F2DE
-void _DATABINDING_SET_TEMPLATED_UI_ITEM_HASH_ALIAS(Any p0,int p1,Hash p2);
+void _DATABINDING_SET_TEMPLATED_UI_ITEM_HASH_ALIAS(Any p0, int p1, Hash p2);
 ```
 
 

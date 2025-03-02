@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA63CD20F19B961AB
-Any _PARSEDDATA_GET_BOOL(BOOL* p0,Any* p1,Hash p2);
+Any _PARSEDDATA_GET_BOOL(BOOL* p0, Any* p1, Hash p2);
 ```
 
 

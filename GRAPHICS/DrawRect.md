@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x405224591DF02025
-void DRAW_RECT(float x,float y,float width,float height,int red,int green,int blue,int alpha,BOOL p8,BOOL p9);
+void DRAW_RECT(float x, float y, float width, float height, int red, int green, int blue, int alpha, BOOL p8, BOOL p9);
 ```
 
 Draws a rectangle on the screen.

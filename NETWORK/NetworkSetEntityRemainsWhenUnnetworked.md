@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD785864798258032
-void NETWORK_SET_ENTITY_REMAINS_WHEN_UNNETWORKED(Entity entity,BOOL toggle);
+void NETWORK_SET_ENTITY_REMAINS_WHEN_UNNETWORKED(Entity entity, BOOL toggle);
 ```
 
 

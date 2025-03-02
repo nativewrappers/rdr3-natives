@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCF2B9C0645C4651B
-void SET_ENTITY_HEADING(Entity entity,float heading);
+void SET_ENTITY_HEADING(Entity entity, float heading);
 ```
 
 

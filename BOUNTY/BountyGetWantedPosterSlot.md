@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB395A44A0C7CA615
-Any BOUNTY_GET_WANTED_POSTER_SLOT(Hash p0,Hash p1,Any* p2);
+Any BOUNTY_GET_WANTED_POSTER_SLOT(Hash p0, Hash p1, Any* p2);
 ```
 
 

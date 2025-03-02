@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x45C597097DD7CB81
-void ADD_COVER_BLOCKING_AREA(float playerX,float playerY,float playerZ,float radiusX,float radiusY,float radiusZ,BOOL p6,BOOL p7,BOOL p8,BOOL p9);
+void ADD_COVER_BLOCKING_AREA(float playerX, float playerY, float playerZ, float radiusX, float radiusY, float radiusZ, BOOL p6, BOOL p7, BOOL p8, BOOL p9);
 ```
 
 

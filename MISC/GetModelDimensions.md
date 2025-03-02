@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDCB8DDD5D054A7E7
-void GET_MODEL_DIMENSIONS(Hash modelHash,Vector3* minimum,Vector3* maximum);
+void GET_MODEL_DIMENSIONS(Hash modelHash, Vector3* minimum, Vector3* maximum);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x965B220A066E3F07
-float ATAN2(float p0,float p1);
+float ATAN2(float p0, float p1);
 ```
 
 

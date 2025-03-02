@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0BCD4091C8EABA42
-Ped _CREATE_META_PED(int requestId,float x,float y,float z,float heading,BOOL p5,BOOL p6,BOOL p7,BOOL p8,BOOL p9);
+Ped _CREATE_META_PED(int requestId, float x, float y, float z, float heading, BOOL p5, BOOL p6, BOOL p7, BOOL p8, BOOL p9);
 ```
 
 Only used in SP scripts, for example odriscolls1: BOOLS: true, true, true, false, false

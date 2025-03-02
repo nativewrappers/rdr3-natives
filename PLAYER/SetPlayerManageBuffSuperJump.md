@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x292F0B6EDC82E3A4
-void _SET_PLAYER_MANAGE_BUFF_SUPER_JUMP(Player player,float p1);
+void _SET_PLAYER_MANAGE_BUFF_SUPER_JUMP(Player player, float p1);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x42688E94E96FD9B4
-float _GET_PED_MOTIVATION(Ped ped,int motivationState,Ped targetPed);
+float _GET_PED_MOTIVATION(Ped ped, int motivationState, Ped targetPed);
 ```
 
 If targetPed is set to 0 the ped motivationState affects everyone

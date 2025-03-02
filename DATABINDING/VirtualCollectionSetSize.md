@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9DCE9B01A93B58BC
-void _VIRTUAL_COLLECTION_SET_SIZE(Any p0,int size);
+void _VIRTUAL_COLLECTION_SET_SIZE(Any p0, int size);
 ```
 
 

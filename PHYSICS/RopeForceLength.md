@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD009F759A723DB1B
-void ROPE_FORCE_LENGTH(int ropeId,float length);
+void ROPE_FORCE_LENGTH(int ropeId, float length);
 ```
 
 Forces a rope to a certain length.

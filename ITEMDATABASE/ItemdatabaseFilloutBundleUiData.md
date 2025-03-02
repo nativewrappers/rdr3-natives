@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x74C3B1093728D263
-BOOL _ITEMDATABASE_FILLOUT_BUNDLE_UI_DATA(Hash bundle,Any* outData);
+BOOL _ITEMDATABASE_FILLOUT_BUNDLE_UI_DATA(Hash bundle, Any* outData);
 ```
 
 

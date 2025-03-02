@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB5352B7494A08258
-Any _UI_PROMPT_SET_CONTROL_ACTION(Prompt prompt,Hash action);
+Any _UI_PROMPT_SET_CONTROL_ACTION(Prompt prompt, Hash action);
 ```
 
 

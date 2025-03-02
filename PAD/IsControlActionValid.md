@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBC0884BC590951C7
-Any _IS_CONTROL_ACTION_VALID(Hash action,int control);
+Any _IS_CONTROL_ACTION_VALID(Hash action, int control);
 ```
 
 

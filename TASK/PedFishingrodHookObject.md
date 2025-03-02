@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCE71C2F9BAA3F975
-void _PED_FISHINGROD_HOOK_OBJECT(Ped ped,Object object);
+void _PED_FISHINGROD_HOOK_OBJECT(Ped ped, Object object);
 ```
 
 Used with 'P_BODYPARTARMFLOAT02X' model in fishing_core.c

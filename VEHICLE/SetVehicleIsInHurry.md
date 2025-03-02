@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCE1531927AD6C9F8
-void _SET_VEHICLE_IS_IN_HURRY(Vehicle vehicle,BOOL enabled);
+void _SET_VEHICLE_IS_IN_HURRY(Vehicle vehicle, BOOL enabled);
 ```
 
 

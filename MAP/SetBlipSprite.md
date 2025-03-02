@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x74F74D3207ED525C
-void SET_BLIP_SPRITE(Blip blip,Hash hash,BOOL p2);
+void SET_BLIP_SPRITE(Blip blip, Hash hash, BOOL p2);
 ```
 
 

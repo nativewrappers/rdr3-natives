@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x20E54854DEF6A54A
-void _SET_PED_FIRING_PATTERN_2(Ped ped,Hash patternHash);
+void _SET_PED_FIRING_PATTERN_2(Ped ped, Hash patternHash);
 ```
 
 Used in R* MP Script fm_mission_controller and various R* SP Scripts for ambush*

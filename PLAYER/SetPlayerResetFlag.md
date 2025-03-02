@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9F9A829C6751F3C7
-void _SET_PLAYER_RESET_FLAG(Player player,int playerResetFlag,BOOL p2);
+void _SET_PLAYER_RESET_FLAG(Player player, int playerResetFlag, BOOL p2);
 ```
 
 https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePlayerResetFlags

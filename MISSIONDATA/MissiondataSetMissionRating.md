@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE824CE7D13FCB300
-void _MISSIONDATA_SET_MISSION_RATING(Hash missionId,int rating);
+void _MISSIONDATA_SET_MISSION_RATING(Hash missionId, int rating);
 ```
 
 MISSION_RATING_INCOMPLETE = 0,

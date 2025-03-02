@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x71215ACCFDE075EE
-void _UI_PROMPT_SET_VISIBLE(Prompt prompt,BOOL toggle);
+void _UI_PROMPT_SET_VISIBLE(Prompt prompt, BOOL toggle);
 ```
 
 

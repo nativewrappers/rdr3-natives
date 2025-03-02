@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6049966A94FBE706
-void SET_BLIP_ROTATION(Blip blip,int rotation);
+void SET_BLIP_ROTATION(Blip blip, int rotation);
 ```
 
 

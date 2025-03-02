@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x028F76B6E78246EB
-void SET_PED_ONTO_MOUNT(Ped ped,Ped mount,int seatIndex,BOOL p3);
+void SET_PED_ONTO_MOUNT(Ped ped, Ped mount, int seatIndex, BOOL p3);
 ```
 
 

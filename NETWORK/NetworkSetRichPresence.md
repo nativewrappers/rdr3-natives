@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1DCCACDCFC569362
-void NETWORK_SET_RICH_PRESENCE(int p0,Any* p1,int p2,int p3);
+void NETWORK_SET_RICH_PRESENCE(int p0, Any* p1, int p2, int p3);
 ```
 
 

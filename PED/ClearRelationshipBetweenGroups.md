@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5E29243FB56FC6D4
-void CLEAR_RELATIONSHIP_BETWEEN_GROUPS(int relationship,Hash group1,Hash group2);
+void CLEAR_RELATIONSHIP_BETWEEN_GROUPS(int relationship, Hash group1, Hash group2);
 ```
 
 

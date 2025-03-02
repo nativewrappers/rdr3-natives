@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBAF20C5432058024
-void SET_PED_CAN_PLAY_GESTURE_ANIMS(Ped ped,Any p1,Any p2);
+void SET_PED_CAN_PLAY_GESTURE_ANIMS(Ped ped, Any p1, Any p2);
 ```
 
 

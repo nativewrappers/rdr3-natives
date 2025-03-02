@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE24E957294241444
-BOOL EVENTS_UI_GET_MESSAGE(Hash hash,Any* eventData);
+BOOL EVENTS_UI_GET_MESSAGE(Hash hash, Any* eventData);
 ```
 
 eventData:

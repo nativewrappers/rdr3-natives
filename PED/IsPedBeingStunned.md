@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4FBACCE3B4138EE8
-BOOL IS_PED_BEING_STUNNED(Ped ped,Hash weaponType);
+BOOL IS_PED_BEING_STUNNED(Ped ped, Hash weaponType);
 ```
 
 

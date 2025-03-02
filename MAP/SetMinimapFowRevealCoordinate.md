@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x73348402566ECB6E
-void SET_MINIMAP_FOW_REVEAL_COORDINATE(float x,float y,float z,Hash p3);
+void SET_MINIMAP_FOW_REVEAL_COORDINATE(float x, float y, float z, Hash p3);
 ```
 
 Up to eight coordinates may be revealed per frame

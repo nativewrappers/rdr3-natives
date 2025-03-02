@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6A0184E904CDF25E
-void _STAT_ID_INCREMENT_INT(Any* statId,int value);
+void _STAT_ID_INCREMENT_INT(Any* statId, int value);
 ```
 
 statId: see STAT_ID_IS_VALID

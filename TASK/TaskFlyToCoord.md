@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD6CFC2D59DA72042
-void TASK_FLY_TO_COORD(Ped ped,float travelMbr,float x,float y,float z,BOOL p5,BOOL p6);
+void TASK_FLY_TO_COORD(Ped ped, float travelMbr, float x, float y, float z, BOOL p5, BOOL p6);
 ```
 
 

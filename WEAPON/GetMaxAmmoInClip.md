@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA38DCFFCEA8962FA
-int GET_MAX_AMMO_IN_CLIP(Ped ped,Hash weaponHash,BOOL p2);
+int GET_MAX_AMMO_IN_CLIP(Ped ped, Hash weaponHash, BOOL p2);
 ```
 
 

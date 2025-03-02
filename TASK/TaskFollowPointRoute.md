@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0E14C5550DC3CD1D
-void TASK_FOLLOW_POINT_ROUTE(Ped ped,Any p1,Any p2,Any p3,Any p4,Any p5);
+void TASK_FOLLOW_POINT_ROUTE(Ped ped, Any p1, Any p2, Any p3, Any p4, Any p5);
 ```
 
 

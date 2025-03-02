@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x398FAB9C96A81924
-void _COLLECTABLE_INCREMENT_NUM_TURNED_IN(Hash collectableItem,int amount);
+void _COLLECTABLE_INCREMENT_NUM_TURNED_IN(Hash collectableItem, int amount);
 ```
 
 

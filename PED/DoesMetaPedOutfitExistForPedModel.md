@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC0E880B7A441164D
-Any _DOES_META_PED_OUTFIT_EXIST_FOR_PED_MODEL(Hash outfit,Hash model);
+Any _DOES_META_PED_OUTFIT_EXIST_FOR_PED_MODEL(Hash outfit, Hash model);
 ```
 
 

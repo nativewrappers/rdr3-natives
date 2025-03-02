@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4C3FA937B44A90FA
-void TASK_SET_STEALTH_MOVEMENT(Ped ped,BOOL p1,Any p2,BOOL p3);
+void TASK_SET_STEALTH_MOVEMENT(Ped ped, BOOL p1, Any p2, BOOL p3);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC20E50AA46D09CA8
-void TASK_ENTER_VEHICLE(Ped ped,Vehicle vehicle,int timeout,int seat,float speed,int flag,Any p6);
+void TASK_ENTER_VEHICLE(Ped ped, Vehicle vehicle, int timeout, int seat, float speed, int flag, Any p6);
 ```
 
 flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eEnterExitVehicleFlags

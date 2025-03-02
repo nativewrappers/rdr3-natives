@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0286617C8FC50A53
-void UPDATE_SOUND_COORD(int soundId,float x,float y,float z);
+void UPDATE_SOUND_COORD(int soundId, float x, float y, float z);
 ```
 
 Only used in R* SP Scripts

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xADD31A5C7A5FAA73
-void _SET_PED_DISABLE_KICK_MOVE(Ped ped,BOOL disable);
+void _SET_PED_DISABLE_KICK_MOVE(Ped ped, BOOL disable);
 ```
 
 Disables being able to kick move ped.

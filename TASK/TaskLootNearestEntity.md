@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCF1501CBC4059412
-void TASK_LOOT_NEAREST_ENTITY(Ped ped,float x,float y,float z,int p4,float p5);
+void TASK_LOOT_NEAREST_ENTITY(Ped ped, float x, float y, float z, int p4, float p5);
 ```
 
 

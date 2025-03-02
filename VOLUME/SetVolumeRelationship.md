@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFD010A2154B40676
-void _SET_VOLUME_RELATIONSHIP(Volume volume,Hash relationshipGroup);
+void _SET_VOLUME_RELATIONSHIP(Volume volume, Hash relationshipGroup);
 ```
 
 

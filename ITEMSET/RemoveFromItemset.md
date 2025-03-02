@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC5BAA432B429DC24
-void REMOVE_FROM_ITEMSET(Entity entity,ItemSet itemset);
+void REMOVE_FROM_ITEMSET(Entity entity, ItemSet itemset);
 ```
 
 

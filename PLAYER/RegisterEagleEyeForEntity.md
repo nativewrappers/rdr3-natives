@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x543DFE14BE720027
-void _REGISTER_EAGLE_EYE_FOR_ENTITY(Player player,Entity entity,BOOL p2);
+void _REGISTER_EAGLE_EYE_FOR_ENTITY(Player player, Entity entity, BOOL p2);
 ```
 
 Used for setting up eagle eye for entity

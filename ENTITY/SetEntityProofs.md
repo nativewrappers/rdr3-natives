@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFAEE099C6F890BB8
-void SET_ENTITY_PROOFS(Entity entity,int proofsBitset,BOOL specialFlag);
+void SET_ENTITY_PROOFS(Entity entity, int proofsBitset, BOOL specialFlag);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/AI/ENTITY_PROOFS

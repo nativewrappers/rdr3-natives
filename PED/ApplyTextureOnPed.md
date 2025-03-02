@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0B46E25761519058
-void _APPLY_TEXTURE_ON_PED(Ped ped,Hash componentHash,int textureId);
+void _APPLY_TEXTURE_ON_PED(Ped ped, Hash componentHash, int textureId);
 ```
 
 

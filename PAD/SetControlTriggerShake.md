@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x14D29BB12D47F68C
-void SET_CONTROL_TRIGGER_SHAKE(int control,int leftDuration,int leftFrequency,int rightDuration,int rightFrequency);
+void SET_CONTROL_TRIGGER_SHAKE(int control, int leftDuration, int leftFrequency, int rightDuration, int rightFrequency);
 ```
 
 nullsub, doesn't do anything

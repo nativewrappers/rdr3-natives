@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB204BF9F30298D77
-void _TELEMETRY_PRISON(Any transactionId,Any bountyAmount,Ped ped,Any completionType,Any jailTimeServed,Any jailTimeLeft,Any posseRole);
+void _TELEMETRY_PRISON(Any transactionId, Any bountyAmount, Ped ped, Any completionType, Any jailTimeServed, Any jailTimeLeft, Any posseRole);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2989E131FDE37E97
-Any NETWORK_SESSION_REQUEST_SESSION_SEAMLESS(int flags,int seamlessType,int userHash,Any* sessionRequestId);
+Any NETWORK_SESSION_REQUEST_SESSION_SEAMLESS(int flags, int seamlessType, int userHash, Any* sessionRequestId);
 ```
 
 Equivalent to NETWORK_REQUEST_SESSION_SEAMLESS if userHash == 0.

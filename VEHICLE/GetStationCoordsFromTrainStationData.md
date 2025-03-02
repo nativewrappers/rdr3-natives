@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBA958F68031DDBFC
-Vector3 _GET_STATION_COORDS_FROM_TRAIN_STATION_DATA(int trackIndex,int stationIndex);
+Vector3 _GET_STATION_COORDS_FROM_TRAIN_STATION_DATA(int trackIndex, int stationIndex);
 ```
 
 Returns Coords of vStation

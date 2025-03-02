@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x22B3CABEDDB538B2
-void _0x22B3CABEDDB538B2(Player player,float p1);
+void _0x22B3CABEDDB538B2(Player player, float p1);
 ```
 
 

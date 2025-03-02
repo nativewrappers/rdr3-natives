@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x627520389E288A73
-float _GET_ENTITY_ANIM_CURRENT_TIME(Entity entity,char* animDict,char* animName);
+float _GET_ENTITY_ANIM_CURRENT_TIME(Entity entity, char* animDict, char* animName);
 ```
 
 Returns a normalized value between 0.0f and 1.0f. You can get the actual anim time by multiplying this by GET_ANIM_DURATION

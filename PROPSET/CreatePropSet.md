@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE65C5CBA95F0E510
-PropSet _CREATE_PROP_SET(Hash propsetType,float x,float y,float z,int placementType,float heading,float zProbe,BOOL p7,BOOL useVegMod);
+PropSet _CREATE_PROP_SET(Hash propsetType, float x, float y, float z, int placementType, float heading, float zProbe, BOOL p7, BOOL useVegMod);
 ```
 
 propsetType: https://github.com/femga/rdr3_discoveries/blob/master/objects/propsets_list.lua

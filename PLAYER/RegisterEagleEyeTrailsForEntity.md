@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAC67098A1E54ABB0
-void _REGISTER_EAGLE_EYE_TRAILS_FOR_ENTITY(Player player,Entity entity,Any p2);
+void _REGISTER_EAGLE_EYE_TRAILS_FOR_ENTITY(Player player, Entity entity, Any p2);
 ```
 
 

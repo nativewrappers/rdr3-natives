@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x850C940EE3E7B8B5
-void SET_ENTITY_REQUIRES_MORE_EXPENSIVE_RIVER_CHECK(Entity entity,BOOL toggle);
+void SET_ENTITY_REQUIRES_MORE_EXPENSIVE_RIVER_CHECK(Entity entity, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFCCC886EDE3C63EC
-void _HIDE_PED_WEAPONS(Ped ped,int p0,BOOL immediately);
+void _HIDE_PED_WEAPONS(Ped ped, int p0, BOOL immediately);
 ```
 
 Unequip current weapon and set current weapon to WEAPON_UNARMED.

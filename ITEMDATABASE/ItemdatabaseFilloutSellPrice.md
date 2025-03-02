@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7A62A2EEDE1C3766
-Any _ITEMDATABASE_FILLOUT_SELL_PRICE(Hash key,Hash sellType,Any* outData);
+Any _ITEMDATABASE_FILLOUT_SELL_PRICE(Hash key, Hash sellType, Any* outData);
 ```
 
 Params: sellType = SELL_SHOP_DEFAULT

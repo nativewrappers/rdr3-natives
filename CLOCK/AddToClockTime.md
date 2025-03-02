@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAB7C251C7701D336
-void ADD_TO_CLOCK_TIME(int hours,int minutes,int seconds);
+void ADD_TO_CLOCK_TIME(int hours, int minutes, int seconds);
 ```
 
 

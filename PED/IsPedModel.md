@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC9D55B1A358A5BF7
-BOOL IS_PED_MODEL(Ped ped,Hash modelHash);
+BOOL IS_PED_MODEL(Ped ped, Hash modelHash);
 ```
 
 

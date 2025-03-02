@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2B12B6FC8B8772AB
-void _SET_DEADEYE_ENTITY_AURA_WITH_FLAG(Player player,int flag);
+void _SET_DEADEYE_ENTITY_AURA_WITH_FLAG(Player player, int flag);
 ```
 
 Applies a aura effect to nearby entities when Deadeye is active, based on a flag parameter. This includes humans, animals, vehicles, and horses pulling those vehicles. Additionally, depending on the flag value, the player's appearance may change (e.g., turning gray).

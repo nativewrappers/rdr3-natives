@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB9467E41DAB1CF2C
-Any _AWARDS_GET_UNLOCK_CLAIM_DATA(Any* rpcGuid,Hash awardHash,int dataIndex,Any* outUnlockData);
+Any _AWARDS_GET_UNLOCK_CLAIM_DATA(Any* rpcGuid, Hash awardHash, int dataIndex, Any* outUnlockData);
 ```
 
 

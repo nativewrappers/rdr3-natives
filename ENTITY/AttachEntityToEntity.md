@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6B9BBD38AB0796DF
-void ATTACH_ENTITY_TO_ENTITY(Entity entity1,Entity entity2,int boneIndex,float xPos,float yPos,float zPos,float xRot,float yRot,float zRot,BOOL p9,BOOL useSoftPinning,BOOL collision,BOOL isPed,int vertexIndex,BOOL fixedRot,BOOL p15,BOOL p16);
+void ATTACH_ENTITY_TO_ENTITY(Entity entity1, Entity entity2, int boneIndex, float xPos, float yPos, float zPos, float xRot, float yRot, float zRot, BOOL p9, BOOL useSoftPinning, BOOL collision, BOOL isPed, int vertexIndex, BOOL fixedRot, BOOL p15, BOOL p16);
 ```
 
 Attaches entity1 to bone (boneIndex) of entity2.

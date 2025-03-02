@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x22B0D0E37CCB840D
-void TASK_SMART_FLEE_PED(Ped ped,Ped fleeFromTarget,float fleeDistance,int fleeTime,int fleeType,float fleeSpeed,Ped targetPed);
+void TASK_SMART_FLEE_PED(Ped ped, Ped fleeFromTarget, float fleeDistance, int fleeTime, int fleeType, float fleeSpeed, Ped targetPed);
 ```
 
 Makes a ped run away from another ped (fleeFromTarget)

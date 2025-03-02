@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5F53010C4C3F6BAF
-void _SET_PED_BLACKBOARD_INT(Ped ped,char* variableName,int value,int removeTimer);
+void _SET_PED_BLACKBOARD_INT(Ped ped, char* variableName, int value, int removeTimer);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/AI/BLACKBOARDS

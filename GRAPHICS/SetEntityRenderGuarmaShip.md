@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC38B4952B728397A
-void _SET_ENTITY_RENDER_GUARMA_SHIP(Vehicle vehicle,BOOL toggle);
+void _SET_ENTITY_RENDER_GUARMA_SHIP(Vehicle vehicle, BOOL toggle);
 ```
 
 Only used in guama1 R* SP Script while spawning the ship

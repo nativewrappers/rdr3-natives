@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF3735ACD11ACD500
-Any _GET_TASK_FISHING(Ped ped,Any* p1);
+Any _GET_TASK_FISHING(Ped ped, Any* p1);
 ```
 
 Fishing Research: https://pastebin.com/NmK5ZLVs

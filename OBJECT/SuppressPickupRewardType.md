@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF92099527DB8E2A7
-void SUPPRESS_PICKUP_REWARD_TYPE(int rewardType,BOOL suppress);
+void SUPPRESS_PICKUP_REWARD_TYPE(int rewardType, BOOL suppress);
 ```
 
 

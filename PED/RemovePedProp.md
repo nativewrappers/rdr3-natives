@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3A50753042B6891B
-void _REMOVE_PED_PROP(Ped ped,char* propName);
+void _REMOVE_PED_PROP(Ped ped, char* propName);
 ```
 
 

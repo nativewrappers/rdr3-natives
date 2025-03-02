@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x280C7E3AC7F56E90
-void SPAWNPOINTS_GET_SEARCH_RESULT(int randomInt,float* x,Any* y,float* z);
+void SPAWNPOINTS_GET_SEARCH_RESULT(int randomInt, float* x, Any* y, float* z);
 ```
 
 

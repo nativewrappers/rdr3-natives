@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBD090F5B1DB82189
-void _REMOVE_POP_MULTIPLIER_AREA_FOR_VOLUME(Volume volume,int p1);
+void _REMOVE_POP_MULTIPLIER_AREA_FOR_VOLUME(Volume volume, int p1);
 ```
 
 

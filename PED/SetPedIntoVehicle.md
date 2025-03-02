@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF75B0D629E1C063D
-void SET_PED_INTO_VEHICLE(Ped ped,Vehicle vehicle,int seatIndex);
+void SET_PED_INTO_VEHICLE(Ped ped, Vehicle vehicle, int seatIndex);
 ```
 
 Ped: The ped to warp.

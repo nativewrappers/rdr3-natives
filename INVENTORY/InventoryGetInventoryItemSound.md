@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2E1CDC1FF3B8473E
-Hash _INVENTORY_GET_INVENTORY_ITEM_SOUND(Hash item,int soundType);
+Hash _INVENTORY_GET_INVENTORY_ITEM_SOUND(Hash item, int soundType);
 ```
 
 soundType: see 0x2BAE4880DCDD560B

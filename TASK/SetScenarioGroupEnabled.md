@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x02C8E5B49848664E
-void SET_SCENARIO_GROUP_ENABLED(char* scenarioGroup,BOOL toggle);
+void SET_SCENARIO_GROUP_ENABLED(char* scenarioGroup, BOOL toggle);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x17C07FC640E86B4E
-Vector3 GET_PED_BONE_COORDS(Ped ped,int boneId,float offsetX,float offsetY,float offsetZ);
+Vector3 GET_PED_BONE_COORDS(Ped ped, int boneId, float offsetX, float offsetY, float offsetZ);
 ```
 
 Gets the position of the specified bone of the specified ped.

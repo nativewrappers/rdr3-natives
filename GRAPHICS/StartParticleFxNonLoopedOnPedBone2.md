@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC695870B8A149B96
-Any _START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE_2(char* effectName,Ped ped,float offsetX,float offsetY,float offsetZ,float rotX,float rotY,float rotZ,int boneIndex,float scale,BOOL axisX,BOOL axisY,BOOL axisZ);
+Any _START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE_2(char* effectName, Ped ped, float offsetX, float offsetY, float offsetZ, float rotX, float rotY, float rotZ, int boneIndex, float scale, BOOL axisX, BOOL axisY, BOOL axisZ);
 ```
 
 

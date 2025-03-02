@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x52BDE32F21BA3B6D
-Any _CASHINVENTORY_TRANSACTION_ADD_AWARD(int id,Hash hash,Any* p2,Any* p3);
+Any _CASHINVENTORY_TRANSACTION_ADD_AWARD(int id, Hash hash, Any* p2, Any* p3);
 ```
 
 

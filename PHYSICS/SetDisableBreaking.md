@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5CEC1A84620E7D5B
-void SET_DISABLE_BREAKING(Object object,BOOL toggle);
+void SET_DISABLE_BREAKING(Object object, BOOL toggle);
 ```
 
 

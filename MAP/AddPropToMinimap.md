@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1392105DA88BBFFB
-void _ADD_PROP_TO_MINIMAP(Hash minimapProp,float x,float y,float rotation,int variation);
+void _ADD_PROP_TO_MINIMAP(Hash minimapProp, float x, float y, float rotation, int variation);
 ```
 
 list of minimap props: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/minimapObjects

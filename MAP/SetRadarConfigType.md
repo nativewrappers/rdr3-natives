@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9C113883487FD53C
-void _SET_RADAR_CONFIG_TYPE(Hash configHash,Hash p1);
+void _SET_RADAR_CONFIG_TYPE(Hash configHash, Hash p1);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/graphics/minimap/radar/radar_configs.lua

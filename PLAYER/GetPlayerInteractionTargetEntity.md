@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3EE1F7A8C32F24E1
-Any GET_PLAYER_INTERACTION_TARGET_ENTITY(Player player,Entity* outEntity,BOOL p2,BOOL p3);
+Any GET_PLAYER_INTERACTION_TARGET_ENTITY(Player player, Entity* outEntity, BOOL p2, BOOL p3);
 ```
 
 

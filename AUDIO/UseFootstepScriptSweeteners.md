@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBF4DC1784BE94DFA
-void USE_FOOTSTEP_SCRIPT_SWEETENERS(Ped ped,BOOL p1,Hash hash);
+void USE_FOOTSTEP_SCRIPT_SWEETENERS(Ped ped, BOOL p1, Hash hash);
 ```
 
 

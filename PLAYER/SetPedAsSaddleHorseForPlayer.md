@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD2CB0FB0FDCB473D
-void _SET_PED_AS_SADDLE_HORSE_FOR_PLAYER(Player player,Ped mount);
+void _SET_PED_AS_SADDLE_HORSE_FOR_PLAYER(Player player, Ped mount);
 ```
 
 

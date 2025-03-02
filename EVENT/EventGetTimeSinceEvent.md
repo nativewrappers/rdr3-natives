@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC6A7DC546E94FED5
-int _EVENT_GET_TIME_SINCE_EVENT(Entity entity,Hash eventType,int p2,int p3);
+int _EVENT_GET_TIME_SINCE_EVENT(Entity entity, Hash eventType, int p2, int p3);
 ```
 
 

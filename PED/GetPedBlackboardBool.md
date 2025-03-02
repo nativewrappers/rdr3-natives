@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x498F2E77982D6945
-Any _GET_PED_BLACKBOARD_BOOL(Ped ped,char* variableName);
+Any _GET_PED_BLACKBOARD_BOOL(Ped ped, char* variableName);
 ```
 
 Can be used to get a peds foliage active status: variableName = FoliageActive

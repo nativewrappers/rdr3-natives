@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEF50E344A8F93784
-float _GET_EASING_CURVE_VALUE(float t,float b,float d,int easingCurveType);
+float _GET_EASING_CURVE_VALUE(float t, float b, float d, int easingCurveType);
 ```
 
 https://easings.net/

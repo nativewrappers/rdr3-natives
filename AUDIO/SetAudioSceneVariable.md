@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEF21A9EF089A2668
-void SET_AUDIO_SCENE_VARIABLE(char* scene,char* variable,float value);
+void SET_AUDIO_SCENE_VARIABLE(char* scene, char* variable, float value);
 ```
 
 

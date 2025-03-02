@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x91D657230BC208D2
-void ACTIVITY_FEED_ACTION_START_WITH_COMMAND_LINE(char* p0,char* p1);
+void ACTIVITY_FEED_ACTION_START_WITH_COMMAND_LINE(char* p0, char* p1);
 ```
 
 nullsub, doesn't do anything

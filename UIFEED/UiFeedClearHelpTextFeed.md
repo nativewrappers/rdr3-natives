@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2F901291EF177B02
-void _UI_FEED_CLEAR_HELP_TEXT_FEED(int feedMessage,BOOL p1);
+void _UI_FEED_CLEAR_HELP_TEXT_FEED(int feedMessage, BOOL p1);
 ```
 
 Clears help text

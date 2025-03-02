@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x850DA2750DA14E9A
-Vector3 DATAARRAY_GET_VECTOR(Any* arrayData,int arrayIndex);
+Vector3 DATAARRAY_GET_VECTOR(Any* arrayData, int arrayIndex);
 ```
 
 

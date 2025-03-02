@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x66B1CB778D911F49
-void _UPDATE_PED_WOUND_EFFECT(Ped ped,float value);
+void _UPDATE_PED_WOUND_EFFECT(Ped ped, float value);
 ```
 
 Params: 0.0f to remove wound effects

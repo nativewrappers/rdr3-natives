@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6A071245EB0D1882
-void TASK_GO_TO_ENTITY(Ped ped,Entity target,int duration,float distance,float speed,float p5,int p6);
+void TASK_GO_TO_ENTITY(Ped ped, Entity target, int duration, float distance, float speed, float p5, int p6);
 ```
 
 

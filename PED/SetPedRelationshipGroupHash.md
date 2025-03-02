@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC80A74AC829DDD92
-void SET_PED_RELATIONSHIP_GROUP_HASH(Ped ped,Hash relationshipGroup);
+void SET_PED_RELATIONSHIP_GROUP_HASH(Ped ped, Hash relationshipGroup);
 ```
 
 

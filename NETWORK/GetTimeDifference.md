@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA2C6FC031D46FFF0
-int GET_TIME_DIFFERENCE(int timeA,int timeB);
+int GET_TIME_DIFFERENCE(int timeA, int timeB);
 ```
 
 Subtracts the second argument from the first.

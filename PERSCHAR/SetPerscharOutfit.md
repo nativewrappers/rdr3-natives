@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2DF89CD2ED1D0BDE
-void _SET_PERSCHAR_OUTFIT(Hash persCharHash,Hash outfit);
+void _SET_PERSCHAR_OUTFIT(Hash persCharHash, Hash outfit);
 ```
 
 

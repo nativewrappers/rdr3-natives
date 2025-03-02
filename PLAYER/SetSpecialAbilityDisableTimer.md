@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC0B1C05B313693D1
-void _SET_SPECIAL_ABILITY_DISABLE_TIMER(Player player,float timer);
+void _SET_SPECIAL_ABILITY_DISABLE_TIMER(Player player, float timer);
 ```
 
 Only used in R* SP Script short_update

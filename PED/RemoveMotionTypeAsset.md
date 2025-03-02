@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDE7B2B4144906CDF
-void _REMOVE_MOTION_TYPE_ASSET(Hash nameHash,Ped ped);
+void _REMOVE_MOTION_TYPE_ASSET(Hash nameHash, Ped ped);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1E804EA9B12030A4
-Any _GET_SCRIPT_OVERRIDE_ENTITY_LOOT_TABLE_PERMANENT(Entity entity,Hash* lootTable);
+Any _GET_SCRIPT_OVERRIDE_ENTITY_LOOT_TABLE_PERMANENT(Entity entity, Hash* lootTable);
 ```
 
 Returns false if entity is not a ped or object.

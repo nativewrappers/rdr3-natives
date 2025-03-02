@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE3621CC40F31FE2E
-float POW(float base,float exponent);
+float POW(float base, float exponent);
 ```
 
 

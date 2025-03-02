@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAE663DDD99C8A670
-BOOL GET_PLAYER_TARGET_ENTITY(Player player,Entity* entity);
+BOOL GET_PLAYER_TARGET_ENTITY(Player player, Entity* entity);
 ```
 
 

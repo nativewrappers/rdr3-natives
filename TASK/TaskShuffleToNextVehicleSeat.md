@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7AA80209BDA643EB
-void TASK_SHUFFLE_TO_NEXT_VEHICLE_SEAT(Ped ped,Vehicle vehicle);
+void TASK_SHUFFLE_TO_NEXT_VEHICLE_SEAT(Ped ped, Vehicle vehicle);
 ```
 
 Makes the specified ped shuffle to the next vehicle seat.

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE8A8378BF651079C
-BOOL _GET_ENTITY_MASK_LAYERS(Entity entity,float* layer0,float* layer1,float* layer2,float* layer3);
+BOOL _GET_ENTITY_MASK_LAYERS(Entity entity, float* layer0, float* layer1, float* layer2, float* layer3);
 ```
 
 

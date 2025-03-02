@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBC29A9894C976945
-void FORCE_ROOM_FOR_ENTITY(Entity entity,Interior interior,Hash roomHashKey);
+void FORCE_ROOM_FOR_ENTITY(Entity entity, Interior interior, Hash roomHashKey);
 ```
 
 

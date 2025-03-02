@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFA3E3CA8A1DE6D5D
-void SET_CURR_WEATHER_STATE(Hash weatherType1,Hash weatherType2,float percentWeather2,BOOL enabled);
+void SET_CURR_WEATHER_STATE(Hash weatherType1, Hash weatherType2, float percentWeather2, BOOL enabled);
 ```
 
 Params: BOOL p3 is always true

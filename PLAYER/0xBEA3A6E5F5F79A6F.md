@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBEA3A6E5F5F79A6F
-Any _0xBEA3A6E5F5F79A6F(Any p0,Any p1);
+Any _0xBEA3A6E5F5F79A6F(Any p0, Any p1);
 ```
 
 _GET_PLAYER_I*

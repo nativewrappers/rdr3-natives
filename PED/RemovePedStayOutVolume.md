@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0CAB404CD2DB41F5
-Any _REMOVE_PED_STAY_OUT_VOLUME(Ped ped,Volume volume);
+Any _REMOVE_PED_STAY_OUT_VOLUME(Ped ped, Volume volume);
 ```
 
 

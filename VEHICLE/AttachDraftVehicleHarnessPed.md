@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x316CDB5B6E8F4110
-Any _ATTACH_DRAFT_VEHICLE_HARNESS_PED(Ped mount,Vehicle draft,int harnessId);
+Any _ATTACH_DRAFT_VEHICLE_HARNESS_PED(Ped mount, Vehicle draft, int harnessId);
 ```
 
 

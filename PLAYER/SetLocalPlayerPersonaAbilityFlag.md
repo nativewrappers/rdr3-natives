@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7146CF430965927C
-void _SET_LOCAL_PLAYER_PERSONA_ABILITY_FLAG(int flagId,BOOL toggle);
+void _SET_LOCAL_PLAYER_PERSONA_ABILITY_FLAG(int flagId, BOOL toggle);
 ```
 
 see personaabilities.meta

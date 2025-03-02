@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA18393089C05E49C
-float NETWORK_TRY_ACCESS_TUNABLE_FLOAT_HASH(Hash tunableContext,Hash tunableName,float defaultValue);
+float NETWORK_TRY_ACCESS_TUNABLE_FLOAT_HASH(Hash tunableContext, Hash tunableName, float defaultValue);
 ```
 
 

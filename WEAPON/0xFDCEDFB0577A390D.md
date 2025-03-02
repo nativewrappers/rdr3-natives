@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFDCEDFB0577A390D
-Any undefined(Any p0,Any p1);
+Any undefined(Any p0, Any p1);
 ```
 
 

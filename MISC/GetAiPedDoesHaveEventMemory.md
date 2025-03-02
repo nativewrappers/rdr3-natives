@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFDF38E2B711BF78E
-Any _GET_AI_PED_DOES_HAVE_EVENT_MEMORY(Any* args,int p1);
+Any _GET_AI_PED_DOES_HAVE_EVENT_MEMORY(Any* args, int p1);
 ```
 
 

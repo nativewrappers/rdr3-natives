@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE0D6C2A146A5C993
-void _EAGLE_EYE_SET_DRAIN_RATE_MODIFIER(Player player,float modifier);
+void _EAGLE_EYE_SET_DRAIN_RATE_MODIFIER(Player player, float modifier);
 ```
 
 

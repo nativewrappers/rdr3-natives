@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7DD959874C1FD534
-Ped CREATE_PED_INSIDE_VEHICLE(Vehicle vehicle,Hash modelHash,int seatIndex,BOOL p3,BOOL p4,BOOL p5);
+Ped CREATE_PED_INSIDE_VEHICLE(Vehicle vehicle, Hash modelHash, int seatIndex, BOOL p3, BOOL p4, BOOL p5);
 ```
 
 seatIndex:

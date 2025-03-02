@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAE4BCC79C587EBBF
-void _SET_SPECIAL_ABILITY_ACTIVATION_COST(Player player,float activationCost,int p2);
+void _SET_SPECIAL_ABILITY_ACTIVATION_COST(Player player, float activationCost, int p2);
 ```
 
 

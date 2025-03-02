@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x714A0EA7DE1167BE
-Any _HAS_SOUND_AUDIO_NAME_FINISHED(char* audioName,char* soundsetName);
+Any _HAS_SOUND_AUDIO_NAME_FINISHED(char* audioName, char* soundsetName);
 ```
 
 

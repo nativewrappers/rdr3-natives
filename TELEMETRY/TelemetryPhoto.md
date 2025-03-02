@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xED22BE4C5A399E63
-void _TELEMETRY_PHOTO(Any p0,Any p1,Any p2,Any p3);
+void _TELEMETRY_PHOTO(Any p0, Any p1, Any p2, Any p3);
 ```
 
 

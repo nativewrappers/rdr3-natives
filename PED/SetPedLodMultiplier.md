@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDC2C5C242AAC342B
-void SET_PED_LOD_MULTIPLIER(Ped ped,float multiplier);
+void SET_PED_LOD_MULTIPLIER(Ped ped, float multiplier);
 ```
 
 

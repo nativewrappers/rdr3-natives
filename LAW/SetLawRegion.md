@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4752F68EB7F2D280
-void _SET_LAW_REGION(Player player,Hash lawRegionHash,Hash stateHash);
+void _SET_LAW_REGION(Player player, Hash lawRegionHash, Hash stateHash);
 ```
 
 enum eLawRegion : Hash

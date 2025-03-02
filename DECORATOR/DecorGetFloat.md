@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE5FF70CD842CA9D4
-float DECOR_GET_FLOAT(Entity entity,char* propertyName);
+float DECOR_GET_FLOAT(Entity entity, char* propertyName);
 ```
 
 

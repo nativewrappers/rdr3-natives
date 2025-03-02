@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFA3B530A5CC693D5
-int GET_BLOCK_OF_PLAYER_BITS(Any* value,int p1);
+int GET_BLOCK_OF_PLAYER_BITS(Any* value, int p1);
 ```
 
 

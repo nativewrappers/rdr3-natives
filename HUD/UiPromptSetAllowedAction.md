@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x565C1CE183CB0EAF
-void _UI_PROMPT_SET_ALLOWED_ACTION(Prompt prompt,Hash action);
+void _UI_PROMPT_SET_ALLOWED_ACTION(Prompt prompt, Hash action);
 ```
 
 

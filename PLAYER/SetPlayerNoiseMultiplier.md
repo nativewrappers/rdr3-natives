@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB5EC6BDAEBCA454C
-void SET_PLAYER_NOISE_MULTIPLIER(Player player,float multiplier);
+void SET_PLAYER_NOISE_MULTIPLIER(Player player, float multiplier);
 ```
 
 

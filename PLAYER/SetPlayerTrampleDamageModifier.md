@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAF341032E97FB061
-void _SET_PLAYER_TRAMPLE_DAMAGE_MODIFIER(Player player,float modifier);
+void _SET_PLAYER_TRAMPLE_DAMAGE_MODIFIER(Player player, float modifier);
 ```
 
 

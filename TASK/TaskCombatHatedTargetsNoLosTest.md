@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB5BC69D9C4060BC3
-void TASK_COMBAT_HATED_TARGETS_NO_LOS_TEST(Ped ped,float radius);
+void TASK_COMBAT_HATED_TARGETS_NO_LOS_TEST(Ped ped, float radius);
 ```
 
 

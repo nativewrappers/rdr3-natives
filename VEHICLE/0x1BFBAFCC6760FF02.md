@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1BFBAFCC6760FF02
-void _0x1BFBAFCC6760FF02(Vehicle train,BOOL p1);
+void _0x1BFBAFCC6760FF02(Vehicle train, BOOL p1);
 ```
 
 

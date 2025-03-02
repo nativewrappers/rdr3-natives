@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2056AB38DF06825C
-void _SET_SCENARIO_POINT_COORDS(int scenario,float xPos,float yPos,float zPos,BOOL p4);
+void _SET_SCENARIO_POINT_COORDS(int scenario, float xPos, float yPos, float zPos, BOOL p4);
 ```
 
 

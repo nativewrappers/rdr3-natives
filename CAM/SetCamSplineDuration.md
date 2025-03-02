@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFF6311652CA91015
-void SET_CAM_SPLINE_DURATION(Cam cam,int timeDuration);
+void SET_CAM_SPLINE_DURATION(Cam cam, int timeDuration);
 ```
 
 

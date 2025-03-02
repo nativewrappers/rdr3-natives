@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x159EF5B6EDCE00E8
-Any _IS_PED_ON_TRANSPORT_ENTITY(Ped ped,Entity transportEntity);
+Any _IS_PED_ON_TRANSPORT_ENTITY(Ped ped, Entity transportEntity);
 ```
 
 Checks if ped is placed on target transportEntity

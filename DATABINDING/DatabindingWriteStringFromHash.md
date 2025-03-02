@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA3BD6FF95E713EE5
-void _DATABINDING_WRITE_STRING_FROM_HASH(Any p0,Hash p1,char* p2);
+void _DATABINDING_WRITE_STRING_FROM_HASH(Any p0, Hash p1, char* p2);
 ```
 
 

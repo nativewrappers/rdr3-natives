@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD45CB817D7E177D2
-void NETWORK_HANDLE_FROM_FRIEND(int friendIndex,Any* gamerHandle);
+void NETWORK_HANDLE_FROM_FRIEND(int friendIndex, Any* gamerHandle);
 ```
 
 

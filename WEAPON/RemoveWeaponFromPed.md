@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4899CB088EDF59B8
-void REMOVE_WEAPON_FROM_PED(Ped ped,Hash weaponHash,BOOL p2,Hash removeReason);
+void REMOVE_WEAPON_FROM_PED(Ped ped, Hash weaponHash, BOOL p2, Hash removeReason);
 ```
 
 removeReason:

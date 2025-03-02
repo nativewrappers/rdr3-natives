@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6B89FAA36FC909A3
-int _COMPUTE_SATCHEL_ITEM_FOR_PED_CARCASS(Any* outInventoryItemArray,Ped ped,int damageCleanliness,int skinningQuality);
+int _COMPUTE_SATCHEL_ITEM_FOR_PED_CARCASS(Any* outInventoryItemArray, Ped ped, int damageCleanliness, int skinningQuality);
 ```
 
 Related to dead animals items/loots

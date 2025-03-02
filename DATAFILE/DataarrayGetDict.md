@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA010655985853485
-Any* DATAARRAY_GET_DICT(Any* arrayData,int arrayIndex);
+Any* DATAARRAY_GET_DICT(Any* arrayData, int arrayIndex);
 ```
 
 

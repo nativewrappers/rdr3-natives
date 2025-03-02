@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEDE8AC7C5108FB1D
-int GET_SHAPE_TEST_RESULT(ScrHandle shapeTestHandle,BOOL* hit,Vector3* endCoords,Vector3* surfaceNormal,Entity* entityHit);
+int GET_SHAPE_TEST_RESULT(ScrHandle shapeTestHandle, BOOL* hit, Vector3* endCoords, Vector3* surfaceNormal, Entity* entityHit);
 ```
 
 Returns the result of a shape test: 0 if the handle is invalid, 1 if the shape test is still pending, or 2 if the shape test has completed, and the handle should be invalidated.

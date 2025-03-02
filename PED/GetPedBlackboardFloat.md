@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x56E58D4D118FB45E
-float _GET_PED_BLACKBOARD_FLOAT(Ped ped,char* variableName);
+float _GET_PED_BLACKBOARD_FLOAT(Ped ped, char* variableName);
 ```
 
 Can be used to get a peds foliage raw height: variableName = FoliageHeight

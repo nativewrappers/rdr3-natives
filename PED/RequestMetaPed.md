@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF97C34C33487D569
-int _REQUEST_META_PED(Hash model,int p1);
+int _REQUEST_META_PED(Hash model, int p1);
 ```
 
 Returns requestId

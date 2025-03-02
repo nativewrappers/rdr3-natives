@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x63DFA6810AD78719
-void SET_CAM_ROT(Cam cam,float rotX,float rotY,float rotZ,int rotationOrder);
+void SET_CAM_ROT(Cam cam, float rotX, float rotY, float rotZ, int rotationOrder);
 ```
 
 Sets the rotation of the cam.

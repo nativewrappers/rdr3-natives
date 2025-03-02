@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCF9B71C0AF824036
-BOOL IS_EMOTE_TASK_RUNNING(Ped ped,Any p1);
+BOOL IS_EMOTE_TASK_RUNNING(Ped ped, Any p1);
 ```
 
 

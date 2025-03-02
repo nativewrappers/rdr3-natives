@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x739B9C6D0E7F7F93
-void SET_INSTANTLY_EQUIP_WEAPON_PICKUPS(Ped ped,BOOL toggle);
+void SET_INSTANTLY_EQUIP_WEAPON_PICKUPS(Ped ped, BOOL toggle);
 ```
 
 

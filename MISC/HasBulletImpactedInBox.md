@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3B6A4C05FB2B33AC
-BOOL HAS_BULLET_IMPACTED_IN_BOX(float p0,float p1,float p2,float p3,float p4,float p5,BOOL p6,BOOL p7);
+BOOL HAS_BULLET_IMPACTED_IN_BOX(float p0, float p1, float p2, float p3, float p4, float p5, BOOL p6, BOOL p7);
 ```
 
 

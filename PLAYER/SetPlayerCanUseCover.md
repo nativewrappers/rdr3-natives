@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5EDA520F7A3BAF4E
-void SET_PLAYER_CAN_USE_COVER(Player player,BOOL toggle);
+void SET_PLAYER_CAN_USE_COVER(Player player, BOOL toggle);
 ```
 
 Sets whether this player can take cover.

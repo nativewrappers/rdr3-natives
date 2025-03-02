@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x837972ED28159536
-void _UI_PROMPT_ADD_GROUP_RETURN_LINK(Any p0,Prompt prompt);
+void _UI_PROMPT_ADD_GROUP_RETURN_LINK(Any p0, Prompt prompt);
 ```
 
 

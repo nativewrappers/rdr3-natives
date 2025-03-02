@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE92012611461A42A
-void _SET_ENTITY_MASK_LAYERS(Entity entity,float* layer0,float* layer1,float* layer2,float* layer3);
+void _SET_ENTITY_MASK_LAYERS(Entity entity, float* layer0, float* layer1, float* layer2, float* layer3);
 ```
 
 

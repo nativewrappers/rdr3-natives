@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF90427F00A495A28
-void TASK_KNOCKED_OUT(Ped ped,float p1,BOOL permanently);
+void TASK_KNOCKED_OUT(Ped ped, float p1, BOOL permanently);
 ```
 
 

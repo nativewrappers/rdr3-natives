@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x384D4765395E006C
-void SET_PLAYER_WANTED_LEVEL(Player player,int wantedLevel,BOOL disableNoMission);
+void SET_PLAYER_WANTED_LEVEL(Player player, int wantedLevel, BOOL disableNoMission);
 ```
 
 nullsub, doesn't do anything

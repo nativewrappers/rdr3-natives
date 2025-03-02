@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC6B9BF123B9463B6
-void SET_VEHICLE_EXCLUSIVE_DRIVER(Vehicle vehicle,Ped ped,int index);
+void SET_VEHICLE_EXCLUSIVE_DRIVER(Vehicle vehicle, Ped ped, int index);
 ```
 
 index: 0 - 1

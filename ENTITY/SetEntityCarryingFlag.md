@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x18FF3110CF47115D
-void _SET_ENTITY_CARRYING_FLAG(Entity entity,int flagId,BOOL value);
+void _SET_ENTITY_CARRYING_FLAG(Entity entity, int flagId, BOOL value);
 ```
 
 flagId: https://github.com/femga/rdr3_discoveries/tree/master/AI/CARRYING_FLAGS

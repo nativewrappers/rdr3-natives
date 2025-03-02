@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x796D90EFB19AA332
-BOOL IS_PED_IN_MODEL(Ped ped,Hash modelHash);
+BOOL IS_PED_IN_MODEL(Ped ped, Hash modelHash);
 ```
 
 

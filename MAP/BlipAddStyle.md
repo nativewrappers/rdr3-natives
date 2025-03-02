@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBD62D98799A3DAF0
-Any _BLIP_ADD_STYLE(Blip blip,Hash styleHash);
+Any _BLIP_ADD_STYLE(Blip blip, Hash styleHash);
 ```
 
 

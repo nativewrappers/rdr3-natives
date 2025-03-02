@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB2A16444EAD9AE47
-void TASK_GO_TO_COORD_WHILE_AIMING_AT_ENTITY(Ped ped1,float x,float y,float z,Ped ped2,float p5,Any p6,float p7,float p8,Any p9,Any p10,Any p11,Hash firingPattern,int p13,Any p14);
+void TASK_GO_TO_COORD_WHILE_AIMING_AT_ENTITY(Ped ped1, float x, float y, float z, Ped ped2, float p5, Any p6, float p7, float p8, Any p9, Any p10, Any p11, Hash firingPattern, int p13, Any p14);
 ```
 
 

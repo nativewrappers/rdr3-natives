@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3946FC742AC305CD
-void _ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET(Player player,Ped ped,char* preset,float x,float y,float z,Entity targetEntity,char* name);
+void _ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET(Player player, Ped ped, char* preset, float x, float y, float z, Entity targetEntity, char* name);
 ```
 
 Associates a specific interactive focus mode preset between a player and a ped, with a specified location and target entity.

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEE3AA414CF99F368
-void TASK_COMBAT_ANIMAL_CHARGE_PED(Ped ped,Ped targetPed,BOOL p2,Any p3,Any p4,Any p5,Any p6);
+void TASK_COMBAT_ANIMAL_CHARGE_PED(Ped ped, Ped targetPed, BOOL p2, Any p3, Any p4, Any p5, Any p6);
 ```
 
 

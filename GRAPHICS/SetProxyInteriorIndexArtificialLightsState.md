@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBFCB17895BB99E4E
-void _SET_PROXY_INTERIOR_INDEX_ARTIFICIAL_LIGHTS_STATE(int proxyInteriorIndex,BOOL state);
+void _SET_PROXY_INTERIOR_INDEX_ARTIFICIAL_LIGHTS_STATE(int proxyInteriorIndex, BOOL state);
 ```
 
 state: false disables artificial interior light sources for specific proxyInteriorIndex

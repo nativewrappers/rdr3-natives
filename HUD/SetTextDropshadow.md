@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1BE39DBAA7263CA5
-void SET_TEXT_DROPSHADOW(int distance,int r,int g,int b,int a);
+void SET_TEXT_DROPSHADOW(int distance, int r, int g, int b, int a);
 ```
 
 

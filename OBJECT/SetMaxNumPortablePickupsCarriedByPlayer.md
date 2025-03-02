@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0BF3B3BD47D79C08
-void SET_MAX_NUM_PORTABLE_PICKUPS_CARRIED_BY_PLAYER(Hash modelHash,int p1);
+void SET_MAX_NUM_PORTABLE_PICKUPS_CARRIED_BY_PLAYER(Hash modelHash, int p1);
 ```
 
 

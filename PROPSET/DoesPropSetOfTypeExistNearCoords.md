@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x72068021F498E6E3
-Any _DOES_PROP_SET_OF_TYPE_EXIST_NEAR_COORDS(Hash propsetHash,float x,float y,float z);
+Any _DOES_PROP_SET_OF_TYPE_EXIST_NEAR_COORDS(Hash propsetHash, float x, float y, float z);
 ```
 
 

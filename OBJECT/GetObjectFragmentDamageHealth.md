@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB6FBFD079B8D0596
-float GET_OBJECT_FRAGMENT_DAMAGE_HEALTH(Any p0,BOOL p1);
+float GET_OBJECT_FRAGMENT_DAMAGE_HEALTH(Any p0, BOOL p1);
 ```
 
 

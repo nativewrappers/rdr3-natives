@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC65A45D4453C2627
-Any _UI_PROMPT_SET_ACTIVE_GROUP_THIS_FRAME(Hash hash,char* name,int tabAmount,int tabDefaultIndex,int p4,Prompt prompt);
+Any _UI_PROMPT_SET_ACTIVE_GROUP_THIS_FRAME(Hash hash, char* name, int tabAmount, int tabDefaultIndex, int p4, Prompt prompt);
 ```
 
 Note: you must use VAR_STRING for p1 if string is not part of text database

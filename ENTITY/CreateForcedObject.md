@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0961A905AFBC34C7
-void CREATE_FORCED_OBJECT(float x,float y,float z,Any p3,Hash modelHash,BOOL p5);
+void CREATE_FORCED_OBJECT(float x, float y, float z, Any p3, Hash modelHash, BOOL p5);
 ```
 
 

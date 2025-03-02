@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4AC38DFD286DAD14
-void _TELEMETRY_ROLE_COLLECTOR(Any transactionId,Any collectible,Any category,Any p3,Any p4,Any p5,Any p6);
+void _TELEMETRY_ROLE_COLLECTOR(Any transactionId, Any collectible, Any category, Any p3, Any p4, Any p5, Any p6);
 ```
 
 

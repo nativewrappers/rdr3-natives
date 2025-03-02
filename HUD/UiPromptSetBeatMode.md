@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF957A1654C6322FE
-void _UI_PROMPT_SET_BEAT_MODE(Prompt prompt,BOOL toggle);
+void _UI_PROMPT_SET_BEAT_MODE(Prompt prompt, BOOL toggle);
 ```
 
 

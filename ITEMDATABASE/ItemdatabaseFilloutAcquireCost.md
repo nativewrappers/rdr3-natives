@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x74F7928816E4E181
-Any _ITEMDATABASE_FILLOUT_ACQUIRE_COST(Hash key,Hash costtype,Any* outData);
+Any _ITEMDATABASE_FILLOUT_ACQUIRE_COST(Hash key, Hash costtype, Any* outData);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x356088527D9EBAAD
-void TASK_REVIVE_TARGET(Ped ped,Ped reviver,Hash tool);
+void TASK_REVIVE_TARGET(Ped ped, Ped reviver, Hash tool);
 ```
 
 

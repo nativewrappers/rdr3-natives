@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1D7678F81452BB41
-void SET_VEHICLE_DAMAGE(Vehicle vehicle,float xOffset,float yOffset,float zOffset,float damage,float radius,BOOL p6);
+void SET_VEHICLE_DAMAGE(Vehicle vehicle, float xOffset, float yOffset, float zOffset, float damage, float radius, BOOL p6);
 ```
 
 Apply damage to vehicle at a location. Location is relative to vehicle model (not world).

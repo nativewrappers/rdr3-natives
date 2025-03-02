@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xED591CB17C8BA216
-void _SET_DAMAGE_FAR_DISTANCE_BONUS(Player player,float farRangeLowerBound,float farRangeUpperBound);
+void _SET_DAMAGE_FAR_DISTANCE_BONUS(Player player, float farRangeLowerBound, float farRangeUpperBound);
 ```
 
 

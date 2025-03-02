@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x41503629D1139ABC
-void _ADD_TRAIN_TEMPORARY_STOP(Vehicle train,int trackIndex,float x,float y,float z);
+void _ADD_TRAIN_TEMPORARY_STOP(Vehicle train, int trackIndex, float x, float y, float z);
 ```
 
 

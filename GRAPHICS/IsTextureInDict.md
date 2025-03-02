@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA2A51869BDED733B
-Any _IS_TEXTURE_IN_DICT(Hash txdHash,Hash dict);
+Any _IS_TEXTURE_IN_DICT(Hash txdHash, Hash dict);
 ```
 
 

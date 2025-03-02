@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2B02DB082258625F
-Any GIVE_PED_HASH_SCENARIO_PROP(Ped ped,Object object,char* conditionalAnim,Hash scenarioType,Hash p4,BOOL p5);
+Any GIVE_PED_HASH_SCENARIO_PROP(Ped ped, Object object, char* conditionalAnim, Hash scenarioType, Hash p4, BOOL p5);
 ```
 
 

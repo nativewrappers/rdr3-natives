@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0E17378642156790
-void _REMOVE_PED_BLACKBOARD_HASH(Ped ped,char* variableName);
+void _REMOVE_PED_BLACKBOARD_HASH(Ped ped, char* variableName);
 ```
 
 

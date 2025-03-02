@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3B7B7908B7ADFB4B
-void _ENABLE_AMMO_TYPE_FOR_PED(Ped ped,Hash weaponHash);
+void _ENABLE_AMMO_TYPE_FOR_PED(Ped ped, Hash weaponHash);
 ```
 
 

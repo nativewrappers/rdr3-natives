@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBB7F968675B34B0C
-int _INVENTORY_CREATE_SORTED_COLLECTION(int inventoryId,int p1,int* size);
+int _INVENTORY_CREATE_SORTED_COLLECTION(int inventoryId, int p1, int* size);
 ```
 
 p1: 32

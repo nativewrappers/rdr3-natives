@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x69D22E183580113F
-int _UGC_QUERY_BY_CONTENT_ID(char* contentId,BOOL latestVersion,char* contentTypeName);
+int _UGC_QUERY_BY_CONTENT_ID(char* contentId, BOOL latestVersion, char* contentTypeName);
 ```
 
 Returns ugcRequestId

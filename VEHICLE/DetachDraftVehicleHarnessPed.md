@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB36D3EC70963BE60
-Any _DETACH_DRAFT_VEHICLE_HARNESS_PED(Vehicle draft,Ped ped);
+Any _DETACH_DRAFT_VEHICLE_HARNESS_PED(Vehicle draft, Ped ped);
 ```
 
 

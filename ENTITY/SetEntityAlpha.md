@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0DF7692B1D9E7BA7
-void SET_ENTITY_ALPHA(Entity entity,int alphaLevel,BOOL skin);
+void SET_ENTITY_ALPHA(Entity entity, int alphaLevel, BOOL skin);
 ```
 
 skin - everything alpha except skin

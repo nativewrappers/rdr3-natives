@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEC174ADBCB611ECC
-Blip _BLIP_ADD_FOR_AREA(Hash blipHash,float x,float y,float z,float scaleX,float scaleY,float scaleZ,int p7);
+Blip _BLIP_ADD_FOR_AREA(Hash blipHash, float x, float y, float z, float scaleX, float scaleY, float scaleZ, int p7);
 ```
 
 

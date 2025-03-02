@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4BDC83150D43772D
-BOOL _DECOR_SET_UINT8(Entity entity,char* propertyName,int value);
+BOOL _DECOR_SET_UINT8(Entity entity, char* propertyName, int value);
 ```
 
 

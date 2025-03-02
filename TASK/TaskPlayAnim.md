@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEA47FE3719165B94
-void TASK_PLAY_ANIM(Ped ped,char* animDict,char* animName,float speed,float speedMultiplier,int duration,int flags,float playbackRate,BOOL p8,int ikFlags,BOOL p10,char* taskFilter,BOOL p12);
+void TASK_PLAY_ANIM(Ped ped, char* animDict, char* animName, float speed, float speedMultiplier, int duration, int flags, float playbackRate, BOOL p8, int ikFlags, BOOL p10, char* taskFilter, BOOL p12);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/animations

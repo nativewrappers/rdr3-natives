@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x669655FFB29EF1A9
-void _SET_FILL_IN_STATE_FOR_ENTITY(Entity entity,int p1,char* p2,float fill);
+void _SET_FILL_IN_STATE_FOR_ENTITY(Entity entity, int p1, char* p2, float fill);
 ```
 
 sets the fill in state for some objects like for the stew, coffee mug ,poker chips, jugs ? P1 is either 0 or 2 p2 seems to be a label/name p3 is the fill in state, max seems to be for some 3.0 (most is 1.0) - 0.0

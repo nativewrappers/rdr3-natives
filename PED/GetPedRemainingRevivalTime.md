@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEBE89623EB861271
-float _GET_PED_REMAINING_REVIVAL_TIME(Ped ped,BOOL normalized);
+float _GET_PED_REMAINING_REVIVAL_TIME(Ped ped, BOOL normalized);
 ```
 
 normalized / non normalized

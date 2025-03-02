@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x50E52637EF70EF77
-void ENABLE_DISPATCH_SERVICE(int dispatchService,BOOL toggle);
+void ENABLE_DISPATCH_SERVICE(int dispatchService, BOOL toggle);
 ```
 
 enum DispatchType

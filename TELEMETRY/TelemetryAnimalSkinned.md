@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7581972ADF5D699A
-void _TELEMETRY_ANIMAL_SKINNED(Hash type,Any* items);
+void _TELEMETRY_ANIMAL_SKINNED(Hash type, Any* items);
 ```
 
 

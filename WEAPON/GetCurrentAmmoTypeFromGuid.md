@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAF9D167A5656D6A6
-Hash _GET_CURRENT_AMMO_TYPE_FROM_GUID(Ped ped,Any* weaponGuid);
+Hash _GET_CURRENT_AMMO_TYPE_FROM_GUID(Ped ped, Any* weaponGuid);
 ```
 
 Returns ammoHash

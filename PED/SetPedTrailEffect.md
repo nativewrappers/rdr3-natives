@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA5950E16B8F31052
-void _SET_PED_TRAIL_EFFECT(Ped ped,BOOL p1,float duration);
+void _SET_PED_TRAIL_EFFECT(Ped ped, BOOL p1, float duration);
 ```
 
 duration in seconds

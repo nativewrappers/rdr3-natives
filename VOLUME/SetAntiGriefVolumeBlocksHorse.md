@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBE551C2CC421185D
-void _SET_ANTI_GRIEF_VOLUME_BLOCKS_HORSE(Volume volume,BOOL toggle);
+void _SET_ANTI_GRIEF_VOLUME_BLOCKS_HORSE(Volume volume, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF1CA12B18AEF5298
-void NETWORK_SET_ENTITY_ONLY_EXISTS_FOR_PARTICIPANTS(Entity entity,BOOL toggle);
+void NETWORK_SET_ENTITY_ONLY_EXISTS_FOR_PARTICIPANTS(Entity entity, BOOL toggle);
 ```
 
 if set to true other network players can't see it

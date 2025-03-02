@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7C2ABF6E556B21FC
-void _STAT_DONATE_INCREMENT_ITEM(int item,int slot,Any p2,Any p3);
+void _STAT_DONATE_INCREMENT_ITEM(int item, int slot, Any p2, Any p3);
 ```
 
 

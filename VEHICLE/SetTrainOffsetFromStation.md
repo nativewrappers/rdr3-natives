@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8EC47DD4300BF063
-void SET_TRAIN_OFFSET_FROM_STATION(Vehicle train,float offset);
+void SET_TRAIN_OFFSET_FROM_STATION(Vehicle train, float offset);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEB2ED1DC3AEC0654
-void _ADD_COVER_BLOCKING_VOLUME(Volume volume,BOOL p1,BOOL p2,BOOL p3,BOOL p4);
+void _ADD_COVER_BLOCKING_VOLUME(Volume volume, BOOL p1, BOOL p2, BOOL p3, BOOL p4);
 ```
 
 

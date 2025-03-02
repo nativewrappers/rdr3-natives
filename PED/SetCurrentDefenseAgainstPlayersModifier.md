@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x069EDDF1FD4DEB0A
-void _SET_CURRENT_DEFENSE_AGAINST_PLAYERS_MODIFIER(Ped horse,float modifier);
+void _SET_CURRENT_DEFENSE_AGAINST_PLAYERS_MODIFIER(Ped horse, float modifier);
 ```
 
 

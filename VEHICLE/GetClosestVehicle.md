@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x52F45D033645181B
-Vehicle GET_CLOSEST_VEHICLE(float x,float y,float z,float radius,Hash modelHash,int flags);
+Vehicle GET_CLOSEST_VEHICLE(float x, float y, float z, float radius, Hash modelHash, int flags);
 ```
 
 

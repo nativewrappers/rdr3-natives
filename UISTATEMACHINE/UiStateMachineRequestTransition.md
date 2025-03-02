@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7EA9C3547E80350E
-Any UI_STATE_MACHINE_REQUEST_TRANSITION(Any p0,Any p1);
+Any UI_STATE_MACHINE_REQUEST_TRANSITION(Any p0, Any p1);
 ```
 
 

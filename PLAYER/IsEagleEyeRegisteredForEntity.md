@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0E6846476906C9DD
-Any _IS_EAGLE_EYE_REGISTERED_FOR_ENTITY(Player player,Entity entity);
+Any _IS_EAGLE_EYE_REGISTERED_FOR_ENTITY(Player player, Entity entity);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF35425A4204367EC
-void SET_PED_PATH_MAY_ENTER_WATER(Ped ped,BOOL mayEnterWater);
+void SET_PED_PATH_MAY_ENTER_WATER(Ped ped, BOOL mayEnterWater);
 ```
 
 

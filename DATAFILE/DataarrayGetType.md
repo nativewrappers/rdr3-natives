@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x151DAFE6B3B9888F
-int DATAARRAY_GET_TYPE(Any* arrayData,int arrayIndex);
+int DATAARRAY_GET_TYPE(Any* arrayData, int arrayIndex);
 ```
 
 Types:

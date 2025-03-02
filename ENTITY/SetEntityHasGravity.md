@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0CEDB728A1083FA7
-void SET_ENTITY_HAS_GRAVITY(Entity entity,BOOL toggle);
+void SET_ENTITY_HAS_GRAVITY(Entity entity, BOOL toggle);
 ```
 
 

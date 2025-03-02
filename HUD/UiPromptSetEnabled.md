@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8A0FB4D03A630D21
-void _UI_PROMPT_SET_ENABLED(Prompt prompt,BOOL toggle);
+void _UI_PROMPT_SET_ENABLED(Prompt prompt, BOOL toggle);
 ```
 
 

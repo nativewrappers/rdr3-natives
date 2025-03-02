@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x662D364ABF16DE2F
-Any BLIP_ADD_MODIFIER(Blip blip,Hash modifierHash);
+Any BLIP_ADD_MODIFIER(Blip blip, Hash modifierHash);
 ```
 
 https://alloc8or.re/rdr3/doc/enums/eBlipModifier.txt

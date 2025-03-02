@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x221F4D9912B7FE86
-void _SET_PED_TO_DISABLE_RAGDOLL(Ped ped,BOOL toggle);
+void _SET_PED_TO_DISABLE_RAGDOLL(Ped ped, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDDAEB478E58F8DEA
-int _NETWORK_GET_GAMER_STATUS(Any* gamerHandle,int p1);
+int _NETWORK_GET_GAMER_STATUS(Any* gamerHandle, int p1);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5A6D8DF6FBC5D0C4
-BOOL GET_NTH_CLOSEST_VEHICLE_NODE(float x,float y,float z,int nthClosest,Vector3* outPosition,int unknown1,float unknown2,Any unknown3);
+BOOL GET_NTH_CLOSEST_VEHICLE_NODE(float x, float y, float z, int nthClosest, Vector3* outPosition, int unknown1, float unknown2, Any unknown3);
 ```
 
 

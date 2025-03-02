@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1ABA9753939503C5
-BOOL IS_VEHICLE_STUCK_TIMER_UP(Vehicle vehicle,int stuckType,int ms);
+BOOL IS_VEHICLE_STUCK_TIMER_UP(Vehicle vehicle, int stuckType, int ms);
 ```
 
 VEH_STUCK_ON_ROOF = 0,

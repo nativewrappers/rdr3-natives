@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5A5526BC09C06623
-BOOL IS_ENTITY_IN_VOLUME(Entity entity,ScrHandle volume,BOOL p2,int p3);
+BOOL IS_ENTITY_IN_VOLUME(Entity entity, ScrHandle volume, BOOL p2, int p3);
 ```
 
 

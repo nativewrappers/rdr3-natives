@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDDFAD4DEAA7FA362
-void _0xDDFAD4DEAA7FA362(int groupId,float p1,float p2,float p3,float p4);
+void _0xDDFAD4DEAA7FA362(int groupId, float p1, float p2, float p3, float p4);
 ```
 
 _SET_FORMATION_P*

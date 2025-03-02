@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x88EAEC617CD26926
-void SET_LOCAL_PLAYER_PERMITTED_TO_COLLECT_PICKUPS_WITH_MODEL(Hash modelHash,BOOL toggle);
+void SET_LOCAL_PLAYER_PERMITTED_TO_COLLECT_PICKUPS_WITH_MODEL(Hash modelHash, BOOL toggle);
 ```
 
 Maximum amount of pickup models that can be disallowed is 10.

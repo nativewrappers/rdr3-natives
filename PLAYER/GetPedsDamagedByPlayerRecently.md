@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1A6E84F13C952094
-BOOL _GET_PEDS_DAMAGED_BY_PLAYER_RECENTLY(Player player,int duration,Any* struct);
+BOOL _GET_PEDS_DAMAGED_BY_PLAYER_RECENTLY(Player player, int duration, Any* struct);
 ```
 
 it is used to check for that period of time if player damaged any peds only returns the last 3 hits with the entity ids so if you hit the same entity 3 times it will return the same entity id 3 times, if you hit 4 different entities within that time it will return the last 3 entity ids

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x524B54361229154F
-void TASK_START_SCENARIO_IN_PLACE_HASH(Ped ped,Hash scenarioHash,int duration,BOOL playEnterAnim,Hash conditionalHash,float heading,BOOL p6);
+void TASK_START_SCENARIO_IN_PLACE_HASH(Ped ped, Hash scenarioHash, int duration, BOOL playEnterAnim, Hash conditionalHash, float heading, BOOL p6);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/animations/scenarios

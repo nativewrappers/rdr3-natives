@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x13154A76CE0CF9AB
-int _REQUEST_META_PED_OUTFIT(Hash model,Hash outfit);
+int _REQUEST_META_PED_OUTFIT(Hash model, Hash outfit);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/clothes/metaped_outfits.lua

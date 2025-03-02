@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA899B61C66F09134
-void TASK_ANIMAL_FLEE(Ped ped,Ped targetPed,Any p2);
+void TASK_ANIMAL_FLEE(Ped ped, Ped targetPed, Any p2);
 ```
 
 

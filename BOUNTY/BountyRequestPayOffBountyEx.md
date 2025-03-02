@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x587BCEC31D64F382
-BOOL _BOUNTY_REQUEST_PAY_OFF_BOUNTY_EX(Any* outRpcGuid,Hash p1,Hash costType);
+BOOL _BOUNTY_REQUEST_PAY_OFF_BOUNTY_EX(Any* outRpcGuid, Hash p1, Hash costType);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF14BCEF290F869E1
-int REQUEST_VOLUME_LOCK(float x,float y,float z,float radius,int p4,int p5);
+int REQUEST_VOLUME_LOCK(float x, float y, float z, float radius, int p4, int p5);
 ```
 
 

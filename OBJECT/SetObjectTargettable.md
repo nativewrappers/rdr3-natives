@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8A7391690F5AFD81
-void SET_OBJECT_TARGETTABLE(Object object,BOOL targettable);
+void SET_OBJECT_TARGETTABLE(Object object, BOOL targettable);
 ```
 
 

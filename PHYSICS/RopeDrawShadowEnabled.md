@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF159A63806BB5BA8
-void ROPE_DRAW_SHADOW_ENABLED(int* ropeId,BOOL toggle);
+void ROPE_DRAW_SHADOW_ENABLED(int* ropeId, BOOL toggle);
 ```
 
 

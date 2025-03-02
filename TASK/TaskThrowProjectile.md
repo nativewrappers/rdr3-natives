@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7285951DBF6B5A51
-void TASK_THROW_PROJECTILE(Ped ped,Any p1,Any p2,Any p3);
+void TASK_THROW_PROJECTILE(Ped ped, Any p1, Any p2, Any p3);
 ```
 
 

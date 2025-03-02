@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3C606747B23E497B
-void SET_PED_COMBAT_RANGE(Ped ped,int range);
+void SET_PED_COMBAT_RANGE(Ped ped, int range);
 ```
 
 range:

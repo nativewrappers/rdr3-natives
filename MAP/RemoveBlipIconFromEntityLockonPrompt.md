@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBB68D4D3CA3DE402
-void _REMOVE_BLIP_ICON_FROM_ENTITY_LOCKON_PROMPT(Entity entity,int p1);
+void _REMOVE_BLIP_ICON_FROM_ENTITY_LOCKON_PROMPT(Entity entity, int p1);
 ```
 
 

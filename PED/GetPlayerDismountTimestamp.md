@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE8D1CCB9375C101B
-int _GET_PLAYER_DISMOUNT_TIMESTAMP(Ped mount,Player player);
+int _GET_PLAYER_DISMOUNT_TIMESTAMP(Ped mount, Player player);
 ```
 
 Returns dismounted timestamp

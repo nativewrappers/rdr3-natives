@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6ADF821FBF21920E
-void _SET_BOUNTY_TARGET(Player player,Player target);
+void _SET_BOUNTY_TARGET(Player player, Player target);
 ```
 
 

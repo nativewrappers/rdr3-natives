@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x6ECFC621A168424C
-void _EAGLE_EYE_ADD_PARTICLE_EFFECT_TO_ENTITY(Entity entity1,Entity entity2,int p2,int p3);
+void _EAGLE_EYE_ADD_PARTICLE_EFFECT_TO_ENTITY(Entity entity1, Entity entity2, int p2, int p3);
 ```
 
 Add a yellow particle to the entity.

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEC4B4B3B9908052A
-void SET_PED_INJURED_ON_GROUND_BEHAVIOUR(Ped ped,float unk);
+void SET_PED_INJURED_ON_GROUND_BEHAVIOUR(Ped ped, float unk);
 ```
 
 

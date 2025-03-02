@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x14F3947318CA8AD2
-void SET_THIRD_PERSON_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE(float minimum,float maximum);
+void SET_THIRD_PERSON_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE(float minimum, float maximum);
 ```
 
 minimum: Degrees between -180f and 180f.

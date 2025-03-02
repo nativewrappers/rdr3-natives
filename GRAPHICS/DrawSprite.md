@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC9884ECADE94CB34
-void DRAW_SPRITE(char* textureDict,char* textureName,float screenX,float screenY,float width,float height,float heading,int red,int green,int blue,int alpha,BOOL p11);
+void DRAW_SPRITE(char* textureDict, char* textureName, float screenX, float screenY, float width, float height, float heading, int red, int green, int blue, int alpha, BOOL p11);
 ```
 
 Draws a 2D sprite on the screen.

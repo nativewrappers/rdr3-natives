@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3B3CAD6166916D87
-void PRELOAD_SCRIPT_CONVERSATION(char* convoRoot,BOOL p1,BOOL p2,BOOL clone);
+void PRELOAD_SCRIPT_CONVERSATION(char* convoRoot, BOOL p1, BOOL p2, BOOL clone);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x52DFF8A10508090A
-float GET_COMBAT_FLOAT(Ped ped,int combatType);
+float GET_COMBAT_FLOAT(Ped ped, int combatType);
 ```
 
 

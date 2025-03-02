@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x797B3D4D92E56094
-BOOL _IS_EVENT_TRACKER_ACTIVE(char* eventName,Hash shockingEvent);
+BOOL _IS_EVENT_TRACKER_ACTIVE(char* eventName, Hash shockingEvent);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x86147D05FA831D3A
-int _GET_WEAPON_EMOTE_VARIATION(Ped ped,int variation);
+int _GET_WEAPON_EMOTE_VARIATION(Ped ped, int variation);
 ```
 
 Returns weaponEmoteVariation

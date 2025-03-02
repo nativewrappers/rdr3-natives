@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9E13ACC38BA8F9C3
-Any _IS_PED_IN_HERD(Entity herd,Ped ped);
+Any _IS_PED_IN_HERD(Entity herd, Ped ped);
 ```
 
 Return whether the ped is in the herd.

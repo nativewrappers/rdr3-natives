@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x63E7279D04160477
-void _SET_FOW_UPDATE_PLAYER_OVERRIDE(BOOL toggle,Hash p1);
+void _SET_FOW_UPDATE_PLAYER_OVERRIDE(BOOL toggle, Hash p1);
 ```
 
 Used for GUARMA MODE; Enabled: toggle = false, 0; Disabled: toggle = true, 0

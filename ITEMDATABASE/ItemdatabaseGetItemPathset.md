@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF4452CE83118C738
-int _ITEMDATABASE_GET_ITEM_PATHSET(Hash key,Hash defaultPathset);
+int _ITEMDATABASE_GET_ITEM_PATHSET(Hash key, Hash defaultPathset);
 ```
 
 

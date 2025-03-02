@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC116E6DF68DCE667
-void _UITUTORIAL_SET_RPG_ICON_VISIBILITY(int rpgIcon,int visibility);
+void _UITUTORIAL_SET_RPG_ICON_VISIBILITY(int rpgIcon, int visibility);
 ```
 
 enum eRpgIcons

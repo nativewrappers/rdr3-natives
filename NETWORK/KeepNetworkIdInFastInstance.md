@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE1BC73D6815BA361
-void KEEP_NETWORK_ID_IN_FAST_INSTANCE(int netId,BOOL p1,int p2);
+void KEEP_NETWORK_ID_IN_FAST_INSTANCE(int netId, BOOL p1, int p2);
 ```
 
 

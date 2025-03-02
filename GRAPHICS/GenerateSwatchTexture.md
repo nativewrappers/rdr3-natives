@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x160921255327C591
-void _GENERATE_SWATCH_TEXTURE(int slotId,Hash componentHash,int metapedType,BOOL p3);
+void _GENERATE_SWATCH_TEXTURE(int slotId, Hash componentHash, int metapedType, BOOL p3);
 ```
 
 Example:

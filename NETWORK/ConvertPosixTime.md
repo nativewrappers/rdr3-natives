@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAC97AF97FA68E5D5
-void CONVERT_POSIX_TIME(int posixTime,Any* timeStructure);
+void CONVERT_POSIX_TIME(int posixTime, Any* timeStructure);
 ```
 
 Takes the specified time and writes it to the structure specified in the second argument.

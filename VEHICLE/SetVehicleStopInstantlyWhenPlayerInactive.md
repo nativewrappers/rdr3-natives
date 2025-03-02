@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC84E138448507567
-void SET_VEHICLE_STOP_INSTANTLY_WHEN_PLAYER_INACTIVE(Vehicle vehicle,BOOL p1);
+void SET_VEHICLE_STOP_INSTANTLY_WHEN_PLAYER_INACTIVE(Vehicle vehicle, BOOL p1);
 ```
 
 

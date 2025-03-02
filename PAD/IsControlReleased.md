@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x648EE3E7F38877DD
-BOOL IS_CONTROL_RELEASED(int control,Hash action);
+BOOL IS_CONTROL_RELEASED(int control, Hash action);
 ```
 
 

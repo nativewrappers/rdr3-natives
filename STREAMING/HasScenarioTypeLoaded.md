@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9427C94D2E4094A4
-Any _HAS_SCENARIO_TYPE_LOADED(Hash scenarioType,BOOL p1);
+Any _HAS_SCENARIO_TYPE_LOADED(Hash scenarioType, BOOL p1);
 ```
 
 

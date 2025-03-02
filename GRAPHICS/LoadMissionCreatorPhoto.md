@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x84F0BA7462FF8D58
-BOOL LOAD_MISSION_CREATOR_PHOTO(Any* p0,Any p1,Any p2,Any p3);
+BOOL LOAD_MISSION_CREATOR_PHOTO(Any* p0, Any p1, Any p2, Any p3);
 ```
 
 

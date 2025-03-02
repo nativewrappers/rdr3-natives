@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE054346CA3A0F315
-void TASK_WANDER_IN_AREA(Ped ped,float x,float y,float z,float radius,float p5,float p6,int p7);
+void TASK_WANDER_IN_AREA(Ped ped, float x, float y, float z, float radius, float p5, float p6, int p7);
 ```
 
 

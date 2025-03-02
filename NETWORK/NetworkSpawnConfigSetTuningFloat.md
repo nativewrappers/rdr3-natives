@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0608326F7B98C08D
-void NETWORK_SPAWN_CONFIG_SET_TUNING_FLOAT(Hash p0,float p1);
+void NETWORK_SPAWN_CONFIG_SET_TUNING_FLOAT(Hash p0, float p1);
 ```
 
 

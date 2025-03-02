@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA6EF0C54A3443E70
-Blip _BLIP_ADD_FOR_VOLUME(Hash blipHash,Volume volume);
+Blip _BLIP_ADD_FOR_VOLUME(Hash blipHash, Volume volume);
 ```
 
 

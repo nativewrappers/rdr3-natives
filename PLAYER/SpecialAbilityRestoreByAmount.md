@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x51345AE20F22C261
-void _SPECIAL_ABILITY_RESTORE_BY_AMOUNT(Player player,float amount,int p2,int p3,int p4);
+void _SPECIAL_ABILITY_RESTORE_BY_AMOUNT(Player player, float amount, int p2, int p3, int p4);
 ```
 
 Restores Deadeye by given amount.

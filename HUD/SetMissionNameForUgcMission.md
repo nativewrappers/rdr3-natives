@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD98630CE73C61E98
-void SET_MISSION_NAME_FOR_UGC_MISSION(BOOL p0,char* name);
+void SET_MISSION_NAME_FOR_UGC_MISSION(BOOL p0, char* name);
 ```
 
 

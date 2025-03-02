@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEE08C992D238C5D1
-void STOP_ANIM_PLAYBACK(Ped ped,int p1,BOOL p2);
+void STOP_ANIM_PLAYBACK(Ped ped, int p1, BOOL p2);
 ```
 
 

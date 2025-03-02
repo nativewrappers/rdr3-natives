@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x309BBEBEA8A3986C
-Any NETWORK_SESSION_REQUEST_SESSION_COMPETITIVE(int flags,int matchType,int userHash,int p3,Any* sessionRequestId);
+Any NETWORK_SESSION_REQUEST_SESSION_COMPETITIVE(int flags, int matchType, int userHash, int p3, Any* sessionRequestId);
 ```
 
 matchType:

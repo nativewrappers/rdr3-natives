@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x502E1591A504F843
-Any _IS_MP_GAMER_TAG_ACTIVE_ON_ENTITY(int gamerTagId,Entity entity);
+Any _IS_MP_GAMER_TAG_ACTIVE_ON_ENTITY(int gamerTagId, Entity entity);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x738271B660FE0695
-int _GET_ENTITIES_FROM_PROP_SET(PropSet propSet,ItemSet itemSet,Hash model,BOOL p3,BOOL p4);
+int _GET_ENTITIES_FROM_PROP_SET(PropSet propSet, ItemSet itemSet, Hash model, BOOL p3, BOOL p4);
 ```
 
 

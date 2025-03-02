@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x402669A4BDAA72DA
-void SET_MISSION_NAME(BOOL p0,char* name);
+void SET_MISSION_NAME(BOOL p0, char* name);
 ```
 
 

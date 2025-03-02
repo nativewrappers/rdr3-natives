@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x89F5E7ADECCCB49C
-void _SET_PED_DESIRED_LOCO_MOTION_TYPE(Ped ped,char* locoMotionType);
+void _SET_PED_DESIRED_LOCO_MOTION_TYPE(Ped ped, char* locoMotionType);
 ```
 
 Sets peds motion type

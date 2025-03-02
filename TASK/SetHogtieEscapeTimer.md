@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAB591AE6B48B913E
-void _SET_HOGTIE_ESCAPE_TIMER(Ped ped,float time);
+void _SET_HOGTIE_ESCAPE_TIMER(Ped ped, float time);
 ```
 
 Sets the time it takes for a hogtied ped to escape

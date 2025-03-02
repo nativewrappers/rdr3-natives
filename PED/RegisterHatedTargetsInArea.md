@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD8736EFDA38EDC5C
-void _REGISTER_HATED_TARGETS_IN_AREA(Ped ped,float x,float y,float z,float radius);
+void _REGISTER_HATED_TARGETS_IN_AREA(Ped ped, float x, float y, float z, float radius);
 ```
 
 

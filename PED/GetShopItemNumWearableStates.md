@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFFCC2DB2D9953401
-int _GET_SHOP_ITEM_NUM_WEARABLE_STATES(Hash componentHash,BOOL isMpFemale,BOOL p2);
+int _GET_SHOP_ITEM_NUM_WEARABLE_STATES(Hash componentHash, BOOL isMpFemale, BOOL p2);
 ```
 
 Returns the number of wearable states available for a shop item / component. p2 seems to be true in scripts.

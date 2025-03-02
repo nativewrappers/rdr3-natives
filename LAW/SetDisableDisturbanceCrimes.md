@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDE5FAA741A781F73
-void SET_DISABLE_DISTURBANCE_CRIMES(Player player,BOOL p1);
+void SET_DISABLE_DISTURBANCE_CRIMES(Player player, BOOL p1);
 ```
 
 

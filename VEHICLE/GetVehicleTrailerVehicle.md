@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCF867A239EC30741
-BOOL GET_VEHICLE_TRAILER_VEHICLE(Vehicle vehicle,Vehicle* trailer);
+BOOL GET_VEHICLE_TRAILER_VEHICLE(Vehicle vehicle, Vehicle* trailer);
 ```
 
 Gets the trailer of a vehicle and puts it into the trailer parameter.

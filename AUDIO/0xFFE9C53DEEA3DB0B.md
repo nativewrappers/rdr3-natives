@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFFE9C53DEEA3DB0B
-Any _0xFFE9C53DEEA3DB0B(Any p0,Any p1,float x,float y,float z,BOOL isSrlLoaded,Any p6);
+Any _0xFFE9C53DEEA3DB0B(Any p0, Any p1, float x, float y, float z, BOOL isSrlLoaded, Any p6);
 ```
 
 

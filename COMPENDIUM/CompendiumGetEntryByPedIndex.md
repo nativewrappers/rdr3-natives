@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1CFA0219D8E1CF25
-int COMPENDIUM_GET_ENTRY_BY_PED_INDEX(Hash category,Ped ped);
+int COMPENDIUM_GET_ENTRY_BY_PED_INDEX(Hash category, Ped ped);
 ```
 
 

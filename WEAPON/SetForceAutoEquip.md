@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBE711B14A159E84F
-void _SET_FORCE_AUTO_EQUIP(Ped ped,BOOL toggle);
+void _SET_FORCE_AUTO_EQUIP(Ped ped, BOOL toggle);
 ```
 
 

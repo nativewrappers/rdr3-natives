@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC3544AD0522E69B4
-void _SET_WEAPON_SCALE(Object weaponObject,float scale);
+void _SET_WEAPON_SCALE(Object weaponObject, float scale);
 ```
 
 

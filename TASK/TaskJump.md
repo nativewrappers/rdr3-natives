@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0AE4086104E067B1
-void TASK_JUMP(Ped ped,BOOL unused);
+void TASK_JUMP(Ped ped, BOOL unused);
 ```
 
 

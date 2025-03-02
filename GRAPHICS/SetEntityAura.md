@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x249CD6B7285536F2
-void _SET_ENTITY_AURA(float p0,float p1,float p2);
+void _SET_ENTITY_AURA(float p0, float p1, float p2);
 ```
 
 Used for script function RPG_GLOBAL_STATS__PRIVATE__ACTIVATE_STAT_FLAG - Quite and Inspiration Aura equip

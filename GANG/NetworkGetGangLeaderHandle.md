@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCE88A261DCBBA0D9
-Any _NETWORK_GET_GANG_LEADER_HANDLE(Any gangId,Any* gamerHandle);
+Any _NETWORK_GET_GANG_LEADER_HANDLE(Any gangId, Any* gamerHandle);
 ```
 
 

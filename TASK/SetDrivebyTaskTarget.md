@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE5B302114D8162EE
-void SET_DRIVEBY_TASK_TARGET(Ped shootingPed,Ped targetPed,Vehicle targetVehicle,float x,float y,float z);
+void SET_DRIVEBY_TASK_TARGET(Ped shootingPed, Ped targetPed, Vehicle targetVehicle, float x, float y, float z);
 ```
 
 

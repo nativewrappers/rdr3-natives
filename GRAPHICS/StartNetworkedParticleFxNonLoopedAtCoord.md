@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFB97618457994A62
-BOOL START_NETWORKED_PARTICLE_FX_NON_LOOPED_AT_COORD(char* effectName,float xPos,float yPos,float zPos,float xRot,float yRot,float zRot,float scale,BOOL xAxis,BOOL yAxis,BOOL zAxis);
+BOOL START_NETWORKED_PARTICLE_FX_NON_LOOPED_AT_COORD(char* effectName, float xPos, float yPos, float zPos, float xRot, float yRot, float zRot, float scale, BOOL xAxis, BOOL yAxis, BOOL zAxis);
 ```
 
 

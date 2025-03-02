@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xD48227263E3D06AE
-void _ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET_AT_COORDS(Player player,Vector3* p1,char* preset,float x,float y,float z,Entity targetEntity,char* name);
+void _ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET_AT_COORDS(Player player, Vector3* p1, char* preset, float x, float y, float z, Entity targetEntity, char* name);
 ```
 
 Adds an interactive focus mode preset between a player and a specific set of coordinates with a target entity.

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9D3151A373974804
-void SET_PED_SPHERE_DEFENSIVE_AREA(Ped ped,float x,float y,float z,float radius,BOOL p5,BOOL p6,BOOL p7);
+void SET_PED_SPHERE_DEFENSIVE_AREA(Ped ped, float x, float y, float z, float radius, BOOL p5, BOOL p6, BOOL p7);
 ```
 
 

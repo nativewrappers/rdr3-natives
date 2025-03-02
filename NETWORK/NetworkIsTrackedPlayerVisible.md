@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE525878A35B9EEBD
-Any _NETWORK_IS_TRACKED_PLAYER_VISIBLE(Player player,Player trackedPlayer);
+Any _NETWORK_IS_TRACKED_PLAYER_VISIBLE(Player player, Player trackedPlayer);
 ```
 
 

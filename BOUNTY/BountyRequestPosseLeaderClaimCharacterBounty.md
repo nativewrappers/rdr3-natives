@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5B53CA0E2AC3FF45
-Any _BOUNTY_REQUEST_POSSE_LEADER_CLAIM_CHARACTER_BOUNTY(Any* outRpcGuid,int p1,Any* p2);
+Any _BOUNTY_REQUEST_POSSE_LEADER_CLAIM_CHARACTER_BOUNTY(Any* outRpcGuid, int p1, Any* p2);
 ```
 
 

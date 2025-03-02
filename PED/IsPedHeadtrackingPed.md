@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5CD3CB88A7F8850D
-BOOL IS_PED_HEADTRACKING_PED(Ped ped1,Ped ped2);
+BOOL IS_PED_HEADTRACKING_PED(Ped ped1, Ped ped2);
 ```
 
 

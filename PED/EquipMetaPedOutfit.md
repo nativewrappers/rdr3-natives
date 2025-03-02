@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1902C4CFCC5BE57C
-void _EQUIP_META_PED_OUTFIT(Ped ped,Hash hash);
+void _EQUIP_META_PED_OUTFIT(Ped ped, Hash hash);
 ```
 
 Note: you have to update your ped's variation after calling (using 0xCC8CA3E88256E58F)

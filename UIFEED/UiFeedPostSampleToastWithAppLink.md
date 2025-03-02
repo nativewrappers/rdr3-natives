@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x38838A646FB30AAE
-int _UI_FEED_POST_SAMPLE_TOAST_WITH_APP_LINK(Any* p0,Any* p1,BOOL p2,BOOL p3,BOOL p4);
+int _UI_FEED_POST_SAMPLE_TOAST_WITH_APP_LINK(Any* p0, Any* p1, BOOL p2, BOOL p3, BOOL p4);
 ```
 
 

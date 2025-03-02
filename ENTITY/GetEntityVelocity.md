@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4805D2B1D8CF94A9
-Vector3 GET_ENTITY_VELOCITY(Entity entity,int p1);
+Vector3 GET_ENTITY_VELOCITY(Entity entity, int p1);
 ```
 
 

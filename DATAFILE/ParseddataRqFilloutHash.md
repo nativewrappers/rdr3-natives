@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFBFF3FF2F5E80C0B
-Any PARSEDDATA_RQ_FILLOUT_HASH(Hash* p0,Any* p1);
+Any PARSEDDATA_RQ_FILLOUT_HASH(Hash* p0, Any* p1);
 ```
 
 Old name: _DATAFILE_GET_HASH

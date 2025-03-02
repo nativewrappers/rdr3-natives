@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x36EB4D34D4A092C5
-void _PAUSE_ENTITY_TRACKING(Entity entity,BOOL pause);
+void _PAUSE_ENTITY_TRACKING(Entity entity, BOOL pause);
 ```
 
 

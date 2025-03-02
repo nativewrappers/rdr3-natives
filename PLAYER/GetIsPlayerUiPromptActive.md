@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x51BEA356B1C60225
-Any GET_IS_PLAYER_UI_PROMPT_ACTIVE(Player player,int p1);
+Any GET_IS_PLAYER_UI_PROMPT_ACTIVE(Player player, int p1);
 ```
 
 

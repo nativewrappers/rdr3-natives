@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1AD5B71586B94820
-BOOL NETWORK_IS_PLAYER_A_PARTICIPANT_ON_SCRIPT(Player p0,Any* p1,Any p2);
+BOOL NETWORK_IS_PLAYER_A_PARTICIPANT_ON_SCRIPT(Player p0, Any* p1, Any p2);
 ```
 
 

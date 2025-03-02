@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAFF5BE9BA496CE40
-int _0xAFF5BE9BA496CE40(Any* p0,Any* p1,BOOL p2,BOOL p3,Hash collectableCategory);
+int _0xAFF5BE9BA496CE40(Any* p0, Any* p1, BOOL p2, BOOL p3, Hash collectableCategory);
 ```
 
 

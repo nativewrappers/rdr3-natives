@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x697157CED63F18D4
-void APPLY_DAMAGE_TO_PED(Ped ped,int damageAmount,BOOL damageArmour,int boneId,Ped pedKiller);
+void APPLY_DAMAGE_TO_PED(Ped ped, int damageAmount, BOOL damageArmour, int boneId, Ped pedKiller);
 ```
 
 damages a ped with the given amount

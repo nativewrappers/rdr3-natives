@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2498035289B5688F
-void _SPECIAL_ABILITY_RESTORE_OUTER_RING(Player player,float amount);
+void _SPECIAL_ABILITY_RESTORE_OUTER_RING(Player player, float amount);
 ```
 
 Only used in R* SP Script short_update

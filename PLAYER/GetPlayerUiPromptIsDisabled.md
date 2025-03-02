@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6614F9039BD31931
-Any _GET_PLAYER_UI_PROMPT_IS_DISABLED(Player player,int promptType,int promptMode);
+Any _GET_PLAYER_UI_PROMPT_IS_DISABLED(Player player, int promptType, int promptMode);
 ```
 
 Returns false if PromptType is enabled

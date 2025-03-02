@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8E5DA070BAD3279E
-void _SET_VEHICLE_DETERIORATION(Vehicle vehicle,float amount,int p2,BOOL p3);
+void _SET_VEHICLE_DETERIORATION(Vehicle vehicle, float amount, int p2, BOOL p3);
 ```
 
 

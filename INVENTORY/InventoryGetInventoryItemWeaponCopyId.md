@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAB5F12746A099A0E
-int _INVENTORY_GET_INVENTORY_ITEM_WEAPON_COPY_ID(int inventoryId,Any* guid);
+int _INVENTORY_GET_INVENTORY_ITEM_WEAPON_COPY_ID(int inventoryId, Any* guid);
 ```
 
 Returns CopyID

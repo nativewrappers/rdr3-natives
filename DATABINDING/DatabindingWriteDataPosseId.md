@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC70041408E16BE2E
-void _DATABINDING_WRITE_DATA_POSSE_ID(Any p0,char* p1,Any posseId);
+void _DATABINDING_WRITE_DATA_POSSE_ID(Any p0, char* p1, Any posseId);
 ```
 
 

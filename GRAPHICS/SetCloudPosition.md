@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x10C1767B93257480
-void _SET_CLOUD_POSITION(float x,float y,float z);
+void _SET_CLOUD_POSITION(float x, float y, float z);
 ```
 
 Only used in finale2, smuggler2, winter4

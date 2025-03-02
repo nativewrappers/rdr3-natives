@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x044131118D8DB3CD
-void DISPLAY_ONSCREEN_KEYBOARD(int textType,char* windowTitle,char* p2,char* defaultText,char* defaultConcat1,char* defaultConcat2,char* defaultConcat3,int maxInputLength);
+void DISPLAY_ONSCREEN_KEYBOARD(int textType, char* windowTitle, char* p2, char* defaultText, char* defaultConcat1, char* defaultConcat2, char* defaultConcat3, int maxInputLength);
 ```
 
 enum eOnscreenKeyboardTextType

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9C77964B0E07B633
-Any _GET_IPL_BOUNDING_SPHERE(Hash iplHash,Vector3* position,float* radius);
+Any _GET_IPL_BOUNDING_SPHERE(Hash iplHash, Vector3* position, float* radius);
 ```
 
 Outputs IPL position and radius (previously wrongly named heading)

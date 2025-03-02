@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA69899995997A63B
-void _SET_MOUNT_BONDING_LEVEL(Ped ped,int bondingLevel);
+void _SET_MOUNT_BONDING_LEVEL(Ped ped, int bondingLevel);
 ```
 
 

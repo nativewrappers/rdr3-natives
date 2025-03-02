@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xDF93973251FB2CA5
-void _SET_PLAYER_MOUNT_STATE_ACTIVE(Player player,BOOL active);
+void _SET_PLAYER_MOUNT_STATE_ACTIVE(Player player, BOOL active);
 ```
 
 Name could potentially be inaccurate.

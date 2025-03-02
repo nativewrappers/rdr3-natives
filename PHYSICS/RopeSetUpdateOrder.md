@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDC57A637A20006ED
-void ROPE_SET_UPDATE_ORDER(int ropeId,Any p1);
+void ROPE_SET_UPDATE_ORDER(int ropeId, Any p1);
 ```
 
 

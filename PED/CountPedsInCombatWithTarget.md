@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5407B7288D0478B7
-int COUNT_PEDS_IN_COMBAT_WITH_TARGET(Ped ped,int flag);
+int COUNT_PEDS_IN_COMBAT_WITH_TARGET(Ped ped, int flag);
 ```
 
 

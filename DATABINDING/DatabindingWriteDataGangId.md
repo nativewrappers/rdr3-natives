@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC70041408E16BE2D
-void _DATABINDING_WRITE_DATA_GANG_ID(Any p0,char* p1,Any gangId);
+void _DATABINDING_WRITE_DATA_GANG_ID(Any p0, char* p1, Any gangId);
 ```
 
 

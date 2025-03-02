@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x20D504994FDC4412
-void IPL_GROUP_SWAP_START(char* iplName1,char* iplName2);
+void IPL_GROUP_SWAP_START(char* iplName1, char* iplName2);
 ```
 
 

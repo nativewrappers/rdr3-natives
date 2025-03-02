@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8AE2F981CDDB8FA4
-void SET_DECISION_MAKER(Ped ped,Hash name);
+void SET_DECISION_MAKER(Ped ped, Hash name);
 ```
 
 

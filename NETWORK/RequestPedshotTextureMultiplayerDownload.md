@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB5C4B18B12A2AF23
-char* _REQUEST_PEDSHOT_TEXTURE_MULTIPLAYER_DOWNLOAD(Any* gamerHandle,int p1);
+char* _REQUEST_PEDSHOT_TEXTURE_MULTIPLAYER_DOWNLOAD(Any* gamerHandle, int p1);
 ```
 
 

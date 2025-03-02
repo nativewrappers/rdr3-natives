@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7E02E4218D916B94
-Any _GET_SHOP_ITEM_HAT_COMPONENT(Ped ped,int metapedType,BOOL p2);
+Any _GET_SHOP_ITEM_HAT_COMPONENT(Ped ped, int metapedType, BOOL p2);
 ```
 
 

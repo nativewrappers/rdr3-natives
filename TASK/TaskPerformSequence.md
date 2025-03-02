@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5ABA3986D90D8A3B
-void TASK_PERFORM_SEQUENCE(Ped ped,int taskSequenceId);
+void TASK_PERFORM_SEQUENCE(Ped ped, int taskSequenceId);
 ```
 
 

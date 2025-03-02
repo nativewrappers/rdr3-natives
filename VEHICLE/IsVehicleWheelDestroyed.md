@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCB2CA620C48BC875
-Any _IS_VEHICLE_WHEEL_DESTROYED(Vehicle vehicle,int wheel);
+Any _IS_VEHICLE_WHEEL_DESTROYED(Vehicle vehicle, int wheel);
 ```
 
 

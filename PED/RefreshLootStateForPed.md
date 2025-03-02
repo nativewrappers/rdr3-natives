@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5463C962BC7777C3
-int _REFRESH_LOOT_STATE_FOR_PED(Ped ped,int p1,Ped* lootTarget,int p3,int p4);
+int _REFRESH_LOOT_STATE_FOR_PED(Ped ped, int p1, Ped* lootTarget, int p3, int p4);
 ```
 
 Returns loot state

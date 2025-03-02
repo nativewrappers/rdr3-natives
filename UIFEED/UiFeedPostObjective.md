@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCEDBF17EFCC0E4A4
-int _UI_FEED_POST_OBJECTIVE(Any* p0,Any* p1,BOOL p2);
+int _UI_FEED_POST_OBJECTIVE(Any* p0, Any* p1, BOOL p2);
 ```
 
 Example : https://pastebin.com/13tuRa63

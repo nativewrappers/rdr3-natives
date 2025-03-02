@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x78C4E9961DB3EB5B
-void SET_PED_CLOTH_PIN_FRAMES(Ped ped,BOOL p1);
+void SET_PED_CLOTH_PIN_FRAMES(Ped ped, BOOL p1);
 ```
 
 Old name: SET_PED_CLOTH_PACKAGE_INDEX

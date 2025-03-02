@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x34AE85C7CA4857AA
-void _ADD_EXPLOSION_WITH_USER_VFX_AND_DAMAGE_CAUSER(Entity entity,BOOL p1,float x,float y,float z,int explosionType,Hash explosionFx,float damageScale,BOOL isAudible,BOOL isInvisible,float cameraShake);
+void _ADD_EXPLOSION_WITH_USER_VFX_AND_DAMAGE_CAUSER(Entity entity, BOOL p1, float x, float y, float z, int explosionType, Hash explosionFx, float damageScale, BOOL isAudible, BOOL isInvisible, float cameraShake);
 ```
 
 Add explosion with vfx and assign an entity as damage causer.

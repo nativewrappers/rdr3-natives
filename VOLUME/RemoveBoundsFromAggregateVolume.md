@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF92FA8890DECECF6
-void _REMOVE_BOUNDS_FROM_AGGREGATE_VOLUME(Volume volume,Volume aggregate);
+void _REMOVE_BOUNDS_FROM_AGGREGATE_VOLUME(Volume volume, Volume aggregate);
 ```
 
 _REMOVE_E* - _REMOVE_R*

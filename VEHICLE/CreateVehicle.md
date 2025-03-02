@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xAF35D0D2583051B0
-Vehicle CREATE_VEHICLE(Hash modelHash,float x,float y,float z,float heading,BOOL isNetwork,BOOL bScriptHostVeh,BOOL bDontAutoCreateDraftAnimals,BOOL p8);
+Vehicle CREATE_VEHICLE(Hash modelHash, float x, float y, float z, float heading, BOOL isNetwork, BOOL bScriptHostVeh, BOOL bDontAutoCreateDraftAnimals, BOOL p8);
 ```
 
 

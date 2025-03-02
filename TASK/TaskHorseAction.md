@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA09CFD29100F06C3
-void TASK_HORSE_ACTION(Ped ped,int action,Ped targetPed,Any p3);
+void TASK_HORSE_ACTION(Ped ped, int action, Ped targetPed, Any p3);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/tasks/TASK_HORSE_ACTION

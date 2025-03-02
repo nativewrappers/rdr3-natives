@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x42ED56B02E05D109
-void ALLOW_MOTION_BLUR_DECAY(Cam cam,BOOL p1);
+void ALLOW_MOTION_BLUR_DECAY(Cam cam, BOOL p1);
 ```
 
 

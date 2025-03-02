@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x790EC421078F5C4E
-Any DATAFILE_UGC_SELECT_DATA(Any ugcRequestId,int index,Any p2);
+Any DATAFILE_UGC_SELECT_DATA(Any ugcRequestId, int index, Any p2);
 ```
 
 Reloops value returned by UGC_QUERY_GET_CONTENT_NUM

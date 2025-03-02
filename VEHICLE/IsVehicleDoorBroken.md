@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE979BB5602AD3402
-Any _IS_VEHICLE_DOOR_BROKEN(Vehicle vehicle,int doorId);
+Any _IS_VEHICLE_DOOR_BROKEN(Vehicle vehicle, int doorId);
 ```
 
 doorId: see SET_VEHICLE_DOOR_SHUT

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x51DE09A2196BD951
-void UI_MOVIEVIEW_SET_RENDER_TARGET(Any p0,Any p1);
+void UI_MOVIEVIEW_SET_RENDER_TARGET(Any p0, Any p1);
 ```
 
 

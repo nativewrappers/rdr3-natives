@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4D89D607CB3DD1D2
-void SET_OBJECT_ALLOW_LOW_LOD_BUOYANCY(Object object,BOOL toggle);
+void SET_OBJECT_ALLOW_LOW_LOD_BUOYANCY(Object object, BOOL toggle);
 ```
 
 

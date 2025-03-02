@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC32779C16FCEECD9
-void SET_IK_TARGET(Ped ped,int ikIndex,Entity entityLookAt,int boneLookAt,float offsetX,float offsetY,float offsetZ,Any p7,int blendInDuration,int blendOutDuration);
+void SET_IK_TARGET(Ped ped, int ikIndex, Entity entityLookAt, int boneLookAt, float offsetX, float offsetY, float offsetZ, Any p7, int blendInDuration, int blendOutDuration);
 ```
 
 

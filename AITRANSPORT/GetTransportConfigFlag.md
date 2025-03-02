@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF382C92CCC1CCDBC
-Any GET_TRANSPORT_CONFIG_FLAG(Entity transportEntity,int flagId,BOOL p2);
+Any GET_TRANSPORT_CONFIG_FLAG(Entity transportEntity, int flagId, BOOL p2);
 ```
 
 flagId: see SET_TRANSPORT_CONFIG_FLAG

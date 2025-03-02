@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8750F69A720C2E41
-Any _ITEMDATABASE_GET_COMPONENT_ITEM(int collectionId,int index,Hash* outKey);
+Any _ITEMDATABASE_GET_COMPONENT_ITEM(int collectionId, int index, Hash* outKey);
 ```
 
 Params: p2 can be a component item hash

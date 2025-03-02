@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4D107406667423BE
-void _UI_PROMPT_CONTEXT_SET_VOLUME(Prompt prompt,Volume volume);
+void _UI_PROMPT_CONTEXT_SET_VOLUME(Prompt prompt, Volume volume);
 ```
 
 Attaches a Volume

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x2B32B11520626229
-Any _GET_VOLUME_AMOUNT_OF_INDEXED_ITEMS(float x,float y,float z,float radius,ItemSet itemSet);
+Any _GET_VOLUME_AMOUNT_OF_INDEXED_ITEMS(float x, float y, float z, float radius, ItemSet itemSet);
 ```
 
 Indexes items (including entyties and peds) in a set volume

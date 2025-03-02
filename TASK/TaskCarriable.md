@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF0B4F759F35CC7F5
-void TASK_CARRIABLE(Entity entity,Hash carryConfig,Ped carrier,int carriableSlot,int flags);
+void TASK_CARRIABLE(Entity entity, Hash carryConfig, Ped carrier, int carriableSlot, int flags);
 ```
 
 carriableSlot:

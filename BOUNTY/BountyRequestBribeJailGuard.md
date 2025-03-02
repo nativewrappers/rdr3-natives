@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x28717806D3BDD0D0
-Any _BOUNTY_REQUEST_BRIBE_JAIL_GUARD(Any* outRpcGuid,int p1);
+Any _BOUNTY_REQUEST_BRIBE_JAIL_GUARD(Any* outRpcGuid, int p1);
 ```
 
 

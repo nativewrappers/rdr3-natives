@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEB47EC4E34FB7EE1
-void SET_SCENARIO_TYPE_ENABLED(char* scenarioType,BOOL toggle);
+void SET_SCENARIO_TYPE_ENABLED(char* scenarioType, BOOL toggle);
 ```
 
 

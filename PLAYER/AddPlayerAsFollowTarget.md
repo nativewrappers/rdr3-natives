@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAC22AA6DF4D1C1DE
-void _ADD_PLAYER_AS_FOLLOW_TARGET(Player player,Ped ped,float p2,float p3,int followMode,int followPriority,BOOL p6);
+void _ADD_PLAYER_AS_FOLLOW_TARGET(Player player, Ped ped, float p2, float p3, int followMode, int followPriority, BOOL p6);
 ```
 
 Used in script function: NET_AUTO_FOLLOW_UPDATE_LEADER_VALUES

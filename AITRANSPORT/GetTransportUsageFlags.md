@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE195C5A82156321D
-Any _GET_TRANSPORT_USAGE_FLAGS(Entity transportEntity,int* flags);
+Any _GET_TRANSPORT_USAGE_FLAGS(Entity transportEntity, int* flags);
 ```
 
 See _SET_TRANSPORT_USAGE_FLAGS

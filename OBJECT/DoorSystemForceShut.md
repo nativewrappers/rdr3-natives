@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x276AAF0F1C7F2494
-void _DOOR_SYSTEM_FORCE_SHUT(Hash doorHash,BOOL p1);
+void _DOOR_SYSTEM_FORCE_SHUT(Hash doorHash, BOOL p1);
 ```
 
 

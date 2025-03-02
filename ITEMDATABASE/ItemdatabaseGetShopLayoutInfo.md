@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x66A6D76B6BB999B4
-Any _ITEMDATABASE_GET_SHOP_LAYOUT_INFO(Hash layout,Any* outData);
+Any _ITEMDATABASE_GET_SHOP_LAYOUT_INFO(Hash layout, Any* outData);
 ```
 
 

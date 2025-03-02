@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x66FF395445A88A6E
-void _EQUIP_META_PED_SUBOUTFIT(Ped ped,Hash suboutfit,int p2);
+void _EQUIP_META_PED_SUBOUTFIT(Ped ped, Hash suboutfit, int p2);
 ```
 
 

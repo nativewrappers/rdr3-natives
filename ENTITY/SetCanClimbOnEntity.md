@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x24AED2A608F93C4C
-void SET_CAN_CLIMB_ON_ENTITY(Entity entity,BOOL toggle);
+void SET_CAN_CLIMB_ON_ENTITY(Entity entity, BOOL toggle);
 ```
 
 

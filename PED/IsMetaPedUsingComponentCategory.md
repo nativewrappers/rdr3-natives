@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFB4891BD7578CDC1
-Any _IS_META_PED_USING_COMPONENT_CATEGORY(Ped ped,Hash componentCategory);
+Any _IS_META_PED_USING_COMPONENT_CATEGORY(Ped ped, Hash componentCategory);
 ```
 
 checks if a ped is using a component category

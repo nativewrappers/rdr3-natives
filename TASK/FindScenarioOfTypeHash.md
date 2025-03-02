@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF533D68FF970D190
-int FIND_SCENARIO_OF_TYPE_HASH(float xPos,float yPos,float zPos,Hash scenarioType,float distance,Any p5,BOOL p6);
+int FIND_SCENARIO_OF_TYPE_HASH(float xPos, float yPos, float zPos, Hash scenarioType, float distance, Any p5, BOOL p6);
 ```
 
 

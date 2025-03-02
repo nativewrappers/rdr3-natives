@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB70986AB19B04AFF
-void SET_DISABLE_VEHICLE_PETROL_TANK_FIRES(Vehicle vehicle,BOOL toggle);
+void SET_DISABLE_VEHICLE_PETROL_TANK_FIRES(Vehicle vehicle, BOOL toggle);
 ```
 
 

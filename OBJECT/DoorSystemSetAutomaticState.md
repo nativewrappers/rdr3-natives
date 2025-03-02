@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1BC47A9DEDC8DF5D
-void _DOOR_SYSTEM_SET_AUTOMATIC_STATE(Hash doorHash,BOOL disable);
+void _DOOR_SYSTEM_SET_AUTOMATIC_STATE(Hash doorHash, BOOL disable);
 ```
 
 _ALLOW_* - _ATTACH_*

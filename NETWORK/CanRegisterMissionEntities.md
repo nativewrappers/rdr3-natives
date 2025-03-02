@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x69778E7564BADE6D
-BOOL CAN_REGISTER_MISSION_ENTITIES(int ped_amt,int vehicle_amt,int object_amt,int pickup_amt);
+BOOL CAN_REGISTER_MISSION_ENTITIES(int ped_amt, int vehicle_amt, int object_amt, int pickup_amt);
 ```
 
 

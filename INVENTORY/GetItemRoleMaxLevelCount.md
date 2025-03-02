@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xADDD1E7C0ECF7D95
-int _GET_ITEM_ROLE_MAX_LEVEL_COUNT(int inventoryId,Hash eRoleMaxLevel);
+int _GET_ITEM_ROLE_MAX_LEVEL_COUNT(int inventoryId, Hash eRoleMaxLevel);
 ```
 
 

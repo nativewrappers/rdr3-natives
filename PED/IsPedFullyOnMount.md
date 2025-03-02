@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x95CBC65780DE7EB1
-Any IS_PED_FULLY_ON_MOUNT(Ped ped,BOOL p1);
+Any IS_PED_FULLY_ON_MOUNT(Ped ped, BOOL p1);
 ```
 
 

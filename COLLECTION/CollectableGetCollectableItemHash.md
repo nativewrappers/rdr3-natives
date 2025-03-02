@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x126CBEBBA46693CF
-Hash _COLLECTABLE_GET_COLLECTABLE_ITEM_HASH(int index,Hash collectableCategory,Hash collectableSubcategory);
+Hash _COLLECTABLE_GET_COLLECTABLE_ITEM_HASH(int index, Hash collectableCategory, Hash collectableSubcategory);
 ```
 
 

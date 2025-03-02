@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0EB0585D15254740
-void SET_PED_CAN_PLAY_AMBIENT_BASE_ANIMS(Ped ped,BOOL toggle);
+void SET_PED_CAN_PLAY_AMBIENT_BASE_ANIMS(Ped ped, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x808077647856DE62
-Any _GET_ENTITY_CARRYING_FLAG(Entity entity,int flagId);
+Any _GET_ENTITY_CARRYING_FLAG(Entity entity, int flagId);
 ```
 
 flagId: see _SET_ENTITY_CARRYING_FLAG

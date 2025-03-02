@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9C56621462FFE7A6
-int START_NETWORKED_PARTICLE_FX_LOOPED_ON_ENTITY_BONE(char* effectName,Entity entity,float xOffset,float yOffset,float zOffset,float xRot,float yRot,float zRot,int boneIndex,float scale,BOOL xAxis,BOOL yAxis,BOOL zAxis);
+int START_NETWORKED_PARTICLE_FX_LOOPED_ON_ENTITY_BONE(char* effectName, Entity entity, float xOffset, float yOffset, float zOffset, float xRot, float yRot, float zRot, int boneIndex, float scale, BOOL xAxis, BOOL yAxis, BOOL zAxis);
 ```
 
 

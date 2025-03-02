@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0B253D644E3C36B3
-void DECOR_REGISTER(char* propertyName,int type);
+void DECOR_REGISTER(char* propertyName, int type);
 ```
 
 

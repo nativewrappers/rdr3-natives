@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFE74FA57E0CE6824
-Any _DATABINDING_ADD_UI_ITEM_LIST(Any p0,char* p1);
+Any _DATABINDING_ADD_UI_ITEM_LIST(Any p0, char* p1);
 ```
 
 

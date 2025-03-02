@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5054D1A5218FA696
-int GET_INTERIOR_FROM_COLLISION(float x,float y,float z);
+int GET_INTERIOR_FROM_COLLISION(float x, float y, float z);
 ```
 
 

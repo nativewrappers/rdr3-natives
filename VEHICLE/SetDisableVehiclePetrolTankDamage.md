@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5795FBE7A2001C14
-void SET_DISABLE_VEHICLE_PETROL_TANK_DAMAGE(Vehicle vehicle,BOOL toggle);
+void SET_DISABLE_VEHICLE_PETROL_TANK_DAMAGE(Vehicle vehicle, BOOL toggle);
 ```
 
 

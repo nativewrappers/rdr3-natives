@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC239DBD9A57D2A71
-Vehicle _CREATE_MISSION_TRAIN(Hash configHash,float x,float y,float z,BOOL direction,BOOL passengers,BOOL p6,BOOL conductor);
+Vehicle _CREATE_MISSION_TRAIN(Hash configHash, float x, float y, float z, BOOL direction, BOOL passengers, BOOL p6, BOOL conductor);
 ```
 
 configHash: https://alloc8or.re/rdr3/doc/enums/eTrainConfig.txt

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAB1231D2DE52F2D3
-BOOL DATAARRAY_GET_BOOL(Any* arrayData,int arrayIndex);
+BOOL DATAARRAY_GET_BOOL(Any* arrayData, int arrayIndex);
 ```
 
 

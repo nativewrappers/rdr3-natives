@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x674B90BE1115846D
-void SET_PED_DECOMPOSED(Ped ped,BOOL toggle);
+void SET_PED_DECOMPOSED(Ped ped, BOOL toggle);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8899C244EBCF70DE
-void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Player player,float regenRate);
+void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Player player, float regenRate);
 ```
 
 

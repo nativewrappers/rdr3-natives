@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x32810CA2125F5842
-BOOL IS_INTERIOR_ENTITY_SET_ACTIVE(Interior interior,char* entitySetName);
+BOOL IS_INTERIOR_ENTITY_SET_ACTIVE(Interior interior, char* entitySetName);
 ```
 
 

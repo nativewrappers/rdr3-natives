@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF63DF9EE16393343
-void CHAL_SET_GOAL_DISABLED(Hash chalHash,Hash goalHash,BOOL disabled);
+void CHAL_SET_GOAL_DISABLED(Hash chalHash, Hash goalHash, BOOL disabled);
 ```
 
 

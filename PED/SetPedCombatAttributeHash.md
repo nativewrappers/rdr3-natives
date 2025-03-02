@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBD75500141E4725C
-void _SET_PED_COMBAT_ATTRIBUTE_HASH(Ped ped,Hash p1);
+void _SET_PED_COMBAT_ATTRIBUTE_HASH(Ped ped, Hash p1);
 ```
 
 Hashes: GUARD, COMBAT_ANIMAL, LAW, LAW_SHERIFF

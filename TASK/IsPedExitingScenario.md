@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0C3CB2E600C8977D
-Any IS_PED_EXITING_SCENARIO(Ped ped,BOOL p1);
+Any IS_PED_EXITING_SCENARIO(Ped ped, BOOL p1);
 ```
 
 

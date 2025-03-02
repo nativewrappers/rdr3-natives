@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC0F0417A90402742
-void _ADD_LIGHT_PROP_SET_TO_VEHICLE(Vehicle vehicle,Hash lightPropset);
+void _ADD_LIGHT_PROP_SET_TO_VEHICLE(Vehicle vehicle, Hash lightPropset);
 ```
 
 To remove propsets either parse a zero as hash or call 0xE31C0CB1C3186D40

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x05CE6AF4DF071D23
-void _SET_PED_LADDER_MOVEMENT_SPEED_MODIFIER(Ped ped,float p1);
+void _SET_PED_LADDER_MOVEMENT_SPEED_MODIFIER(Ped ped, float p1);
 ```
 
 

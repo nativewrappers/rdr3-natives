@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6EEAD6AF637DA752
-Any DOES_SCENARIO_OF_TYPE_EXIST_IN_AREA_HASH(float x,float y,float z,Hash typeHash,float radius,BOOL p5);
+Any DOES_SCENARIO_OF_TYPE_EXIST_IN_AREA_HASH(float x, float y, float z, Hash typeHash, float radius, BOOL p5);
 ```
 
 

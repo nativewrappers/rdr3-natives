@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x51EC204A6E5B5A1A
-void _TELEMETRY_GAME_PROGRESS(Any p0,Any p1);
+void _TELEMETRY_GAME_PROGRESS(Any p0, Any p1);
 ```
 
 

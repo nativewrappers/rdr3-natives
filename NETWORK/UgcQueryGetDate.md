@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE0CB4AB15CB32710
-void _UGC_QUERY_GET_DATE(Any p0,int index,Any* p2);
+void _UGC_QUERY_GET_DATE(Any p0, int index, Any* p2);
 ```
 
 

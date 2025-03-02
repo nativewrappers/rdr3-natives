@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6452B1D357D81742
-Hash _GET_DEFAULT_ITEM_SLOT_INFO(Hash item,Hash p1);
+Hash _GET_DEFAULT_ITEM_SLOT_INFO(Hash item, Hash p1);
 ```
 
 p1: WARDROBE, KIT_CAMP, CHARACTER, KIT_MOONSHINER_PROPERTY

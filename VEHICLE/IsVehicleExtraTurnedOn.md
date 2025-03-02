@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFA9A55D9C4351625
-BOOL IS_VEHICLE_EXTRA_TURNED_ON(Vehicle vehicle,int extraId);
+BOOL IS_VEHICLE_EXTRA_TURNED_ON(Vehicle vehicle, int extraId);
 ```
 
 

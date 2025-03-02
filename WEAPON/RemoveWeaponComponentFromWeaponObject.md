@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF7D82B0D66777611
-void REMOVE_WEAPON_COMPONENT_FROM_WEAPON_OBJECT(Object weaponObject,Hash component);
+void REMOVE_WEAPON_COMPONENT_FROM_WEAPON_OBJECT(Object weaponObject, Hash component);
 ```
 
 

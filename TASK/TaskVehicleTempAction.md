@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC429DCEEB339E129
-void TASK_VEHICLE_TEMP_ACTION(Ped driver,Vehicle vehicle,int action,int time);
+void TASK_VEHICLE_TEMP_ACTION(Ped driver, Vehicle vehicle, int action, int time);
 ```
 
 Documentation from GTA V, might be the same in RDR:

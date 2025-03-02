@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x476038B5A0734C10
-void _TELEMETRY_ROLE_TRADER(Any p0,Any transactionId);
+void _TELEMETRY_ROLE_TRADER(Any p0, Any transactionId);
 ```
 
 

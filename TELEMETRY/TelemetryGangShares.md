@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE6DC9B21AC7A8729
-void _TELEMETRY_GANG_SHARES(Any p0,Any p1,Any p2,Any p3);
+void _TELEMETRY_GANG_SHARES(Any p0, Any p1, Any p2, Any p3);
 ```
 
 

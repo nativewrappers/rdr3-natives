@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x501354951CD942DE
-Any SET_VEHICLE_AUTOMATICALLY_ATTACHES(Vehicle vehicle,BOOL p1,Any p2);
+Any SET_VEHICLE_AUTOMATICALLY_ATTACHES(Vehicle vehicle, BOOL p1, Any p2);
 ```
 
 

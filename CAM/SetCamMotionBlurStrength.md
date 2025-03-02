@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x45FD891364181F9E
-void SET_CAM_MOTION_BLUR_STRENGTH(Cam cam,float strength);
+void SET_CAM_MOTION_BLUR_STRENGTH(Cam cam, float strength);
 ```
 
 

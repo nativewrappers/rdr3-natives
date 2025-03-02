@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4293B44A855F82CC
-Any _LOOT_GET_RESULT_ITEM(Any* rpcGuid,int itemIndex,Any* outResultItem);
+Any _LOOT_GET_RESULT_ITEM(Any* rpcGuid, int itemIndex, Any* outResultItem);
 ```
 
 

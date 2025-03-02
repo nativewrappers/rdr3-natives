@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4D1A590C92BF377E
-void PAUSE_CLOCK(BOOL toggle,Any unused);
+void PAUSE_CLOCK(BOOL toggle, Any unused);
 ```
 
 

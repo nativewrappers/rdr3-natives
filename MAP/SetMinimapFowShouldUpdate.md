@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x632AA10BF7EA53D3
-void _SET_MINIMAP_FOW_SHOULD_UPDATE(BOOL toggle,Hash p1);
+void _SET_MINIMAP_FOW_SHOULD_UPDATE(BOOL toggle, Hash p1);
 ```
 
 

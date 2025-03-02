@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5C9B84BD7D31D908
-void SET_DRIVE_TASK_CRUISE_SPEED(Ped driver,float cruiseSpeed);
+void SET_DRIVE_TASK_CRUISE_SPEED(Ped driver, float cruiseSpeed);
 ```
 
 

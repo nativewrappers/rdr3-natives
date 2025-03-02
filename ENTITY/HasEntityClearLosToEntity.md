@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFCDFF7B72D23A1AC
-BOOL HAS_ENTITY_CLEAR_LOS_TO_ENTITY(Entity entity1,Entity entity2,int traceType);
+BOOL HAS_ENTITY_CLEAR_LOS_TO_ENTITY(Entity entity1, Entity entity2, int traceType);
 ```
 
 

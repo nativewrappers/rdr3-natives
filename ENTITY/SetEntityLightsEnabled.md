@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEBDC12861D079ABA
-void _SET_ENTITY_LIGHTS_ENABLED(Entity entity,BOOL enabled);
+void _SET_ENTITY_LIGHTS_ENABLED(Entity entity, BOOL enabled);
 ```
 
 

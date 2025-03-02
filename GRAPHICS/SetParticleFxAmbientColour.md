@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3C61B52B00848C26
-void SET_PARTICLE_FX_AMBIENT_COLOUR(Entity entity,char* p1,float r,float g,float b);
+void SET_PARTICLE_FX_AMBIENT_COLOUR(Entity entity, char* p1, float r, float g, float b);
 ```
 
 Related to Campfires.

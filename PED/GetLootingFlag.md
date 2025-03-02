@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE4C11F104620DDCE
-Any _GET_LOOTING_FLAG(Ped ped,int lootFlag);
+Any _GET_LOOTING_FLAG(Ped ped, int lootFlag);
 ```
 
 lootFlag: see SET_LOOTING_FLAG

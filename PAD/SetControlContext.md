@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2804658EB7D8A50B
-void _SET_CONTROL_CONTEXT(int control,Hash context);
+void _SET_CONTROL_CONTEXT(int control, Hash context);
 ```
 
 Sets the current control context. Must be called every frame.

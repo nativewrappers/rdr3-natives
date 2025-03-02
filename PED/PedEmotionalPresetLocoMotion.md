@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAAB050DA48B57978
-void _PED_EMOTIONAL_PRESET_LOCO_MOTION(Ped ped,char* presetName,Ped targetPed,int duration,int flag);
+void _PED_EMOTIONAL_PRESET_LOCO_MOTION(Ped ped, char* presetName, Ped targetPed, int duration, int flag);
 ```
 
 target: 0 affects everyone

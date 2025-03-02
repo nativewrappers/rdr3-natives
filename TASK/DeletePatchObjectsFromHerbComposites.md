@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5758B1EE0C3FD4AC
-void _DELETE_PATCH_OBJECTS_FROM_HERB_COMPOSITES(int compositeId,BOOL p1);
+void _DELETE_PATCH_OBJECTS_FROM_HERB_COMPOSITES(int compositeId, BOOL p1);
 ```
 
 Params: p1 is always false except in script nb_egg_protector

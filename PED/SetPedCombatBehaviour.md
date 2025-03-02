@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9238A3D970BBB0A9
-void _SET_PED_COMBAT_BEHAVIOUR(Ped ped,Hash behaviour);
+void _SET_PED_COMBAT_BEHAVIOUR(Ped ped, Hash behaviour);
 ```
 
 

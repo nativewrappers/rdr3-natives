@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x04DAC3929796EB87
-Any CHAL_IS_GOAL_ACTIVE(Hash chalHash,Hash goalHash);
+Any CHAL_IS_GOAL_ACTIVE(Hash chalHash, Hash goalHash);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS/challenge_goals.lua

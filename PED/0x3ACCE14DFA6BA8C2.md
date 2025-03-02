@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3ACCE14DFA6BA8C2
-int _0x3ACCE14DFA6BA8C2(Ped ped,int p1,float x,float y,float z,float p5,ItemSet itemset);
+int _0x3ACCE14DFA6BA8C2(Ped ped, int p1, float x, float y, float z, float p5, ItemSet itemset);
 ```
 
 Used in R* Script net_fetch (NET_FETCH_UPDATE_RECIPIENT_PROP_ILO_IN_COMBAT) and various SP Scripts

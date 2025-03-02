@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0B7CB1300CBFE19C
-BOOL _IS_ENTITY_PLAYING_ANY_ANIM(Entity entity,int p1);
+BOOL _IS_ENTITY_PLAYING_ANY_ANIM(Entity entity, int p1);
 ```
 
 Params: p1 (probably animType) = 1, 0

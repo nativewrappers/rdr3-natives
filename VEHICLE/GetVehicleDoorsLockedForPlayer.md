@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xFA2CDDFEB8BC898B
-BOOL GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle,Player player);
+BOOL GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle, Player player);
 ```
 
 

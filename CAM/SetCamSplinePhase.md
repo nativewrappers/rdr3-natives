@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xF1898A68E7C15636
-void SET_CAM_SPLINE_PHASE(Cam cam,float p1);
+void SET_CAM_SPLINE_PHASE(Cam cam, float p1);
 ```
 
 

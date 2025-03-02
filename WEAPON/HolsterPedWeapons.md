@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x94A3C1B804D291EC
-void _HOLSTER_PED_WEAPONS(Ped ped,BOOL p1,BOOL p2,BOOL p3,BOOL immediately);
+void _HOLSTER_PED_WEAPONS(Ped ped, BOOL p1, BOOL p2, BOOL p3, BOOL immediately);
 ```
 
 

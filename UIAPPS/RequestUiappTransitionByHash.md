@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7689CD255655BFD7
-Any REQUEST_UIAPP_TRANSITION_BY_HASH(Hash appNameHash,Hash transitionHash);
+Any REQUEST_UIAPP_TRANSITION_BY_HASH(Hash appNameHash, Hash transitionHash);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x121D2005DD64496B
-Any _ITEMDATABASE_FILLOUT_AWARD_ITEM_INFO(Hash award,int index,Hash* outData);
+Any _ITEMDATABASE_FILLOUT_AWARD_ITEM_INFO(Hash award, int index, Hash* outData);
 ```
 
 

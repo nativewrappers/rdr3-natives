@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF3FDA9A617A15145
-void _GET_ENTITY_WORLD_POSITION_OF_DIMENSIONS(Entity entity,Vector3* minimum,Vector3* maximum);
+void _GET_ENTITY_WORLD_POSITION_OF_DIMENSIONS(Entity entity, Vector3* minimum, Vector3* maximum);
 ```
 
 

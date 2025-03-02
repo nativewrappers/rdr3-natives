@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEF5A3D2285D8924B
-void _SET_STAMINA_DEPLETION_MULTIPLIER(Ped ped,int multiplier);
+void _SET_STAMINA_DEPLETION_MULTIPLIER(Ped ped, int multiplier);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x444C910A5058E568
-void FORCE_SCENARIO_GROUP_PRIORITY(Any p0,Any p1);
+void FORCE_SCENARIO_GROUP_PRIORITY(Any p0, Any p1);
 ```
 
 

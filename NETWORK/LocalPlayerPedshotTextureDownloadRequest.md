@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6E2FD8CF7EB10E53
-int _LOCAL_PLAYER_PEDSHOT_TEXTURE_DOWNLOAD_REQUEST(int playerSlot,int personaPhotoLocalCacheType);
+int _LOCAL_PLAYER_PEDSHOT_TEXTURE_DOWNLOAD_REQUEST(int playerSlot, int personaPhotoLocalCacheType);
 ```
 
 

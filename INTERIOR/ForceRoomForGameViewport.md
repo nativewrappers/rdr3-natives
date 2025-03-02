@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x115B4AA8FB28AB43
-void FORCE_ROOM_FOR_GAME_VIEWPORT(int interiorID,Hash roomHashKey);
+void FORCE_ROOM_FOR_GAME_VIEWPORT(int interiorID, Hash roomHashKey);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0E94C95EC3185FA9
-void _CINEMATIC_LOCATION_SET_LOCATION_AND_ROTATION(char* name,float x,float y,float z,float rotX,float rotY,float rotZ);
+void _CINEMATIC_LOCATION_SET_LOCATION_AND_ROTATION(char* name, float x, float y, float z, float rotX, float rotY, float rotZ);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x3C06B8786DD94CD1
-Vector3 GET_PED_DEFENSIVE_AREA_POSITION(Ped ped,BOOL p1);
+Vector3 GET_PED_DEFENSIVE_AREA_POSITION(Ped ped, BOOL p1);
 ```
 
 

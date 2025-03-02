@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB8ECD61F531A7B02
-void TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS_WITH_CRUISE_SPEED(Ped ped,Vector3* gotoCoords,float cruiseSpeed,Entity entity,int p4,int p5,Any p6,Any p7,Any p8,Any p9,Any p10,Any p11,float cruiseSpeed,Any p13,Any p14);
+void TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS_WITH_CRUISE_SPEED(Ped ped, Vector3* gotoCoords, float cruiseSpeed, Entity entity, int p4, int p5, Any p6, Any p7, Any p8, Any p9, Any p10, Any p11, float cruiseSpeed, Any p13, Any p14);
 ```
 
 This native allows to control the cruise speed of where you want the ped to go

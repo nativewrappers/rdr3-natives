@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD05590C1AB38F068
-int _UI_FEED_POST_LOCATION_SHARD(Any* duration,Any* data,BOOL p2,BOOL p3);
+int _UI_FEED_POST_LOCATION_SHARD(Any* duration, Any* data, BOOL p2, BOOL p3);
 ```
 
 Example : https://pastebin.com/h1YzycuR

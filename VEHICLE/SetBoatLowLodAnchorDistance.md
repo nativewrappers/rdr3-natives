@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE3261532550D6A9F
-void SET_BOAT_LOW_LOD_ANCHOR_DISTANCE(Vehicle vehicle,float value);
+void SET_BOAT_LOW_LOD_ANCHOR_DISTANCE(Vehicle vehicle, float value);
 ```
 
 Value: mostly 99999.9f

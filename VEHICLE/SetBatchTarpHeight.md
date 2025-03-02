@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x31F343383F19C987
-void _SET_BATCH_TARP_HEIGHT(Vehicle vehicle,float height,BOOL immediately);
+void _SET_BATCH_TARP_HEIGHT(Vehicle vehicle, float height, BOOL immediately);
 ```
 
 Total height is calculated using: cargo ratio + pelt ratio (by pelt count)

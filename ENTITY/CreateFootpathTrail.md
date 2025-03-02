@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x29BA9F78321E5A6C
-Any _CREATE_FOOTPATH_TRAIL(Any p0,char* waypointRecord,BOOL bUseSnowOffset,float p3,float p4,Any p5,Any p6,Any p7,Any p8,Any p9,Any p10,BOOL bInit);
+Any _CREATE_FOOTPATH_TRAIL(Any p0, char* waypointRecord, BOOL bUseSnowOffset, float p3, float p4, Any p5, Any p6, Any p7, Any p8, Any p9, Any p10, BOOL bInit);
 ```
 
 

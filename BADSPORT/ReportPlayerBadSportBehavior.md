@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC31C44C43B48FDE3
-void _REPORT_PLAYER_BAD_SPORT_BEHAVIOR(Any* gamerHandle,int badSportBehaviorType);
+void _REPORT_PLAYER_BAD_SPORT_BEHAVIOR(Any* gamerHandle, int badSportBehaviorType);
 ```
 
 ```

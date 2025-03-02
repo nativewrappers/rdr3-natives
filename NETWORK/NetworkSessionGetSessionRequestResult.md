@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0DD051B1BF4B8BD6
-int _NETWORK_SESSION_GET_SESSION_REQUEST_RESULT(Any* sessionRequestId,int* p1);
+int _NETWORK_SESSION_GET_SESSION_REQUEST_RESULT(Any* sessionRequestId, int* p1);
 ```
 
 Returns result of session request:

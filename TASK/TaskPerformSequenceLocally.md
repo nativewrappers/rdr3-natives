@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4FC0AF869D6E309D
-void TASK_PERFORM_SEQUENCE_LOCALLY(Any p0,Any p1,Any p2,Any p3);
+void TASK_PERFORM_SEQUENCE_LOCALLY(Any p0, Any p1, Any p2, Any p3);
 ```
 
 Old name: _TASK_PERFORM_SEQUENCE_2

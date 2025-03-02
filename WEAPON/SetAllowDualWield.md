@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x83B8D50EB9446BBA
-void _SET_ALLOW_DUAL_WIELD(Ped ped,BOOL allow);
+void _SET_ALLOW_DUAL_WIELD(Ped ped, BOOL allow);
 ```
 
 

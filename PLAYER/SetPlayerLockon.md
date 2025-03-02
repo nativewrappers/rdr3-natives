@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x462AA1973CBBA75E
-void SET_PLAYER_LOCKON(Player player,BOOL toggle);
+void SET_PLAYER_LOCKON(Player player, BOOL toggle);
 ```
 
 

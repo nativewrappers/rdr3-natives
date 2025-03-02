@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB629A43CA1643481
-void ATTACH_ENTITY_TO_ENTITY_PHYSICALLY(Entity entity1,Entity entity2,int p2,int boneIndex,float offsetX,float offsetY,float offsetZ,float p7,float p8,float p9,float p10,float p11,float p12,float p13,BOOL p14,BOOL p15,BOOL p16,BOOL p17,int p18,BOOL p19,float p20,float p21);
+void ATTACH_ENTITY_TO_ENTITY_PHYSICALLY(Entity entity1, Entity entity2, int p2, int boneIndex, float offsetX, float offsetY, float offsetZ, float p7, float p8, float p9, float p10, float p11, float p12, float p13, BOOL p14, BOOL p15, BOOL p16, BOOL p17, int p18, BOOL p19, float p20, float p21);
 ```
 
 

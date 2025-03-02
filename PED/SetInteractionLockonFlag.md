@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFECA2081F61ED2CD
-void _SET_INTERACTION_LOCKON_FLAG(Ped ped,Player player,int flag,BOOL enable);
+void _SET_INTERACTION_LOCKON_FLAG(Ped ped, Player player, int flag, BOOL enable);
 ```
 
 

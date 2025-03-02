@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE33F98BD76490ABC
-Any _GET_IS_PED_BEING_ROBBED(Ped ped,Player player,BOOL trueUntilPlayerPocketsItem);
+Any _GET_IS_PED_BEING_ROBBED(Ped ped, Player player, BOOL trueUntilPlayerPocketsItem);
 ```
 
 If p2 is false, then this native will return true until the interaction is complete. If true, the native will return true until player pockets robbery item.

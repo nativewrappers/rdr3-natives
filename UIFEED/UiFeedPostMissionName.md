@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2024F4F333095FB1
-int _UI_FEED_POST_MISSION_NAME(Any* p0,Any* p1,BOOL p2);
+int _UI_FEED_POST_MISSION_NAME(Any* p0, Any* p1, BOOL p2);
 ```
 
 

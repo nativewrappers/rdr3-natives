@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFE7966DF01452F32
-void _SET_CLOUD_NOISE(float x,float y,float z);
+void _SET_CLOUD_NOISE(float x, float y, float z);
 ```
 
 

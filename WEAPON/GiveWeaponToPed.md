@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5E3BDDBCB83F3D84
-Hash GIVE_WEAPON_TO_PED(Ped ped,Hash weaponHash,int ammoCount,BOOL bForceInHand,BOOL bForceInHolster,int attachPoint,BOOL bAllowMultipleCopies,float p7,float p8,Hash addReason,BOOL bIgnoreUnlocks,float permanentDegradation,BOOL p12);
+Hash GIVE_WEAPON_TO_PED(Ped ped, Hash weaponHash, int ammoCount, BOOL bForceInHand, BOOL bForceInHolster, int attachPoint, BOOL bAllowMultipleCopies, float p7, float p8, Hash addReason, BOOL bIgnoreUnlocks, float permanentDegradation, BOOL p12);
 ```
 
 Gives the ped the weapon.

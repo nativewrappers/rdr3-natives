@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA31DAFCDC33775E9
-Any SC_PRESENCE_ATTR_SET_FLOAT(Hash attrHash,float value);
+Any SC_PRESENCE_ATTR_SET_FLOAT(Hash attrHash, float value);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2A32FAA57B937173
-void DRAW_MARKER(Hash type,float posX,float posY,float posZ,float dirX,float dirY,float dirZ,float rotX,float rotY,float rotZ,float scaleX,float scaleY,float scaleZ,int red,int green,int blue,int alpha,BOOL bobUpAndDown,BOOL faceCamera,int p19,BOOL rotate,char* textureDict,char* textureName,BOOL drawOnEnts);
+void DRAW_MARKER(Hash type, float posX, float posY, float posZ, float dirX, float dirY, float dirZ, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ, int red, int green, int blue, int alpha, BOOL bobUpAndDown, BOOL faceCamera, int p19, BOOL rotate, char* textureDict, char* textureName, BOOL drawOnEnts);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/graphics/markers/marker_types.lua

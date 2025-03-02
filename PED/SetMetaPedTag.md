@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBC6DF00D7A4A6819
-void _SET_META_PED_TAG(Ped ped,Hash drawable,Hash albedo,Hash normal,Hash material,Hash palette,int tint0,int tint1,int tint2);
+void _SET_META_PED_TAG(Ped ped, Hash drawable, Hash albedo, Hash normal, Hash material, Hash palette, int tint0, int tint1, int tint2);
 ```
 
 Use to apply metaped player components

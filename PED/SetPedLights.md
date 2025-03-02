@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x13A210949FCBD92B
-void _SET_PED_LIGHTS(Ped ped,BOOL toggle);
+void _SET_PED_LIGHTS(Ped ped, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA19447D83294E29F
-Any GET_DRAFT_ANIMAL_COUNT(Vehicle vehicle,int* expected,int* actual);
+Any GET_DRAFT_ANIMAL_COUNT(Vehicle vehicle, int* expected, int* actual);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB5ACE8B23A438EC0
-void FIND_ALL_ATTACHED_CARRIABLE_ENTITIES(Ped ped,ItemSet itemset);
+void FIND_ALL_ATTACHED_CARRIABLE_ENTITIES(Ped ped, ItemSet itemset);
 ```
 
 

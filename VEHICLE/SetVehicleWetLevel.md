@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5AABB09F6FBD1F87
-void _SET_VEHICLE_WET_LEVEL(Vehicle vehicle,float wetLevel);
+void _SET_VEHICLE_WET_LEVEL(Vehicle vehicle, float wetLevel);
 ```
 
 wetLevel: 0.0 - 1.0

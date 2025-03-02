@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xCF9DA72002FC16BF
-void _REQUEST_VEHICLE_ASSET_ANIMS(Ped ped,Entity entity,int vehicleAsset);
+void _REQUEST_VEHICLE_ASSET_ANIMS(Ped ped, Entity entity, int vehicleAsset);
 ```
 
 

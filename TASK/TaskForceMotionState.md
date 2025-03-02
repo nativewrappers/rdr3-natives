@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4F056E1AFFEF17AB
-void TASK_FORCE_MOTION_STATE(Ped ped,Hash motionStateHash,BOOL p2);
+void TASK_FORCE_MOTION_STATE(Ped ped, Hash motionStateHash, BOOL p2);
 ```
 
 motionStateHash: see FORCE_PED_MOTION_STATE

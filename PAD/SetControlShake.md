@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x48B3886C1358D0D5
-void SET_CONTROL_SHAKE(int control,int duration,int frequency);
+void SET_CONTROL_SHAKE(int control, int duration, int frequency);
 ```
 
 Old name: SET_PAD_SHAKE

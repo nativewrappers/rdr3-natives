@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x76BAD9D538BCA1AA
-void _0x76BAD9D538BCA1AA(int ropeId,float p1);
+void _0x76BAD9D538BCA1AA(int ropeId, float p1);
 ```
 
 

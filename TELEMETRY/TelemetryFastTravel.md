@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7CEF4AC79F7E7FAD
-void _TELEMETRY_FAST_TRAVEL(Any p0,Any p1,Any p2,Any p3,Any p4);
+void _TELEMETRY_FAST_TRAVEL(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 

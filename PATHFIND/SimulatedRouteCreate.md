@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFD5BB35AAB83FD48
-Any _SIMULATED_ROUTE_CREATE(float x1,float y1,float z1,float x2,float y2,float z2,int p6);
+Any _SIMULATED_ROUTE_CREATE(float x1, float y1, float z1, float x2, float y2, float z2, int p6);
 ```
 
 

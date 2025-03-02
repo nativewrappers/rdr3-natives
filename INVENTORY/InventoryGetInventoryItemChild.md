@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCD9A485F2B383B44
-Any _INVENTORY_GET_INVENTORY_ITEM_CHILD(int inventoryId,Any* parentGuid,Any childIndex,Any* outInventoryItem);
+Any _INVENTORY_GET_INVENTORY_ITEM_CHILD(int inventoryId, Any* parentGuid, Any childIndex, Any* outInventoryItem);
 ```
 
 

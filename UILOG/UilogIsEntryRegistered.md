@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB8188CCF52202475
-Any _UILOG_IS_ENTRY_REGISTERED(int p0,Hash p1);
+Any _UILOG_IS_ENTRY_REGISTERED(int p0, Hash p1);
 ```
 
 

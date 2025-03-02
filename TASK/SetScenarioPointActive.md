@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEEE4829304F93EEE
-void _SET_SCENARIO_POINT_ACTIVE(int scenario,BOOL active);
+void _SET_SCENARIO_POINT_ACTIVE(int scenario, BOOL active);
 ```
 
 

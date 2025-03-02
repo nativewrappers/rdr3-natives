@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0EB78C2B156635B1
-Volume _CREATE_ANTI_GRIEF_VOLUME(Hash volumeType,float x,float y,float z,float rotX,float rotY,float rotZ,float scaleX,float scaleY,float scaleZ);
+Volume _CREATE_ANTI_GRIEF_VOLUME(Hash volumeType, float x, float y, float z, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ);
 ```
 
 

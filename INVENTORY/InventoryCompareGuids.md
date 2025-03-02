@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4C543D5DFCD2DAFD
-Any _INVENTORY_COMPARE_GUIDS(Any* guid1,Any* guid2);
+Any _INVENTORY_COMPARE_GUIDS(Any* guid1, Any* guid2);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE41885592B08B097
-void TASK_VEHICLE_AIM_AT_PED(Ped ped,Ped target);
+void TASK_VEHICLE_AIM_AT_PED(Ped ped, Ped target);
 ```
 
 

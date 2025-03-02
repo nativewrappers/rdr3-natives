@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x7A54D82227A139DB
-void _ROPE_CHANGE_VISIBILITY(int* ropeId,BOOL visible);
+void _ROPE_CHANGE_VISIBILITY(int* ropeId, BOOL visible);
 ```
 
 

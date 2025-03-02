@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBC9AE166038A5CEC
-void PLAY_PAIN(Ped ped,int painId,float p2,BOOL p3,BOOL isNetwork);
+void PLAY_PAIN(Ped ped, int painId, float p2, BOOL p3, BOOL isNetwork);
 ```
 
 Valid pain IDs: 0..12  these names are not official, but here is a list of the IDs:

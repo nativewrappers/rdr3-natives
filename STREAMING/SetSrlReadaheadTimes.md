@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD346248C1DCE0D76
-void SET_SRL_READAHEAD_TIMES(int p0,int p1,int p2,int p3);
+void SET_SRL_READAHEAD_TIMES(int p0, int p1, int p2, int p3);
 ```
 
 

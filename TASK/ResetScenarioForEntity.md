@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2E20878FD208A68E
-void _RESET_SCENARIO_FOR_ENTITY(int scenario,Entity entity);
+void _RESET_SCENARIO_FOR_ENTITY(int scenario, Entity entity);
 ```
 
 

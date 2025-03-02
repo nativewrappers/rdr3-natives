@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5708EDD71B50C008
-void _SET_PLAYER_ANTAGONIZE_DISABLED_FOR_PED(Ped ped,Player player,int duration);
+void _SET_PLAYER_ANTAGONIZE_DISABLED_FOR_PED(Ped ped, Player player, int duration);
 ```
 
 

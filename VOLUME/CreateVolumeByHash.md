@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x502022FA1AF9DC86
-Volume _CREATE_VOLUME_BY_HASH(Hash volumeType,float x,float y,float z,float rotX,float rotY,float rotZ,float scaleX,float scaleY,float scaleZ);
+Volume _CREATE_VOLUME_BY_HASH(Hash volumeType, float x, float y, float z, float rotX, float rotY, float rotZ, float scaleX, float scaleY, float scaleZ);
 ```
 
 

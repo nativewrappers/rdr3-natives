@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD5910ECF81A2278C
-void _STATSTRACKER_DEED_STATUS(int deedType,Hash deedHash,int missionStatus,Any* data);
+void _STATSTRACKER_DEED_STATUS(int deedType, Hash deedHash, int missionStatus, Any* data);
 ```
 
 

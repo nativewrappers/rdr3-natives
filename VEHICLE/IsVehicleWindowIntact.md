@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x0E7910A63E05B12C
-BOOL IS_VEHICLE_WINDOW_INTACT(Vehicle vehicle,int windowIndex);
+BOOL IS_VEHICLE_WINDOW_INTACT(Vehicle vehicle, int windowIndex);
 ```
 
 

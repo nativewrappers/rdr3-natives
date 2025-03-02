@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0C718001B77CA468
-void _UI_PROMPT_CONTEXT_SET_RADIUS(Prompt prompt,float radius);
+void _UI_PROMPT_CONTEXT_SET_RADIUS(Prompt prompt, float radius);
 ```
 
 

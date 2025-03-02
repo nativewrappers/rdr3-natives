@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x21442F412E8DE56B
-void PLAY_STREAM_FROM_POSITION(float x,float y,float z,int streamId);
+void PLAY_STREAM_FROM_POSITION(float x, float y, float z, int streamId);
 ```
 
 

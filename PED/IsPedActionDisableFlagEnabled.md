@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB346C85D49CC998E
-Any _IS_PED_ACTION_DISABLE_FLAG_ENABLED(Ped ped,int actionDisableFlag);
+Any _IS_PED_ACTION_DISABLE_FLAG_ENABLED(Ped ped, int actionDisableFlag);
 ```
 
 

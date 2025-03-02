@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x15D757606D170C3C
-int GET_ENTITY_MAX_HEALTH(Entity entity,BOOL p1);
+int GET_ENTITY_MAX_HEALTH(Entity entity, BOOL p1);
 ```
 
 

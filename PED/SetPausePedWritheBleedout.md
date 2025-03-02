@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x925A160133003AC6
-void SET_PAUSE_PED_WRITHE_BLEEDOUT(Ped ped,BOOL toggle);
+void SET_PAUSE_PED_WRITHE_BLEEDOUT(Ped ped, BOOL toggle);
 ```
 
 

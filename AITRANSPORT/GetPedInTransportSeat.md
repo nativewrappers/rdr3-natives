@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFFEC4B0A1A3ED515
-Ped _GET_PED_IN_TRANSPORT_SEAT(Entity transportEntity,int seatIndex);
+Ped _GET_PED_IN_TRANSPORT_SEAT(Entity transportEntity, int seatIndex);
 ```
 
 seatIndex: see CREATE_PED_INSIDE_VEHICLE

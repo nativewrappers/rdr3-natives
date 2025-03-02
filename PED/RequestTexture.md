@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC5E7204F322E49EB
-int _REQUEST_TEXTURE(Hash albedoHash,Hash normalHash,Hash materialHash);
+int _REQUEST_TEXTURE(Hash albedoHash, Hash normalHash, Hash materialHash);
 ```
 
 Creates a texture override data for ped and returns it's index.

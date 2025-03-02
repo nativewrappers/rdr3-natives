@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC08E804C91F47C80
-int NUM_CRIMES_SUPPRESSED(Player player,Hash crimeType);
+int NUM_CRIMES_SUPPRESSED(Player player, Hash crimeType);
 ```
 
 Returns amount of suppressed crimes to be used later in the function MPINTRO_CRIME_MONITOR_MAINTAIN

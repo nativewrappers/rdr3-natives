@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0552AA3FFC5B87AA
-void BLOCK_PICKUP_PLACEMENT_LIGHT(Pickup pickup,BOOL toggle);
+void BLOCK_PICKUP_PLACEMENT_LIGHT(Pickup pickup, BOOL toggle);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA9C8960E8684C1B5
-void SET_PED_MONEY(Ped ped,int amount);
+void SET_PED_MONEY(Ped ped, int amount);
 ```
 
 

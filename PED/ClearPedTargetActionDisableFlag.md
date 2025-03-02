@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBBF6D1D07C02D00A
-void _CLEAR_PED_TARGET_ACTION_DISABLE_FLAG(Ped ped,int actionDisableFlag);
+void _CLEAR_PED_TARGET_ACTION_DISABLE_FLAG(Ped ped, int actionDisableFlag);
 ```
 
 

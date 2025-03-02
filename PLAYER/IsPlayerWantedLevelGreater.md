@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE1C0AD4C24324C36
-BOOL IS_PLAYER_WANTED_LEVEL_GREATER(Player player,int wantedLevel);
+BOOL IS_PLAYER_WANTED_LEVEL_GREATER(Player player, int wantedLevel);
 ```
 
 

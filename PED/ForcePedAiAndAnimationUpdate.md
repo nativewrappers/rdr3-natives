@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x2208438012482A1A
-void FORCE_PED_AI_AND_ANIMATION_UPDATE(Ped ped,BOOL p1,BOOL p2);
+void FORCE_PED_AI_AND_ANIMATION_UPDATE(Ped ped, BOOL p1, BOOL p2);
 ```
 
 

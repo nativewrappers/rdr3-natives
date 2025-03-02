@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x57DBA049E110F217
-BOOL NETWORK_ARE_HANDLES_THE_SAME(Any* gamerHandle1,Any* gamerHandle2);
+BOOL NETWORK_ARE_HANDLES_THE_SAME(Any* gamerHandle1, Any* gamerHandle2);
 ```
 
 

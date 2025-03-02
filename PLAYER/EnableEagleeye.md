@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA63FCAD3A6FEC6D2
-void _ENABLE_EAGLEEYE(Player player,BOOL enable);
+void _ENABLE_EAGLEEYE(Player player, BOOL enable);
 ```
 
 (Un)lock Eagle Eye functionality

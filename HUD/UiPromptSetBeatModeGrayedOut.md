@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB487A4936FBF40AC
-void _UI_PROMPT_SET_BEAT_MODE_GRAYED_OUT(Prompt prompt,Any p1);
+void _UI_PROMPT_SET_BEAT_MODE_GRAYED_OUT(Prompt prompt, Any p1);
 ```
 
 

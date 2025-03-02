@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB8BA7F44DF1575E1
-int START_NEW_SCRIPT_WITH_ARGS(char* scriptName,Any* args,int argCount,int stackSize);
+int START_NEW_SCRIPT_WITH_ARGS(char* scriptName, Any* args, int argCount, int stackSize);
 ```
 
 return : script thread id, 0 if failed

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7263332501E07F52
-BOOL SET_VEHICLE_ON_GROUND_PROPERLY(Vehicle vehicle,BOOL p1);
+BOOL SET_VEHICLE_ON_GROUND_PROPERLY(Vehicle vehicle, BOOL p1);
 ```
 
 

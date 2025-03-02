@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xCFB06801F5099B25
-Any _ITEMDATABASE_GET_SHOP_INVENTORIES_ITEM_INFO_BY_KEY(Hash shopType,Hash key,Any* outData);
+Any _ITEMDATABASE_GET_SHOP_INVENTORIES_ITEM_INFO_BY_KEY(Hash shopType, Hash key, Any* outData);
 ```
 
 Same Native Function as 0x17721003A66C72BF

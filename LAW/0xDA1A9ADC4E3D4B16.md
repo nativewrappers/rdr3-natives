@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xDA1A9ADC4E3D4B16
-void _0xDA1A9ADC4E3D4B16(ItemSet itemSet,BOOL p1,BOOL p2);
+void _0xDA1A9ADC4E3D4B16(ItemSet itemSet, BOOL p1, BOOL p2);
 ```
 
 Only used in R* SP Scripts

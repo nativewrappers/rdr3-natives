@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x408D1149C5E39C1E
-void _REMOVE_HERD_PED(Entity herd,Ped ped);
+void _REMOVE_HERD_PED(Entity herd, Ped ped);
 ```
 
 Remove the ped from a herd.

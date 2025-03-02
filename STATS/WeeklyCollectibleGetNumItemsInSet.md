@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7D675C9DDDB365BE
-int WEEKLY_COLLECTIBLE_GET_NUM_ITEMS_IN_SET(Hash chalHash,int index);
+int WEEKLY_COLLECTIBLE_GET_NUM_ITEMS_IN_SET(Hash chalHash, int index);
 ```
 
 

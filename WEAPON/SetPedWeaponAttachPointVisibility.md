@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x67E21ACC5C0C970C
-void _SET_PED_WEAPON_ATTACH_POINT_VISIBILITY(Ped ped,int attachPoint,BOOL visible);
+void _SET_PED_WEAPON_ATTACH_POINT_VISIBILITY(Ped ped, int attachPoint, BOOL visible);
 ```
 
 attachPoint: see SET_CURRENT_PED_WEAPON

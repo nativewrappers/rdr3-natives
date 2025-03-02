@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xB2DE3AEBE31150E2
-Any SET_IS_SCRIPTED_SPEECH_DISABLED(Ped ped,BOOL disabled);
+Any SET_IS_SCRIPTED_SPEECH_DISABLED(Ped ped, BOOL disabled);
 ```
 
 

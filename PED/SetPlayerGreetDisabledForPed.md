@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x19173C3F15367B54
-void _SET_PLAYER_GREET_DISABLED_FOR_PED(Ped ped,Player player,int duration);
+void _SET_PLAYER_GREET_DISABLED_FOR_PED(Ped ped, Player player, int duration);
 ```
 
 

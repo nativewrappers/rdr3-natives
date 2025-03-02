@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA3EE4A07279BB9DB
-BOOL IS_PED_IN_VEHICLE(Ped ped,Vehicle vehicle,BOOL atGetIn);
+BOOL IS_PED_IN_VEHICLE(Ped ped, Vehicle vehicle, BOOL atGetIn);
 ```
 
 Gets a value indicating whether the specified ped is in the specified vehicle.

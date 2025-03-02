@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x92DB0739813C5186
-void TASK_MOUNT_ANIMAL(Ped ped,Ped mount,int timer,int seatIndex,float pedSpeed,int mountStyle,Any p6,Any p7);
+void TASK_MOUNT_ANIMAL(Ped ped, Ped mount, int timer, int seatIndex, float pedSpeed, int mountStyle, Any p6, Any p7);
 ```
 
 timer: in ms, if it reaches 0 it will auto warp the ped on the horse

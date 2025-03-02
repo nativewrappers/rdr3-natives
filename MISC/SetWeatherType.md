@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x59174F1AFE095B5A
-void SET_WEATHER_TYPE(Hash weatherType,BOOL p1,BOOL p2,BOOL transition,float transitionTime,BOOL p5);
+void SET_WEATHER_TYPE(Hash weatherType, BOOL p1, BOOL p2, BOOL transition, float transitionTime, BOOL p5);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/weather/weather_types.lua

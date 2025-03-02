@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0CADC3A977997472
-Entity _FORCE_SPAWN_PERSCHAR(PersChar persChar,BOOL p1);
+Entity _FORCE_SPAWN_PERSCHAR(PersChar persChar, BOOL p1);
 ```
 
 

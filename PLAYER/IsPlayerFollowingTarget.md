@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE24C64D9ADED2EF5
-Any _IS_PLAYER_FOLLOWING_TARGET(Player player,Ped ped);
+Any _IS_PLAYER_FOLLOWING_TARGET(Player player, Ped ped);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x1607C7D9B3021DF5
-void SET_PICKUP_PARTICLE_FX_HIGHLIGHT(Any p0,Any p1);
+void SET_PICKUP_PARTICLE_FX_HIGHLIGHT(Any p0, Any p1);
 ```
 
 

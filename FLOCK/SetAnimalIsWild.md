@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xAEB97D84CDF3C00B
-void _SET_ANIMAL_IS_WILD(Ped ped,BOOL toggle);
+void _SET_ANIMAL_IS_WILD(Ped ped, BOOL toggle);
 ```
 
 

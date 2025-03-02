@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3743CE6948194349
-void _SET_AMBIENT_ZONE_POSITION(char* ambientZone,float x,float y,float z,float heading);
+void _SET_AMBIENT_ZONE_POSITION(char* ambientZone, float x, float y, float z, float heading);
 ```
 
 

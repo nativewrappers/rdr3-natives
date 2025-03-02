@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xC7FE774412046825
-void SET_PLAYER_CAN_BE_HASSLED_BY_GANGS(Player player,BOOL toggle);
+void SET_PLAYER_CAN_BE_HASSLED_BY_GANGS(Player player, BOOL toggle);
 ```
 
 Sets whether this player can be hassled by gangs.

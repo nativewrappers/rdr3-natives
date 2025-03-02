@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x4C6F2C4B7A03A266
-Any UI_STATE_MACHINE_CREATE(Any p0,Any p1);
+Any UI_STATE_MACHINE_CREATE(Any p0, Any p1);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x563FCB6620523917
-void _MAP_ENABLE_REGION_BLIP(Hash regionHash,Hash styleHash);
+void _MAP_ENABLE_REGION_BLIP(Hash regionHash, Hash styleHash);
 ```
 
 regionHash: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/wanted_regions

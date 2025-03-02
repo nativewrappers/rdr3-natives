@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x867654CBC7606F2C
-void SHOOT_SINGLE_BULLET_BETWEEN_COORDS(float x1,float y1,float z1,float x2,float y2,float z2,int damage,BOOL p7,Hash weaponHash,Ped ownerPed,BOOL isAudible,BOOL isInvisible,float speed,BOOL p13);
+void SHOOT_SINGLE_BULLET_BETWEEN_COORDS(float x1, float y1, float z1, float x2, float y2, float z2, int damage, BOOL p7, Hash weaponHash, Ped ownerPed, BOOL isAudible, BOOL isInvisible, float speed, BOOL p13);
 ```
 
 

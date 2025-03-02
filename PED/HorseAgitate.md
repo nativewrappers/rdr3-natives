@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xBAE08F00021BFFB2
-void _HORSE_AGITATE(Ped mount,BOOL kickOffRider);
+void _HORSE_AGITATE(Ped mount, BOOL kickOffRider);
 ```
 
 _H* - _I*

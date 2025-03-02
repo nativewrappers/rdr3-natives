@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x33992A808DF1C1BA
-void SET_VEHICLE_RESPECTS_LOCKS_WHEN_HAS_DRIVER(Vehicle vehicle,BOOL p1);
+void SET_VEHICLE_RESPECTS_LOCKS_WHEN_HAS_DRIVER(Vehicle vehicle, BOOL p1);
 ```
 
 

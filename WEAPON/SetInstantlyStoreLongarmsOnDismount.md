@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xB832F1A686B9B810
-void _SET_INSTANTLY_STORE_LONGARMS_ON_DISMOUNT(Ped ped,BOOL storeLongarms,int p2);
+void _SET_INSTANTLY_STORE_LONGARMS_ON_DISMOUNT(Ped ped, BOOL storeLongarms, int p2);
 ```
 
 Stores longarms to your horse on dismount

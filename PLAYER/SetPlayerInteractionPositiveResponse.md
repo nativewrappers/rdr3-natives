@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC6366A585659D15C
-void _SET_PLAYER_INTERACTION_POSITIVE_RESPONSE(Player player,char* speech);
+void _SET_PLAYER_INTERACTION_POSITIVE_RESPONSE(Player player, char* speech);
 ```
 
 

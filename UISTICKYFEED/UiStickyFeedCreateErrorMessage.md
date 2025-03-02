@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x9F2CC2439A04E7BA
-int _UI_STICKY_FEED_CREATE_ERROR_MESSAGE(Any* p0,Any* p1,BOOL p2);
+int _UI_STICKY_FEED_CREATE_ERROR_MESSAGE(Any* p0, Any* p1, BOOL p2);
 ```
 
 Example: https://pastebin.com/EJD7ytnz

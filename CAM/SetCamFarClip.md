@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5E32817BF6302111
-void SET_CAM_FAR_CLIP(Cam cam,float farClip);
+void SET_CAM_FAR_CLIP(Cam cam, float farClip);
 ```
 
 

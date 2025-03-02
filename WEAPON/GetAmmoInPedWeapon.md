@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x015A522136D7F951
-int GET_AMMO_IN_PED_WEAPON(Ped ped,Hash weaponHash);
+int GET_AMMO_IN_PED_WEAPON(Ped ped, Hash weaponHash);
 ```
 
 

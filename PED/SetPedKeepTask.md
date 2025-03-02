@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x971D38760FBC02EF
-void SET_PED_KEEP_TASK(Ped ped,BOOL toggle);
+void SET_PED_KEEP_TASK(Ped ped, BOOL toggle);
 ```
 
 

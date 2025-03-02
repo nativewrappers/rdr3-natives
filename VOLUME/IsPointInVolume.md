@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF256A75210C5C0EB
-Any IS_POINT_IN_VOLUME(Volume volume,float x,float y,float z);
+Any IS_POINT_IN_VOLUME(Volume volume, float x, float y, float z);
 ```
 
 Old name: _IS_POSITION_INSIDE_VOLUME

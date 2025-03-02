@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x99D40C5D74BC88E9
-void _TELEMETRY_ROLE_MOONSHINER(Any p0,Any transactionId);
+void _TELEMETRY_ROLE_MOONSHINER(Any p0, Any transactionId);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1BDB56DB258F052D
-Any SC_COMMUNITY_EVENT_GET_EXTRA_DATA_FLOAT_FOR_TYPE(char* p0,float* p1,char* p2);
+Any SC_COMMUNITY_EVENT_GET_EXTRA_DATA_FLOAT_FOR_TYPE(char* p0, float* p1, char* p2);
 ```
 
 

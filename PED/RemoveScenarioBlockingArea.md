@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x31D16B74C6E29D66
-void REMOVE_SCENARIO_BLOCKING_AREA(Any p0,BOOL p1);
+void REMOVE_SCENARIO_BLOCKING_AREA(Any p0, BOOL p1);
 ```
 
 

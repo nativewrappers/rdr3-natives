@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5154228273ADB9A6
-Any _DATABINDING_ADD_DATA_FLOAT(Any p0,char* p1,float p2);
+Any _DATABINDING_ADD_DATA_FLOAT(Any p0, char* p1, float p2);
 ```
 
 

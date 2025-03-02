@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x3CE932E737C145D6
-void _UI_PROMPT_SET_HOLD_AUTO_FILL_MODE(Prompt prompt,int autoFillTimeMs,int holdTimeMs);
+void _UI_PROMPT_SET_HOLD_AUTO_FILL_MODE(Prompt prompt, int autoFillTimeMs, int holdTimeMs);
 ```
 
 

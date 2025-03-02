@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x640F890C3E5A3FFD
-int _INVENTORY_CREATE_ITEM_COLLECTION_WITH_FILTER(int inventoryId,Any* filter,int* numInCollection);
+int _INVENTORY_CREATE_ITEM_COLLECTION_WITH_FILTER(int inventoryId, Any* filter, int* numInCollection);
 ```
 
 

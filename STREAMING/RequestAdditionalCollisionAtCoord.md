@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x83A8D71650D1894F
-void REQUEST_ADDITIONAL_COLLISION_AT_COORD(float x,float y,float z);
+void REQUEST_ADDITIONAL_COLLISION_AT_COORD(float x, float y, float z);
 ```
 
 

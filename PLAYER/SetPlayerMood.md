@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x39BED552DB46FFA9
-void _SET_PLAYER_MOOD(Player player,int mood);
+void _SET_PLAYER_MOOD(Player player, int mood);
 ```
 
 mood: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedMood

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x35D302397E524939
-Vector3 _GET_CHECKPOINT_TRAIN_SPAWN_LOCATION(int trackIndex,float x,float y,float z,float distance,BOOL direction);
+Vector3 _GET_CHECKPOINT_TRAIN_SPAWN_LOCATION(int trackIndex, float x, float y, float z, float distance, BOOL direction);
 ```
 
 

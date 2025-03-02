@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x947E43F544B6AB34
-BOOL _HAS_PED_INTERACTED_WITH_PLAYER_RECENTLY(Ped ped,Player player,int flag,int ms);
+BOOL _HAS_PED_INTERACTED_WITH_PLAYER_RECENTLY(Ped ped, Player player, int flag, int ms);
 ```
 
 Returns whether a ped has interacted with a player recently.

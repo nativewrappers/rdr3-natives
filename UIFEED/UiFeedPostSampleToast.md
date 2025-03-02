@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x26E87218390E6729
-int _UI_FEED_POST_SAMPLE_TOAST(Any* p0,Any* p1,BOOL p2,BOOL p3);
+int _UI_FEED_POST_SAMPLE_TOAST(Any* p0, Any* p1, BOOL p2, BOOL p3);
 ```
 
 Example : https://pastebin.com/YZMBkAmW

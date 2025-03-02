@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x69684D9936958D8F
-void _UILOG_SET_ENTRY_BRIEF_TEXTURE(int p0,Hash p1,Hash texture,Hash textureDictionary);
+void _UILOG_SET_ENTRY_BRIEF_TEXTURE(int p0, Hash p1, Hash texture, Hash textureDictionary);
 ```
 
 

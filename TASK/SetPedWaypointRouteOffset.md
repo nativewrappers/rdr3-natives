@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xED98E10B0AFCE4B4
-Any SET_PED_WAYPOINT_ROUTE_OFFSET(Ped ped,float p1,float p2,float p3);
+Any SET_PED_WAYPOINT_ROUTE_OFFSET(Ped ped, float p1, float p2, float p3);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xE143FA2249364369
-Object GET_CLOSEST_OBJECT_OF_TYPE(float x,float y,float z,float radius,Hash modelHash,BOOL missionScriptObject,BOOL scriptHostObject,BOOL networkObject);
+Object GET_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z, float radius, Hash modelHash, BOOL missionScriptObject, BOOL scriptHostObject, BOOL networkObject);
 ```
 
 this native is broken it makes the local objects you check to be networked??

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x34630A768925B852
-void SET_EVERYONE_IGNORE_PLAYER(Player player,BOOL toggle);
+void SET_EVERYONE_IGNORE_PLAYER(Player player, BOOL toggle);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x8BA83CC4288CD56D
-void _SET_PED_BRAWLING_STYLE(Ped ped,Hash brawlingStyle);
+void _SET_PED_BRAWLING_STYLE(Ped ped, Hash brawlingStyle);
 ```
 
 brawlingStyle:

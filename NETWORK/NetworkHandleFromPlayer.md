@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x388EB2B86C73B6B3
-void NETWORK_HANDLE_FROM_PLAYER(Player player,Any* gamerHandle);
+void NETWORK_HANDLE_FROM_PLAYER(Player player, Any* gamerHandle);
 ```
 
 

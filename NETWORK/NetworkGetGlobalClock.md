@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x11A7ADCD629E170F
-BOOL NETWORK_GET_GLOBAL_CLOCK(int* hour,int* minute,int* second);
+BOOL NETWORK_GET_GLOBAL_CLOCK(int* hour, int* minute, int* second);
 ```
 
 

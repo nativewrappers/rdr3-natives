@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x986F7A51EE3E1F92
-void _REACTIVATE_PED_HEADSHOT_EXECUTE_SLOWCAM(Ped ped,int p1);
+void _REACTIVATE_PED_HEADSHOT_EXECUTE_SLOWCAM(Ped ped, int p1);
 ```
 
 Used to enable headshot kill replay when you headshot set ped.

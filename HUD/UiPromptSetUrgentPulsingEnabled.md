@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC5F428EE08FA7F2C
-void _UI_PROMPT_SET_URGENT_PULSING_ENABLED(Prompt prompt,BOOL toggle);
+void _UI_PROMPT_SET_URGENT_PULSING_ENABLED(Prompt prompt, BOOL toggle);
 ```
 
 

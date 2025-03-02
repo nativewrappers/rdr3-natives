@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x69D65E89FFD72313
-void _REQUEST_LETTER_BOX_NOW(BOOL p0,BOOL p1);
+void _REQUEST_LETTER_BOX_NOW(BOOL p0, BOOL p1);
 ```
 
 Creates Cinematic Black Bars (at top and bottom)

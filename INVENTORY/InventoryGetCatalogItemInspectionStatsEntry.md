@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9D21B185ABC2DBC5
-Hash _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY(int entryId,char* name,int unk1,Player playerid);
+Hash _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY(int entryId, char* name, int unk1, Player playerid);
 ```
 
 Returns stats entry id of CatalogItemInspection container

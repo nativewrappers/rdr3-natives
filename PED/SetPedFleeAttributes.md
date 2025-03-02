@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x70A2D1137C8ED7C9
-void SET_PED_FLEE_ATTRIBUTES(Ped ped,int attributeFlags,BOOL enable);
+void SET_PED_FLEE_ATTRIBUTES(Ped ped, int attributeFlags, BOOL enable);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/AI/FLEE_ATTRIBUTES

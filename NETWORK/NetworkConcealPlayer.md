@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBBDF066252829606
-void NETWORK_CONCEAL_PLAYER(Player player,BOOL toggle);
+void NETWORK_CONCEAL_PLAYER(Player player, BOOL toggle);
 ```
 
 

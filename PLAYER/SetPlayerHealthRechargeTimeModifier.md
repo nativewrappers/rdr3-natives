@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x535ED4605F89AB6E
-void _SET_PLAYER_HEALTH_RECHARGE_TIME_MODIFIER(Player player,float modifier);
+void _SET_PLAYER_HEALTH_RECHARGE_TIME_MODIFIER(Player player, float modifier);
 ```
 
 Setting player's Health recharge time to zero forces immediate health regen

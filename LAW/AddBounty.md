@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x0E3BDEED21BEB945
-void ADD_BOUNTY(Player player,int itemValueAmount);
+void ADD_BOUNTY(Player player, int itemValueAmount);
 ```
 
 

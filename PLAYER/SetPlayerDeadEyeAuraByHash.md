@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x768E81AE285A4B67
-void _SET_PLAYER_DEAD_EYE_AURA_BY_HASH(Player player,Hash auraColorHash);
+void _SET_PLAYER_DEAD_EYE_AURA_BY_HASH(Player player, Hash auraColorHash);
 ```
 
 Sets the aura color for entities that the player can target in Deadeye mode, based on a specific hash value. This Native was previously named `SetPlayerStatFlagHash`, but it has been re-evaluated and renamed to better reflect its function in controlling the Deadeye aura color for targeted entities

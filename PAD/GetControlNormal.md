@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xEC3C9B8D5327B563
-float GET_CONTROL_NORMAL(int control,Hash action);
+float GET_CONTROL_NORMAL(int control, Hash action);
 ```
 
 

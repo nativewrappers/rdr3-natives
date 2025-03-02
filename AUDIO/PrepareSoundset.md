@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xD9130842D7226045
-Any PREPARE_SOUNDSET(char* soundsetName,BOOL p1);
+Any PREPARE_SOUNDSET(char* soundsetName, BOOL p1);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/audio/soundsets

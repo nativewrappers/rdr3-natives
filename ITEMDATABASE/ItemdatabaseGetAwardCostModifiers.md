@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE81D0378A384E755
-BOOL _ITEMDATABASE_GET_AWARD_COST_MODIFIERS(Hash award,Any* outData);
+BOOL _ITEMDATABASE_GET_AWARD_COST_MODIFIERS(Hash award, Any* outData);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7FD8F3BE76F89422
-ScrHandle ADD_SHOCKING_EVENT_FOR_ENTITY(Hash eventType,Entity entity,float p2,float p3,float p4,float p5,float p6,float p7,BOOL p8,BOOL p9,int p10,int p11);
+ScrHandle ADD_SHOCKING_EVENT_FOR_ENTITY(Hash eventType, Entity entity, float p2, float p3, float p4, float p5, float p6, float p7, BOOL p8, BOOL p9, int p10, int p11);
 ```
 
 eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt

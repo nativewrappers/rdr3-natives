@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x9FC3CDB5CE815901
-Any GET_INDEXED_SCENARIO_POINT_INDEX_IN_ITEMSET(int index,ItemSet itemset);
+Any GET_INDEXED_SCENARIO_POINT_INDEX_IN_ITEMSET(int index, ItemSet itemset);
 ```
 
 

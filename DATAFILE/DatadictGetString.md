@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE37B38C0B4E95DFA
-char* DATADICT_GET_STRING(Any* objectData,char* key);
+char* DATADICT_GET_STRING(Any* objectData, char* key);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x8DED681B161EBD78
-Any _POKER_CALL(Any p0,Any p1);
+Any _POKER_CALL(Any p0, Any p1);
 ```
 
 

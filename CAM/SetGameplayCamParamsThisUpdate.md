@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x066167C63111D8CF
-void _SET_GAMEPLAY_CAM_PARAMS_THIS_UPDATE(float camSpeed,BOOL enableSlide,float slideOffset,BOOL enableZoom,float zoomOffset);
+void _SET_GAMEPLAY_CAM_PARAMS_THIS_UPDATE(float camSpeed, BOOL enableSlide, float slideOffset, BOOL enableZoom, float zoomOffset);
 ```
 
 Not official name

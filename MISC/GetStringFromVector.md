@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6C4DBF553885F9EB
-char* _GET_STRING_FROM_VECTOR(float x,float y,float z);
+char* _GET_STRING_FROM_VECTOR(float x, float y, float z);
 ```
 
 Returns a string in the following format: <<%.4f,%.4f,%.4f>>

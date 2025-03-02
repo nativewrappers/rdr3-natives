@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE2487779957FE897
-void _SET_TRANSPORT_USAGE_FLAGS(Entity transportEntity,int flags);
+void _SET_TRANSPORT_USAGE_FLAGS(Entity transportEntity, int flags);
 ```
 
 enum eTransportUsageFlags

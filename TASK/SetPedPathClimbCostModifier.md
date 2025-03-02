@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x88E32DB8C1A4AA4B
-void SET_PED_PATH_CLIMB_COST_MODIFIER(Ped ped,float modifier);
+void SET_PED_PATH_CLIMB_COST_MODIFIER(Ped ped, float modifier);
 ```
 
 

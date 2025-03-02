@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xA9DA48FAB8A76C12
-void TASK_GOTO_ENTITY_AIMING(Ped ped,Entity target,float distanceToStopAt,float StartAimingDist);
+void TASK_GOTO_ENTITY_AIMING(Ped ped, Entity target, float distanceToStopAt, float StartAimingDist);
 ```
 
 ped = Ped you want to perform this task.

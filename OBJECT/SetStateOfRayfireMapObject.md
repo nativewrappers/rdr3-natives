@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x5C29F698D404C5E1
-void SET_STATE_OF_RAYFIRE_MAP_OBJECT(Object object,int state);
+void SET_STATE_OF_RAYFIRE_MAP_OBJECT(Object object, int state);
 ```
 
 

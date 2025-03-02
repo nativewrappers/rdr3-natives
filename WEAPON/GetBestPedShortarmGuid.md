@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF52BD94B47CCF736
-void GET_BEST_PED_SHORTARM_GUID(Ped ped,Any* outGUID,BOOL p2,BOOL p3);
+void GET_BEST_PED_SHORTARM_GUID(Ped ped, Any* outGUID, BOOL p2, BOOL p3);
 ```
 
 

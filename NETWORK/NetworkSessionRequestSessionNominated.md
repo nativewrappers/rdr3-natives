@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4F4672457FF597D1
-BOOL _NETWORK_SESSION_REQUEST_SESSION_NOMINATED(int flags,int userHash,int p2,Any* sessionRequestId);
+BOOL _NETWORK_SESSION_REQUEST_SESSION_NOMINATED(int flags, int userHash, int p2, Any* sessionRequestId);
 ```
 
 

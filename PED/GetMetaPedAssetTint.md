@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xE7998FEC53A33BBE
-Any GET_META_PED_ASSET_TINT(Ped ped,int index,Hash* pallete,int* tint0,int* tint1,int* tint2);
+Any GET_META_PED_ASSET_TINT(Ped ped, int index, Hash* pallete, int* tint0, int* tint1, int* tint2);
 ```
 
 

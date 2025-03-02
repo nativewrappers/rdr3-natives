@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x4170B650590B3B00
-void SET_TEXT_SCALE(float scale,float size);
+void SET_TEXT_SCALE(float scale, float size);
 ```
 
 

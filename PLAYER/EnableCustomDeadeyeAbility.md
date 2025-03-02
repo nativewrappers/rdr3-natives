@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x95EE1DEE1DCD9070
-void _ENABLE_CUSTOM_DEADEYE_ABILITY(Player player,BOOL enable);
+void _ENABLE_CUSTOM_DEADEYE_ABILITY(Player player, BOOL enable);
 ```
 
 

@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xA31013798FADCADC
-void _UILOG_SET_DISPLAY_COMPLETION_RATING(int logEntryType,Hash p1,BOOL p2);
+void _UILOG_SET_DISPLAY_COMPLETION_RATING(int logEntryType, Hash p1, BOOL p2);
 ```
 
 

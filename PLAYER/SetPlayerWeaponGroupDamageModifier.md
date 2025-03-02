@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xFC79DCC94D0A5897
-void _SET_PLAYER_WEAPON_GROUP_DAMAGE_MODIFIER(Player player,Hash weaponGroup,float modifier);
+void _SET_PLAYER_WEAPON_GROUP_DAMAGE_MODIFIER(Player player, Hash weaponGroup, float modifier);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0xBDA07E5950085E46
-void SET_AMBIENT_ZONE_STATE(char* zoneName,BOOL isEnabled,BOOL p2);
+void SET_AMBIENT_ZONE_STATE(char* zoneName, BOOL isEnabled, BOOL p2);
 ```
 
 

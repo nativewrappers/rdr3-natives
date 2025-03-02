@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xF29A186ED428B552
-Any IS_PED_CARRYING_WEAPON(Ped ped,Hash weaponHash);
+Any IS_PED_CARRYING_WEAPON(Ped ped, Hash weaponHash);
 ```
 
 

@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x55CCAAE4F28C67A0
-void SET_VEHICLE_BODY_HEALTH(Vehicle vehicle,float value);
+void SET_VEHICLE_BODY_HEALTH(Vehicle vehicle, float value);
 ```
 
 

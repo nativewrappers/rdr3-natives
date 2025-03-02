@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xEF2E6F870783369B
-Volume _GET_PED_DEFENSIVE_VOLUME(Ped ped,Any p1);
+Volume _GET_PED_DEFENSIVE_VOLUME(Ped ped, Any p1);
 ```
 
 

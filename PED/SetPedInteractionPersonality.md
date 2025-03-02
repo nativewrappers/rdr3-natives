@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x24C82EF607105FAA
-void _SET_PED_INTERACTION_PERSONALITY(Ped ped,Hash personality);
+void _SET_PED_INTERACTION_PERSONALITY(Ped ped, Hash personality);
 ```
 
 personality (script_mp_rel): NONE, AGGRESSIVE, TIMID (non-aggressive), CRIPPS, SCRIPTEDINTIMIDATION, MAGGIE, MARCEL, SCRIPTEDSALOON

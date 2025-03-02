@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x6A564540FAC12211
-void _INVENTORY_ENABLE_ITEM(int inventoryId,Hash item);
+void _INVENTORY_ENABLE_ITEM(int inventoryId, Hash item);
 ```
 
 

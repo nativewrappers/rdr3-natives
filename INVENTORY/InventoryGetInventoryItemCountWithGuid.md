@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0xC97E0D2302382211
-int _INVENTORY_GET_INVENTORY_ITEM_COUNT_WITH_GUID(int inventoryId,Any* guid,BOOL p2);
+int _INVENTORY_GET_INVENTORY_ITEM_COUNT_WITH_GUID(int inventoryId, Any* guid, BOOL p2);
 ```
 
 

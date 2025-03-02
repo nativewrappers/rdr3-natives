@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x1549BA7FE83A2383
-void SET_VEHICLE_KEEP_ENGINE_ON_WHEN_ABANDONED(Vehicle vehicle,BOOL toggle);
+void SET_VEHICLE_KEEP_ENGINE_ON_WHEN_ABANDONED(Vehicle vehicle, BOOL toggle);
 ```
 
 
