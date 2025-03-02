@@ -15,4 +15,3 @@ BOOL DECOR_GET_BOOL(Entity entity,const char* propertyName);
 * **propertyName**:
 
 ## Return value
-

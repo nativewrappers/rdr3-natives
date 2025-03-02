@@ -14,4 +14,3 @@ Any CREATE_NEW_SCRIPTED_CONVERSATION(const char* convoRoot);
 * **convoRoot**:
 
 ## Return value
-

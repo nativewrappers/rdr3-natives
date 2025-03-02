@@ -14,6 +14,3 @@ void GET_MODEL_DIMENSIONS(Hash modelHash,Vector3* minimum,Vector3* maximum);
 * **modelHash**:
 * **minimum**:
 * **maximum**:
-
-
-

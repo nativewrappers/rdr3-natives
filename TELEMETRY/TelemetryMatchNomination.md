@@ -12,6 +12,3 @@ void _TELEMETRY_MATCH_NOMINATION(Any* args);
 
 ## Parameters
 * **args**:
-
-
-

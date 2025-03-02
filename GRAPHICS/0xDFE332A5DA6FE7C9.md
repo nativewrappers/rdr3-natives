@@ -15,4 +15,3 @@ Returns iNumPixels, iPixelsVisible
 * **iTrackedPoint**:
 
 ## Return value
-

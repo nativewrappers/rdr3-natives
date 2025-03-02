@@ -15,4 +15,3 @@ Any _IS_PICKUP_TYPE_VALID(Hash pickupHash);
 * **pickupHash**:
 
 ## Return value
-

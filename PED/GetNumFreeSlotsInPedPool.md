@@ -13,4 +13,3 @@ int _GET_NUM_FREE_SLOTS_IN_PED_POOL();
 
 
 ## Return value
-

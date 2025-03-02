@@ -13,4 +13,3 @@ Any _MISSIONDATA_TIMECYCLE_BOX_EXISTS();
 
 
 ## Return value
-

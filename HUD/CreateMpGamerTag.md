@@ -19,4 +19,3 @@ int _CREATE_MP_GAMER_TAG(Player player,const char* username,BOOL pointedClanTag,
 * **clanFlag**:
 
 ## Return value
-

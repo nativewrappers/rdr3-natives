@@ -15,4 +15,3 @@ Ped _GET_PED_FROM_INDEXED_ITEM(ScrHandle item);
 * **item**:
 
 ## Return value
-

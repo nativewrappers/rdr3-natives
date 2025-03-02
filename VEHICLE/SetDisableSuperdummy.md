@@ -14,6 +14,3 @@ Old name: _SET_DISABLE_SUPERDUMMY_MODE
 ## Parameters
 * **vehicle**:
 * **disable**:
-
-
-

@@ -21,4 +21,3 @@ explosionType: see ADD_EXPLOSION
 * **z2**:
 
 ## Return value
-

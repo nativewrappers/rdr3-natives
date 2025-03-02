@@ -16,6 +16,3 @@ void _STAT_ITEM_FISH_CAUGHT(Ped fish,float weight,Hash category,Hash subcategory
 * **weight**:
 * **category**:
 * **subcategory**:
-
-
-

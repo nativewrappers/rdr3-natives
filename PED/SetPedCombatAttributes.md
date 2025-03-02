@@ -16,6 +16,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_ATTRIBUTES
 * **ped**:
 * **attributeIndex**:
 * **enabled**:
-
-
-

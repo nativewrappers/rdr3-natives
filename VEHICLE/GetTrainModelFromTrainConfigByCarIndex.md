@@ -17,4 +17,3 @@ Returns modelHash
 * **trainCarIndex**:
 
 ## Return value
-

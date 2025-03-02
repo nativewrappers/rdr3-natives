@@ -16,4 +16,3 @@ Subtracts the second argument from the first, then returns whether the result is
 * **timeB**:
 
 ## Return value
-

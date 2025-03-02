@@ -21,4 +21,3 @@ Params: p5 is always 0
 * **p5**:
 
 ## Return value
-

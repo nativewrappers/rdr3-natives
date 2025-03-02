@@ -13,6 +13,3 @@ void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Player player,float regenRate);
 ## Parameters
 * **player**:
 * **regenRate**:
-
-
-

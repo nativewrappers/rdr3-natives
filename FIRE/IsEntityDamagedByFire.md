@@ -15,4 +15,3 @@ this natives only returns true if entity is damaged by fire , once damaged cause
 * **entity**:
 
 ## Return value
-

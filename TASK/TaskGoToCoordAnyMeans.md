@@ -20,6 +20,3 @@ void TASK_GO_TO_COORD_ANY_MEANS(Ped ped,float x,float y,float z,float speed,Enti
 * **p6**:
 * **walkingStyle**:
 * **p8**:
-
-
-

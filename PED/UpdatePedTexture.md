@@ -16,6 +16,3 @@ Also needs to be called for updating any ped overlays to apply the changes.
 
 ## Parameters
 * **textureId**:
-
-
-

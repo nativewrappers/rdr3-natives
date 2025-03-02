@@ -15,6 +15,3 @@ void DISABLE_VEHICLE_WEAPON(BOOL disabled,Hash weaponHash,Vehicle vehicle,Ped ow
 * **weaponHash**:
 * **vehicle**:
 * **owner**:
-
-
-

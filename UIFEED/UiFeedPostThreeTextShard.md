@@ -19,4 +19,3 @@ int _UI_FEED_POST_THREE_TEXT_SHARD(Any* p0,Any* p1,BOOL p2,BOOL p3,BOOL p4);
 * **p4**:
 
 ## Return value
-

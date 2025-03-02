@@ -16,4 +16,3 @@ int _ITEMDATABASE_GET_BUNDLE_ITEM_COUNT(int bundleId,Any* data);
 * **data**:
 
 ## Return value
-

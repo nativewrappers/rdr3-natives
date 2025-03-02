@@ -15,4 +15,3 @@ Any STATSTRACKER_IS_INITIALIZED(Hash p0);
 * **p0**:
 
 ## Return value
-

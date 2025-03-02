@@ -11,7 +11,3 @@ void CANCEL_ONSCREEN_KEYBOARD();
 ```
 
 Old name: _CANCEL_ONSCREEN_KEYBOARD
-
-
-
-

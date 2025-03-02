@@ -13,6 +13,3 @@ void _EVENT_FLUSH_ALL_EVENT_TRACKERS(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

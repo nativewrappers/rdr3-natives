@@ -15,4 +15,3 @@ Any _NETWORK_IS_GANG_OPEN(Any gangId);
 * **gangId**:
 
 ## Return value
-

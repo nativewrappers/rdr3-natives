@@ -13,6 +13,3 @@ void SUPPRESS_WITNESSES_CALLING_POLICE_THIS_FRAME(Player player);
 
 ## Parameters
 * **player**:
-
-
-

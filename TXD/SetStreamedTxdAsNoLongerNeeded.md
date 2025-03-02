@@ -13,6 +13,3 @@ void SET_STREAMED_TXD_AS_NO_LONGER_NEEDED(Hash txdHash);
 
 ## Parameters
 * **txdHash**:
-
-
-

@@ -13,6 +13,3 @@ void _SET_PLAYER_HAS_DISCOVERED_CHARACTER_NAME_MP(Hash discoveryHash);
 
 ## Parameters
 * **discoveryHash**:
-
-
-

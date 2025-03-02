@@ -13,6 +13,3 @@ NET_PLAYER_HORSE_PROCESS_EVENT_HORSE_BREAKING
 
 ## Parameters
 * **ped**:
-
-
-

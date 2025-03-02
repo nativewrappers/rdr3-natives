@@ -14,4 +14,3 @@ BOOL NETWORK_CLAN_REQUEST_EMBLEM(Any p0);
 * **p0**:
 
 ## Return value
-

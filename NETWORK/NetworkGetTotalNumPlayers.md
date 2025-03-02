@@ -12,4 +12,3 @@ int NETWORK_GET_TOTAL_NUM_PLAYERS();
 
 
 ## Return value
-

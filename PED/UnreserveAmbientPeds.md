@@ -13,6 +13,3 @@ void _UNRESERVE_AMBIENT_PEDS(int numPeds);
 
 ## Parameters
 * **numPeds**:
-
-
-

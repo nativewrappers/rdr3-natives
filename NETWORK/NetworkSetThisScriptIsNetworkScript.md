@@ -14,6 +14,3 @@ void NETWORK_SET_THIS_SCRIPT_IS_NETWORK_SCRIPT(int maxNumMissionParticipants,BOO
 * **maxNumMissionParticipants**:
 * **p1**:
 * **instanceId**:
-
-
-

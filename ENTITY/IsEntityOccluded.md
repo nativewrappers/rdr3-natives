@@ -14,4 +14,3 @@ BOOL IS_ENTITY_OCCLUDED(Entity entity);
 * **entity**:
 
 ## Return value
-

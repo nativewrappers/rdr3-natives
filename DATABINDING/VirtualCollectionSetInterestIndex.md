@@ -13,6 +13,3 @@ void _VIRTUAL_COLLECTION_SET_INTEREST_INDEX(Any p0,int interestIndex);
 ## Parameters
 * **p0**:
 * **interestIndex**:
-
-
-

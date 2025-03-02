@@ -14,4 +14,3 @@ Returns model hash of the closest fish
 
 
 ## Return value
-

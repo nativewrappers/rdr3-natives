@@ -21,4 +21,3 @@ If entity is a ped and it's in a vehicle or on a mount the coords of that entity
 * **realCoords**:
 
 ## Return value
-

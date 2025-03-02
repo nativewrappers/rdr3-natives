@@ -14,4 +14,3 @@ BOOL WAYPOINT_PLAYBACK_GET_IS_PAUSED(Ped ped);
 * **ped**:
 
 ## Return value
-

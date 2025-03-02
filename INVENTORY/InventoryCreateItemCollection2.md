@@ -15,4 +15,3 @@ Returns collectionId
 * **collectionSize**:
 
 ## Return value
-

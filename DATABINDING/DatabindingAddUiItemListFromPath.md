@@ -15,4 +15,3 @@ Any _DATABINDING_ADD_UI_ITEM_LIST_FROM_PATH(const char* p0,const char* p1);
 * **p1**:
 
 ## Return value
-

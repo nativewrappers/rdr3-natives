@@ -17,4 +17,3 @@ Params: mode is 0
 * **mode**:
 
 ## Return value
-

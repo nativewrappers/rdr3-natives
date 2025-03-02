@@ -15,4 +15,3 @@ returns true if any wheel is destroyed/detached
 * **vehicle**:
 
 ## Return value
-

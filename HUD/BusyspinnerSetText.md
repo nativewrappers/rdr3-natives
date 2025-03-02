@@ -13,6 +13,3 @@ void _BUSYSPINNER_SET_TEXT(const char* text);
 
 ## Parameters
 * **text**:
-
-
-

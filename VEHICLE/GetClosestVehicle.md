@@ -19,4 +19,3 @@ Vehicle GET_CLOSEST_VEHICLE(float x,float y,float z,float radius,Hash modelHash,
 * **flags**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _PAUSE_ENTITY_TRACKING(Entity entity,BOOL pause);
 ## Parameters
 * **entity**:
 * **pause**:
-
-
-

@@ -14,6 +14,3 @@ void _UNREGISTER_EAGLE_EYE_FOR_ENTITY(Player player,Entity entity);
 ## Parameters
 * **player**:
 * **entity**:
-
-
-

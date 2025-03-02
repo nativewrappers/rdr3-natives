@@ -23,6 +23,3 @@ Setting ease to TRUE will smooth the transition.
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

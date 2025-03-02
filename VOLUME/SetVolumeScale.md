@@ -18,4 +18,3 @@ Any SET_VOLUME_SCALE(Volume volume,float scaleX,float scaleY,float scaleZ);
 * **scaleZ**:
 
 ## Return value
-

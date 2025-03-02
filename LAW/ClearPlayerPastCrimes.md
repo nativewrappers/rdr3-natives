@@ -13,6 +13,3 @@ void CLEAR_PLAYER_PAST_CRIMES(Player player);
 
 ## Parameters
 * **player**:
-
-
-

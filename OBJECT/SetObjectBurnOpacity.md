@@ -14,6 +14,3 @@ void _SET_OBJECT_BURN_OPACITY(Object object,float opacity);
 ## Parameters
 * **object**:
 * **opacity**:
-
-
-

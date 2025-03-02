@@ -15,4 +15,3 @@ Returns last horse the ped was leading
 * **ped**:
 
 ## Return value
-

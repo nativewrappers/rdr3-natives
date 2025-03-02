@@ -15,4 +15,3 @@ Any CAN_REGISTER_MISSION_PICKUPS(int amount);
 * **amount**:
 
 ## Return value
-

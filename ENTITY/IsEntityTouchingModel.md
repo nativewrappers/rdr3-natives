@@ -15,4 +15,3 @@ BOOL IS_ENTITY_TOUCHING_MODEL(Entity entity,Hash modelHash);
 * **modelHash**:
 
 ## Return value
-

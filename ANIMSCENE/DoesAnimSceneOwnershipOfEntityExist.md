@@ -16,4 +16,3 @@ Any _DOES_ANIM_SCENE_OWNERSHIP_OF_ENTITY_EXIST(AnimScene animScene,const char* e
 * **entityName**:
 
 ## Return value
-

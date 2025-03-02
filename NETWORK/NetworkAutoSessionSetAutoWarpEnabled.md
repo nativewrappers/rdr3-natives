@@ -13,6 +13,3 @@ void _NETWORK_AUTO_SESSION_SET_AUTO_WARP_ENABLED(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

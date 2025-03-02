@@ -14,4 +14,3 @@ BOOL IS_VEHICLE_IN_BURNOUT(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

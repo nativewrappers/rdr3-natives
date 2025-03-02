@@ -15,6 +15,3 @@ angle: The angle in whole degrees. If less than 0 or greater than 360, unlocks t
 
 ## Parameters
 * **angle**:
-
-
-

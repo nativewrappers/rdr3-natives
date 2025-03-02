@@ -19,4 +19,3 @@ int CREATE_FAKE_MP_GAMER_TAG(Ped ped,const char* username,BOOL pointedClanTag,BO
 * **clanFlag**:
 
 ## Return value
-

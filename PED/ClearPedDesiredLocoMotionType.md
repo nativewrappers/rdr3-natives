@@ -13,6 +13,3 @@ void _CLEAR_PED_DESIRED_LOCO_MOTION_TYPE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

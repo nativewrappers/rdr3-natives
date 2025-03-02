@@ -13,4 +13,3 @@ Any QUEUE_OPERATION_TO_CREATE_SORTED_LIST_OF_PHOTOS();
 
 
 ## Return value
-

@@ -12,4 +12,3 @@ BOOL IS_MINIGAME_IN_PROGRESS();
 
 
 ## Return value
-

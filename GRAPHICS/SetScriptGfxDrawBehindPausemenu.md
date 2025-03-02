@@ -13,6 +13,3 @@ Sets a flag defining whether or not script draw commands should continue being d
 
 ## Parameters
 * **toggle**:
-
-
-

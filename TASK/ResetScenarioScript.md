@@ -13,6 +13,3 @@ void _RESET_SCENARIO_SCRIPT(int scenario);
 
 ## Parameters
 * **scenario**:
-
-
-

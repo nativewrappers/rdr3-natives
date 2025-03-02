@@ -13,6 +13,3 @@ void REMOVE_PARTICLE_FX(int ptfxHandle,BOOL p1);
 ## Parameters
 * **ptfxHandle**:
 * **p1**:
-
-
-

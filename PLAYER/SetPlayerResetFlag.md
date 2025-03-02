@@ -17,6 +17,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/PLAYER_RESET_FLAGS
 * **player**:
 * **playerResetFlag**:
 * **p2**:
-
-
-

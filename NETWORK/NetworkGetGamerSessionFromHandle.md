@@ -16,4 +16,3 @@ Any _NETWORK_GET_GAMER_SESSION_FROM_HANDLE(Any* data,int count);
 * **count**:
 
 ## Return value
-

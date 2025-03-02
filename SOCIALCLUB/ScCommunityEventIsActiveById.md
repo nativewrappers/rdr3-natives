@@ -15,4 +15,3 @@ Any SC_COMMUNITY_EVENT_IS_ACTIVE_BY_ID(int p0);
 * **p0**:
 
 ## Return value
-

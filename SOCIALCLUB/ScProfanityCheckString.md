@@ -16,4 +16,3 @@ Starts a task to check an entered string for profanity on the ROS/Social Club se
 * **token**:
 
 ## Return value
-

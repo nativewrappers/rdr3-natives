@@ -14,4 +14,3 @@ int GET_VEHICLE_DOOR_LOCK_STATUS(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

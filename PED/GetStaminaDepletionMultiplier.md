@@ -15,4 +15,3 @@ float _GET_STAMINA_DEPLETION_MULTIPLIER(Ped ped);
 * **ped**:
 
 ## Return value
-

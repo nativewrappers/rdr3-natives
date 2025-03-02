@@ -13,6 +13,3 @@ void SET_PLAYER_SIMULATE_AIMING(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

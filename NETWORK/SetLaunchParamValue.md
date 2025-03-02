@@ -14,6 +14,3 @@ void _SET_LAUNCH_PARAM_VALUE(const char* paramName,const char* value);
 ## Parameters
 * **paramName**:
 * **value**:
-
-
-

@@ -26,4 +26,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/objects/pickup_list.lua
 * **p10**:
 
 ## Return value
-

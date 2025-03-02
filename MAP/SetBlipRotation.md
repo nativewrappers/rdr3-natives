@@ -13,6 +13,3 @@ void SET_BLIP_ROTATION(Blip blip,int rotation);
 ## Parameters
 * **blip**:
 * **rotation**:
-
-
-

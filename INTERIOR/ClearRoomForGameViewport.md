@@ -8,8 +8,3 @@ apiset: client
 // 0x951A049765E0D450
 void CLEAR_ROOM_FOR_GAME_VIEWPORT();
 ```
-
-
-
-
-

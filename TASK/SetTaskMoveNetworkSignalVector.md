@@ -17,6 +17,3 @@ void _SET_TASK_MOVE_NETWORK_SIGNAL_VECTOR(Ped ped,const char* signalName,float x
 * **x**:
 * **y**:
 * **z**:
-
-
-

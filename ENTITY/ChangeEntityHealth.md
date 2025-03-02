@@ -20,4 +20,3 @@ In the scripts entity2 and weaponHash are unused (zero).
 * **weaponHash**:
 
 ## Return value
-

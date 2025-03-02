@@ -15,4 +15,3 @@ Hardcoded to return zero/false.
 * **p0**:
 
 ## Return value
-

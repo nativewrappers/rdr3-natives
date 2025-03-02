@@ -14,4 +14,3 @@ BOOL IS_TRACKED_POINT_VISIBLE(int point);
 * **point**:
 
 ## Return value
-

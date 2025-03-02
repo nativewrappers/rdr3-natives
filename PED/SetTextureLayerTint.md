@@ -18,6 +18,3 @@ Seem color is not RGB or HSV
 * **tint0**:
 * **tint1**:
 * **tint2**:
-
-
-

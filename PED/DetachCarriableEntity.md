@@ -15,6 +15,3 @@ void DETACH_CARRIABLE_ENTITY(Entity entity,BOOL p1,BOOL p2);
 * **entity**:
 * **p1**:
 * **p2**:
-
-
-

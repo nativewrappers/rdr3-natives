@@ -18,4 +18,3 @@ Reloops value returned by UGC_QUERY_GET_CONTENT_NUM
 * **p2**:
 
 ## Return value
-

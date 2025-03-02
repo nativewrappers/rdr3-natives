@@ -9,8 +9,3 @@ apiset: client
 // 0x4759CC730F947C81
 void INSTANTLY_FILL_PED_POPULATION();
 ```
-
-
-
-
-

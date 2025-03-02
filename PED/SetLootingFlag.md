@@ -25,6 +25,3 @@ enum eLootFlag
 * **ped**:
 * **lootFlag**:
 * **enabled**:
-
-
-

@@ -17,4 +17,3 @@ BOOL NETWORK_GET_ASSISTED_DAMAGE_OF_ENTITY(Player player,Entity entity,int* p2);
 * **p2**:
 
 ## Return value
-

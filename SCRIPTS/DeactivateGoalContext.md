@@ -14,6 +14,3 @@ goalContext: see _ACTIVATE_GOAL_CONTEXT
 
 ## Parameters
 * **goalContext**:
-
-
-

@@ -15,4 +15,3 @@ BOOL UGC_IS_DESCRIPTION_REQUEST_IN_PROGRESS(Hash description);
 * **description**:
 
 ## Return value
-

@@ -13,7 +13,3 @@ void SET_MOUSE_CURSOR_THIS_FRAME();
 Shows the cursor on screen for one frame.
 
 Old name: _SET_MOUSE_CURSOR_ACTIVE_THIS_FRAME
-
-
-
-

@@ -13,6 +13,3 @@ void _DEACTIVATE_COMPANION_ANALYSIS(int groupId);
 
 ## Parameters
 * **groupId**:
-
-
-

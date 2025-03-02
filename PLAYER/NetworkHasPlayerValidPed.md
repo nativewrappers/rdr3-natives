@@ -16,4 +16,3 @@ Returns true if the given player has a valid ped.
 * **player**:
 
 ## Return value
-

@@ -12,4 +12,3 @@ float GET_SNOW_LEVEL();
 
 
 ## Return value
-

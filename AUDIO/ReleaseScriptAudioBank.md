@@ -8,8 +8,3 @@ apiset: client
 // 0x7A2D8AD0A9EB9C3F
 void RELEASE_SCRIPT_AUDIO_BANK();
 ```
-
-
-
-
-

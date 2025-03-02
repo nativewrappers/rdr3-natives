@@ -13,6 +13,3 @@ void CLEAR_SPAWNER_INFO_PRIORITY(Hash p0,Hash p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

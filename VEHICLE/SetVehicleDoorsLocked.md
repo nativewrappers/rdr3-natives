@@ -13,6 +13,3 @@ void SET_VEHICLE_DOORS_LOCKED(Vehicle vehicle,int doorLockStatus);
 ## Parameters
 * **vehicle**:
 * **doorLockStatus**:
-
-
-

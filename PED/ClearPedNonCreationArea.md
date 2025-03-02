@@ -8,8 +8,3 @@ apiset: client
 // 0x2E05208086BA0651
 void CLEAR_PED_NON_CREATION_AREA();
 ```
-
-
-
-
-

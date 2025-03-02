@@ -13,6 +13,3 @@ void SET_PORTAL_SETTINGS_OVERRIDE(const char* p0,const char* p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

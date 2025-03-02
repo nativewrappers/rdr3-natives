@@ -15,4 +15,3 @@ Any ACTION_MANAGER_IS_ACTION_ENABLED(Hash hash);
 * **hash**:
 
 ## Return value
-

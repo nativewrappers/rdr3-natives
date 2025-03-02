@@ -20,6 +20,3 @@ Tells the ped to go to an offset coord from an entity, without using the navmesh
 * **moveBlendRatio**:
 * **timeBeforeTeleport**:
 * **p7**:
-
-
-

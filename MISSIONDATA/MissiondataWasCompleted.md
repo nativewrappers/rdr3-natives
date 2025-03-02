@@ -16,4 +16,3 @@ see: missions.meta
 * **missionId**:
 
 ## Return value
-

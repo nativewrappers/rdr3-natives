@@ -12,6 +12,3 @@ void STAT_PHOTOGRAPH_TAKEN(ItemSet itemset);
 
 ## Parameters
 * **itemset**:
-
-
-

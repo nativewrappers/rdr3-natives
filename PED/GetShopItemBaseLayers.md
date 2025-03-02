@@ -27,4 +27,3 @@ BOOL _GET_SHOP_ITEM_BASE_LAYERS(Hash shopItem,Any p1,Ped ped,int metapedType,BOO
 * **p12**:
 
 ## Return value
-

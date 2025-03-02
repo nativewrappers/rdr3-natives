@@ -15,4 +15,3 @@ BOOL GET_ENTITY_PLAYER_IS_FREE_AIMING_AT(Player player,Entity* entity);
 * **entity**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _SET_SNOW_LEVEL(float level);
 
 ## Parameters
 * **level**:
-
-
-

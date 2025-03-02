@@ -16,4 +16,3 @@ Returns true if a path of waypoints was found. Waypoints can be retrieved with _
 * **path**:
 
 ## Return value
-

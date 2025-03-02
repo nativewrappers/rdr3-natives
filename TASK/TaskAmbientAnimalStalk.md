@@ -14,6 +14,3 @@ void TASK_AMBIENT_ANIMAL_STALK(Ped ped,Any p1,Any p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

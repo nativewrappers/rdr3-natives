@@ -14,6 +14,3 @@ if true, axles won't bend.
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

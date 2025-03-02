@@ -14,4 +14,3 @@ BOOL COMPENDIUM_ANIMAL_HAS_SAMPLE(int compendiumEntry);
 * **compendiumEntry**:
 
 ## Return value
-

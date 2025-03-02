@@ -14,6 +14,3 @@ void SET_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped,const char* animName,const char* anim
 * **ped**:
 * **animName**:
 * **animDict**:
-
-
-

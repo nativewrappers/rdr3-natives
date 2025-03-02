@@ -17,4 +17,3 @@ BOOL HAS_ENTITY_BEEN_DAMAGED_BY_ENTITY(Entity entity1,Entity entity2,BOOL p2,BOO
 * **p3**:
 
 ## Return value
-

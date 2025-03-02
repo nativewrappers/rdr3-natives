@@ -19,4 +19,3 @@ int _GET_ENTITIES_FROM_PROP_SET(PropSet propSet,ItemSet itemSet,Hash model,BOOL 
 * **p4**:
 
 ## Return value
-

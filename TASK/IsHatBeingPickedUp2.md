@@ -17,4 +17,3 @@ _IS_A* - _IS_D*
 * **hatObject**:
 
 ## Return value
-

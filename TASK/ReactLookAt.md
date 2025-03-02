@@ -26,6 +26,3 @@ LOOK_RETURN_RELIEVED = 3
 * **targetPed2**:
 * **p7**:
 * **p8**:
-
-
-

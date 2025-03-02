@@ -15,4 +15,3 @@ int GET_ENTITY_BONE_INDEX_BY_NAME(Entity entity,const char* boneName);
 * **boneName**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _SET_AMBIENT_PICKUP_LIFETIME(int lifetime);
 
 ## Parameters
 * **lifetime**:
-
-
-

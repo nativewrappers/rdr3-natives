@@ -13,4 +13,3 @@ Any _NETWORK_DID_RECENT_GAMER_NAMES_REQUEST_SUCCEED();
 
 
 ## Return value
-

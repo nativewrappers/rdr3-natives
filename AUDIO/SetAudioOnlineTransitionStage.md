@@ -13,6 +13,3 @@ void SET_AUDIO_ONLINE_TRANSITION_STAGE(const char* p0);
 
 ## Parameters
 * **p0**:
-
-
-

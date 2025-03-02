@@ -13,6 +13,3 @@ void RESET_ANIM_SCENE(AnimScene animScene,const char* playbackListName);
 ## Parameters
 * **animScene**:
 * **playbackListName**:
-
-
-

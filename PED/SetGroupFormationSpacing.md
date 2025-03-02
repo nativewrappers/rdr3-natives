@@ -15,6 +15,3 @@ void SET_GROUP_FORMATION_SPACING(int groupId,float p1,float p2,float p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

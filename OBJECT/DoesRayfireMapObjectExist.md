@@ -14,4 +14,3 @@ BOOL DOES_RAYFIRE_MAP_OBJECT_EXIST(Object object);
 * **object**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ BOOL DOES_EXTRA_EXIST(Vehicle vehicle,int extraId);
 * **extraId**:
 
 ## Return value
-

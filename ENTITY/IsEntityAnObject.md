@@ -14,4 +14,3 @@ BOOL IS_ENTITY_AN_OBJECT(Entity entity);
 * **entity**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ float GET_PLAYER_CURRENT_STEALTH_NOISE(Player player);
 * **player**:
 
 ## Return value
-

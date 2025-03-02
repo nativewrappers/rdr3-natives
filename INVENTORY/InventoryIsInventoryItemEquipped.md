@@ -18,4 +18,3 @@ Alternative Name: _INVENTORY_IS_ITEM_DISABLED
 * **p2**:
 
 ## Return value
-

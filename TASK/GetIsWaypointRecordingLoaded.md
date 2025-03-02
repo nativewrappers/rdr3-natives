@@ -14,4 +14,3 @@ BOOL GET_IS_WAYPOINT_RECORDING_LOADED(const char* waypointRecording);
 * **waypointRecording**:
 
 ## Return value
-

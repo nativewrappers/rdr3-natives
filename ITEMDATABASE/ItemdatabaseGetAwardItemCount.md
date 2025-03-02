@@ -16,4 +16,3 @@ Returns iAwardItemCount
 * **award**:
 
 ## Return value
-

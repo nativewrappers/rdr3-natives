@@ -14,4 +14,3 @@ BOOL IS_PED_SWIMMING(Ped ped);
 * **ped**:
 
 ## Return value
-

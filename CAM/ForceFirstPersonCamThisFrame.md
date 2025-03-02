@@ -14,4 +14,3 @@ Returns true if first person camera is active in saloon1.ysc
 
 
 ## Return value
-

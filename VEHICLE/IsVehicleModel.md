@@ -15,4 +15,3 @@ BOOL IS_VEHICLE_MODEL(Vehicle vehicle,Hash model);
 * **model**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _SET_PED_INCAPACITATION_TOTAL_BLEED_OUT_DURATION(Ped ped,float duration);
 ## Parameters
 * **ped**:
 * **duration**:
-
-
-

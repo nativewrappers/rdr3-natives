@@ -14,4 +14,3 @@ Old name: _GET_BENCHMARK_TIME
 
 
 ## Return value
-

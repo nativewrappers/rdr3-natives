@@ -19,4 +19,3 @@ Any INVENTORY_GET_GUID_FROM_ITEMID(int inventoryId,Any* guid,Hash p2,Hash slotId
 * **outGuid**:
 
 ## Return value
-

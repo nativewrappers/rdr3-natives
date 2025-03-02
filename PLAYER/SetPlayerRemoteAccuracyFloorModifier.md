@@ -14,6 +14,3 @@ void _SET_PLAYER_REMOTE_ACCURACY_FLOOR_MODIFIER(Player player,float accuracy);
 ## Parameters
 * **player**:
 * **accuracy**:
-
-
-

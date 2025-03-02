@@ -18,6 +18,3 @@ void _SET_USED_ITEM_EFFECT(float health,float stamina,float deadeye,int healthCo
 * **healthCore**:
 * **staminaCore**:
 * **deadeyeCore**:
-
-
-

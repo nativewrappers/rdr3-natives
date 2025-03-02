@@ -12,6 +12,3 @@ void ASSISTED_MOVEMENT_REMOVE_ROUTE(const char* route);
 
 ## Parameters
 * **route**:
-
-
-

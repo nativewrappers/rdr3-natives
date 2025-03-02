@@ -13,6 +13,3 @@ void _TELEMETRY_SET_IS_FLOW(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

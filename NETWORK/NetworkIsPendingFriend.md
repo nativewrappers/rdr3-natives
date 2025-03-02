@@ -15,4 +15,3 @@ Hardcoded to return false.
 * **gamerHandle**:
 
 ## Return value
-

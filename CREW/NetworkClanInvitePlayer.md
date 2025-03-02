@@ -15,4 +15,3 @@ Any _NETWORK_CLAN_INVITE_PLAYER(Any p0);
 * **p0**:
 
 ## Return value
-

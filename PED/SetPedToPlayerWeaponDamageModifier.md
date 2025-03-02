@@ -15,6 +15,3 @@ Old name: _SET_PED_DAMAGE_MODIFIER
 ## Parameters
 * **ped**:
 * **damageModifier**:
-
-
-

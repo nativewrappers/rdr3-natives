@@ -14,4 +14,3 @@ BOOL HAS_FORCE_CLEANUP_OCCURRED(int cleanupFlags);
 * **cleanupFlags**:
 
 ## Return value
-

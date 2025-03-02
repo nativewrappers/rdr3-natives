@@ -15,4 +15,3 @@ Any _IS_WEAPON_SNIPER(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

@@ -31,4 +31,3 @@ enum eSessionFlags
 * **flags**:
 
 ## Return value
-

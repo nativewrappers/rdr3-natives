@@ -15,6 +15,3 @@ void _UI_PROMPT_SET_MASH_AUTO_FILL_MODE(Prompt prompt,int autoFillTimeMs,int mas
 * **prompt**:
 * **autoFillTimeMs**:
 * **mashes**:
-
-
-

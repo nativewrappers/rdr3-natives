@@ -13,6 +13,3 @@ void CHAL_ADD_GOAL_PROGRESS_FLOAT_BY_SCORE_ID(Hash p0,float value);
 ## Parameters
 * **p0**:
 * **value**:
-
-
-

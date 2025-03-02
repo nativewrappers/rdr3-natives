@@ -13,6 +13,3 @@ void _DELETE_PERSCHAR(PersChar persChar);
 
 ## Parameters
 * **persChar**:
-
-
-

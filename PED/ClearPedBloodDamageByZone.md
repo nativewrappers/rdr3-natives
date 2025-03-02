@@ -13,6 +13,3 @@ void CLEAR_PED_BLOOD_DAMAGE_BY_ZONE(Ped ped,int p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

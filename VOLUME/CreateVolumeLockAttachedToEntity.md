@@ -19,4 +19,3 @@ Params: p3 is always 0
 * **p3**:
 
 ## Return value
-

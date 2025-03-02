@@ -14,4 +14,3 @@ BOOL IS_ANY_SPEECH_PLAYING(Ped ped);
 * **ped**:
 
 ## Return value
-

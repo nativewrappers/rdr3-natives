@@ -17,4 +17,3 @@ Any _UGC_QUERY_GET_CREATOR_HANDLE(Any p0,int index,Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

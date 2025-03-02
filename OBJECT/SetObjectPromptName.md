@@ -14,6 +14,3 @@ Not official native name
 ## Parameters
 * **object**:
 * **name**:
-
-
-

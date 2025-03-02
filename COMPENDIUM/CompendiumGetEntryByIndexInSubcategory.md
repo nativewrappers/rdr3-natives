@@ -16,4 +16,3 @@ int COMPENDIUM_GET_ENTRY_BY_INDEX_IN_SUBCATEGORY(Hash category,Hash subcategory,
 * **count**:
 
 ## Return value
-

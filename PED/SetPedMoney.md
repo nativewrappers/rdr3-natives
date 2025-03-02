@@ -13,6 +13,3 @@ void SET_PED_MONEY(Ped ped,int amount);
 ## Parameters
 * **ped**:
 * **amount**:
-
-
-

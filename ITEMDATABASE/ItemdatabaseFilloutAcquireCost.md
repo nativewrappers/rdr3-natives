@@ -17,4 +17,3 @@ Any _ITEMDATABASE_FILLOUT_ACQUIRE_COST(Hash key,Hash costtype,Any* outData);
 * **outData**:
 
 ## Return value
-

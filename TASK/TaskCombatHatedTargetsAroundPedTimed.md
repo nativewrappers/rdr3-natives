@@ -15,6 +15,3 @@ void TASK_COMBAT_HATED_TARGETS_AROUND_PED_TIMED(Ped ped,float radius,int time,in
 * **radius**:
 * **time**:
 * **flags**:
-
-
-

@@ -15,4 +15,3 @@ Any _IS_GLOBAL_BLOCK_VALID(int index);
 * **index**:
 
 ## Return value
-

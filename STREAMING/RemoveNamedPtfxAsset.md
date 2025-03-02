@@ -12,6 +12,3 @@ void REMOVE_NAMED_PTFX_ASSET(Hash fxNameHash);
 
 ## Parameters
 * **fxNameHash**:
-
-
-

@@ -17,4 +17,3 @@ int _UGC_QUERY_GET_VERSION(Any p0,int index,int p2);
 * **p2**:
 
 ## Return value
-

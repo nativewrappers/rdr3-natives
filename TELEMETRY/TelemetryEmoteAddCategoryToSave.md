@@ -15,6 +15,3 @@ void _TELEMETRY_EMOTE_ADD_CATEGORY_TO_SAVE(Any p0,Any p1,Hash emote);
 * **p0**:
 * **p1**:
 * **emote**:
-
-
-

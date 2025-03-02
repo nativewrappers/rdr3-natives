@@ -14,6 +14,3 @@ void REQUEST_STREAMED_TXD(Hash txdHash,BOOL p1);
 ## Parameters
 * **txdHash**:
 * **p1**:
-
-
-

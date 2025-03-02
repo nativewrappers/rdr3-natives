@@ -12,6 +12,3 @@ void REMOVE_COVER_POINT(ScrHandle coverpoint);
 
 ## Parameters
 * **coverpoint**:
-
-
-

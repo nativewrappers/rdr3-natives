@@ -19,4 +19,3 @@ flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/0x947E43
 * **ms**:
 
 ## Return value
-

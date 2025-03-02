@@ -21,4 +21,3 @@ Object _CREATE_WEAPON_OBJECT(Hash weaponHash,int ammoCount,float x,float y,float
 * **scale**:
 
 ## Return value
-

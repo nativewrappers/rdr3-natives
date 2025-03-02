@@ -15,4 +15,3 @@ int DATABINDING_READ_INT(Any p0);
 * **p0**:
 
 ## Return value
-

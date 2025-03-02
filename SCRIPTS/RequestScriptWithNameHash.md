@@ -12,6 +12,3 @@ void REQUEST_SCRIPT_WITH_NAME_HASH(Hash scriptHash);
 
 ## Parameters
 * **scriptHash**:
-
-
-

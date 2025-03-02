@@ -15,6 +15,3 @@ void POINT_CAM_AT_COORD(Cam cam,float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

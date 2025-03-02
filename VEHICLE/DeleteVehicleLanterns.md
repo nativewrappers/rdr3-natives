@@ -16,4 +16,3 @@ Spawn without lanterns set
 * **vehicle**:
 
 ## Return value
-

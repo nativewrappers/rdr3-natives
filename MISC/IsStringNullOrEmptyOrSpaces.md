@@ -16,4 +16,3 @@ Returns true if the entire string consists only of space characters.
 * **string**:
 
 ## Return value
-

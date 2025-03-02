@@ -19,4 +19,3 @@ Object CREATE_PORTABLE_PICKUP(Hash pickupHash,float x,float y,float z,BOOL place
 * **modelHash**:
 
 ## Return value
-

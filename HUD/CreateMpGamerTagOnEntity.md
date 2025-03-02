@@ -16,4 +16,3 @@ int _CREATE_MP_GAMER_TAG_ON_ENTITY(Entity entity,const char* text);
 * **text**:
 
 ## Return value
-

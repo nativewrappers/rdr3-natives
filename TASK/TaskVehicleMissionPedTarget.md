@@ -21,6 +21,3 @@ See TASK_VEHICLE_MISSION
 * **minDistance**:
 * **p7**:
 * **DriveAgainstTraffic**:
-
-
-

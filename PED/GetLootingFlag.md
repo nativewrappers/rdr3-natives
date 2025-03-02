@@ -17,4 +17,3 @@ lootFlag: see SET_LOOTING_FLAG
 * **lootFlag**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ BOOL _BOUNTY_REQUEST_PAY_OFF_BOUNTY_EX(Any* outRpcGuid,Hash p1,Hash costType);
 * **costType**:
 
 ## Return value
-

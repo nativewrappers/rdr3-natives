@@ -17,4 +17,3 @@ wheelIndex 0: left, wheelIndex 1: right, 4 & 5: unknown
 * **wheelIndex**:
 
 ## Return value
-

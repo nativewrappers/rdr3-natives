@@ -12,6 +12,3 @@ void COMPENDIUM_GANG_AMBUSH_SURVIVED(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

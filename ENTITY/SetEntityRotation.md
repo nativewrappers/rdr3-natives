@@ -17,6 +17,3 @@ void SET_ENTITY_ROTATION(Entity entity,float pitch,float roll,float yaw,int rota
 * **yaw**:
 * **rotationOrder**:
 * **p5**:
-
-
-

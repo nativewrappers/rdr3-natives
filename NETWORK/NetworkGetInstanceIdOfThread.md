@@ -15,4 +15,3 @@ int _NETWORK_GET_INSTANCE_ID_OF_THREAD(int threadId);
 * **threadId**:
 
 ## Return value
-

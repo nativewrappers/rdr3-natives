@@ -14,6 +14,3 @@ void _SET_OBJECT_TARGETTABLE_2(Object object,BOOL targettable);
 ## Parameters
 * **object**:
 * **targettable**:
-
-
-

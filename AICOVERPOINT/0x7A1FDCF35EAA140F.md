@@ -13,6 +13,3 @@ coverLayer: see levels_0/levels/rdr3/coverlayers
 
 ## Parameters
 * **coverLayer**:
-
-
-

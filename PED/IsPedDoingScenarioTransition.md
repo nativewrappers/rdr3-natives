@@ -15,4 +15,3 @@ Any _IS_PED_DOING_SCENARIO_TRANSITION(Ped ped);
 * **ped**:
 
 ## Return value
-

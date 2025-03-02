@@ -14,4 +14,3 @@ Ranges from 0 to 5.
 
 
 ## Return value
-

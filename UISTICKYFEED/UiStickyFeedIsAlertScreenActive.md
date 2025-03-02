@@ -13,4 +13,3 @@ Any _UI_STICKY_FEED_IS_ALERT_SCREEN_ACTIVE();
 
 
 ## Return value
-

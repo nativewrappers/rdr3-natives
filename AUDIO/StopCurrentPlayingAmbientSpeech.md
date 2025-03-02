@@ -13,6 +13,3 @@ void STOP_CURRENT_PLAYING_AMBIENT_SPEECH(Ped ped,Any p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

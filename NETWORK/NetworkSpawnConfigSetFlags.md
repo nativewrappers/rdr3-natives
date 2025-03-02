@@ -13,6 +13,3 @@ void NETWORK_SPAWN_CONFIG_SET_FLAGS(int flags);
 
 ## Parameters
 * **flags**:
-
-
-

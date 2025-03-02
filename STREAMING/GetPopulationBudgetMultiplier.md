@@ -13,4 +13,3 @@ float GET_POPULATION_BUDGET_MULTIPLIER();
 
 
 ## Return value
-

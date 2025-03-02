@@ -13,6 +13,3 @@ void _REQUEST_THREAD_EXIT_FOR_ALL_THREADS_WITH_THIS_NAME(Hash nameHash);
 
 ## Parameters
 * **nameHash**:
-
-
-

@@ -16,4 +16,3 @@ Any SET_BLIP_FLASHES(Blip blip,int* p1,Hash* p2);
 * **p2**:
 
 ## Return value
-

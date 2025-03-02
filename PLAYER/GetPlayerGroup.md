@@ -15,4 +15,3 @@ Returns the group ID the player is member of.
 * **player**:
 
 ## Return value
-

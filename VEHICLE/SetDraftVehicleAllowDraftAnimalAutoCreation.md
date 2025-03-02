@@ -14,6 +14,3 @@ void _SET_DRAFT_VEHICLE_ALLOW_DRAFT_ANIMAL_AUTO_CREATION(Vehicle vehicle,BOOL al
 ## Parameters
 * **vehicle**:
 * **allow**:
-
-
-

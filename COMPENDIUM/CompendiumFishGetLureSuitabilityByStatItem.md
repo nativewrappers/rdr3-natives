@@ -15,4 +15,3 @@ int COMPENDIUM_FISH_GET_LURE_SUITABILITY_BY_STAT_ITEM(Hash animalType,Hash baitT
 * **baitType**:
 
 ## Return value
-

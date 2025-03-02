@@ -17,4 +17,3 @@ Returns WeaponAttachPoint
 * **attachPoint**:
 
 ## Return value
-

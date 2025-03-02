@@ -24,6 +24,3 @@ fleeSpeed = mostly 3f, rarely 1f in R* Scripts
 * **fleeType**:
 * **fleeSpeed**:
 * **targetPed**:
-
-
-

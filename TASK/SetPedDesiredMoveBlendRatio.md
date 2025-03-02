@@ -13,6 +13,3 @@ void SET_PED_DESIRED_MOVE_BLEND_RATIO(Ped ped,float p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

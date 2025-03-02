@@ -15,4 +15,3 @@ BOOL PLACE_OBJECT_ON_GROUND_PROPERLY(Object object,BOOL p1);
 * **p1**:
 
 ## Return value
-

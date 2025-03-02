@@ -14,4 +14,3 @@ BOOL IS_THIS_MODEL_A_BOAT(Hash model);
 * **model**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _SET_RANDOM_OUTFIT_VARIATION(Ped ped,BOOL p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

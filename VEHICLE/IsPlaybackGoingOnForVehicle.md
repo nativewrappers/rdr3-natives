@@ -14,4 +14,3 @@ BOOL IS_PLAYBACK_GOING_ON_FOR_VEHICLE(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

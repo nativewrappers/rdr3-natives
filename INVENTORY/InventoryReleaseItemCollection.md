@@ -16,4 +16,3 @@ Max num of collections is 5, so release your unused ones.
 * **collectionId**:
 
 ## Return value
-

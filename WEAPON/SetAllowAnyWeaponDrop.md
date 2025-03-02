@@ -14,6 +14,3 @@ void SET_ALLOW_ANY_WEAPON_DROP(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

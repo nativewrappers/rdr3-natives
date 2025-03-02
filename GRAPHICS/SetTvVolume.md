@@ -12,6 +12,3 @@ void SET_TV_VOLUME(float volume);
 
 ## Parameters
 * **volume**:
-
-
-

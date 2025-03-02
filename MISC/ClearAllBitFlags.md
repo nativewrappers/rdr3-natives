@@ -13,6 +13,3 @@ void _CLEAR_ALL_BIT_FLAGS(Any* bitFlags);
 
 ## Parameters
 * **bitFlags**:
-
-
-

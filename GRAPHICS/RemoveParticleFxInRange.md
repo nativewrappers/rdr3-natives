@@ -15,6 +15,3 @@ void REMOVE_PARTICLE_FX_IN_RANGE(float X,float Y,float Z,float radius);
 * **Y**:
 * **Z**:
 * **radius**:
-
-
-

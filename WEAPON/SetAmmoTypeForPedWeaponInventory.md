@@ -15,6 +15,3 @@ void _SET_AMMO_TYPE_FOR_PED_WEAPON_INVENTORY(Ped ped,Any* weaponInventoryUid,Has
 * **ped**:
 * **weaponInventoryUid**:
 * **ammoHash**:
-
-
-

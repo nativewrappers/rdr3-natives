@@ -19,6 +19,3 @@ duration in seconds, -1.0 = forever
 * **combatStyleHash**:
 * **p2**:
 * **duration**:
-
-
-

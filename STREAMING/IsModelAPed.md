@@ -14,4 +14,3 @@ BOOL IS_MODEL_A_PED(Hash model);
 * **model**:
 
 ## Return value
-

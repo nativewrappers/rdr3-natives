@@ -22,4 +22,3 @@ Blip _BLIP_ADD_FOR_AREA(Hash blipHash,float x,float y,float z,float scaleX,float
 * **p7**:
 
 ## Return value
-

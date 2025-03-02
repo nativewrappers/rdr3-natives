@@ -14,6 +14,3 @@ void SET_ENTITY_COMPLETELY_DISABLE_COLLISION(Entity entity,BOOL toggle,BOOL keep
 * **entity**:
 * **toggle**:
 * **keepPhysics**:
-
-
-

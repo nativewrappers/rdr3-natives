@@ -15,4 +15,3 @@ int NETWORK_GET_ROPE_ID_FROM_NETWORK_ID(int netId);
 * **netId**:
 
 ## Return value
-

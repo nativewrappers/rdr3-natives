@@ -12,6 +12,3 @@ void RESET_PED_WEAPON_MOVEMENT_CLIPSET(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

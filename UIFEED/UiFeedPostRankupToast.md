@@ -18,4 +18,3 @@ int _UI_FEED_POST_RANKUP_TOAST(Any* p0,Any* p1,int p2,int p3);
 * **p3**:
 
 ## Return value
-

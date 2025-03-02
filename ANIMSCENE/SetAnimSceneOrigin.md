@@ -19,6 +19,3 @@ void SET_ANIM_SCENE_ORIGIN(AnimScene animScene,float posX,float posY,float posZ,
 * **rotY**:
 * **rotZ**:
 * **order**:
-
-
-

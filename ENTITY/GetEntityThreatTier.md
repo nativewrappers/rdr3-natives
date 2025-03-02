@@ -15,4 +15,3 @@ int _GET_ENTITY_THREAT_TIER(Entity entity);
 * **entity**:
 
 ## Return value
-

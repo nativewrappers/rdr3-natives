@@ -14,4 +14,3 @@ BOOL IS_PED_BEING_STEALTH_KILLED(Ped ped);
 * **ped**:
 
 ## Return value
-

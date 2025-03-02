@@ -15,6 +15,3 @@ void _SET_TEXTURE_LAYER_ROUGHNESS(int textureId,int layerId,float texRough);
 * **textureId**:
 * **layerId**:
 * **texRough**:
-
-
-

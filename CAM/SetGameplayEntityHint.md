@@ -21,6 +21,3 @@ p6 & p7 - possibly length or time
 * **p6**:
 * **p7**:
 * **p8**:
-
-
-

@@ -13,6 +13,3 @@ void PREVENT_NETWORK_ID_MIGRATION(int netId);
 
 ## Parameters
 * **netId**:
-
-
-

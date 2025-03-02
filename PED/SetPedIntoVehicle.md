@@ -17,6 +17,3 @@ seatIndex: see CREATE_PED_INSIDE_VEHICLE
 * **ped**:
 * **vehicle**:
 * **seatIndex**:
-
-
-

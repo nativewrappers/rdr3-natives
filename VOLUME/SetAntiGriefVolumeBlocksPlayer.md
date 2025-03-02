@@ -14,6 +14,3 @@ void _SET_ANTI_GRIEF_VOLUME_BLOCKS_PLAYER(Volume volume,BOOL toggle);
 ## Parameters
 * **volume**:
 * **toggle**:
-
-
-

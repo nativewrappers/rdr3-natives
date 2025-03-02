@@ -15,4 +15,3 @@ int SHIFT_RIGHT(int value,int bitShift);
 * **bitShift**:
 
 ## Return value
-

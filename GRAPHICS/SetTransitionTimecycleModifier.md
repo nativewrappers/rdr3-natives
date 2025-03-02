@@ -13,6 +13,3 @@ void SET_TRANSITION_TIMECYCLE_MODIFIER(const char* modifierName,float transition
 ## Parameters
 * **modifierName**:
 * **transitionBlend**:
-
-
-

@@ -15,4 +15,3 @@ Result is in meters per second (m/s)
 * **entity**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _PERSISTENCE_IS_SCENARIO_MARKED_AS_LOOTED(int scenario);
 * **scenario**:
 
 ## Return value
-

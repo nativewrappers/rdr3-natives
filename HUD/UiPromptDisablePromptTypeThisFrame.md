@@ -13,6 +13,3 @@ void _UI_PROMPT_DISABLE_PROMPT_TYPE_THIS_FRAME(int p0);
 
 ## Parameters
 * **p0**:
-
-
-

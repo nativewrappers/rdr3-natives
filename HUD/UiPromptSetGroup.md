@@ -16,6 +16,3 @@ tabIndex: specifies tab of prompt
 * **prompt**:
 * **groupId**:
 * **tabIndex**:
-
-
-

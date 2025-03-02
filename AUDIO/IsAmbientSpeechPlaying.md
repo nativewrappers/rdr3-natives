@@ -14,4 +14,3 @@ BOOL IS_AMBIENT_SPEECH_PLAYING(Ped ped);
 * **ped**:
 
 ## Return value
-

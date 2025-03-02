@@ -13,4 +13,3 @@ Any SAVEGAME_IS_SAVE_PENDING();
 
 
 ## Return value
-

@@ -15,4 +15,3 @@ Returns the LOD distance of an entity.
 * **entity**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_INT_BY_HASH(Any p0,Hash p1,int p2);
 * **p2**:
 
 ## Return value
-

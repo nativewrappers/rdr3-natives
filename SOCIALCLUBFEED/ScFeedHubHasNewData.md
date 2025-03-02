@@ -12,4 +12,3 @@ BOOL SC_FEED_HUB_HAS_NEW_DATA();
 
 
 ## Return value
-

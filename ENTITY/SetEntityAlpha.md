@@ -16,6 +16,3 @@ Set entity alpha level. Ranging from 0 to 255 but changes occur after every 20 p
 * **entity**:
 * **alphaLevel**:
 * **skin**:
-
-
-

@@ -14,4 +14,3 @@ int GET_ITEMSET_SIZE(ItemSet itemset);
 * **itemset**:
 
 ## Return value
-

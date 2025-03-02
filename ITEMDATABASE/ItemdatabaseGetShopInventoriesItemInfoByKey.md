@@ -18,4 +18,3 @@ Same Native Function as 0x17721003A66C72BF
 * **outData**:
 
 ## Return value
-

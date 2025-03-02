@@ -14,4 +14,3 @@ BOOL CAN_PED_RAGDOLL(Ped ped);
 * **ped**:
 
 ## Return value
-

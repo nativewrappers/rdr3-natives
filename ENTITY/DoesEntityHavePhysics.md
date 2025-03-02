@@ -14,4 +14,3 @@ BOOL DOES_ENTITY_HAVE_PHYSICS(Entity entity);
 * **entity**:
 
 ## Return value
-

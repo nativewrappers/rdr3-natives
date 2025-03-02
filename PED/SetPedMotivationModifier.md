@@ -16,6 +16,3 @@ The higher the modifier, the slower the motivationState value will decrease
 * **ped**:
 * **motivationState**:
 * **modifier**:
-
-
-

@@ -16,4 +16,3 @@ Returns proxyInteriorIndex
 * **interiorId**:
 
 ## Return value
-

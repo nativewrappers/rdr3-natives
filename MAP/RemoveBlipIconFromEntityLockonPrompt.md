@@ -16,6 +16,3 @@ in the decompiles this doesnt seem to ever be executed the param needed needs to
 ## Parameters
 * **entity**:
 * **p1**:
-
-
-

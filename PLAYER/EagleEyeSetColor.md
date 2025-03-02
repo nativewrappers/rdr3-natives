@@ -17,6 +17,3 @@ true: green eagleeye color
 * **player**:
 * **p1**:
 * **p2**:
-
-
-

@@ -16,4 +16,3 @@ BOOL BG_DOES_LAUNCH_PARAM_EXIST(int scriptIndex,const char* p1);
 * **p1**:
 
 ## Return value
-

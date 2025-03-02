@@ -13,6 +13,3 @@ If Minimap / Radar should be displayed.
 
 ## Parameters
 * **toggle**:
-
-
-

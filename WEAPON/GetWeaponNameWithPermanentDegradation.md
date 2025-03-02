@@ -16,4 +16,3 @@ char* _GET_WEAPON_NAME_WITH_PERMANENT_DEGRADATION(Hash weaponHash,float permanen
 * **permanentDegradationLevel**:
 
 ## Return value
-

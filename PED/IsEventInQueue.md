@@ -16,4 +16,3 @@ Any IS_EVENT_IN_QUEUE(Ped ped,Hash eventType);
 * **eventType**:
 
 ## Return value
-

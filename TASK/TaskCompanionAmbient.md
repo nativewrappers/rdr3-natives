@@ -13,6 +13,3 @@ void TASK_COMPANION_AMBIENT(Ped ped,Any p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

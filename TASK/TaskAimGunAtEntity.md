@@ -17,6 +17,3 @@ duration: the amount of time in milliseconds to do the task.  -1 will keep the t
 * **duration**:
 * **p3**:
 * **p4**:
-
-
-

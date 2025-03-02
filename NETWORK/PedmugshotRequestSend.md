@@ -13,4 +13,3 @@ Any _PEDMUGSHOT_REQUEST_SEND();
 
 
 ## Return value
-

@@ -13,6 +13,3 @@ void SET_PED_MODEL_IS_SUPPRESSED(Hash model,BOOL toggle);
 ## Parameters
 * **model**:
 * **toggle**:
-
-
-

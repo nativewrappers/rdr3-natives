@@ -15,4 +15,3 @@ float GET_ANIM_DURATION(const char* animDict,const char* animName);
 * **animName**:
 
 ## Return value
-

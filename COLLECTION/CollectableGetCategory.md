@@ -17,4 +17,3 @@ Returns collectableCategory Hash
 * **collectableItem**:
 
 ## Return value
-

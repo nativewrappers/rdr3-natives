@@ -12,6 +12,3 @@ void DISABLE_ALL_CONTROL_ACTIONS(int control);
 
 ## Parameters
 * **control**:
-
-
-

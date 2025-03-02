@@ -17,6 +17,3 @@ Old name: _SET_OBJECT_TEXTURE_VARIATION
 ## Parameters
 * **object**:
 * **textureVariation**:
-
-
-

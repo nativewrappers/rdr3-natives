@@ -13,6 +13,3 @@ void SET_PLAYER_CLOTH_PIN_FRAMES(Ped ped,int p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

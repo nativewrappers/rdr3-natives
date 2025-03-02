@@ -26,6 +26,3 @@ void TASK_GO_TO_COORD_WHILE_AIMING_AT_ENTITY_USING_COMBAT_STYLE(Ped ped,Any p1,A
 * **p12**:
 * **p13**:
 * **p14**:
-
-
-

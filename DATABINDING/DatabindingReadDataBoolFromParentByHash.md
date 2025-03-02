@@ -15,4 +15,3 @@ Any _DATABINDING_READ_DATA_BOOL_FROM_PARENT_BY_HASH(Any p0,Hash p1);
 * **p1**:
 
 ## Return value
-

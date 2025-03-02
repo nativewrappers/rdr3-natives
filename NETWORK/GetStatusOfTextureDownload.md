@@ -18,4 +18,3 @@ int GET_STATUS_OF_TEXTURE_DOWNLOAD(int textureDownloadId);
 * **textureDownloadId**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ int NETWORK_GET_NUM_GANG_MEMBERS(Any gangId);
 * **gangId**:
 
 ## Return value
-

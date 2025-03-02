@@ -16,4 +16,3 @@ Any IS_PED_USING_THIS_SCENARIO(Ped ped,int scenario);
 * **scenario**:
 
 ## Return value
-

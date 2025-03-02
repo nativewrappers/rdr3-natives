@@ -13,6 +13,3 @@ void _TELEMETRY_CAMP_CREATED(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

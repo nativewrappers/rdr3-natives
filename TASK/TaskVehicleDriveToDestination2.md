@@ -21,6 +21,3 @@ Tasks vehicle towards owner
 * **p6**:
 * **p7**:
 * **p8**:
-
-
-

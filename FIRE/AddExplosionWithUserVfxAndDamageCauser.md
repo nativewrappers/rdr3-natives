@@ -25,6 +25,3 @@ explosionFx: https://github.com/femga/rdr3_discoveries/blob/master/graphics/expl
 * **isAudible**:
 * **isInvisible**:
 * **cameraShake**:
-
-
-

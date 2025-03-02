@@ -14,6 +14,3 @@ void _0xD049FDAF089FDDB0(Ped ped,Hash p1,float p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

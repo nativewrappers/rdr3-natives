@@ -19,4 +19,3 @@ It's for humans only and the ped must be resurrected first if it's dead.
 * **index**:
 
 ## Return value
-

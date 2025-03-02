@@ -23,4 +23,3 @@ BOOL GET_NTH_CLOSEST_VEHICLE_NODE_WITH_HEADING(float x,float y,float z,int nthCl
 * **unknown4**:
 
 ## Return value
-

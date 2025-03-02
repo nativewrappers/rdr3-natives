@@ -14,6 +14,3 @@ See REQUEST_VEHICLE_RECORDING
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

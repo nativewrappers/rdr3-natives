@@ -14,6 +14,3 @@ Old name: _MARK_OBJECT_FOR_DELETION
 
 ## Parameters
 * **object**:
-
-
-

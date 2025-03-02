@@ -12,6 +12,3 @@ void TAKE_OWNERSHIP_OF_ANIM_SCENE(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

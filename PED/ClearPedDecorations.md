@@ -12,6 +12,3 @@ void CLEAR_PED_DECORATIONS(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

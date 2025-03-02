@@ -14,6 +14,3 @@ void _NETWORK_ADD_PLAYER_TO_RECENT_GAMERS_LIST(Player player,int p1);
 ## Parameters
 * **player**:
 * **p1**:
-
-
-

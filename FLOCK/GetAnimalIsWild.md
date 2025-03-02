@@ -17,4 +17,3 @@ Used for: REL_DOMESTICATED_ANIMAL
 * **ped**:
 
 ## Return value
-

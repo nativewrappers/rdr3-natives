@@ -17,6 +17,3 @@ Sets the checkpoint color.
 * **green**:
 * **blue**:
 * **alpha**:
-
-
-

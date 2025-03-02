@@ -13,6 +13,3 @@ void _SET_PHOTO_OVERLAY_EFFECT_STAT(int p0);
 
 ## Parameters
 * **p0**:
-
-
-

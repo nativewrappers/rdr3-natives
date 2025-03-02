@@ -13,6 +13,3 @@ void INFORM_CODE_OF_CONTENT_ID_OF_CURRENT_UGC_MISSION(const char* p0);
 
 ## Parameters
 * **p0**:
-
-
-

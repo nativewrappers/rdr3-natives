@@ -15,6 +15,3 @@ void _SET_PLAYER_GREET_DISABLED_FOR_PED(Ped ped,Player player,int duration);
 * **ped**:
 * **player**:
 * **duration**:
-
-
-

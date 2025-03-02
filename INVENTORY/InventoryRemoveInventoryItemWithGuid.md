@@ -18,4 +18,3 @@ Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_GUID(int inventoryId,Any* guid,int qua
 * **removeReason**:
 
 ## Return value
-

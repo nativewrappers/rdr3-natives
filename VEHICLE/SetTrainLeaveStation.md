@@ -14,6 +14,3 @@ Restarts the train
 
 ## Parameters
 * **train**:
-
-
-

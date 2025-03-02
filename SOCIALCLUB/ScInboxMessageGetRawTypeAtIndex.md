@@ -15,4 +15,3 @@ char* SC_INBOX_MESSAGE_GET_RAW_TYPE_AT_INDEX(int p0);
 * **p0**:
 
 ## Return value
-

@@ -20,4 +20,3 @@ struct StatId
 * **statId**:
 
 ## Return value
-

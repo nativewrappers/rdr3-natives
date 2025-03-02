@@ -21,4 +21,3 @@ enum eThreadExitReason
 
 
 ## Return value
-

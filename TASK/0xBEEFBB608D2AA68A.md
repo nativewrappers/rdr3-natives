@@ -12,6 +12,3 @@ void _0xBEEFBB608D2AA68A(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

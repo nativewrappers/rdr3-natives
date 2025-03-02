@@ -9,8 +9,3 @@ apiset: client
 // 0x1411A7CBC3A6EB7B
 void RESET_SCRIPT_TIME_WITHIN_FRAME();
 ```
-
-
-
-
-

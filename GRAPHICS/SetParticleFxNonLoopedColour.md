@@ -14,6 +14,3 @@ void SET_PARTICLE_FX_NON_LOOPED_COLOUR(float r,float g,float b);
 * **r**:
 * **g**:
 * **b**:
-
-
-

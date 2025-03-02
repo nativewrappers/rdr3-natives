@@ -14,6 +14,3 @@ void _SET_PED_PROMPT_NAME_FROM_GXT_ENTRY(Ped ped,Hash gxtEntryHash);
 ## Parameters
 * **ped**:
 * **gxtEntryHash**:
-
-
-

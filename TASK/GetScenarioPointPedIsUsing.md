@@ -16,4 +16,3 @@ int _GET_SCENARIO_POINT_PED_IS_USING(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

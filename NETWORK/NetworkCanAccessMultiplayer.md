@@ -14,4 +14,3 @@ BOOL NETWORK_CAN_ACCESS_MULTIPLAYER(int* loadingState);
 * **loadingState**:
 
 ## Return value
-

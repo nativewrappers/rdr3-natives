@@ -14,6 +14,3 @@ Sets the vehicle's lights state.
 ## Parameters
 * **vehicle**:
 * **state**:
-
-
-

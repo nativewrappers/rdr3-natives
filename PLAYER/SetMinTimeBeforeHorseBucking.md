@@ -14,6 +14,3 @@ void SET_MIN_TIME_BEFORE_HORSE_BUCKING(Ped mount,int iMinBuckTime);
 ## Parameters
 * **mount**:
 * **iMinBuckTime**:
-
-
-

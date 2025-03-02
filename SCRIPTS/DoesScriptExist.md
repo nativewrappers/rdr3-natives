@@ -14,4 +14,3 @@ BOOL DOES_SCRIPT_EXIST(const char* scriptName);
 * **scriptName**:
 
 ## Return value
-

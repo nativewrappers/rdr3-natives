@@ -13,6 +13,3 @@ void _REMOVE_AMBIENT_SPAWN_RESTRICTION(Volume volume);
 
 ## Parameters
 * **volume**:
-
-
-

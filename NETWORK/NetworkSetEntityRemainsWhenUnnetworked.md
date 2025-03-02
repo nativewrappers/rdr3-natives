@@ -14,6 +14,3 @@ void NETWORK_SET_ENTITY_REMAINS_WHEN_UNNETWORKED(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

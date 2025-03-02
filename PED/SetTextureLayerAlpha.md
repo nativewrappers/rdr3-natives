@@ -15,6 +15,3 @@ void _SET_TEXTURE_LAYER_ALPHA(int textureId,int layerId,float texAlpha);
 * **textureId**:
 * **layerId**:
 * **texAlpha**:
-
-
-

@@ -16,6 +16,3 @@ Despite its name, it only attacks ONE hated target. The one closest hated target
 * **radius**:
 * **flags**:
 * **p3**:
-
-
-

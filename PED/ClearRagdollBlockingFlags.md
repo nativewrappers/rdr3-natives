@@ -14,6 +14,3 @@ flags: see SET_RAGDOLL_BLOCKING_FLAGS
 ## Parameters
 * **ped**:
 * **flags**:
-
-
-

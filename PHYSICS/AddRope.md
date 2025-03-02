@@ -34,4 +34,3 @@ Rope types 0, 15 and 18 have proper physics for hanging objects (taut, do not sa
 * **p17**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Old name: _EVENT_MANAGER_IS_EVENT_PENDING
 * **hash**:
 
 ## Return value
-

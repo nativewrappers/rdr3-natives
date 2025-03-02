@@ -13,6 +13,3 @@ void SET_AUDIO_VEHICLE_PRIORITY(Vehicle vehicle,Any p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

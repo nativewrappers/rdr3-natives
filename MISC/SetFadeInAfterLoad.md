@@ -12,6 +12,3 @@ void SET_FADE_IN_AFTER_LOAD(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

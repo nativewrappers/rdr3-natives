@@ -15,4 +15,3 @@ Any IS_PED_HOGTIED(Ped ped);
 * **ped**:
 
 ## Return value
-

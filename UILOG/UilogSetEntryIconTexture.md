@@ -16,6 +16,3 @@ void _UILOG_SET_ENTRY_ICON_TEXTURE(int p0,Hash p1,Hash icon,Hash iconDictionary)
 * **p1**:
 * **icon**:
 * **iconDictionary**:
-
-
-

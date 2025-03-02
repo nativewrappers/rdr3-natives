@@ -13,6 +13,3 @@ void SET_ANIM_SCENE_RATE(AnimScene animScene,float rate);
 ## Parameters
 * **animScene**:
 * **rate**:
-
-
-

@@ -15,4 +15,3 @@ Ped _GET_TEMP_PLAYER_HORSE(Player player);
 * **player**:
 
 ## Return value
-

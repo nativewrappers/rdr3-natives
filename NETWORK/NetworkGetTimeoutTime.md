@@ -12,4 +12,3 @@ int NETWORK_GET_TIMEOUT_TIME();
 
 
 ## Return value
-

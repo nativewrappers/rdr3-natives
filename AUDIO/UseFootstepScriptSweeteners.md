@@ -15,6 +15,3 @@ void USE_FOOTSTEP_SCRIPT_SWEETENERS(Ped ped,BOOL p1,Hash hash);
 * **ped**:
 * **p1**:
 * **hash**:
-
-
-

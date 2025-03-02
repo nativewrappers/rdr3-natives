@@ -16,4 +16,3 @@ Returns true if calling script owns specified entity
 * **entity**:
 
 ## Return value
-

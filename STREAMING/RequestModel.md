@@ -14,6 +14,3 @@ Request a model to be loaded into memory.
 ## Parameters
 * **model**:
 * **p1**:
-
-
-

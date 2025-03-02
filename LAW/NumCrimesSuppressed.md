@@ -17,4 +17,3 @@ Returns amount of suppressed crimes to be used later in the function MPINTRO_CRI
 * **crimeType**:
 
 ## Return value
-

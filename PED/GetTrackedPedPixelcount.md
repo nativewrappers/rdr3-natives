@@ -15,4 +15,3 @@ int GET_TRACKED_PED_PIXELCOUNT(Ped ped);
 * **ped**:
 
 ## Return value
-

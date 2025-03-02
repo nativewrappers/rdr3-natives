@@ -15,4 +15,3 @@ int _GET_GROUP_FORMATION(int groupId);
 * **groupId**:
 
 ## Return value
-

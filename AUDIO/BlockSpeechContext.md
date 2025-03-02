@@ -14,6 +14,3 @@ void _BLOCK_SPEECH_CONTEXT(const char* context,BOOL block);
 ## Parameters
 * **context**:
 * **block**:
-
-
-

@@ -13,6 +13,3 @@ void _UNPIN_MAP_ENTITY(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

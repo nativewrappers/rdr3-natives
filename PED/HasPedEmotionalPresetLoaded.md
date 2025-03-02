@@ -17,4 +17,3 @@ See _REQUEST_PED_EMOTIONAL_PRESET
 * **name**:
 
 ## Return value
-

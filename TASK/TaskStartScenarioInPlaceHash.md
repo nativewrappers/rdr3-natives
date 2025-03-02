@@ -27,6 +27,3 @@ For example, this scenario type has possible conditional anim WORLD_HUMAN_LEAN_B
 * **conditionalHash**:
 * **heading**:
 * **p6**:
-
-
-

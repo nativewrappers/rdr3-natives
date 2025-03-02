@@ -12,6 +12,3 @@ void OPEN_SEQUENCE_TASK(int* taskSequenceId);
 
 ## Parameters
 * **taskSequenceId**:
-
-
-

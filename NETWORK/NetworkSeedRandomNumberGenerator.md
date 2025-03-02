@@ -13,6 +13,3 @@ void NETWORK_SEED_RANDOM_NUMBER_GENERATOR(int seed);
 
 ## Parameters
 * **seed**:
-
-
-

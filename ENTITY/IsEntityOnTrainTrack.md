@@ -15,4 +15,3 @@ Any _IS_ENTITY_ON_TRAIN_TRACK(Entity entity);
 * **entity**:
 
 ## Return value
-

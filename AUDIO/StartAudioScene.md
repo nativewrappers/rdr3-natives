@@ -14,4 +14,3 @@ BOOL START_AUDIO_SCENE(const char* scene);
 * **scene**:
 
 ## Return value
-

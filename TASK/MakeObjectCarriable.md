@@ -13,6 +13,3 @@ void _MAKE_OBJECT_CARRIABLE(Object object);
 
 ## Parameters
 * **object**:
-
-
-

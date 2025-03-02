@@ -14,6 +14,3 @@ Only used in rcm_crackpot1 R* Script: p0 = 0
 
 ## Parameters
 * **index**:
-
-
-

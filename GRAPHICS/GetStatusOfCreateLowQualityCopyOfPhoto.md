@@ -16,4 +16,3 @@ Old name: _GET_STATUS_OF_DRAW_LOW_QUALITY_PHOTO
 * **p0**:
 
 ## Return value
-

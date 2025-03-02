@@ -14,4 +14,3 @@ BOOL IS_PED_USING_ANY_SCENARIO(Ped ped);
 * **ped**:
 
 ## Return value
-

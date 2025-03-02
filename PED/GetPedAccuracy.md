@@ -14,4 +14,3 @@ int GET_PED_ACCURACY(Ped ped);
 * **ped**:
 
 ## Return value
-

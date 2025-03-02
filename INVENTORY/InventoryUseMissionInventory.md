@@ -14,6 +14,3 @@ void _INVENTORY_USE_MISSION_INVENTORY(BOOL enable,BOOL mirrorTransactions);
 ## Parameters
 * **enable**:
 * **mirrorTransactions**:
-
-
-

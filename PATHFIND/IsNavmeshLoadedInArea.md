@@ -20,4 +20,3 @@ Returns whether navmesh for the region is loaded.
 * **z2**:
 
 ## Return value
-

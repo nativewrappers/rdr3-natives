@@ -14,6 +14,3 @@ void CHAL_ADD_GOAL_PROGRESS_INT(Hash chalHash,Hash goalHash,int value);
 * **chalHash**:
 * **goalHash**:
 * **value**:
-
-
-

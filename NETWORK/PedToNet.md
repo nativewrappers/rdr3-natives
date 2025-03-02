@@ -15,4 +15,3 @@ Returns the network ID of the given ped.
 * **ped**:
 
 ## Return value
-

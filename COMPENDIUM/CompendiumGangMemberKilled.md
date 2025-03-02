@@ -12,6 +12,3 @@ void COMPENDIUM_GANG_MEMBER_KILLED(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

@@ -8,8 +8,3 @@ apiset: client
 // 0xD37401D78A929A49
 void REMOVE_SCENARIO_BLOCKING_AREAS();
 ```
-
-
-
-
-

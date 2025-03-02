@@ -18,6 +18,3 @@ Used to be incorrectly named _SET_VEHICLE_EXCLUSIVE_DRIVER_2
 * **vehicle**:
 * **ped**:
 * **index**:
-
-
-

@@ -16,4 +16,3 @@ Any NETWORK_RESET_POPULATION(BOOL p0,int p1);
 * **p1**:
 
 ## Return value
-

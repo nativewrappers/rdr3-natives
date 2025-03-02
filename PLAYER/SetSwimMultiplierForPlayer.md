@@ -15,6 +15,3 @@ Multiplier goes up to 1.49f
 ## Parameters
 * **player**:
 * **multiplier**:
-
-
-

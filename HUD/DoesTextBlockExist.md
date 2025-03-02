@@ -15,4 +15,3 @@ Any _DOES_TEXT_BLOCK_EXIST(const char* textDatabase);
 * **textDatabase**:
 
 ## Return value
-

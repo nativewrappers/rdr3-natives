@@ -12,4 +12,3 @@ int GET_FRAME_COUNT();
 
 
 ## Return value
-

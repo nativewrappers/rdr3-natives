@@ -15,6 +15,3 @@ Disables the players ability to be wanted by lawmen
 ## Parameters
 * **player**:
 * **disable**:
-
-
-

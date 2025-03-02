@@ -12,6 +12,3 @@ void _JOURNAL_WRITE_ENTRY(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

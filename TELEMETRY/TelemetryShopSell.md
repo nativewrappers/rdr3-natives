@@ -17,6 +17,3 @@ void _TELEMETRY_SHOP_SELL(Any p0,Any p1,Any p2,Any p3,int centSalePrice);
 * **p2**:
 * **p3**:
 * **centSalePrice**:
-
-
-

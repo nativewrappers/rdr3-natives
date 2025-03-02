@@ -15,4 +15,3 @@ Entity _GET_FIRST_ENTITY_PED_IS_CARRYING(Ped ped);
 * **ped**:
 
 ## Return value
-

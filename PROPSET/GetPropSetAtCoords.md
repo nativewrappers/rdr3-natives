@@ -18,4 +18,3 @@ PropSet _GET_PROP_SET_AT_COORDS(Hash propsetHash,float x,float y,float z);
 * **z**:
 
 ## Return value
-

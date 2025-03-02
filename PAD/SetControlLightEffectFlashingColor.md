@@ -17,6 +17,3 @@ nullsub, doesn't do anything
 * **red**:
 * **green**:
 * **blue**:
-
-
-

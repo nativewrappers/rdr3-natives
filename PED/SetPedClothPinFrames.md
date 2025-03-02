@@ -15,6 +15,3 @@ Old name: SET_PED_CLOTH_PACKAGE_INDEX
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

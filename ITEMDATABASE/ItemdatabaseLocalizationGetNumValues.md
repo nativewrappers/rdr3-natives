@@ -17,4 +17,3 @@ Returns iNumValuesForType
 * **p1**:
 
 ## Return value
-

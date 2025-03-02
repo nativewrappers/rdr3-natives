@@ -13,4 +13,3 @@ Note: this native was added in build 1311.16
 
 
 ## Return value
-

@@ -26,6 +26,3 @@ See common/data/ai/densityscoringconfigs.meta for more information.
 
 ## Parameters
 * **configHash**:
-
-
-

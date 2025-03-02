@@ -16,6 +16,3 @@ Modifies the "scent line" on the ped's body when using Eagle Eye.
 ## Parameters
 * **ped**:
 * **scent**:
-
-
-

@@ -16,4 +16,3 @@ crimeType: see _REPORT_CRIME
 * **p1**:
 
 ## Return value
-

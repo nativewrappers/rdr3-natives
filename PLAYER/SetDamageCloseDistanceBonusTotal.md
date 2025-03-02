@@ -14,6 +14,3 @@ void _SET_DAMAGE_CLOSE_DISTANCE_BONUS_TOTAL(Player player,float closeDamageBonus
 ## Parameters
 * **player**:
 * **closeDamageBonus**:
-
-
-

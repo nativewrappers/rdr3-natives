@@ -13,6 +13,3 @@ void DISABLE_AMBIENT_ROAD_POPULATION(BOOL unk);
 
 ## Parameters
 * **unk**:
-
-
-

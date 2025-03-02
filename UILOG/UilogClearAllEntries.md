@@ -9,8 +9,3 @@ apiset: client
 // 0xB95B4EA6B1EDF035
 void _UILOG_CLEAR_ALL_ENTRIES();
 ```
-
-
-
-
-

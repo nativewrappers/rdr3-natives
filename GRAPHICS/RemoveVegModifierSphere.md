@@ -14,6 +14,3 @@ void REMOVE_VEG_MODIFIER_SPHERE(int vegModifierHandle,int p1);
 ## Parameters
 * **vegModifierHandle**:
 * **p1**:
-
-
-

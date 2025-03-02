@@ -13,6 +13,3 @@ void SET_STATIC_EMITTER_ENABLED(const char* emitterName,BOOL toggle);
 ## Parameters
 * **emitterName**:
 * **toggle**:
-
-
-

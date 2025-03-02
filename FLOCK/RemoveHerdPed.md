@@ -14,6 +14,3 @@ Remove the ped from a herd.
 ## Parameters
 * **herd**:
 * **ped**:
-
-
-

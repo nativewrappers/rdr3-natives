@@ -13,6 +13,3 @@ void TASK_DUCK(Ped ped,int time);
 ## Parameters
 * **ped**:
 * **time**:
-
-
-

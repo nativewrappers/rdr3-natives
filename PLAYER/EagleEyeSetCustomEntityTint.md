@@ -16,6 +16,3 @@ void EAGLE_EYE_SET_CUSTOM_ENTITY_TINT(Entity entity,int red,int green,int blue);
 * **red**:
 * **green**:
 * **blue**:
-
-
-

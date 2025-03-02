@@ -15,4 +15,3 @@ Any PARSEDDATA_IS_FILE_LOADED(int fileHandle);
 * **fileHandle**:
 
 ## Return value
-

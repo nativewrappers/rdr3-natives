@@ -12,4 +12,3 @@ BOOL _IS_MULTIPLAYER_CHAT_ACTIVE();
 
 
 ## Return value
-

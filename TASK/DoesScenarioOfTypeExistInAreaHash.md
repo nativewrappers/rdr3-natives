@@ -20,4 +20,3 @@ Any DOES_SCENARIO_OF_TYPE_EXIST_IN_AREA_HASH(float x,float y,float z,Hash typeHa
 * **p5**:
 
 ## Return value
-

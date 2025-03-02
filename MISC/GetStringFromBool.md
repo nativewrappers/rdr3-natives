@@ -15,4 +15,3 @@ char* _GET_STRING_FROM_BOOL(BOOL value);
 * **value**:
 
 ## Return value
-

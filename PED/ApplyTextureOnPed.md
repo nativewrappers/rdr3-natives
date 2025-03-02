@@ -15,6 +15,3 @@ void _APPLY_TEXTURE_ON_PED(Ped ped,Hash componentHash,int textureId);
 * **ped**:
 * **componentHash**:
 * **textureId**:
-
-
-

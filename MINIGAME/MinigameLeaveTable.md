@@ -14,4 +14,3 @@ Any _MINIGAME_LEAVE_TABLE(Any p0);
 * **p0**:
 
 ## Return value
-

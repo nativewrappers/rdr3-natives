@@ -14,4 +14,3 @@ BOOL HAS_VEHICLE_ASSET_LOADED(Hash vehicleAsset);
 * **vehicleAsset**:
 
 ## Return value
-

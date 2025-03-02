@@ -17,6 +17,3 @@ void _SET_TEXTURE_LAYER_MOD(int textureId,int layerId,Hash modTextureHash,float 
 * **modTextureHash**:
 * **modAlpha**:
 * **modChannel**:
-
-
-

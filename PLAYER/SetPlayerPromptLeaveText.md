@@ -14,6 +14,3 @@ Sets the stand prompt for a specific player using a predefined text entry. use A
 ## Parameters
 * **player**:
 * **promptTextKey**:
-
-
-

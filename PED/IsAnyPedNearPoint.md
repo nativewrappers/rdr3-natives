@@ -17,4 +17,3 @@ BOOL IS_ANY_PED_NEAR_POINT(float x,float y,float z,float radius);
 * **radius**:
 
 ## Return value
-

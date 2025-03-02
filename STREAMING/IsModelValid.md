@@ -15,4 +15,3 @@ Returns whether the specified model is valid
 * **model**:
 
 ## Return value
-

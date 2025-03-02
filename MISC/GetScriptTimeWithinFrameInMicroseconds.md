@@ -13,4 +13,3 @@ int GET_SCRIPT_TIME_WITHIN_FRAME_IN_MICROSECONDS();
 
 
 ## Return value
-

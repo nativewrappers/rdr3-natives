@@ -27,4 +27,3 @@ enum eScriptWaterTestResult
 * **intersectionPos**:
 
 ## Return value
-

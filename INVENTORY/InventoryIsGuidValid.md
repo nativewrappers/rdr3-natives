@@ -15,4 +15,3 @@ Any _INVENTORY_IS_GUID_VALID(Any* guid);
 * **guid**:
 
 ## Return value
-

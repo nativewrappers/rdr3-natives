@@ -15,6 +15,3 @@ Known get up animation types: REAR, FRONT
 ## Parameters
 * **ped**:
 * **getUpType**:
-
-
-

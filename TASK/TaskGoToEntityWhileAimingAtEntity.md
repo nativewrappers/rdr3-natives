@@ -25,6 +25,3 @@ If false, peds will just walk till they reach the entity and will cease shooting
 * **p8**:
 * **p9**:
 * **p10**:
-
-
-

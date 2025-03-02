@@ -16,4 +16,3 @@ doorId: see SET_VEHICLE_DOOR_SHUT
 * **doorId**:
 
 ## Return value
-

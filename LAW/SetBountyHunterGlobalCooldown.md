@@ -15,6 +15,3 @@ p0 is always BOUNTYHUNTERSGLOBALCOOLDOWN in R* scripts
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

@@ -16,4 +16,3 @@ Old name: _IS_INTERIOR_RENDERING_DISABLED
 
 
 ## Return value
-

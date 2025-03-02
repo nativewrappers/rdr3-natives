@@ -18,4 +18,3 @@ Params: p2 can be a component item hash
 * **outKey**:
 
 ## Return value
-

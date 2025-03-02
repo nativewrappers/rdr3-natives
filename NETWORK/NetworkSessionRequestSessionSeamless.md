@@ -22,4 +22,3 @@ p1 is unused
 * **sessionRequestId**:
 
 ## Return value
-

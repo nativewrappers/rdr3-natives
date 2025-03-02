@@ -13,6 +13,3 @@ _RESET_PED_*
 
 ## Parameters
 * **ped**:
-
-
-

@@ -15,4 +15,3 @@ Any _NETWORK_SET_GANG_PRIVACY(int privacyType);
 * **privacyType**:
 
 ## Return value
-

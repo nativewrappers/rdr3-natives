@@ -14,4 +14,3 @@ Any _IS_ENTITY_REVIVABLE(Ped ped);
 * **ped**:
 
 ## Return value
-

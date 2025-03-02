@@ -14,4 +14,3 @@ float SIMULATED_ROUTE_GET_ETA(Any p0);
 * **p0**:
 
 ## Return value
-

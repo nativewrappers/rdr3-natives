@@ -18,6 +18,3 @@ tumbler_fill, Canvas, Stew_Fill, from Chip01_Ctrl to Chip10_Ctrl, from empty_jug
 * **p1**:
 * **p2**:
 * **fill**:
-
-
-

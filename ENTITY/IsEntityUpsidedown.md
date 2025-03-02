@@ -14,4 +14,3 @@ BOOL IS_ENTITY_UPSIDEDOWN(Entity entity);
 * **entity**:
 
 ## Return value
-

@@ -8,8 +8,3 @@ apiset: client
 // 0x6D14CCEE1B40381A
 void NETWORK_CLEAR_FOUND_GAMERS();
 ```
-
-
-
-
-

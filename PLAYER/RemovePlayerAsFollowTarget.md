@@ -14,6 +14,3 @@ void _REMOVE_PLAYER_AS_FOLLOW_TARGET(Player player,Ped ped);
 ## Parameters
 * **player**:
 * **ped**:
-
-
-

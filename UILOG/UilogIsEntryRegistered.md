@@ -16,4 +16,3 @@ Any _UILOG_IS_ENTRY_REGISTERED(int p0,Hash p1);
 * **p1**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _SET_TRANSPORT_PRIORITY_SEAT(Entity transportEntity,int seatIndex);
 ## Parameters
 * **transportEntity**:
 * **seatIndex**:
-
-
-

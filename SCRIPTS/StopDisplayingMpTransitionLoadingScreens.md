@@ -13,6 +13,3 @@ void STOP_DISPLAYING_MP_TRANSITION_LOADING_SCREENS(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

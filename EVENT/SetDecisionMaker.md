@@ -13,6 +13,3 @@ void SET_DECISION_MAKER(Ped ped,Hash name);
 ## Parameters
 * **ped**:
 * **name**:
-
-
-

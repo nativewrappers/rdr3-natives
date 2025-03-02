@@ -15,6 +15,3 @@ Sets the weapon that the specified player will aim with. The weapon must already
 * **player**:
 * **weapon**:
 * **attachSlotId**:
-
-
-

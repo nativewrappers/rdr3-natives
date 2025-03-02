@@ -15,4 +15,3 @@ Gets the number of passengers, NOT including the driver. Use IS_VEHICLE_SEAT_FRE
 * **vehicle**:
 
 ## Return value
-

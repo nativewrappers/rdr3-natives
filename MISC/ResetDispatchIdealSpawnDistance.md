@@ -8,8 +8,3 @@ apiset: client
 // 0xC7817264BC4B6377
 void RESET_DISPATCH_IDEAL_SPAWN_DISTANCE();
 ```
-
-
-
-
-

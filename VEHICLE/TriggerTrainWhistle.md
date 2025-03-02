@@ -18,6 +18,3 @@ p2 = true seems to mute the sound
 * **whistleSequence**:
 * **p2**:
 * **p3**:
-
-
-

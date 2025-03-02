@@ -14,6 +14,3 @@ void _SET_FORCE_AUTO_EQUIP(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

@@ -14,6 +14,3 @@ void _UILOG_SET_TOTAL_TAKE_SUMMARY(const char* p0,const char* p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

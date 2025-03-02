@@ -13,4 +13,3 @@ Any IS_LOAD_SCENE_ACTIVE();
 
 
 ## Return value
-

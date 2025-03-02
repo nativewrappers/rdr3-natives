@@ -17,4 +17,3 @@ Any _INVENTORY_EQUIP_ITEM_WITH_GUID(int inventoryId,Any* guid,BOOL bEquipped);
 * **bEquipped**:
 
 ## Return value
-

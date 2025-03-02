@@ -54,6 +54,3 @@ enum eWeaponAttachPoint
 * **attachPoint**:
 * **p4**:
 * **p5**:
-
-
-

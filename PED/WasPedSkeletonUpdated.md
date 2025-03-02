@@ -15,4 +15,3 @@ Despite this function's name, it simply returns whether the specified handle is 
 * **ped**:
 
 ## Return value
-

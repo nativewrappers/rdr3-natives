@@ -13,6 +13,3 @@ void _UNLOCK_SET_NEW(Hash unlockHash,BOOL toggle);
 ## Parameters
 * **unlockHash**:
 * **toggle**:
-
-
-

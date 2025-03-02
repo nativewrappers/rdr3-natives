@@ -20,6 +20,3 @@ void _SET_PED_DEFENSIVE_SPHERE_ATTACHED_TO_ENTITY(Ped ped,Entity entity,float x,
 * **radius**:
 * **p6**:
 * **p7**:
-
-
-

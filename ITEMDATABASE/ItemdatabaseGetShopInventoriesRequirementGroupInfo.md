@@ -18,4 +18,3 @@ Any _ITEMDATABASE_GET_SHOP_INVENTORIES_REQUIREMENT_GROUP_INFO(Hash shopType,Hash
 * **outData**:
 
 ## Return value
-

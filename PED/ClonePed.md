@@ -17,4 +17,3 @@ Ped CLONE_PED(Ped ped,BOOL isNetwork,BOOL bScriptHostPed,BOOL copyHeadBlendFlag)
 * **copyHeadBlendFlag**:
 
 ## Return value
-

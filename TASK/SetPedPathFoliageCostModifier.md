@@ -14,6 +14,3 @@ void SET_PED_PATH_FOLIAGE_COST_MODIFIER(Ped ped,float modifier);
 ## Parameters
 * **ped**:
 * **modifier**:
-
-
-

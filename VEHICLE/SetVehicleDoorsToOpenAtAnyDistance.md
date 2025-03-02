@@ -13,6 +13,3 @@ void SET_VEHICLE_DOORS_TO_OPEN_AT_ANY_DISTANCE(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

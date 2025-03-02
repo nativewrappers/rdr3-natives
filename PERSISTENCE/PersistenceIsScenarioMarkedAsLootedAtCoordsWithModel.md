@@ -18,4 +18,3 @@ Any _PERSISTENCE_IS_SCENARIO_MARKED_AS_LOOTED_AT_COORDS_WITH_MODEL(float x,float
 * **model**:
 
 ## Return value
-

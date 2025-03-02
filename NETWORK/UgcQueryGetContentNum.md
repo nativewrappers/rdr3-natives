@@ -15,4 +15,3 @@ int UGC_QUERY_GET_CONTENT_NUM(int ugcRequestId);
 * **ugcRequestId**:
 
 ## Return value
-

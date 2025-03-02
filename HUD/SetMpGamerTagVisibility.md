@@ -22,6 +22,3 @@ enum eUIGamertagVisibility
 ## Parameters
 * **gamerTagId**:
 * **visibility**:
-
-
-

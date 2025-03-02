@@ -16,6 +16,3 @@ For all vehicle recording/playback natives, "script" is a common prefix that usu
 ## Parameters
 * **recording**:
 * **script**:
-
-
-

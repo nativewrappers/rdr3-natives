@@ -19,4 +19,3 @@ Returns true when investigation creation was successful
 * **z**:
 
 ## Return value
-

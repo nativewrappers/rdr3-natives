@@ -12,6 +12,3 @@ void _FORCE_REST_SCENARIO(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

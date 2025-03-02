@@ -12,6 +12,3 @@ void _0xE3AB5EEFCB6671A2(int setting);
 
 ## Parameters
 * **setting**:
-
-
-

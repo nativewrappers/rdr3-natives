@@ -14,4 +14,3 @@ _GET_C* - _GET_E*
 
 
 ## Return value
-

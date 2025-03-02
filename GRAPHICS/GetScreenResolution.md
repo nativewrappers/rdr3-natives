@@ -14,6 +14,3 @@ Hardcoded to always set x to 1280 and y to 720.
 ## Parameters
 * **x**:
 * **y**:
-
-
-

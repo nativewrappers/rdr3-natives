@@ -13,6 +13,3 @@ void _ANIMPOSTFX_CLEAR_EFFECT(const char* effectName);
 
 ## Parameters
 * **effectName**:
-
-
-

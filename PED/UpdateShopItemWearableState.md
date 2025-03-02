@@ -18,6 +18,3 @@ void _UPDATE_SHOP_ITEM_WEARABLE_STATE(Ped ped,Hash componentHash,Hash wearableSt
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

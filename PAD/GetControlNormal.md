@@ -15,4 +15,3 @@ float GET_CONTROL_NORMAL(int control,Hash action);
 * **action**:
 
 ## Return value
-

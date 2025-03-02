@@ -13,6 +13,3 @@ void STOP_PED_SPEAKING(Ped ped,BOOL shaking);
 ## Parameters
 * **ped**:
 * **shaking**:
-
-
-

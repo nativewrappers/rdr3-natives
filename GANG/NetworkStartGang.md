@@ -18,6 +18,3 @@ campSize: NET_CAMP_SIZE_SMALLEST = 4, NET_CAMP_SIZE_LARGEST = 7
 ## Parameters
 * **openStatus**:
 * **campSize**:
-
-
-

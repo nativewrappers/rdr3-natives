@@ -24,4 +24,3 @@ _GET_NUM_M* - _GET_PEDS_J*
 * **itemset**:
 
 ## Return value
-

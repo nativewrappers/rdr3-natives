@@ -14,6 +14,3 @@ Sets a vehicle to be strongly resistant to explosions. p0 is the vehicle; set p1
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

@@ -15,4 +15,3 @@ BOOL _IS_HERD_VALID(ScrHandle herdHandle);
 * **herdHandle**:
 
 ## Return value
-

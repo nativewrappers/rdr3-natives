@@ -14,4 +14,3 @@ Object GET_PICKUP_OBJECT(Pickup pickup);
 * **pickup**:
 
 ## Return value
-

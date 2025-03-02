@@ -14,6 +14,3 @@ void _SET_WEAPON_DEGRADATION_MODIFIER(Player player,float modifier);
 ## Parameters
 * **player**:
 * **modifier**:
-
-
-

@@ -14,6 +14,3 @@ void SET_ENTITY_NO_COLLISION_ENTITY(Entity entity1,Entity entity2,BOOL thisFrame
 * **entity1**:
 * **entity2**:
 * **thisFrameOnly**:
-
-
-

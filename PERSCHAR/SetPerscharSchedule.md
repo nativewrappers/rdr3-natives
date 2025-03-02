@@ -14,6 +14,3 @@ void _SET_PERSCHAR_SCHEDULE(Hash persCharHash,const char* schedule);
 ## Parameters
 * **persCharHash**:
 * **schedule**:
-
-
-

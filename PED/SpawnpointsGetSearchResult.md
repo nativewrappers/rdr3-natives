@@ -16,6 +16,3 @@ void SPAWNPOINTS_GET_SEARCH_RESULT(int randomInt,float* x,Any* y,float* z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

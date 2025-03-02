@@ -13,6 +13,3 @@ void _SET_PED_PATH_NEVER_USE_INTERIORS(Ped ped,BOOL neverUseInteriors);
 ## Parameters
 * **ped**:
 * **neverUseInteriors**:
-
-
-

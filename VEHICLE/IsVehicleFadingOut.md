@@ -15,4 +15,3 @@ Any _IS_VEHICLE_FADING_OUT(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

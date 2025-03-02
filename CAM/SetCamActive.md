@@ -14,6 +14,3 @@ Set camera as active/inactive.
 ## Parameters
 * **cam**:
 * **active**:
-
-
-

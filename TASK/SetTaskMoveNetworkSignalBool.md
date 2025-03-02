@@ -14,6 +14,3 @@ void SET_TASK_MOVE_NETWORK_SIGNAL_BOOL(Ped ped,const char* signalName,BOOL value
 * **ped**:
 * **signalName**:
 * **value**:
-
-
-

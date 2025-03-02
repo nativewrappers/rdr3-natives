@@ -14,6 +14,3 @@ void _TELEMETRY_ANIMAL_SKINNED(Hash type,Any* items);
 ## Parameters
 * **type**:
 * **items**:
-
-
-

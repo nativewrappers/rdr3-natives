@@ -19,4 +19,3 @@ When passing a hash, flags should be 0.
 * **...**:
 
 ## Return value
-

@@ -13,4 +13,3 @@ Returns value of fwuiCachedSetting "general.onlineNotificationsInStoryMode"
 
 
 ## Return value
-

@@ -14,6 +14,3 @@ Setting this to false, makes the specified vehicle to where if you press Y your 
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

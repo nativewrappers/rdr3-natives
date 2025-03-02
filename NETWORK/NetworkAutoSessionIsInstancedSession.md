@@ -13,4 +13,3 @@ Any _NETWORK_AUTO_SESSION_IS_INSTANCED_SESSION();
 
 
 ## Return value
-

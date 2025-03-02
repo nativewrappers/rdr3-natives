@@ -15,4 +15,3 @@ Any _IS_AMMO_SILENT_2(Hash ammoHash);
 * **ammoHash**:
 
 ## Return value
-

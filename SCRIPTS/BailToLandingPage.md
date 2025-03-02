@@ -13,6 +13,3 @@ void BAIL_TO_LANDING_PAGE(int bailCode);
 
 ## Parameters
 * **bailCode**:
-
-
-

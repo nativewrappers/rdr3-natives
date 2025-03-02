@@ -16,6 +16,3 @@ void _SET_PED_CROUCH_MOVEMENT(Ped ped,BOOL state,int p2,BOOL immediately);
 * **state**:
 * **p2**:
 * **immediately**:
-
-
-

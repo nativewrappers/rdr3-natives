@@ -20,4 +20,3 @@ Known props: https://pastebin.com/ap2NEJqB
 * **detachProp**:
 
 ## Return value
-

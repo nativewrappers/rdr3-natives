@@ -15,4 +15,3 @@ BOOL SET_VEHICLE_ON_GROUND_PROPERLY(Vehicle vehicle,BOOL p1);
 * **p1**:
 
 ## Return value
-

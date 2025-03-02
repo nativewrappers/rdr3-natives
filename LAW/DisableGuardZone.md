@@ -12,6 +12,3 @@ void _DISABLE_GUARD_ZONE(const char* name);
 
 ## Parameters
 * **name**:
-
-
-

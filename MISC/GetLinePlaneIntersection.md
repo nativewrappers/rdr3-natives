@@ -27,4 +27,3 @@ BOOL GET_LINE_PLANE_INTERSECTION(float p0,float p1,float p2,float p3,float p4,fl
 * **p12**:
 
 ## Return value
-

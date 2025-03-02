@@ -13,4 +13,3 @@ If you are host, returns true else returns false.
 
 
 ## Return value
-

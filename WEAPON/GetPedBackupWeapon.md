@@ -16,4 +16,3 @@ Hash GET_PED_BACKUP_WEAPON(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

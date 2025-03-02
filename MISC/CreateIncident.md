@@ -23,4 +23,3 @@ dispatchService: see ENABLE_DISPATCH_SERVICE
 * **p8**:
 
 ## Return value
-

@@ -20,4 +20,3 @@ Any GIVE_PED_HASH_SCENARIO_PROP(Ped ped,Object object,const char* conditionalAni
 * **p5**:
 
 ## Return value
-

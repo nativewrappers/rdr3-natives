@@ -16,4 +16,3 @@ Always returns -1. Seems to be XB1 specific.
 * **gamerHandle**:
 
 ## Return value
-

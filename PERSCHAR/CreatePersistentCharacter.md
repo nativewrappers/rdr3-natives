@@ -15,4 +15,3 @@ PersChar _CREATE_PERSISTENT_CHARACTER(Hash hash);
 * **hash**:
 
 ## Return value
-

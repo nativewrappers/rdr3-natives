@@ -12,6 +12,3 @@ void DESTROY_TRACKED_POINT(int point);
 
 ## Parameters
 * **point**:
-
-
-

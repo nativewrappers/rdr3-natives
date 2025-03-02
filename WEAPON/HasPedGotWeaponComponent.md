@@ -17,4 +17,3 @@ Any _HAS_PED_GOT_WEAPON_COMPONENT(Ped ped,Hash componentHash,Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

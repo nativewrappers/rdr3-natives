@@ -14,6 +14,3 @@ SET_TIME_POSITION_IN_RECORDING can be emulated by: desired_time - GET_TIME_POSIT
 ## Parameters
 * **vehicle**:
 * **time**:
-
-
-

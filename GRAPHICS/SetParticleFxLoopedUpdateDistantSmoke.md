@@ -15,6 +15,3 @@ _SET_PARTICLE_FX_LOOPED_FA* - _SET_PARTICLE_FX_LOOPED_OF*
 ## Parameters
 * **ptfxHandle**:
 * **scalar**:
-
-
-

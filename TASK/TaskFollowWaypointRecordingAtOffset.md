@@ -18,6 +18,3 @@ void TASK_FOLLOW_WAYPOINT_RECORDING_AT_OFFSET(Ped ped,const char* waypointRecord
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

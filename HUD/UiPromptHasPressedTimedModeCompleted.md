@@ -15,4 +15,3 @@ Any _UI_PROMPT_HAS_PRESSED_TIMED_MODE_COMPLETED(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

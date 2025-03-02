@@ -8,8 +8,3 @@ apiset: client
 // 0x3D596E6E88A02C24
 void SET_ALL_VEHICLE_GENERATORS_ACTIVE();
 ```
-
-
-
-
-

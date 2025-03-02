@@ -12,7 +12,3 @@ void _RESET_GUARMA_WATER_STATE();
 
 Only used in guama1 / guama3 R* Script
 _REQUEST_* or _RESET_*
-
-
-
-

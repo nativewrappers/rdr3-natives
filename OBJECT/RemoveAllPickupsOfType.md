@@ -12,6 +12,3 @@ void REMOVE_ALL_PICKUPS_OF_TYPE(Hash pickupHash);
 
 ## Parameters
 * **pickupHash**:
-
-
-

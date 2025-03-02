@@ -13,6 +13,3 @@ It clears the wetness of the selected Ped/Player. Clothes have to be wet to noti
 
 ## Parameters
 * **ped**:
-
-
-

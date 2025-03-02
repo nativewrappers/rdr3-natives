@@ -13,6 +13,3 @@ void _TELEMETRY_GUN_LOCKER_WEAPON_REMOVED(Hash p0);
 
 ## Parameters
 * **p0**:
-
-
-

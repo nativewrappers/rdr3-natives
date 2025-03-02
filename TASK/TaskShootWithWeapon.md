@@ -13,6 +13,3 @@ void TASK_SHOOT_WITH_WEAPON(Ped ped,Any* args);
 ## Parameters
 * **ped**:
 * **args**:
-
-
-

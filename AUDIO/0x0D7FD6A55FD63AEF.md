@@ -17,6 +17,3 @@ SKIP_* - START_*
 * **speechEventType**:
 * **p1**:
 * **p2**:
-
-
-

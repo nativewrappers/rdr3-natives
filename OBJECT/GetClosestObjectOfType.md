@@ -23,4 +23,3 @@ this native is broken it makes the local objects you check to be networked??
 * **networkObject**:
 
 ## Return value
-

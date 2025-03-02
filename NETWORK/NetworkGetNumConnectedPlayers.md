@@ -13,4 +13,3 @@ Returns the amount of players connected in the current session. Only works when 
 
 
 ## Return value
-

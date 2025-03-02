@@ -12,6 +12,3 @@ void WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

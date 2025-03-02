@@ -14,4 +14,3 @@ Any _POKER_GET_GAME_SETTINGS_FOR_ID(Any p0);
 * **p0**:
 
 ## Return value
-

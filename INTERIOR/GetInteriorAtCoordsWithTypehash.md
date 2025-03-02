@@ -18,4 +18,3 @@ Hashed version of GET_INTERIOR_AT_COORDS_WITH_TYPE
 * **typeHash**:
 
 ## Return value
-

@@ -19,4 +19,3 @@ Returns false if pedshot push failed
 * **personaPhotoLocalCacheType**:
 
 ## Return value
-

@@ -13,4 +13,3 @@ Any IS_THREAD_EXIT_REQUESTED();
 
 
 ## Return value
-

@@ -16,6 +16,3 @@ void ADD_CUSTOM_FORMATION_LOCATION(int groupId,float x,float y,float z,int posit
 * **y**:
 * **z**:
 * **position**:
-
-
-

@@ -16,6 +16,3 @@ Sets the behavior of sprinting while the Eagleeye feature is active, determining
 ## Parameters
 * **player**:
 * **disabled**:
-
-
-

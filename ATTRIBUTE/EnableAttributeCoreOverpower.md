@@ -19,6 +19,3 @@ Previously incorrectly named ENABLE_ATTRIBUTE_OVERPOWER
 * **coreIndex**:
 * **value**:
 * **makeSound**:
-
-
-

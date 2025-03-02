@@ -19,4 +19,3 @@ BOOL IS_ENTRY_POINT_FOR_SEAT_CLEAR(Ped ped,Vehicle vehicle,int seatIndex,BOOL si
 * **onEnter**:
 
 ## Return value
-

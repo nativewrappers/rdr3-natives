@@ -13,4 +13,3 @@ Any IS_RADAR_HIDDEN_BY_SCRIPT();
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns messageState, see https://github.com/Halen84/RDR3-Native-Flags-And-Enums
 * **feedMessage**:
 
 ## Return value
-

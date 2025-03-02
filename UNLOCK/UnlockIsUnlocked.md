@@ -15,4 +15,3 @@ BOOL UNLOCK_IS_UNLOCKED(Hash unlockHash);
 * **unlockHash**:
 
 ## Return value
-

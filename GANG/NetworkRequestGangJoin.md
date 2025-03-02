@@ -16,4 +16,3 @@ Returns true if join succeeded, false if failed.
 * **gangId**:
 
 ## Return value
-

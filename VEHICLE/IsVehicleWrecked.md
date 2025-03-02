@@ -15,4 +15,3 @@ Any IS_VEHICLE_WRECKED(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

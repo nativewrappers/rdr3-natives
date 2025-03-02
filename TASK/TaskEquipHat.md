@@ -15,6 +15,3 @@ _A*
 ## Parameters
 * **hatObject**:
 * **ped**:
-
-
-

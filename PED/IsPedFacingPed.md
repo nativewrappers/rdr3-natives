@@ -17,4 +17,3 @@ angle is ped's view cone
 * **angle**:
 
 ## Return value
-

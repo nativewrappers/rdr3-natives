@@ -16,6 +16,3 @@ void _SET_ENTITY_ANIM_SPEED(Entity entity,const char* animDict,const char* animN
 * **animDict**:
 * **animName**:
 * **speedMultiplier**:
-
-
-

@@ -12,6 +12,3 @@ void _RESET_PERSCHAR_SCHEDULE(Hash persCharHash);
 
 ## Parameters
 * **persCharHash**:
-
-
-

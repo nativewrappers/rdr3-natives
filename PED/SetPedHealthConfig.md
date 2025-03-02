@@ -15,6 +15,3 @@ configHash: see pedhealth.meta
 ## Parameters
 * **ped**:
 * **configHash**:
-
-
-

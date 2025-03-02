@@ -27,4 +27,3 @@ p8 is a bit mask with bits 1, 2 and/or 4, relating to collider types; 4 should u
 * **p8**:
 
 ## Return value
-

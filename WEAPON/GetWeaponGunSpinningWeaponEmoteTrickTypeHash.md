@@ -17,4 +17,3 @@ Returns iSpinHash
 * **weaponEmoteTrickType**:
 
 ## Return value
-

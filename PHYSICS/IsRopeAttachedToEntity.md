@@ -16,4 +16,3 @@ Any _IS_ROPE_ATTACHED_TO_ENTITY(int ropeId,Entity entity);
 * **entity**:
 
 ## Return value
-

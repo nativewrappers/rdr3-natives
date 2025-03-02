@@ -17,6 +17,3 @@ p2: Player, Enemy, Teammate, Neutral
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

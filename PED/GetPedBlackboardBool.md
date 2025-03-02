@@ -17,4 +17,3 @@ Can be used to get a peds foliage active status: variableName = FoliageActive
 * **variableName**:
 
 ## Return value
-

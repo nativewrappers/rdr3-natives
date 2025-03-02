@@ -14,6 +14,3 @@ LOD distance can be 0 to 0xFFFF (higher values will result in 0xFFFF) as it is a
 ## Parameters
 * **entity**:
 * **value**:
-
-
-

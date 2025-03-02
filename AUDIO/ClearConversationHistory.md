@@ -9,8 +9,3 @@ apiset: client
 // 0x33D51F801CB16E4F
 void CLEAR_CONVERSATION_HISTORY();
 ```
-
-
-
-
-

@@ -19,6 +19,3 @@ void _TELEMETRY_ROLE_COLLECTOR(Any transactionId,Any collectible,Any category,An
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

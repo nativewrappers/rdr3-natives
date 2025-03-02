@@ -17,4 +17,3 @@ dy = y1 - y2
 * **dy**:
 
 ## Return value
-

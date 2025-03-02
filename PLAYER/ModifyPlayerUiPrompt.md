@@ -18,6 +18,3 @@ promptType is mostly 34 (PP_TRACK_ANIMAL), promptMode = 0 (PP_MODE_BLOCK) in R* 
 * **promptType**:
 * **promptMode**:
 * **disabled**:
-
-
-

@@ -17,6 +17,3 @@ void _SET_WEATHER_TYPE_2(Hash weatherType,int p1,int p2,int p3,BOOL p4);
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

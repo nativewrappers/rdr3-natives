@@ -13,6 +13,3 @@ void SET_PARTICLE_FX_FOOT_LODRANGE_SCALE(float p0);
 
 ## Parameters
 * **p0**:
-
-
-

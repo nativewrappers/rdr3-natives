@@ -12,4 +12,3 @@ float GET_WIND_SPEED();
 
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any IS_PED_READY_TO_RENDER(Ped ped);
 * **ped**:
 
 ## Return value
-

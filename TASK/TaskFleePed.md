@@ -21,6 +21,3 @@ fleeStyle: see TASK_FLEE_COORD
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

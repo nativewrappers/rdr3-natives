@@ -15,4 +15,3 @@ Returns the player's invincibility status.
 * **player**:
 
 ## Return value
-

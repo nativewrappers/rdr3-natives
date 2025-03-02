@@ -16,4 +16,3 @@ Old name: _NETWORK_GET_NUM_UNACKED_FOR_PLAYER
 * **player**:
 
 ## Return value
-

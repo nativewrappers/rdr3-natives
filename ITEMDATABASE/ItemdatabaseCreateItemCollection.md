@@ -18,4 +18,3 @@ Returns collectionId to be used with 0x8750F69A720C2E41 (p0) and 0xCBB7B6EDFA933
 * **comparisonType**:
 
 ## Return value
-

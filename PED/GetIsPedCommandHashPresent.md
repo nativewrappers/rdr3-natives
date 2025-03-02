@@ -16,4 +16,3 @@ Any _GET_IS_PED_COMMAND_HASH_PRESENT(Ped ped,Hash commandHash);
 * **commandHash**:
 
 ## Return value
-

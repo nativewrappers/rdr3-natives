@@ -13,6 +13,3 @@ void _RELEASE_META_PED_OUTFIT_REQUEST(int requestId);
 
 ## Parameters
 * **requestId**:
-
-
-

@@ -13,6 +13,3 @@ void RESET_HORSE_AVOIDANCE_LEVEL_TO_DEFAULT(Ped horse);
 
 ## Parameters
 * **horse**:
-
-
-

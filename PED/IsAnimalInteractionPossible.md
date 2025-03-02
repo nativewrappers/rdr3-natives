@@ -16,4 +16,3 @@ Any IS_ANIMAL_INTERACTION_POSSIBLE(Ped ped,Ped animal);
 * **animal**:
 
 ## Return value
-

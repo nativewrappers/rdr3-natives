@@ -16,4 +16,3 @@ BOOL IS_PLAYER_TARGETTING_ENTITY(Player player,Entity entity,BOOL p2);
 * **p2**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Detect if ped is sitting in the specified vehicle
 * **vehicle**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ If player has less Dead Eye than required, Dead Eye cant be triggered.
 * **player**:
 
 ## Return value
-

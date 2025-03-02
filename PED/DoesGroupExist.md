@@ -14,4 +14,3 @@ BOOL DOES_GROUP_EXIST(int groupId);
 * **groupId**:
 
 ## Return value
-

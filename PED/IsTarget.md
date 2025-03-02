@@ -16,4 +16,3 @@ Any _IS_TARGET(Ped ped,Ped targetPed);
 * **targetPed**:
 
 ## Return value
-

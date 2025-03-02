@@ -15,4 +15,3 @@ Any _UI_PROMPT_HAS_MASH_MODE(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

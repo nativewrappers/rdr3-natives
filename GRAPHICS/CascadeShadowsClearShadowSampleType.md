@@ -9,8 +9,3 @@ apiset: client
 // 0xF7C29D7C12C36F03
 void CASCADE_SHADOWS_CLEAR_SHADOW_SAMPLE_TYPE();
 ```
-
-
-
-
-

@@ -13,6 +13,3 @@ fxName: see data_0/data/effects/ptfx/fxlists/
 
 ## Parameters
 * **fxName**:
-
-
-

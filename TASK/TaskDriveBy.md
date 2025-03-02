@@ -21,6 +21,3 @@ void TASK_DRIVE_BY(Ped driverPed,Ped targetPed,Vehicle targetVehicle,float targe
 * **pedAccuracy**:
 * **p8**:
 * **firingPattern**:
-
-
-

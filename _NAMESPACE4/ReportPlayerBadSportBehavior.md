@@ -16,6 +16,3 @@ badSportBehavior: BS_QUITTER = 0, BS_VEHICLE_DESTRUCTION = 1, BS_VOTED_OUT = 2
 ## Parameters
 * **gamerHandle**:
 * **badSportBehaviorType**:
-
-
-

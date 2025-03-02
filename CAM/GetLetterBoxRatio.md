@@ -14,4 +14,3 @@ More info: see HAS_LETTER_BOX
 
 
 ## Return value
-

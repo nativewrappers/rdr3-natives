@@ -13,6 +13,3 @@ void _ANIMPOSTFX_PLAY_TAG(Hash effectNameHash);
 
 ## Parameters
 * **effectNameHash**:
-
-
-

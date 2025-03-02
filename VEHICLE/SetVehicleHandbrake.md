@@ -13,6 +13,3 @@ void SET_VEHICLE_HANDBRAKE(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

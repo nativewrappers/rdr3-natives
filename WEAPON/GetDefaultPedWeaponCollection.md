@@ -17,4 +17,3 @@ Example: RE_POLICECHASE_MALES_01: Carbine Repeater + Knife, LO_AGRO_PED
 * **pedModel**:
 
 ## Return value
-

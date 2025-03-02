@@ -15,4 +15,3 @@ Any SAVE_HIGH_QUALITY_PHOTO(int unused);
 * **unused**:
 
 ## Return value
-

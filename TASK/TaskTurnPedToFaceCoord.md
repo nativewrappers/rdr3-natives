@@ -17,6 +17,3 @@ duration in milliseconds
 * **y**:
 * **z**:
 * **duration**:
-
-
-

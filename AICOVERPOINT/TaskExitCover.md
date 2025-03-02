@@ -12,6 +12,3 @@ void TASK_EXIT_COVER(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

@@ -20,4 +20,3 @@ p2 is always 0, p3 is always 0, p4 is always 1
 * **p4**:
 
 ## Return value
-

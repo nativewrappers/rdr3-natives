@@ -15,6 +15,3 @@ void _DATABINDING_WRITE_STRING_FROM_HASH(Any p0,Hash p1,const char* p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

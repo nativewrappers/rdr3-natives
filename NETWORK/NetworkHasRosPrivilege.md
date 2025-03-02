@@ -14,4 +14,3 @@ BOOL NETWORK_HAS_ROS_PRIVILEGE(int index);
 * **index**:
 
 ## Return value
-

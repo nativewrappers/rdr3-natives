@@ -13,4 +13,3 @@ Any SPAWNPOINTS_IS_SEARCH_COMPLETE();
 
 
 ## Return value
-

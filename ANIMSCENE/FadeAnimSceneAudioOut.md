@@ -13,6 +13,3 @@ void FADE_ANIM_SCENE_AUDIO_OUT(AnimScene animScene,float p1);
 ## Parameters
 * **animScene**:
 * **p1**:
-
-
-

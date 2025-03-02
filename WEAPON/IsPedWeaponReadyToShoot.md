@@ -14,4 +14,3 @@ BOOL IS_PED_WEAPON_READY_TO_SHOOT(Ped ped);
 * **ped**:
 
 ## Return value
-

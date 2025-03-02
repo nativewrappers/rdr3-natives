@@ -13,6 +13,3 @@ void CLEAR_AMBIENT_ZONE_STATE(const char* zoneName,BOOL p1);
 ## Parameters
 * **zoneName**:
 * **p1**:
-
-
-

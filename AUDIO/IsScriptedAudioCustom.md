@@ -18,4 +18,3 @@ soundSet: HUD_SHOP_SOUNDSET, COMPANIONS_ROBBERIES_SOUNDSET
 * **soundSet**:
 
 ## Return value
-

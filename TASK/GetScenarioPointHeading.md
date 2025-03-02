@@ -17,4 +17,3 @@ Params: p1 is always true in R* Scripts
 * **p1**:
 
 ## Return value
-

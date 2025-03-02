@@ -16,4 +16,3 @@ Volume _GET_PED_DEFENSIVE_VOLUME(Ped ped,Any p1);
 * **p1**:
 
 ## Return value
-

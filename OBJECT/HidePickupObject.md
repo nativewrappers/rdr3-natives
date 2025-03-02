@@ -13,6 +13,3 @@ void _HIDE_PICKUP_OBJECT(Object pickupObject,BOOL toggle);
 ## Parameters
 * **pickupObject**:
 * **toggle**:
-
-
-

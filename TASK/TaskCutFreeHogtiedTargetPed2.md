@@ -14,6 +14,3 @@ void _TASK_CUT_FREE_HOGTIED_TARGET_PED_2(Ped ped,Ped targetPed,float p2);
 * **ped**:
 * **targetPed**:
 * **p2**:
-
-
-

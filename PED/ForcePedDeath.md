@@ -15,6 +15,3 @@ void _FORCE_PED_DEATH(Ped ped,Ped pedKiller,Hash weapon);
 * **ped**:
 * **pedKiller**:
 * **weapon**:
-
-
-

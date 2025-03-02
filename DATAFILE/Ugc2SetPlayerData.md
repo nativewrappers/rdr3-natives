@@ -18,4 +18,3 @@ Any UGC2_SET_PLAYER_DATA(Any p0,Any p1,Any p2,Any p3);
 * **p3**:
 
 ## Return value
-

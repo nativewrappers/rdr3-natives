@@ -15,6 +15,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/weather/weather_variations
 ## Parameters
 * **weatherType**:
 * **variation**:
-
-
-

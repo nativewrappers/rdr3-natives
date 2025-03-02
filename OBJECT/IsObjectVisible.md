@@ -14,4 +14,3 @@ BOOL IS_OBJECT_VISIBLE(Object object);
 * **object**:
 
 ## Return value
-

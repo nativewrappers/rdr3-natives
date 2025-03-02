@@ -15,4 +15,3 @@ Entity _GET_VEHICLE_OWNER(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

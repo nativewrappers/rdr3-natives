@@ -18,4 +18,3 @@ Returns stats entry id of CatalogItemInspection container
 * **playerid**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ Params: p2 controls whether to make pickups usable/collectable or not in network
 * **player**:
 * **pickupHash**:
 * **isUsable**:
-
-
-

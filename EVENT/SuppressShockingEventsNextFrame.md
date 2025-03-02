@@ -8,8 +8,3 @@ apiset: client
 // 0x84994FAD4E4E4E69
 void SUPPRESS_SHOCKING_EVENTS_NEXT_FRAME();
 ```
-
-
-
-
-

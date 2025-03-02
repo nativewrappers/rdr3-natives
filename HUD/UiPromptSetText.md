@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_TEXT(Prompt prompt,const char* text);
 ## Parameters
 * **prompt**:
 * **text**:
-
-
-

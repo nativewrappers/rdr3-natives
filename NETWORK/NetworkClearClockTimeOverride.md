@@ -8,8 +8,3 @@ apiset: client
 // 0xD972DF67326F966E
 void NETWORK_CLEAR_CLOCK_TIME_OVERRIDE();
 ```
-
-
-
-
-

@@ -17,6 +17,3 @@ _SET_PLAYER_L* - _SET_PLAYER_M*
 ## Parameters
 * **player**:
 * **active**:
-
-
-

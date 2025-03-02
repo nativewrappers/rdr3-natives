@@ -22,4 +22,3 @@ Returns some value from AI task 562 (unknown).
 * **normalized**:
 
 ## Return value
-

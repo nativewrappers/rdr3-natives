@@ -13,6 +13,3 @@ Resets any aura effects applied to entities for a specific player in Deadeye mod
 
 ## Parameters
 * **player**:
-
-
-

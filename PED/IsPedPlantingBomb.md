@@ -14,4 +14,3 @@ BOOL IS_PED_PLANTING_BOMB(Ped ped);
 * **ped**:
 
 ## Return value
-

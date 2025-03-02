@@ -14,6 +14,3 @@ void SET_ALLOW_VEHICLE_EXPLODES_ON_CONTACT(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

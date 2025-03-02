@@ -14,6 +14,3 @@ void FORCE_ROOM_FOR_ENTITY(Entity entity,Interior interior,Hash roomHashKey);
 * **entity**:
 * **interior**:
 * **roomHashKey**:
-
-
-

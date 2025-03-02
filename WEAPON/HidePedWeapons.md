@@ -18,6 +18,3 @@ immediately: if true it will instantly switch to unarmed
 * **ped**:
 * **p0**:
 * **immediately**:
-
-
-

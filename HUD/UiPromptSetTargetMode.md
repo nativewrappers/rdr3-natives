@@ -16,6 +16,3 @@ void _UI_PROMPT_SET_TARGET_MODE(Prompt prompt,float p1,float p2,Any p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

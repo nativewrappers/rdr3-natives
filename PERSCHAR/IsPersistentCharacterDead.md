@@ -15,4 +15,3 @@ Any _IS_PERSISTENT_CHARACTER_DEAD(PersChar persChar);
 * **persChar**:
 
 ## Return value
-

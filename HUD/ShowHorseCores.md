@@ -13,6 +13,3 @@ void _SHOW_HORSE_CORES(BOOL state);
 
 ## Parameters
 * **state**:
-
-
-

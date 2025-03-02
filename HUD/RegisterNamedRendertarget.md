@@ -15,4 +15,3 @@ BOOL REGISTER_NAMED_RENDERTARGET(const char* name,BOOL p1);
 * **p1**:
 
 ## Return value
-

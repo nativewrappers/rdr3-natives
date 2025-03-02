@@ -13,6 +13,3 @@ void SET_PLAYER_WEAPON_DEFENSE_MODIFIER(Player player,float modifier);
 ## Parameters
 * **player**:
 * **modifier**:
-
-
-

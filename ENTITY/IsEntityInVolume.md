@@ -17,4 +17,3 @@ BOOL IS_ENTITY_IN_VOLUME(Entity entity,ScrHandle volume,BOOL p2,int p3);
 * **p3**:
 
 ## Return value
-

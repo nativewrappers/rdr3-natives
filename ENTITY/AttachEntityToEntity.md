@@ -38,6 +38,3 @@ fixedRot - if false it ignores entity vector
 * **fixedRot**:
 * **p15**:
 * **p16**:
-
-
-

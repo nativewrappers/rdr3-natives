@@ -21,4 +21,3 @@ The value returned will be in RAGE units.
 * **z2**:
 
 ## Return value
-

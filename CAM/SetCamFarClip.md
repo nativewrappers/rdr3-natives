@@ -13,6 +13,3 @@ void SET_CAM_FAR_CLIP(Cam cam,float farClip);
 ## Parameters
 * **cam**:
 * **farClip**:
-
-
-

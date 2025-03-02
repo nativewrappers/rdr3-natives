@@ -14,6 +14,3 @@ void SET_EVENT_FLAG_FOR_DELETION(int eventGroup,int eventIndex,BOOL p2);
 * **eventGroup**:
 * **eventIndex**:
 * **p2**:
-
-
-

@@ -29,6 +29,3 @@ EXAMPLE: TaskGoToCoordAnyMeansExtraParamsWithCruiseSpeed(PlayerPedId(), vector3(
 * **cruiseSpeed**:
 * **p13**:
 * **p14**:
-
-
-

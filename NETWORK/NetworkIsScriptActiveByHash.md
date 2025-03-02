@@ -18,4 +18,3 @@ Any NETWORK_IS_SCRIPT_ACTIVE_BY_HASH(Hash scriptHash,int p1,BOOL p2,int p3);
 * **p3**:
 
 ## Return value
-

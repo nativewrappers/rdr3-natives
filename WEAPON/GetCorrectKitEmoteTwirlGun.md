@@ -16,4 +16,3 @@ _GET_BEST_* - _GET_CLOSEST_*
 * **weaponGuid**:
 
 ## Return value
-

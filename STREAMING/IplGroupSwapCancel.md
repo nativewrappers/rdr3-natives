@@ -9,8 +9,3 @@ apiset: client
 // 0x31108BB5715D035F
 void IPL_GROUP_SWAP_CANCEL();
 ```
-
-
-
-
-

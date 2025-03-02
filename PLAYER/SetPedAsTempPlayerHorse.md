@@ -16,4 +16,3 @@ Any SET_PED_AS_TEMP_PLAYER_HORSE(Player player,Ped horse);
 * **horse**:
 
 ## Return value
-

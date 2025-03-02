@@ -19,4 +19,3 @@ Old name: _PLAY_AMBIENT_SPEECH_AT_COORDS
 * **params**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ Deactivates EagleEye, called together with 0xC0B21F235C02139C
 ## Parameters
 * **player**:
 * **disabled**:
-
-
-

@@ -15,4 +15,3 @@ BOOL IS_ENTITY_TOUCHING_ENTITY(Entity entity,Entity targetEntity);
 * **targetEntity**:
 
 ## Return value
-

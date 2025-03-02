@@ -16,6 +16,3 @@ void _GIVE_WEAPON_COMPONENT_TO_WEAPON_OBJECT(Object* weaponObject,Ped ped,Hash c
 * **ped**:
 * **componentHash**:
 * **p3**:
-
-
-

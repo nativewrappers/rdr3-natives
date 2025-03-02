@@ -19,6 +19,3 @@ void SET_ALL_VEHICLE_GENERATORS_ACTIVE_IN_AREA(float x1,float y1,float z1,float 
 * **z2**:
 * **p6**:
 * **p7**:
-
-
-

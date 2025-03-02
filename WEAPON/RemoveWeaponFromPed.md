@@ -35,6 +35,3 @@ enum eRemoveItemReason : Hash
 * **weaponHash**:
 * **p2**:
 * **removeReason**:
-
-
-

@@ -16,4 +16,3 @@ Displays the current ROLL axis of the entity [-180.0000/180.0000+]
 * **entity**:
 
 ## Return value
-

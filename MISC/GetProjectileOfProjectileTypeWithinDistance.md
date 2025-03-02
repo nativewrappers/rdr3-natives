@@ -21,4 +21,3 @@ BOOL GET_PROJECTILE_OF_PROJECTILE_TYPE_WITHIN_DISTANCE(Ped ped,Hash weaponHash,f
 * **mustBeOwnedByThisPed**:
 
 ## Return value
-

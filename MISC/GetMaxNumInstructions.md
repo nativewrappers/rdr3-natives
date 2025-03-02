@@ -13,4 +13,3 @@ int _GET_MAX_NUM_INSTRUCTIONS();
 
 
 ## Return value
-

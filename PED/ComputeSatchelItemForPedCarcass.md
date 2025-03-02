@@ -20,4 +20,3 @@ Notice: skinningQuality is partially calculated using pedQuality
 * **skinningQuality**:
 
 ## Return value
-

@@ -8,8 +8,3 @@ apiset: client
 // 0x86CCAF7CE493EFBE
 void CLEAR_FOCUS();
 ```
-
-
-
-
-

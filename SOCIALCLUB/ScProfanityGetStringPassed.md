@@ -14,4 +14,3 @@ BOOL SC_PROFANITY_GET_STRING_PASSED(int token);
 * **token**:
 
 ## Return value
-

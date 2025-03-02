@@ -14,6 +14,3 @@ void _ROPE_CHANGE_VISIBILITY(int* ropeId,BOOL visible);
 ## Parameters
 * **ropeId**:
 * **visible**:
-
-
-

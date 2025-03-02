@@ -15,4 +15,3 @@ BOOL IS_VEHICLE_WINDOW_INTACT(Vehicle vehicle,int windowIndex);
 * **windowIndex**:
 
 ## Return value
-

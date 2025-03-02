@@ -16,6 +16,3 @@ _SET_PED_(A-D)*
 ## Parameters
 * **ped**:
 * **playerType**:
-
-
-

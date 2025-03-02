@@ -14,4 +14,3 @@ BOOL IS_ENTITY_IN_WATER(Entity entity);
 * **entity**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Any _ITEMDATABASE_FILLOUT_MODIFIER(Hash key,int index,Any* outData);
 * **outData**:
 
 ## Return value
-

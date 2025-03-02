@@ -37,6 +37,3 @@ enum eRpgIconVisibility
 ## Parameters
 * **rpgIcon**:
 * **visibility**:
-
-
-

@@ -17,4 +17,3 @@ Returns CGameWorldHeightMap's minimum Z value at specified point (grid node).
 * **y**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ float _GET_PLAYER_HEALTH(Player player);
 * **player**:
 
 ## Return value
-

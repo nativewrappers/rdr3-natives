@@ -15,6 +15,3 @@ void _SET_SCENARIO_POINT_HEADING(int scenario,float heading,BOOL p2);
 * **scenario**:
 * **heading**:
 * **p2**:
-
-
-

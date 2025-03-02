@@ -14,6 +14,3 @@ void _SET_PED_GRAPPLE_ANIMATION(Ped ped,Hash grappleAnim);
 ## Parameters
 * **ped**:
 * **grappleAnim**:
-
-
-

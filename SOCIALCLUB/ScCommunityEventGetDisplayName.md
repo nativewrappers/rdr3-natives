@@ -15,4 +15,3 @@ Any SC_COMMUNITY_EVENT_GET_DISPLAY_NAME(char* p0);
 * **p0**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ Vector3 GET_PICKUP_COORDS(Pickup pickup);
 * **pickup**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void SET_MAX_NUM_PORTABLE_PICKUPS_CARRIED_BY_PLAYER(Hash modelHash,int p1);
 ## Parameters
 * **modelHash**:
 * **p1**:
-
-
-

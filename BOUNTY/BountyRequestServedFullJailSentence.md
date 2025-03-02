@@ -15,4 +15,3 @@ Any _BOUNTY_REQUEST_SERVED_FULL_JAIL_SENTENCE(Any* outRpcGuid);
 * **outRpcGuid**:
 
 ## Return value
-

@@ -19,4 +19,3 @@ clipset can also be 0
 * **clipset**:
 
 ## Return value
-

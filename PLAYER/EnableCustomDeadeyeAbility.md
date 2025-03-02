@@ -14,6 +14,3 @@ void _ENABLE_CUSTOM_DEADEYE_ABILITY(Player player,BOOL enable);
 ## Parameters
 * **player**:
 * **enable**:
-
-
-

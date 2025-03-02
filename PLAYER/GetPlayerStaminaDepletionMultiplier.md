@@ -15,4 +15,3 @@ float _GET_PLAYER_STAMINA_DEPLETION_MULTIPLIER(Player player);
 * **player**:
 
 ## Return value
-

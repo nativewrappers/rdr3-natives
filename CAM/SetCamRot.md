@@ -17,6 +17,3 @@ Sets the rotation of the cam.
 * **rotY**:
 * **rotZ**:
 * **rotationOrder**:
-
-
-

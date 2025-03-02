@@ -13,7 +13,3 @@ void _SET_ALLOW_FIRST_PERSON_MOUSE_CAMERA_MOVEMENT();
 Allows camera to be moved if middle mouse button is held while in first person
 Must be called every frame
 _SET*
-
-
-
-

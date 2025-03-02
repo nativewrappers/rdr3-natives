@@ -17,4 +17,3 @@ BOOL _NETWORK_SESSION_REQUEST_SESSION_NOMINATED(int flags,int userHash,int p2,An
 * **sessionRequestId**:
 
 ## Return value
-

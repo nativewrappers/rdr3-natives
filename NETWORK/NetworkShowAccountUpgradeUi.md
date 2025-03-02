@@ -9,8 +9,3 @@ apiset: client
 // 0x83FE8D7229593017
 void NETWORK_SHOW_ACCOUNT_UPGRADE_UI();
 ```
-
-
-
-
-

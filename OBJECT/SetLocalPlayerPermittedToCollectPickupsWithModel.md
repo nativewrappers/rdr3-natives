@@ -17,6 +17,3 @@ Old name: _SET_LOCAL_PLAYER_CAN_USE_PICKUPS_WITH_THIS_MODEL
 ## Parameters
 * **modelHash**:
 * **toggle**:
-
-
-

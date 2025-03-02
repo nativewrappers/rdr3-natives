@@ -14,6 +14,3 @@ void ADVANCE_CLOCK_TIME_TO(int hour,int minute,int second);
 * **hour**:
 * **minute**:
 * **second**:
-
-
-

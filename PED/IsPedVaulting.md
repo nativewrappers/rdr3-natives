@@ -14,4 +14,3 @@ BOOL IS_PED_VAULTING(Ped ped);
 * **ped**:
 
 ## Return value
-

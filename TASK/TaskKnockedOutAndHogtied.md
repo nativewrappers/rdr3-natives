@@ -14,6 +14,3 @@ void TASK_KNOCKED_OUT_AND_HOGTIED(Ped ped,float p1,int p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

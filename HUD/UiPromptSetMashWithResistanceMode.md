@@ -16,6 +16,3 @@ void _UI_PROMPT_SET_MASH_WITH_RESISTANCE_MODE(Prompt prompt,int mashes,float p2,
 * **mashes**:
 * **p2**:
 * **p3**:
-
-
-

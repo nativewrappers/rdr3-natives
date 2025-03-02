@@ -17,4 +17,3 @@ Can use this with SET_CAM_SPLINE_PHASE to set the float it this native returns.
 * **cam**:
 
 ## Return value
-

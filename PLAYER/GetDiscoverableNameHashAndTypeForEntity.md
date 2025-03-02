@@ -17,4 +17,3 @@ Returns name hash (name) and outHash includes the type.
 * **type**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Object _GET_BREAKABLE_VEHICLE_LOCK_OBJECT(Vehicle vehicle,int index);
 * **index**:
 
 ## Return value
-

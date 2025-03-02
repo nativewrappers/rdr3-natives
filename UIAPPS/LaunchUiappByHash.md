@@ -15,4 +15,3 @@ int LAUNCH_UIAPP_BY_HASH(Hash appNameHash);
 * **appNameHash**:
 
 ## Return value
-

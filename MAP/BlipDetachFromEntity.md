@@ -14,6 +14,3 @@ Removes the blip from an entity and makes it static on the map, try it on GetMai
 
 ## Parameters
 * **blip**:
-
-
-

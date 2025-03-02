@@ -18,4 +18,3 @@ Checks if there is a cover point at position
 * **p3**:
 
 ## Return value
-

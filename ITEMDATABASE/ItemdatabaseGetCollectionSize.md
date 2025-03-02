@@ -17,4 +17,3 @@ _ITEMDATABASE_GET_(A)* - _ITEMDATABASE_GET_(B)*
 * **collectionId**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any IS_PED_FULLY_ON_MOUNT(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

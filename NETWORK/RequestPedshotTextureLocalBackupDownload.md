@@ -17,4 +17,3 @@ Only used in R* SP Scripts
 * **personaPhotoLocalCacheType**:
 
 ## Return value
-

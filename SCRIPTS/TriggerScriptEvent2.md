@@ -16,6 +16,3 @@ void _TRIGGER_SCRIPT_EVENT_2(Any* eventData,int eventDataSize,int scriptMetadata
 * **eventDataSize**:
 * **scriptMetadataIndex**:
 * **threadId**:
-
-
-

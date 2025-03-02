@@ -14,6 +14,3 @@ void SET_CAM_CONTROLS_MINI_MAP_HEADING(Cam cam,BOOL p1);
 ## Parameters
 * **cam**:
 * **p1**:
-
-
-

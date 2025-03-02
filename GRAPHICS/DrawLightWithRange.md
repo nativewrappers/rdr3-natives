@@ -19,6 +19,3 @@ void DRAW_LIGHT_WITH_RANGE(float posX,float posY,float posZ,int colorR,int color
 * **colorB**:
 * **range**:
 * **intensity**:
-
-
-

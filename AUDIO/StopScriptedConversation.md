@@ -16,4 +16,3 @@ int STOP_SCRIPTED_CONVERSATION(const char* p0,BOOL p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

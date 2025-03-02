@@ -13,6 +13,3 @@ void DELETE_VOLUME(Volume volume);
 
 ## Parameters
 * **volume**:
-
-
-

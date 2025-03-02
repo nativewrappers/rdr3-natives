@@ -13,6 +13,3 @@ void DISABLE_PED_PAIN_AUDIO(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

@@ -13,6 +13,3 @@ Hashed version of BG_END_CONTEXT
 
 ## Parameters
 * **contextHash**:
-
-
-

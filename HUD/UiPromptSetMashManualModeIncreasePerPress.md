@@ -17,6 +17,3 @@ punitive (been hit) rate: (1f / 128f)
 ## Parameters
 * **prompt**:
 * **rate**:
-
-
-

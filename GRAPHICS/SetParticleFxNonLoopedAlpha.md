@@ -12,6 +12,3 @@ void SET_PARTICLE_FX_NON_LOOPED_ALPHA(float alpha);
 
 ## Parameters
 * **alpha**:
-
-
-

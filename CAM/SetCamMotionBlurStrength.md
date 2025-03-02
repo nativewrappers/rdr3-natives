@@ -13,6 +13,3 @@ void SET_CAM_MOTION_BLUR_STRENGTH(Cam cam,float strength);
 ## Parameters
 * **cam**:
 * **strength**:
-
-
-

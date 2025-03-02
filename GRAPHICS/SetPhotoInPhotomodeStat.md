@@ -13,6 +13,3 @@ void _SET_PHOTO_IN_PHOTOMODE_STAT(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

@@ -21,6 +21,3 @@ If no timeout, set timeout to -1.
 * **stoppingRange**:
 * **flags**:
 * **heading**:
-
-
-

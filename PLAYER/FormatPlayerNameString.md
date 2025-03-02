@@ -15,4 +15,3 @@ char* _FORMAT_PLAYER_NAME_STRING(const char* string);
 * **string**:
 
 ## Return value
-

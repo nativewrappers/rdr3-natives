@@ -22,6 +22,3 @@ enum eWhistleType
 * **ped**:
 * **p1**:
 * **whistleType**:
-
-
-

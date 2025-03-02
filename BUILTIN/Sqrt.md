@@ -14,4 +14,3 @@ float SQRT(float value);
 * **value**:
 
 ## Return value
-

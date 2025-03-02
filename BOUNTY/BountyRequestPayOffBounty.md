@@ -15,4 +15,3 @@ Any _BOUNTY_REQUEST_PAY_OFF_BOUNTY(Any* outRpcGuid);
 * **outRpcGuid**:
 
 ## Return value
-

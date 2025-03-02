@@ -16,4 +16,3 @@ Any NETWORK_REQUEST_RECENT_GAMER_NAMES(int p0,int playerCount);
 * **playerCount**:
 
 ## Return value
-

@@ -12,4 +12,3 @@ int GET_MILLISECONDS_PER_GAME_MINUTE();
 
 
 ## Return value
-

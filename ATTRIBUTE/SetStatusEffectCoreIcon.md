@@ -34,6 +34,3 @@ enum eUiRpgStatusEffect
 
 ## Parameters
 * **statusEffectType**:
-
-
-

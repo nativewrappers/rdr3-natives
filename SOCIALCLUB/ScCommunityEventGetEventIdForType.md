@@ -15,4 +15,3 @@ int SC_COMMUNITY_EVENT_GET_EVENT_ID_FOR_TYPE(const char* p0);
 * **p0**:
 
 ## Return value
-

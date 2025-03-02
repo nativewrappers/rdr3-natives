@@ -23,4 +23,3 @@ Returns the entity coverpoint with offset.
 * **p8**:
 
 ## Return value
-

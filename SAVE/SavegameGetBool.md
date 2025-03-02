@@ -15,6 +15,3 @@ Does the exact same as 0x529B9CCD0972AF4E
 ## Parameters
 * **p0**:
 * **variableName**:
-
-
-

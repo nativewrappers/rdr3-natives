@@ -13,4 +13,3 @@ Any _GET_SOCIAL_MATCHMAKING_ALLOWED();
 
 
 ## Return value
-

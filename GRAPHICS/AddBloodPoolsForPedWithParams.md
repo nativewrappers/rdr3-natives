@@ -16,6 +16,3 @@ void _ADD_BLOOD_POOLS_FOR_PED_WITH_PARAMS(Ped ped,float p1,float size,float p3);
 * **p1**:
 * **size**:
 * **p3**:
-
-
-

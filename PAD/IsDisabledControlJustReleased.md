@@ -15,4 +15,3 @@ BOOL IS_DISABLED_CONTROL_JUST_RELEASED(int control,Hash action);
 * **action**:
 
 ## Return value
-

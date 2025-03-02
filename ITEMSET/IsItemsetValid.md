@@ -14,4 +14,3 @@ BOOL IS_ITEMSET_VALID(ItemSet itemset);
 * **itemset**:
 
 ## Return value
-

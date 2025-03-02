@@ -17,4 +17,3 @@ Any IS_ANIM_SCENE_IN_SECTION(AnimScene animScene,const char* sectionName,BOOL p2
 * **p2**:
 
 ## Return value
-

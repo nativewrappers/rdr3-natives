@@ -14,6 +14,3 @@ void _SAVEGAME_GET_FLOAT(Any* p0,const char* variableName);
 ## Parameters
 * **p0**:
 * **variableName**:
-
-
-

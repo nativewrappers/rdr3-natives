@@ -15,4 +15,3 @@ Ped _GET_PERSCHAR_PED_INDEX(PersChar persChar);
 * **persChar**:
 
 ## Return value
-

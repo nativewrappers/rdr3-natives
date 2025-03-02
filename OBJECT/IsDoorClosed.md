@@ -14,4 +14,3 @@ BOOL IS_DOOR_CLOSED(Hash doorHash);
 * **doorHash**:
 
 ## Return value
-

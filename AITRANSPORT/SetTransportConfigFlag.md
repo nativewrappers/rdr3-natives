@@ -40,6 +40,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/TRANSPORT_CONFIG_FLAGS
 * **transportEntity**:
 * **flagId**:
 * **value**:
-
-
-

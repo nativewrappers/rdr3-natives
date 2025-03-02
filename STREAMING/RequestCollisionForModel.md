@@ -12,6 +12,3 @@ void REQUEST_COLLISION_FOR_MODEL(Hash model);
 
 ## Parameters
 * **model**:
-
-
-

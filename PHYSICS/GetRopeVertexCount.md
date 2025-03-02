@@ -14,4 +14,3 @@ int GET_ROPE_VERTEX_COUNT(int ropeId);
 * **ropeId**:
 
 ## Return value
-

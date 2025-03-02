@@ -12,6 +12,3 @@ void _UPDATE_ANIMAL_DAMAGE_MODIFIER(Player player);
 
 ## Parameters
 * **player**:
-
-
-

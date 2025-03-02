@@ -15,4 +15,3 @@ Any _DOES_TRAIN_EXIST_ON_TRACK(int trackIndex);
 * **trackIndex**:
 
 ## Return value
-

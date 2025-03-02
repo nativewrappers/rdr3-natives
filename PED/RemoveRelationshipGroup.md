@@ -12,6 +12,3 @@ void REMOVE_RELATIONSHIP_GROUP(Hash groupHash);
 
 ## Parameters
 * **groupHash**:
-
-
-

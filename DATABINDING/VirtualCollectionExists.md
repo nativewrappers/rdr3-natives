@@ -14,4 +14,3 @@ Any _VIRTUAL_COLLECTION_EXISTS(Any p0);
 * **p0**:
 
 ## Return value
-

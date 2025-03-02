@@ -17,4 +17,3 @@ BOOL GET_PLAYER_RECEIVED_BATTLE_EVENT_RECENTLY(Player player,int p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

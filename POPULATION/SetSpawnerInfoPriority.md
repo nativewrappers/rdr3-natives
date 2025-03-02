@@ -14,6 +14,3 @@ void SET_SPAWNER_INFO_PRIORITY(Hash p0,Hash p1,int priority);
 * **p0**:
 * **p1**:
 * **priority**:
-
-
-

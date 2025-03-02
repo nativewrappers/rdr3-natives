@@ -17,4 +17,3 @@ all guns ,bows and animal weapons return false
 * **weaponHash**:
 
 ## Return value
-

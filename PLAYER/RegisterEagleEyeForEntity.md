@@ -17,6 +17,3 @@ Params: p2 = re-register or not?
 * **player**:
 * **entity**:
 * **p2**:
-
-
-

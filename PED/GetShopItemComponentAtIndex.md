@@ -19,4 +19,3 @@ Hash _GET_SHOP_ITEM_COMPONENT_AT_INDEX(Ped ped,int index,BOOL p2,Any* argStruct,
 * **argStruct2**:
 
 ## Return value
-

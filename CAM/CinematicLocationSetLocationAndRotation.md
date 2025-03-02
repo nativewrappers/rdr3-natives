@@ -19,6 +19,3 @@ void _CINEMATIC_LOCATION_SET_LOCATION_AND_ROTATION(const char* name,float x,floa
 * **rotX**:
 * **rotY**:
 * **rotZ**:
-
-
-

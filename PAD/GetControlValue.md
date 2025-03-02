@@ -15,4 +15,3 @@ int GET_CONTROL_VALUE(int control,Hash action);
 * **action**:
 
 ## Return value
-

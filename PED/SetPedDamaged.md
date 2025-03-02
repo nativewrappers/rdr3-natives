@@ -14,6 +14,3 @@ void _SET_PED_DAMAGED(Ped ped,BOOL damaged);
 ## Parameters
 * **ped**:
 * **damaged**:
-
-
-

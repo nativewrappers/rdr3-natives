@@ -14,4 +14,3 @@ BOOL IS_DOOR_REGISTERED_WITH_SYSTEM(Hash doorHash);
 * **doorHash**:
 
 ## Return value
-

@@ -17,6 +17,3 @@ void _SET_AMBIENT_ZONE_POSITION(const char* ambientZone,float x,float y,float z,
 * **y**:
 * **z**:
 * **heading**:
-
-
-

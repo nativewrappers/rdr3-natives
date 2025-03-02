@@ -15,4 +15,3 @@ int GET_BLOCK_OF_PLAYER_BITS(Any* value,int p1);
 * **p1**:
 
 ## Return value
-

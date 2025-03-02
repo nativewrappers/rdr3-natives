@@ -16,4 +16,3 @@ Returns true if door is alredy registered with owner
 * **doorHash**:
 
 ## Return value
-

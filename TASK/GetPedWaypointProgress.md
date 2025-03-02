@@ -14,4 +14,3 @@ int GET_PED_WAYPOINT_PROGRESS(Ped ped);
 * **ped**:
 
 ## Return value
-

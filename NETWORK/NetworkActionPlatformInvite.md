@@ -13,4 +13,3 @@ Any NETWORK_ACTION_PLATFORM_INVITE();
 
 
 ## Return value
-

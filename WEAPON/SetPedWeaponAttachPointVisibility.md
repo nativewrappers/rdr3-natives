@@ -16,6 +16,3 @@ attachPoint: see SET_CURRENT_PED_WEAPON
 * **ped**:
 * **attachPoint**:
 * **visible**:
-
-
-

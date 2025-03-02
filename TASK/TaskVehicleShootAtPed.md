@@ -14,6 +14,3 @@ void TASK_VEHICLE_SHOOT_AT_PED(Ped ped,Ped target,float p2);
 * **ped**:
 * **target**:
 * **p2**:
-
-
-

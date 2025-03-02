@@ -21,4 +21,3 @@ BOOL SLIDE_OBJECT(Object object,float toX,float toY,float toZ,float speedX,float
 * **collision**:
 
 ## Return value
-

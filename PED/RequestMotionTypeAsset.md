@@ -14,6 +14,3 @@ void _REQUEST_MOTION_TYPE_ASSET(Hash nameHash,Ped ped);
 ## Parameters
 * **nameHash**:
 * **ped**:
-
-
-

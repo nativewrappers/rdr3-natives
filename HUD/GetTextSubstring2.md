@@ -17,4 +17,3 @@ Similar to 0x9D7E12EC6A1EE4E5(GET_TEXT_SUBSTRING) but starts at the beginning of
 * **length**:
 
 ## Return value
-

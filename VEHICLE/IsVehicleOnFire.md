@@ -15,4 +15,3 @@ Any _IS_VEHICLE_ON_FIRE(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

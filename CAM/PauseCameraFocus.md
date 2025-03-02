@@ -14,6 +14,3 @@ void _PAUSE_CAMERA_FOCUS(Cam cam,BOOL pause);
 ## Parameters
 * **cam**:
 * **pause**:
-
-
-

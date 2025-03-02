@@ -15,4 +15,3 @@ BOOL GET_PED_LAST_WEAPON_IMPACT_COORD(Ped ped,Vector3* coords);
 * **coords**:
 
 ## Return value
-

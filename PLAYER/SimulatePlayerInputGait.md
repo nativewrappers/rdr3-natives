@@ -17,6 +17,3 @@ void SIMULATE_PLAYER_INPUT_GAIT(Player player,float speed,int duration,float hea
 * **heading**:
 * **p4**:
 * **p5**:
-
-
-

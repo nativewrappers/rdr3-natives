@@ -16,6 +16,3 @@ void _TELEMETRY_CRAFT_ITEM(Any p0,Any p1,Any p2,Any quantity);
 * **p1**:
 * **p2**:
 * **quantity**:
-
-
-

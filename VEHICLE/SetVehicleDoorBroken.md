@@ -15,6 +15,3 @@ doorId: see SET_VEHICLE_DOOR_SHUT
 * **vehicle**:
 * **doorId**:
 * **deleteDoor**:
-
-
-

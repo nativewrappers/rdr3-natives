@@ -13,4 +13,3 @@ Any IPL_GROUP_SWAP_IS_ACTIVE();
 
 
 ## Return value
-

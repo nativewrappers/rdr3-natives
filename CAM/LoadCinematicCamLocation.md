@@ -13,6 +13,3 @@ void _LOAD_CINEMATIC_CAM_LOCATION(const char* locationDictName);
 
 ## Parameters
 * **locationDictName**:
-
-
-

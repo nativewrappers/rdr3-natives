@@ -14,6 +14,3 @@ Forces gameplay cam to specified ped as if you were the ped or spectating it
 
 ## Parameters
 * **ped**:
-
-
-

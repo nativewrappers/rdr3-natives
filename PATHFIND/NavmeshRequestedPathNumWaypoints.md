@@ -16,4 +16,3 @@ Returns the number of waypoints for a requested path (NAVMESH_REQUEST_PATH) if t
 * **path**:
 
 ## Return value
-

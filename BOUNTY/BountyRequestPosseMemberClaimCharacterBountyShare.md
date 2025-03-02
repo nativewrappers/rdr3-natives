@@ -16,4 +16,3 @@ Any _BOUNTY_REQUEST_POSSE_MEMBER_CLAIM_CHARACTER_BOUNTY_SHARE(Any* outRpcGuid,An
 * **p1**:
 
 ## Return value
-

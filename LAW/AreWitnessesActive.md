@@ -15,4 +15,3 @@ Any ARE_WITNESSES_ACTIVE(Player player);
 * **player**:
 
 ## Return value
-

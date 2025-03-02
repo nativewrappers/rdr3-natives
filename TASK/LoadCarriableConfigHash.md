@@ -13,6 +13,3 @@ https://gist.github.com/WesternGamer/95a1f8daf02520cad2bf96af6d957e70 carriable 
 
 ## Parameters
 * **hash**:
-
-
-

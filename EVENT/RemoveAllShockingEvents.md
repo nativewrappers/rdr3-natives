@@ -12,6 +12,3 @@ void REMOVE_ALL_SHOCKING_EVENTS(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

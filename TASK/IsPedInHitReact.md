@@ -15,4 +15,3 @@ Any IS_PED_IN_HIT_REACT(Ped ped);
 * **ped**:
 
 ## Return value
-

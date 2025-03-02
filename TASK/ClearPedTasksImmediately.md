@@ -17,6 +17,3 @@ resetCrouch TRUE = ped will stand up if crouching, FALSE = ped will remain crouc
 * **ped**:
 * **p1**:
 * **resetCrouch**:
-
-
-

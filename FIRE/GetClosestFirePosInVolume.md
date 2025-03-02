@@ -23,4 +23,3 @@ Any _GET_CLOSEST_FIRE_POS_IN_VOLUME(Vector3* outPosition,float posX,float posY,f
 * **scaleZ**:
 
 ## Return value
-

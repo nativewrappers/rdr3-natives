@@ -14,4 +14,3 @@ BOOL IS_PED_FALLING(Ped ped);
 * **ped**:
 
 ## Return value
-

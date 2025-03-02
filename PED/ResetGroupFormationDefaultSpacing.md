@@ -12,6 +12,3 @@ void RESET_GROUP_FORMATION_DEFAULT_SPACING(int groupId);
 
 ## Parameters
 * **groupId**:
-
-
-

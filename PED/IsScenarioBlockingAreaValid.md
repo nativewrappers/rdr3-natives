@@ -15,4 +15,3 @@ Any _IS_SCENARIO_BLOCKING_AREA_VALID(Any p0);
 * **p0**:
 
 ## Return value
-

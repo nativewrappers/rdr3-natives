@@ -15,4 +15,3 @@ Any DOES_ANIM_SCENE_EXIST(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

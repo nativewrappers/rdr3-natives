@@ -21,6 +21,3 @@ Radius of effect damage applied in a sphere at impact location
 * **damage**:
 * **radius**:
 * **p6**:
-
-
-

@@ -14,6 +14,3 @@ will add a blip icon to the entity lockon prompt that you specify
 ## Parameters
 * **entity**:
 * **blipIcon**:
-
-
-

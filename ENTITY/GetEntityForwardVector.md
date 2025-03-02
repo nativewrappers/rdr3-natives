@@ -15,4 +15,3 @@ Gets the entity's forward vector in XY(Z) eulers.
 * **entity**:
 
 ## Return value
-

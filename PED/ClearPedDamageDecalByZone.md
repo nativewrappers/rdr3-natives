@@ -14,6 +14,3 @@ void CLEAR_PED_DAMAGE_DECAL_BY_ZONE(Ped ped,int p1,const char* p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

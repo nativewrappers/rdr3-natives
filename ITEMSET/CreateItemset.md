@@ -14,4 +14,3 @@ ItemSet CREATE_ITEMSET(BOOL p0);
 * **p0**:
 
 ## Return value
-

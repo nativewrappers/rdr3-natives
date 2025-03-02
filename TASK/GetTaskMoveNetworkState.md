@@ -14,4 +14,3 @@ char* GET_TASK_MOVE_NETWORK_STATE(Ped ped);
 * **ped**:
 
 ## Return value
-

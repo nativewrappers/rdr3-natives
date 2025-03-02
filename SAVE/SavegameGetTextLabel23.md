@@ -14,6 +14,3 @@ void _SAVEGAME_GET_TEXT_LABEL_23(Any* p0,const char* variableName);
 ## Parameters
 * **p0**:
 * **variableName**:
-
-
-

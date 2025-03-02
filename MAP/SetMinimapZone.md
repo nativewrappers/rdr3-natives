@@ -14,6 +14,3 @@ hash can be the hash of "guarma" or "world".
 
 ## Parameters
 * **zone**:
-
-
-

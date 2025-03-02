@@ -13,6 +13,3 @@ void SET_ENTITY_MAX_HEALTH(Entity entity,int value);
 ## Parameters
 * **entity**:
 * **value**:
-
-
-

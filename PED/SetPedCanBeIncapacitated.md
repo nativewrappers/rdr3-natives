@@ -15,6 +15,3 @@ When set on a player ped, its just like when you die in RDO
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

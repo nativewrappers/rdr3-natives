@@ -16,6 +16,3 @@ duration in seconds
 * **ped**:
 * **p1**:
 * **duration**:
-
-
-

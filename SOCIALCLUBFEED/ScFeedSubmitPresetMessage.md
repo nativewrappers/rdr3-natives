@@ -15,4 +15,3 @@ int _SC_FEED_SUBMIT_PRESET_MESSAGE(int type,int subType);
 * **subType**:
 
 ## Return value
-

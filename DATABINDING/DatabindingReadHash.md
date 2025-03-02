@@ -15,4 +15,3 @@ Hash _DATABINDING_READ_HASH(Hash entryId);
 * **entryId**:
 
 ## Return value
-

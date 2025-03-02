@@ -13,6 +13,3 @@ void SET_CAN_AUTO_VAULT_ON_ENTITY(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

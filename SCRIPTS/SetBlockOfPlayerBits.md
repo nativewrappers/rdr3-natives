@@ -14,6 +14,3 @@ void SET_BLOCK_OF_PLAYER_BITS(Any* value,int p1,int p2);
 * **value**:
 * **p1**:
 * **p2**:
-
-
-

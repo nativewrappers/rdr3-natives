@@ -9,8 +9,3 @@ apiset: client
 // 0xF402978DE6F88D6E
 void _JOURNAL_CLEAR_ALL_PROGRESS();
 ```
-
-
-
-
-

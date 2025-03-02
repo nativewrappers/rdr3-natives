@@ -15,4 +15,3 @@ Returns the depletion delay value for the Deadeye ability that was previously se
 * **player**:
 
 ## Return value
-

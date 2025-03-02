@@ -14,6 +14,3 @@ Same as GET_POSIX_TIME except that it takes a single pointer to a struct.
 
 ## Parameters
 * **outTime**:
-
-
-

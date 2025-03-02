@@ -17,6 +17,3 @@ Setting this to 0.001 will allow warping through some objects.
 ## Parameters
 * **ped**:
 * **value**:
-
-
-

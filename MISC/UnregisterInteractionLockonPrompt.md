@@ -15,4 +15,3 @@ Any UNREGISTER_INTERACTION_LOCKON_PROMPT(Entity entity);
 * **entity**:
 
 ## Return value
-

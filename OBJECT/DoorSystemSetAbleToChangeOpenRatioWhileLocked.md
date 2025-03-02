@@ -14,6 +14,3 @@ void _DOOR_SYSTEM_SET_ABLE_TO_CHANGE_OPEN_RATIO_WHILE_LOCKED(Hash doorHash,BOOL 
 ## Parameters
 * **doorHash**:
 * **p1**:
-
-
-

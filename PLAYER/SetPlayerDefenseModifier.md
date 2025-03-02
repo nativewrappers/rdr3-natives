@@ -16,6 +16,3 @@ Sets stamina core drains peed using ranged damage scale and melee damage scale
 * **player**:
 * **weaponDefenseMod**:
 * **meleeDefenseMod**:
-
-
-

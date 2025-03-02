@@ -16,6 +16,3 @@ void _UI_PROMPT_CONTEXT_SET_POINT(Prompt prompt,float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

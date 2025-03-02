@@ -16,4 +16,3 @@ Returns true if the ped is currently holstering or unholstering a weapon
 * **ped**:
 
 ## Return value
-

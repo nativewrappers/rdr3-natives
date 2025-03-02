@@ -15,4 +15,3 @@ Any _TRIGGER_MUSIC_EVENT_WITH_HASH(Hash eventName);
 * **eventName**:
 
 ## Return value
-

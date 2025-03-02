@@ -17,4 +17,3 @@ BOOL _CASHINVENTORY_TRANSACTION_FIRE_AND_FORGET_ITEM(Hash actionHash,int* id,Any
 * **p3**:
 
 ## Return value
-

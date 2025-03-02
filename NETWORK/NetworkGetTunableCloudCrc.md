@@ -12,4 +12,3 @@ int NETWORK_GET_TUNABLE_CLOUD_CRC();
 
 
 ## Return value
-

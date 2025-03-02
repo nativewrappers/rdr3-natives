@@ -16,4 +16,3 @@ Any _IS_PED_ON_TRANSPORT_SEAT(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

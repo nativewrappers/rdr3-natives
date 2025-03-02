@@ -14,4 +14,3 @@ BOOL IS_PED_WALKING(Ped ped);
 * **ped**:
 
 ## Return value
-

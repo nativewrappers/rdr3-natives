@@ -14,6 +14,3 @@ void _FAKE_SET_PED_LOCO_INJURED(Ped ped,BOOL enabled);
 ## Parameters
 * **ped**:
 * **enabled**:
-
-
-

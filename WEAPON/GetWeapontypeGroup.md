@@ -14,4 +14,3 @@ Hash GET_WEAPONTYPE_GROUP(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

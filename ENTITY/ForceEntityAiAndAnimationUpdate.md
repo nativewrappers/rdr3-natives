@@ -13,6 +13,3 @@ void FORCE_ENTITY_AI_AND_ANIMATION_UPDATE(Entity entity,BOOL p1);
 ## Parameters
 * **entity**:
 * **p1**:
-
-
-

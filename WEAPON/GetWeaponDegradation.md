@@ -16,4 +16,3 @@ float GET_WEAPON_DEGRADATION(Object weaponObject);
 * **weaponObject**:
 
 ## Return value
-

@@ -40,6 +40,3 @@ war_veteran
 ## Parameters
 * **ped**:
 * **locomotionArchetype**:
-
-
-

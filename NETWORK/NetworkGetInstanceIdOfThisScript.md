@@ -13,4 +13,3 @@ int NETWORK_GET_INSTANCE_ID_OF_THIS_SCRIPT();
 
 
 ## Return value
-

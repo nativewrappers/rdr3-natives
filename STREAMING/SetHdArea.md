@@ -15,6 +15,3 @@ void SET_HD_AREA(float x,float y,float z,float radius);
 * **y**:
 * **z**:
 * **radius**:
-
-
-

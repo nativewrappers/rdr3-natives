@@ -12,4 +12,3 @@ int GET_CLOCK_MONTH();
 
 
 ## Return value
-

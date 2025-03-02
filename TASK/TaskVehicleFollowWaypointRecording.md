@@ -22,6 +22,3 @@ void TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING(Ped ped,Vehicle vehicle,const char* 
 * **p8**:
 * **stoppingDist**:
 * **p10**:
-
-
-

@@ -14,6 +14,3 @@ void _SET_DEADEYE_TAGGING_CONFIG(Player player,int filter);
 ## Parameters
 * **player**:
 * **filter**:
-
-
-

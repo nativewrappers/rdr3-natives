@@ -13,6 +13,3 @@ void _ANIMPOSTFX_STOP_STACKHASH_POSTFX(Hash effectNameHash);
 
 ## Parameters
 * **effectNameHash**:
-
-
-

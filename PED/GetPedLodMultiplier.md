@@ -14,4 +14,3 @@ float _GET_PED_LOD_MULTIPLIER(Ped ped);
 * **ped**:
 
 ## Return value
-

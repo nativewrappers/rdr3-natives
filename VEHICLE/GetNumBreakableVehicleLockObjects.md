@@ -15,4 +15,3 @@ int _GET_NUM_BREAKABLE_VEHICLE_LOCK_OBJECTS(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

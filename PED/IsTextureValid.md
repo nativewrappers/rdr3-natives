@@ -15,4 +15,3 @@ Any _IS_TEXTURE_VALID(int textureId);
 * **textureId**:
 
 ## Return value
-

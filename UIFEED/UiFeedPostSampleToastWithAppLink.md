@@ -18,4 +18,3 @@ int _UI_FEED_POST_SAMPLE_TOAST_WITH_APP_LINK(Any* p0,Any* p1,BOOL p2,BOOL p3,BOO
 * **p4**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _SET_ENTITY_FULLY_LOOTED(Entity entity,BOOL looted);
 ## Parameters
 * **entity**:
 * **looted**:
-
-
-

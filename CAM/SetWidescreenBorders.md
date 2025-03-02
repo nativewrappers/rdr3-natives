@@ -13,6 +13,3 @@ void SET_WIDESCREEN_BORDERS(BOOL p0,int p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

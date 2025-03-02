@@ -20,6 +20,3 @@ void _SET_ENTITY_COORDS_AND_HEADING(Entity entity,float xPos,float yPos,float zP
 * **xAxis**:
 * **yAxis**:
 * **zAxis**:
-
-
-

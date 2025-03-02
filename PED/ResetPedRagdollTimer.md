@@ -12,6 +12,3 @@ void RESET_PED_RAGDOLL_TIMER(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

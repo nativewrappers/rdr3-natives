@@ -14,4 +14,3 @@ BOOL _ADD_PED_SUBSCRIBE_TO_LEGENDARY_BLIPS(Ped ped);
 * **ped**:
 
 ## Return value
-

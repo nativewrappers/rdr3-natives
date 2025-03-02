@@ -17,4 +17,3 @@ Returns peltId
 * **index**:
 
 ## Return value
-

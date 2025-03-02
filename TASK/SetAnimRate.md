@@ -15,6 +15,3 @@ void SET_ANIM_RATE(Any p0,float p1,Any p2,BOOL p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

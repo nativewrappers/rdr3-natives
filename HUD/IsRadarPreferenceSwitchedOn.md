@@ -12,4 +12,3 @@ BOOL IS_RADAR_PREFERENCE_SWITCHED_ON();
 
 
 ## Return value
-

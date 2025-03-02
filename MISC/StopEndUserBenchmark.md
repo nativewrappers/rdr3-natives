@@ -13,7 +13,3 @@ void STOP_END_USER_BENCHMARK();
 Begins with STOP_*. Next character in the name is either D or E.
 
 Old name: _STOP_BENCHMARK_RECORDING
-
-
-
-

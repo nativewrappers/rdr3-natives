@@ -17,6 +17,3 @@ void _SET_SCENARIO_POINT_COORDS(int scenario,float xPos,float yPos,float zPos,BO
 * **yPos**:
 * **zPos**:
 * **p4**:
-
-
-

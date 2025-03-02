@@ -14,6 +14,3 @@ void _SET_PLAYER_EXPLOSIVE_WEAPON_DAMAGE_MODIFIER(Player player,float modifier);
 ## Parameters
 * **player**:
 * **modifier**:
-
-
-

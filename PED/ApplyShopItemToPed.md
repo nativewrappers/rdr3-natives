@@ -17,6 +17,3 @@ void _APPLY_SHOP_ITEM_TO_PED(Ped ped,Hash componentHash,BOOL immediately,BOOL is
 * **immediately**:
 * **isMp**:
 * **p4**:
-
-
-

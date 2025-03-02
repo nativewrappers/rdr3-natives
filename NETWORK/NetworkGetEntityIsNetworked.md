@@ -14,4 +14,3 @@ BOOL NETWORK_GET_ENTITY_IS_NETWORKED(Entity entity);
 * **entity**:
 
 ## Return value
-

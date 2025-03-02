@@ -11,7 +11,3 @@ void _FORCE_THIRD_PERSON_CAM_THIS_FRAME();
 ```
 
 Forces camera position to second furthest 3rd person
-
-
-
-

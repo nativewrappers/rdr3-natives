@@ -15,6 +15,3 @@ Old name: _NETWORK_ALLOW_LOCAL_ENTITY_ATTACHMENT
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

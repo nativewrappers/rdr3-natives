@@ -18,4 +18,3 @@ Used in Script Function DUELING_DID_PLAYER_DISARM_OPPONENT
 * **p3**:
 
 ## Return value
-

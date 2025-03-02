@@ -16,4 +16,3 @@ Returns whether the ped has a rifle p1: 0 or 1
 * **p1**:
 
 ## Return value
-

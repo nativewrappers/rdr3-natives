@@ -15,6 +15,3 @@ Old Name: _RESET_PED_TEXTURE_2
 
 ## Parameters
 * **textureId**:
-
-
-

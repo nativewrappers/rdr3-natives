@@ -17,4 +17,3 @@ this native gets the weapon hash from the default ped weapon collection (see Get
 
 ## Return value
 [object Object]
-

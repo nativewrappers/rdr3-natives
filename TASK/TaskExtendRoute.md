@@ -17,6 +17,3 @@ A maximum of 8 points can be added.
 * **x**:
 * **y**:
 * **z**:
-
-
-

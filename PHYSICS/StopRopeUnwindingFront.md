@@ -12,6 +12,3 @@ void STOP_ROPE_UNWINDING_FRONT(int ropeId);
 
 ## Parameters
 * **ropeId**:
-
-
-

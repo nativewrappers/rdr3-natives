@@ -18,6 +18,3 @@ Sets the checkpoint icon color.
 * **green**:
 * **blue**:
 * **alpha**:
-
-
-

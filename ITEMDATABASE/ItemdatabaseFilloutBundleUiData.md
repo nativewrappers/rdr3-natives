@@ -15,4 +15,3 @@ BOOL _ITEMDATABASE_FILLOUT_BUNDLE_UI_DATA(Hash bundle,Any* outData);
 * **outData**:
 
 ## Return value
-

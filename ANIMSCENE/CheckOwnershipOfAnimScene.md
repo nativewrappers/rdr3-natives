@@ -14,4 +14,3 @@ BOOL CHECK_OWNERSHIP_OF_ANIM_SCENE(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns mgmHandle
 * **mgmFilename**:
 
 ## Return value
-

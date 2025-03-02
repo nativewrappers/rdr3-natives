@@ -16,4 +16,3 @@ int _LOCAL_PLAYER_PEDSHOT_TEXTURE_DOWNLOAD_REQUEST(int playerSlot,int personaPho
 * **personaPhotoLocalCacheType**:
 
 ## Return value
-

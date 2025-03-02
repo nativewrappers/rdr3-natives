@@ -13,6 +13,3 @@ If true, the player can't save the game.
 
 ## Parameters
 * **toggle**:
-
-
-

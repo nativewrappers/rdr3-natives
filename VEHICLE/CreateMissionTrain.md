@@ -25,4 +25,3 @@ To make the train AI controlled, set conductor to true and set the speed once.
 * **conductor**:
 
 ## Return value
-

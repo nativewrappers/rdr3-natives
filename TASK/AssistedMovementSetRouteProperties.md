@@ -13,6 +13,3 @@ void ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES(const char* route,int props);
 ## Parameters
 * **route**:
 * **props**:
-
-
-

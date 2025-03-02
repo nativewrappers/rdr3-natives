@@ -13,6 +13,3 @@ void NETWORK_SET_IN_SPECTATOR_MODE(BOOL toggle,Ped playerPed);
 ## Parameters
 * **toggle**:
 * **playerPed**:
-
-
-

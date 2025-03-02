@@ -15,4 +15,3 @@ int _NETWORK_GET_GANG_SIZE(Any gangId);
 * **gangId**:
 
 ## Return value
-

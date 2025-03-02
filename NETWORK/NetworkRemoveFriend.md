@@ -15,4 +15,3 @@ Any _NETWORK_REMOVE_FRIEND(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

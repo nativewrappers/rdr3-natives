@@ -14,6 +14,3 @@ void ALLOW_PICKUP_LIGHT_SYNC(Object pickupObject,BOOL allow);
 ## Parameters
 * **pickupObject**:
 * **allow**:
-
-
-

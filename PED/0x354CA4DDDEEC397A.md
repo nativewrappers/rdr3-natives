@@ -14,4 +14,3 @@ int _0x354CA4DDDEEC397A(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Returns false when transaction request is failing
 * **transactionId**:
 
 ## Return value
-

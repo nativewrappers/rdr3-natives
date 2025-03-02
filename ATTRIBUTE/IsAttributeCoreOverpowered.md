@@ -16,4 +16,3 @@ Any _IS_ATTRIBUTE_CORE_OVERPOWERED(Ped ped,int coreIndex);
 * **coreIndex**:
 
 ## Return value
-

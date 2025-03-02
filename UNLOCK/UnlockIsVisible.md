@@ -15,4 +15,3 @@ BOOL UNLOCK_IS_VISIBLE(Hash unlockHash);
 * **unlockHash**:
 
 ## Return value
-

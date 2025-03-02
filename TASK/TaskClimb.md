@@ -14,6 +14,3 @@ Climbs or vaults the nearest thing.
 ## Parameters
 * **ped**:
 * **unused**:
-
-
-

@@ -16,4 +16,3 @@ Any _NETWORK_IS_TRACKED_PLAYER_VISIBLE(Player player,Player trackedPlayer);
 * **trackedPlayer**:
 
 ## Return value
-

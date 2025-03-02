@@ -18,4 +18,3 @@ Params: tag = TAG_ITEM_PROPERTY (tagType(?))
 * **tagType**:
 
 ## Return value
-

@@ -12,4 +12,3 @@ int GET_TIMECYCLE_TRANSITION_MODIFIER_INDEX();
 
 
 ## Return value
-

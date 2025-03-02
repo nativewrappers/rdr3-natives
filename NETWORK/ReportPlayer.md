@@ -16,6 +16,3 @@ void _REPORT_PLAYER(Player player,int reportType,const char* description,const c
 * **reportType**:
 * **description**:
 * **horseName**:
-
-
-

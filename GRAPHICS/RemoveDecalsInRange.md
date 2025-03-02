@@ -16,6 +16,3 @@ Removes all decals in range from a position, it includes the bullet holes, blood
 * **y**:
 * **z**:
 * **range**:
-
-
-

@@ -12,6 +12,3 @@ void STOP_AUDIO_SCENE(const char* scene);
 
 ## Parameters
 * **scene**:
-
-
-

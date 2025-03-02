@@ -17,4 +17,3 @@ Any _DATABINDING_ADD_DATA_STRING_FROM_PATH(const char* p0,const char* p1,const c
 * **p2**:
 
 ## Return value
-

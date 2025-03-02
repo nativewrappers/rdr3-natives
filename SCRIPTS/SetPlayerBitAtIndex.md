@@ -14,6 +14,3 @@ void _SET_PLAYER_BIT_AT_INDEX(Any* value,int bitIndex);
 ## Parameters
 * **value**:
 * **bitIndex**:
-
-
-

@@ -15,6 +15,3 @@ void _DISABLE_AMMO_TYPE_FOR_PED_WEAPON(Ped ped,Hash weaponHash,Hash ammoHash);
 * **ped**:
 * **weaponHash**:
 * **ammoHash**:
-
-
-

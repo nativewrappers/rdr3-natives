@@ -20,4 +20,3 @@ Returns handle to be used with REMOVE_GRASS_CULL_SPHERE
 * **p4**:
 
 ## Return value
-

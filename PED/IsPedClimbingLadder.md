@@ -15,4 +15,3 @@ Any _IS_PED_CLIMBING_LADDER(Ped ped);
 * **ped**:
 
 ## Return value
-

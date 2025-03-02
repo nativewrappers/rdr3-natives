@@ -14,6 +14,3 @@ void _EAGLE_EYE_SET_CUSTOM_DISTANCE(Entity entity,float distance);
 ## Parameters
 * **entity**:
 * **distance**:
-
-
-

@@ -14,6 +14,3 @@ void SET_BLIP_FLASH_TIMER(Blip blip,int blipType,Hash blipHash);
 * **blip**:
 * **blipType**:
 * **blipHash**:
-
-
-

@@ -12,4 +12,3 @@ BOOL NETWORK_HAVE_ONLINE_PRIVILEGES();
 
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _0xE1B3BE07D3AADDED(Ped ped,int p1,BOOL p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

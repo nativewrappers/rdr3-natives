@@ -15,4 +15,3 @@ Any GET_INDEXED_SCENARIO_POINT_INDEX_IN_ITEMSET(int index,ItemSet itemset);
 * **itemset**:
 
 ## Return value
-

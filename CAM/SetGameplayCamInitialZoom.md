@@ -14,6 +14,3 @@ Used in Script Function SHOP_CAMERA_SUPPORT_START_NEW_ORBIT
 
 ## Parameters
 * **camInitialZoom**:
-
-
-

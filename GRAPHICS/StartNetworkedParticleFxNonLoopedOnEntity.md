@@ -25,4 +25,3 @@ BOOL START_NETWORKED_PARTICLE_FX_NON_LOOPED_ON_ENTITY(const char* effectName,Ent
 * **axisZ**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ Used with CClothingItem
 * **inventoryId**:
 * **guid**:
 * **hidden**:
-
-
-

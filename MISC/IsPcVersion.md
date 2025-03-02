@@ -13,4 +13,3 @@ Hardcoded to return true.
 
 
 ## Return value
-

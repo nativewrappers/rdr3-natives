@@ -12,6 +12,3 @@ void REQUEST_SCRIPT(const char* scriptName);
 
 ## Parameters
 * **scriptName**:
-
-
-

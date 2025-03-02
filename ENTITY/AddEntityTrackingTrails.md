@@ -13,6 +13,3 @@ void _ADD_ENTITY_TRACKING_TRAILS(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

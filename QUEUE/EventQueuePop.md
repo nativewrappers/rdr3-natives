@@ -12,6 +12,3 @@ void _EVENT_QUEUE_POP(Hash hash);
 
 ## Parameters
 * **hash**:
-
-
-

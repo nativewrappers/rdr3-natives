@@ -15,4 +15,3 @@ int GET_SEAT_PED_IS_USING(Ped ped);
 * **ped**:
 
 ## Return value
-

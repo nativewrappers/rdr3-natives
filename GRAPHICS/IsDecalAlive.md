@@ -14,4 +14,3 @@ BOOL IS_DECAL_ALIVE(int decal);
 * **decal**:
 
 ## Return value
-

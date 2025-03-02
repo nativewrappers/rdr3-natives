@@ -24,4 +24,3 @@ The entities must be added to itemSet.
 * **outIncidentID**:
 
 ## Return value
-

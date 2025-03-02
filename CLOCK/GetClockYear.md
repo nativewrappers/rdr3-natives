@@ -12,4 +12,3 @@ int GET_CLOCK_YEAR();
 
 
 ## Return value
-

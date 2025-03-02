@@ -14,6 +14,3 @@ void _SET_FORMATION_AUTO_ASSIGN_POSITION(int groupId,BOOL toggle);
 ## Parameters
 * **groupId**:
 * **toggle**:
-
-
-

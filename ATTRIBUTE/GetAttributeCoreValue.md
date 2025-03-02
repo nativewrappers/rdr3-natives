@@ -17,4 +17,3 @@ coreIndex: see _SET_ATTRIBUTE_CORE_VALUE
 * **coreIndex**:
 
 ## Return value
-

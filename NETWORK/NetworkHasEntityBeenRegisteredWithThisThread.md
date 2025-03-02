@@ -15,4 +15,3 @@ BOOL NETWORK_HAS_ENTITY_BEEN_REGISTERED_WITH_THIS_THREAD(Entity entity);
 * **entity**:
 
 ## Return value
-

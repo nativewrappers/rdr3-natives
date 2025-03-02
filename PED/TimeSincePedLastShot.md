@@ -16,4 +16,3 @@ Returns time since the specified ped last shot, in seconds. (fPlayerJustShotTime
 * **ped**:
 
 ## Return value
-

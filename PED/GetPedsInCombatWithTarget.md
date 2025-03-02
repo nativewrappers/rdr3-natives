@@ -17,4 +17,3 @@ int _GET_PEDS_IN_COMBAT_WITH_TARGET(Ped ped,ItemSet itemset,int flag);
 * **flag**:
 
 ## Return value
-

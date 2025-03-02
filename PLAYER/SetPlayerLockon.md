@@ -13,6 +13,3 @@ void SET_PLAYER_LOCKON(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

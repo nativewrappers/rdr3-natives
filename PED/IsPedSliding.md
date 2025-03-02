@@ -15,4 +15,3 @@ Any _IS_PED_SLIDING(Ped ped);
 * **ped**:
 
 ## Return value
-

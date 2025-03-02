@@ -15,4 +15,3 @@ Hash GET_PED_MODEL_NAME_IN_POPULATION_SET(Hash popSetHash,int index);
 * **index**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Combine this with GET_STRING_FROM_HASH_KEY to display localized entity names
 * **ped**:
 
 ## Return value
-

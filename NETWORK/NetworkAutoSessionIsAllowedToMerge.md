@@ -13,4 +13,3 @@ Any NETWORK_AUTO_SESSION_IS_ALLOWED_TO_MERGE();
 
 
 ## Return value
-

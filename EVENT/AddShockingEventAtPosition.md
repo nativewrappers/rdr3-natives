@@ -26,4 +26,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS
 * **p10**:
 
 ## Return value
-

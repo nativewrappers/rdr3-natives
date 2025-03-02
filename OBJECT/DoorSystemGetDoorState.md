@@ -14,4 +14,3 @@ int DOOR_SYSTEM_GET_DOOR_STATE(Hash doorHash);
 * **doorHash**:
 
 ## Return value
-

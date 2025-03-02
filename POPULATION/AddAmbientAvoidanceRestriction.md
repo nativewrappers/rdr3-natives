@@ -20,6 +20,3 @@ flags: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/PedFilte
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

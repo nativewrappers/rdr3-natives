@@ -15,4 +15,3 @@ BOOL _INVENTORY_GET_INVENTORY_ITEM_IN_USE(int inventoryId,Any* guid);
 * **guid**:
 
 ## Return value
-

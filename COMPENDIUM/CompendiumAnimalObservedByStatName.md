@@ -13,6 +13,3 @@ void COMPENDIUM_ANIMAL_OBSERVED_BY_STAT_NAME(Hash animalType,BOOL disableCompend
 ## Parameters
 * **animalType**:
 * **disableCompendiumToast**:
-
-
-

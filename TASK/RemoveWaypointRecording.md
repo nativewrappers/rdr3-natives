@@ -12,6 +12,3 @@ void REMOVE_WAYPOINT_RECORDING(const char* waypointRecording);
 
 ## Parameters
 * **waypointRecording**:
-
-
-

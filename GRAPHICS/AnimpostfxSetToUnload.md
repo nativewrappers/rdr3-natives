@@ -13,6 +13,3 @@ void _ANIMPOSTFX_SET_TO_UNLOAD(const char* effectName);
 
 ## Parameters
 * **effectName**:
-
-
-

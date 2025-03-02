@@ -14,6 +14,3 @@ void SET_PED_AMMO_TO_DROP(Ped ped,int p1,int p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

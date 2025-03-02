@@ -14,6 +14,3 @@ void _SET_LOCAL_PLAYER_DAMAGE_MULTIPLIER_FOR_PLAYER(Player player,float damageMu
 ## Parameters
 * **player**:
 * **damageMultiplier**:
-
-
-

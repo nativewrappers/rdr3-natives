@@ -14,4 +14,3 @@ Any _MINIGAME_IS_REQUEST_PENDING(Any p0);
 * **p0**:
 
 ## Return value
-

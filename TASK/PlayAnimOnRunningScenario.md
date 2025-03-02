@@ -14,6 +14,3 @@ void PLAY_ANIM_ON_RUNNING_SCENARIO(Ped ped,const char* animDict,const char* anim
 * **ped**:
 * **animDict**:
 * **animName**:
-
-
-

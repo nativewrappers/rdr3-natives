@@ -12,6 +12,3 @@ void ACTIVATE_PHYSICS(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

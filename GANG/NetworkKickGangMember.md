@@ -15,6 +15,3 @@ banTimeSeconds is 120 in R* Scripts
 ## Parameters
 * **player**:
 * **banTimeSeconds**:
-
-
-

@@ -13,6 +13,3 @@ void SET_LOCAL_PLAYER_CAN_COLLECT_PORTABLE_PICKUPS(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

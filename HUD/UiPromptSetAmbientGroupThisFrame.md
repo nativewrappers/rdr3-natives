@@ -21,4 +21,3 @@ Any _UI_PROMPT_SET_AMBIENT_GROUP_THIS_FRAME(Entity entity,float p1,int p2,int p3
 * **p6**:
 
 ## Return value
-

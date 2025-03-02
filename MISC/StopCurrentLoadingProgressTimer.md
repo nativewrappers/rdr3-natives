@@ -11,7 +11,3 @@ void STOP_CURRENT_LOADING_PROGRESS_TIMER();
 ```
 
 nullsub, doesn't do anything
-
-
-
-

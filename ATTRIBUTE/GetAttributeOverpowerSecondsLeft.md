@@ -16,4 +16,3 @@ float _GET_ATTRIBUTE_OVERPOWER_SECONDS_LEFT(Ped ped,int attributeIndex);
 * **attributeIndex**:
 
 ## Return value
-

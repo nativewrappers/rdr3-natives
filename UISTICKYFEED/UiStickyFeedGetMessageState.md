@@ -16,4 +16,3 @@ Returns state of sticky feed message, see 0x59FA676177DBE4C9
 * **msgId**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _NAVMESH_DEACTIVATE_SWAP(const char* name);
 * **name**:
 
 ## Return value
-

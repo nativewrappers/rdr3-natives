@@ -15,4 +15,3 @@ Hash _GET_WEAPON_COMPONENT_TYPE_MODEL(Hash componentHash);
 * **componentHash**:
 
 ## Return value
-

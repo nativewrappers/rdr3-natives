@@ -29,6 +29,3 @@ enum eTransportUsageFlags
 ## Parameters
 * **transportEntity**:
 * **flags**:
-
-
-

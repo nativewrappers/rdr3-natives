@@ -12,6 +12,3 @@ void TASK_HOGTIEABLE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

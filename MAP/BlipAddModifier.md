@@ -20,4 +20,3 @@ Old name: _BLIP_SET_MODIFIER
 * **modifierHash**:
 
 ## Return value
-

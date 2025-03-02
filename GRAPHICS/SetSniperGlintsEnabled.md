@@ -13,6 +13,3 @@ void _SET_SNIPER_GLINTS_ENABLED(BOOL enabled);
 
 ## Parameters
 * **enabled**:
-
-
-

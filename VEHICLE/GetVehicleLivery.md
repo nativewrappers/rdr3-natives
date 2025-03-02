@@ -15,4 +15,3 @@ int _GET_VEHICLE_LIVERY(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

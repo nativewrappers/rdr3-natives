@@ -19,6 +19,3 @@ void _TASK_USE_SCENARIO_POINT_2(Ped ped,Ped ped2,Any p2,const char* p3,int p4,Ha
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

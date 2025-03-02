@@ -15,4 +15,3 @@ Any _IS_PED_MODEL_SUPPRESSED(Hash model);
 * **model**:
 
 ## Return value
-

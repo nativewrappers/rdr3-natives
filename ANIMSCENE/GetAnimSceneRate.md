@@ -15,4 +15,3 @@ float _GET_ANIM_SCENE_RATE(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

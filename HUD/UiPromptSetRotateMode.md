@@ -16,6 +16,3 @@ Used for controllers
 * **prompt**:
 * **p1**:
 * **counterclockwise**:
-
-
-

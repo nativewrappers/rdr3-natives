@@ -14,6 +14,3 @@ void _CLEAR_PELT_FROM_HORSE(Ped horse,int peltId);
 ## Parameters
 * **horse**:
 * **peltId**:
-
-
-

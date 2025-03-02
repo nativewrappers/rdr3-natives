@@ -16,4 +16,3 @@ Any GET_IS_PLAYER_UI_PROMPT_ACTIVE(Player player,int p1);
 * **p1**:
 
 ## Return value
-

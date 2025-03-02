@@ -13,6 +13,3 @@ void RESERVE_NETWORK_CLIENT_MISSION_OBJECTS(int amount);
 
 ## Parameters
 * **amount**:
-
-
-

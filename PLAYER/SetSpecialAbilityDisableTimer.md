@@ -15,6 +15,3 @@ Only used in R* SP Script short_update
 ## Parameters
 * **player**:
 * **timer**:
-
-
-

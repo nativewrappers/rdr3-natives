@@ -14,4 +14,3 @@ int GET_STATE_OF_RAYFIRE_MAP_OBJECT(Object object);
 * **object**:
 
 ## Return value
-

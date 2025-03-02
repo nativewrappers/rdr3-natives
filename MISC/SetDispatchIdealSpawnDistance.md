@@ -12,6 +12,3 @@ void SET_DISPATCH_IDEAL_SPAWN_DISTANCE(float fIdealSpawnDistance);
 
 ## Parameters
 * **fIdealSpawnDistance**:
-
-
-

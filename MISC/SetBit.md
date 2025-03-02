@@ -13,6 +13,3 @@ void SET_BIT(int* address,int offset);
 ## Parameters
 * **address**:
 * **offset**:
-
-
-

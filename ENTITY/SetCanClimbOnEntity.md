@@ -13,6 +13,3 @@ void SET_CAN_CLIMB_ON_ENTITY(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

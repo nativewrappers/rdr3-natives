@@ -14,6 +14,3 @@ void _SET_SHOW_INFO_CARD(Player player,BOOL showingInfoCard);
 ## Parameters
 * **player**:
 * **showingInfoCard**:
-
-
-

@@ -15,4 +15,3 @@ float _GET_PED_ID_RANGE(Ped ped);
 * **ped**:
 
 ## Return value
-

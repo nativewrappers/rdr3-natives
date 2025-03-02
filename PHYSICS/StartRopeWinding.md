@@ -12,6 +12,3 @@ void START_ROPE_WINDING(int ropeId);
 
 ## Parameters
 * **ropeId**:
-
-
-

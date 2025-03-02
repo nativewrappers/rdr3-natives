@@ -15,4 +15,3 @@ BOOL IS_PED_BEING_STUNNED(Ped ped,Hash weaponType);
 * **weaponType**:
 
 ## Return value
-

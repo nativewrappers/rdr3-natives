@@ -15,6 +15,3 @@ Old name: _HIDE_HUD_COMPONENT
 
 ## Parameters
 * **component**:
-
-
-

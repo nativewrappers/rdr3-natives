@@ -15,4 +15,3 @@ Returns whether or not the passed camera handle is active.
 * **cam**:
 
 ## Return value
-

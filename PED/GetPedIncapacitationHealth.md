@@ -15,4 +15,3 @@ int _GET_PED_INCAPACITATION_HEALTH(Ped ped);
 * **ped**:
 
 ## Return value
-

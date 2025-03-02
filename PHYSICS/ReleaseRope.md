@@ -13,6 +13,3 @@ void _RELEASE_ROPE(int ropeId);
 
 ## Parameters
 * **ropeId**:
-
-
-

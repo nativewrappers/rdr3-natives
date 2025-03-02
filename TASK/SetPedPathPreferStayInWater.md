@@ -14,6 +14,3 @@ void _SET_PED_PATH_PREFER_STAY_IN_WATER(Ped ped,BOOL preferStayInWater,float p2)
 * **ped**:
 * **preferStayInWater**:
 * **p2**:
-
-
-

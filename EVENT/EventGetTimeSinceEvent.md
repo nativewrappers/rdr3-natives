@@ -18,4 +18,3 @@ int _EVENT_GET_TIME_SINCE_EVENT(Entity entity,Hash eventType,int p2,int p3);
 * **p3**:
 
 ## Return value
-

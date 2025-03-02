@@ -16,6 +16,3 @@ spinHash can be -1, 0 to disable
 * **ped**:
 * **weaponEmoteTrickType**:
 * **spin**:
-
-
-

@@ -13,6 +13,3 @@ void _RESET_PED_COMPONENTS(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

@@ -14,4 +14,3 @@ BOOL IS_PED_IN_COVER_FACING_LEFT(Ped ped);
 * **ped**:
 
 ## Return value
-

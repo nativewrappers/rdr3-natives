@@ -15,4 +15,3 @@ Any _DOES_COMPRESSED_GLOBAL_BLOCK_BUFFER_EXIST(int index);
 * **index**:
 
 ## Return value
-

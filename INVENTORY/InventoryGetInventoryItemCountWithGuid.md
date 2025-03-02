@@ -17,4 +17,3 @@ int _INVENTORY_GET_INVENTORY_ITEM_COUNT_WITH_GUID(int inventoryId,Any* guid,BOOL
 * **p2**:
 
 ## Return value
-

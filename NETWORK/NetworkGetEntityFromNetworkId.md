@@ -14,4 +14,3 @@ Entity NETWORK_GET_ENTITY_FROM_NETWORK_ID(int netId);
 * **netId**:
 
 ## Return value
-

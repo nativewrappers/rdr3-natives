@@ -14,6 +14,3 @@ void SET_VEHICLE_PETROL_TANK_HEALTH(Vehicle vehicle,float health);
 ## Parameters
 * **vehicle**:
 * **health**:
-
-
-

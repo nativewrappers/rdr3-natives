@@ -16,4 +16,3 @@ int GET_MAX_AMMO_IN_CLIP(Ped ped,Hash weaponHash,BOOL p2);
 * **p2**:
 
 ## Return value
-

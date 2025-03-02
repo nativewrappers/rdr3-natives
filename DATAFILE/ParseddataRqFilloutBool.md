@@ -17,4 +17,3 @@ Old name: _DATAFILE_GET_BOOL
 * **p1**:
 
 ## Return value
-

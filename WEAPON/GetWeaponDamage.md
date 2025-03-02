@@ -16,4 +16,3 @@ Related to weapon visual damage, not actual damage.
 * **weaponObject**:
 
 ## Return value
-

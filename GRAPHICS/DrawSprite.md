@@ -40,6 +40,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/text
 * **blue**:
 * **alpha**:
 * **p11**:
-
-
-

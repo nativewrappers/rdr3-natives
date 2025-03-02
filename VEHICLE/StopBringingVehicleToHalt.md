@@ -14,6 +14,3 @@ Old name: _STOP_BRING_VEHICLE_TO_HALT
 
 ## Parameters
 * **vehicle**:
-
-
-

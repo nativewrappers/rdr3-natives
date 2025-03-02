@@ -15,4 +15,3 @@ int GET_ENTITY_MAX_HEALTH(Entity entity,BOOL p1);
 * **p1**:
 
 ## Return value
-

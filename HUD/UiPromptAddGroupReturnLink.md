@@ -14,6 +14,3 @@ void _UI_PROMPT_ADD_GROUP_RETURN_LINK(Any p0,Prompt prompt);
 ## Parameters
 * **p0**:
 * **prompt**:
-
-
-

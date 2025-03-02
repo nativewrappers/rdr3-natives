@@ -16,4 +16,3 @@ BOOL SC_INBOX_MESSAGE_GET_DATA_INT(int p0,const char* context,int* out);
 * **out**:
 
 ## Return value
-

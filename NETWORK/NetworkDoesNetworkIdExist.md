@@ -14,4 +14,3 @@ BOOL NETWORK_DOES_NETWORK_ID_EXIST(int netID);
 * **netID**:
 
 ## Return value
-

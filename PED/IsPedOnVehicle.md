@@ -19,4 +19,3 @@ Return 0 when ped is not on a vehicle.
 * **p1**:
 
 ## Return value
-

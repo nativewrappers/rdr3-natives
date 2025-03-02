@@ -14,4 +14,3 @@ int MISSIONDATA_GET_HIGH_SCORE(Hash missionId);
 * **missionId**:
 
 ## Return value
-

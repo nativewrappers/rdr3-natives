@@ -15,4 +15,3 @@ Entity _GET_LASSO_TARGET(Ped ped);
 * **ped**:
 
 ## Return value
-

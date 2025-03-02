@@ -14,4 +14,3 @@ Any _DATABINDING_GET_DATA_CONTAINER_FROM_PATH(const char* p0);
 * **p0**:
 
 ## Return value
-

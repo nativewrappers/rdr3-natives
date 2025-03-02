@@ -13,4 +13,3 @@ Any IS_DEATH_FAIL_CAMERA_RUNNING();
 
 
 ## Return value
-

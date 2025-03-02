@@ -17,4 +17,3 @@ Any _BOUNTY_REQUEST_CLAIM_CHARACTER_BOUNTY(Any* outRpcGuid,int p1,Any* p2);
 * **p2**:
 
 ## Return value
-

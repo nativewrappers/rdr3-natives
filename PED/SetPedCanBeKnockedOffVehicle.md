@@ -21,6 +21,3 @@ enum eKnockOffVehicle
 ## Parameters
 * **ped**:
 * **state**:
-
-
-

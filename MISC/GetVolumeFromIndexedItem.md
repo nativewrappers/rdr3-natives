@@ -15,4 +15,3 @@ Volume _GET_VOLUME_FROM_INDEXED_ITEM(ScrHandle item);
 * **item**:
 
 ## Return value
-

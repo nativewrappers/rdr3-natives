@@ -16,4 +16,3 @@ Returns Deadeye value from player
 * **player**:
 
 ## Return value
-

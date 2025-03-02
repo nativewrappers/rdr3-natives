@@ -15,4 +15,3 @@ Any IS_WEAPON_PISTOL(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

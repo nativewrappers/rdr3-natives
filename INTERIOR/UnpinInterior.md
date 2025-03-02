@@ -15,6 +15,3 @@ You don't fall through the floor but everything is invisible inside and looks th
 
 ## Parameters
 * **interior**:
-
-
-

@@ -14,4 +14,3 @@ Any _JOURNAL_CAN_WRITE_ENTRY(Any p0);
 * **p0**:
 
 ## Return value
-

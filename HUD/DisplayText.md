@@ -15,6 +15,3 @@ nullsub, this native does nothing since build 1436, use _BG_DISPLAY_TEXT (0x1679
 * **text**:
 * **xPos**:
 * **yPos**:
-
-
-

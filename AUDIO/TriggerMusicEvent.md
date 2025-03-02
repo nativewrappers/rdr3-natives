@@ -15,4 +15,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/audio/music_events/music_e
 * **eventName**:
 
 ## Return value
-

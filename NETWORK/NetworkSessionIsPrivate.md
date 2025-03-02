@@ -13,4 +13,3 @@ Checks for session flag 'SF_PRIVATE'
 
 
 ## Return value
-

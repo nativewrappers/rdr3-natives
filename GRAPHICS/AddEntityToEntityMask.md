@@ -14,6 +14,3 @@ void _ADD_ENTITY_TO_ENTITY_MASK(Entity entity,int mask);
 ## Parameters
 * **entity**:
 * **mask**:
-
-
-

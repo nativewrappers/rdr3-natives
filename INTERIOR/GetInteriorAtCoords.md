@@ -16,4 +16,3 @@ Interior GET_INTERIOR_AT_COORDS(float x,float y,float z);
 * **z**:
 
 ## Return value
-

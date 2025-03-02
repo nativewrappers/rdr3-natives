@@ -14,6 +14,3 @@ id is the return value from 0xD9459157EB22C895.
 
 ## Parameters
 * **id**:
-
-
-

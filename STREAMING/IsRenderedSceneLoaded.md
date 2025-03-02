@@ -13,4 +13,3 @@ Any IS_RENDERED_SCENE_LOADED();
 
 
 ## Return value
-

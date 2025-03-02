@@ -16,4 +16,3 @@ Any HAS_ENTITY_EXITED_ANIM_SCENE(AnimScene animScene,const char* entityName);
 * **entityName**:
 
 ## Return value
-

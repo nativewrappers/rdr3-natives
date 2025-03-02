@@ -16,4 +16,3 @@ Returns docData.iNumTotalLabelTypes
 * **p0**:
 
 ## Return value
-

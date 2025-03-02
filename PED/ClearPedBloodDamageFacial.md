@@ -14,6 +14,3 @@ void _CLEAR_PED_BLOOD_DAMAGE_FACIAL(Ped ped,int p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

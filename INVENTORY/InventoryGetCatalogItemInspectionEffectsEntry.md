@@ -18,4 +18,3 @@ Returns effects entry id of CatalogItemInspection container.
 * **unk2**:
 
 ## Return value
-

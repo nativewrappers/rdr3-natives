@@ -14,6 +14,3 @@ Makes ped flinch (if in cover) like they have been shot at
 
 ## Parameters
 * **ped**:
-
-
-

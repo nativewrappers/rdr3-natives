@@ -15,4 +15,3 @@ Any _IS_PROXY_INTERIOR_INDEX_ARTIFICIAL_LIGHTS_ENABLED(int proxyInteriorIndex);
 * **proxyInteriorIndex**:
 
 ## Return value
-

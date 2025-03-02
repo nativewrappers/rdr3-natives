@@ -13,6 +13,3 @@ void _DATABINDING_WRITE_DATA_HASH_STRING(Any p0,Hash p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

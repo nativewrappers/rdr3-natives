@@ -13,6 +13,3 @@ void _CLOSE_UIAPP_BY_HASH_IMMEDIATE(Hash appNameHash);
 
 ## Parameters
 * **appNameHash**:
-
-
-

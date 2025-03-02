@@ -14,6 +14,3 @@ _SET_PLAYER_CAN_B* - _SET_PLAYER_CAN_U*
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

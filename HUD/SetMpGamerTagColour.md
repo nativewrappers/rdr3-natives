@@ -14,6 +14,3 @@ void _SET_MP_GAMER_TAG_COLOUR(int gamerTagId,Hash colour);
 ## Parameters
 * **gamerTagId**:
 * **colour**:
-
-
-

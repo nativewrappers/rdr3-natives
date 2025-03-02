@@ -14,4 +14,3 @@ BOOL CANCEL_MUSIC_EVENT(const char* eventName);
 * **eventName**:
 
 ## Return value
-

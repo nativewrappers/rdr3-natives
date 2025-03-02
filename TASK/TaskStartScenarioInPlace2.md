@@ -19,6 +19,3 @@ Takes scenario point handle instead of hash
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

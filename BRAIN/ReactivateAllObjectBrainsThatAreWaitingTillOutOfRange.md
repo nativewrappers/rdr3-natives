@@ -14,7 +14,3 @@ Called before starting a new thread_monitor script thread in startup_mp/startup_
 Alternative name _REGISTER_SCRIPT_BRAIN
 
 Old name: _PREPARE_SCRIPT_BRAIN
-
-
-
-

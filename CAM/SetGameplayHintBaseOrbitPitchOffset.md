@@ -13,6 +13,3 @@ void SET_GAMEPLAY_HINT_BASE_ORBIT_PITCH_OFFSET(float p0);
 
 ## Parameters
 * **p0**:
-
-
-

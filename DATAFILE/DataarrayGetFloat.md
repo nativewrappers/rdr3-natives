@@ -16,4 +16,3 @@ float DATAARRAY_GET_FLOAT(Any* arrayData,int arrayIndex);
 * **arrayIndex**:
 
 ## Return value
-

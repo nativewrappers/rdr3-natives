@@ -14,6 +14,3 @@ Old name: _REQUEST_IMAP
 
 ## Parameters
 * **iplHash**:
-
-
-

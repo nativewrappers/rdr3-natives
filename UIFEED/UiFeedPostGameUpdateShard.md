@@ -17,4 +17,3 @@ int _UI_FEED_POST_GAME_UPDATE_SHARD(Any* p0,Any* p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

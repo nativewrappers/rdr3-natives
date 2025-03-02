@@ -13,6 +13,3 @@ void SET_TRANSITION_OUT_OF_TIMECYCLE_MODIFIER(float strength);
 
 ## Parameters
 * **strength**:
-
-
-

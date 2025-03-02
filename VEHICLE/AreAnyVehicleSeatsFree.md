@@ -15,4 +15,3 @@ Returns false if every seat is occupied.
 * **vehicle**:
 
 ## Return value
-

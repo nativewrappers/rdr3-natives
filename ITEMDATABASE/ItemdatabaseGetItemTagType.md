@@ -16,4 +16,3 @@ Hash _ITEMDATABASE_GET_ITEM_TAG_TYPE(Hash item,Hash tag);
 * **tag**:
 
 ## Return value
-

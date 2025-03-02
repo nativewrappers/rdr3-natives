@@ -15,4 +15,3 @@ Any _IS_THIS_MODEL_A_HORSE(Hash model);
 * **model**:
 
 ## Return value
-

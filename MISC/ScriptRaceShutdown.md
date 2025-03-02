@@ -9,8 +9,3 @@ apiset: client
 // 0x334CE0DA4FAF330C
 void SCRIPT_RACE_SHUTDOWN();
 ```
-
-
-
-
-

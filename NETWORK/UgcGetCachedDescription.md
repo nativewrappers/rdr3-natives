@@ -15,4 +15,3 @@ char* UGC_GET_CACHED_DESCRIPTION(Hash description,int length);
 * **length**:
 
 ## Return value
-

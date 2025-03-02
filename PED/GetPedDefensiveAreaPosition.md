@@ -15,4 +15,3 @@ Vector3 GET_PED_DEFENSIVE_AREA_POSITION(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

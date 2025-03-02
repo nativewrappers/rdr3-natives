@@ -13,4 +13,3 @@ Creates a tracked point, useful for checking the visibility of a 3D point on scr
 
 
 ## Return value
-

@@ -15,4 +15,3 @@ BOOL NETWORK_ARE_HANDLES_THE_SAME(Any* gamerHandle1,Any* gamerHandle2);
 * **gamerHandle2**:
 
 ## Return value
-

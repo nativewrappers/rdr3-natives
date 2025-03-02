@@ -16,4 +16,3 @@ BOOL CASHINVENTORY_INIT_SESSION_STATUS(int* p0,int* p1);
 * **p1**:
 
 ## Return value
-

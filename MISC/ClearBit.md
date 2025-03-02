@@ -13,6 +13,3 @@ void CLEAR_BIT(int* address,int offset);
 ## Parameters
 * **address**:
 * **offset**:
-
-
-

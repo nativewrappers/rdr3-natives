@@ -14,6 +14,3 @@ void IPL_GROUP_SWAP_START(const char* iplName1,const char* iplName2);
 ## Parameters
 * **iplName1**:
 * **iplName2**:
-
-
-

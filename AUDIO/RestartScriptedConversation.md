@@ -12,6 +12,3 @@ void RESTART_SCRIPTED_CONVERSATION(const char* p0);
 
 ## Parameters
 * **p0**:
-
-
-

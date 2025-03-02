@@ -14,4 +14,3 @@ BOOL _MINIGAME_REQUEST_SEAT_AT_TABLE(Any* data);
 * **data**:
 
 ## Return value
-

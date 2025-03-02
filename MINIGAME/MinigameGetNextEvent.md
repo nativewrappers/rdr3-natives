@@ -15,4 +15,3 @@ Any _MINIGAME_GET_NEXT_EVENT(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

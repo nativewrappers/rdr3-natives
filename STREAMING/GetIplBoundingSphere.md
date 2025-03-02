@@ -19,4 +19,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/imaps/imaps_with_coords_an
 * **radius**:
 
 ## Return value
-

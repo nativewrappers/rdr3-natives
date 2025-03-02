@@ -21,4 +21,3 @@ Old name: _GET_PED_FACE_FEATURE
 * **index**:
 
 ## Return value
-

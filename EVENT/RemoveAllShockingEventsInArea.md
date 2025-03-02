@@ -17,6 +17,3 @@ void _REMOVE_ALL_SHOCKING_EVENTS_IN_AREA(float x,float y,float z,float radius,BO
 * **z**:
 * **radius**:
 * **p4**:
-
-
-

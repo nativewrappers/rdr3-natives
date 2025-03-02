@@ -15,4 +15,3 @@ BOOL _UI_PROMPT_IS_PRESSED(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

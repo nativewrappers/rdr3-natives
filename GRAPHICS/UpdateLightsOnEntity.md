@@ -12,6 +12,3 @@ void UPDATE_LIGHTS_ON_ENTITY(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

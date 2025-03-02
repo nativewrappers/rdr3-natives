@@ -15,4 +15,3 @@ BOOL NETWORK_FIND_GAMERS_IN_CREW(int crewId);
 * **crewId**:
 
 ## Return value
-

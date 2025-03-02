@@ -17,4 +17,3 @@ BOOL _ITEMDATABASE_FILLOUT_ITEM(Hash key,Hash costtype,int index,Any* outData);
 * **outData**:
 
 ## Return value
-

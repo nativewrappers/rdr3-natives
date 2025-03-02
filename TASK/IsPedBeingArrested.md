@@ -15,4 +15,3 @@ This function is hard-coded to always return false.
 * **ped**:
 
 ## Return value
-

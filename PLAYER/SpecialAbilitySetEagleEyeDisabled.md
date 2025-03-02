@@ -13,6 +13,3 @@ void _SPECIAL_ABILITY_SET_EAGLE_EYE_DISABLED(Player player);
 
 ## Parameters
 * **player**:
-
-
-

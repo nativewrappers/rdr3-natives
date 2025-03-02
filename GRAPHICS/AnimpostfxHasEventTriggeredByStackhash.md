@@ -18,4 +18,3 @@ Any ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH(Hash effectNameHash,int p1,BOOL 
 * **p3**:
 
 ## Return value
-

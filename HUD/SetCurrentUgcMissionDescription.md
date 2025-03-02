@@ -17,6 +17,3 @@ string1 is the only string used in the scripts, the others are null (0)
 * **string2**:
 * **string3**:
 * **string4**:
-
-
-

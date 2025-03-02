@@ -16,4 +16,3 @@ float _GET_PLAYER_WEAPON_DAMAGE(Player player,Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

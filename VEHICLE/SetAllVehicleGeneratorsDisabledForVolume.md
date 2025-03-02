@@ -14,6 +14,3 @@ void _SET_ALL_VEHICLE_GENERATORS_DISABLED_FOR_VOLUME(Volume volume,BOOL toggle);
 ## Parameters
 * **volume**:
 * **toggle**:
-
-
-

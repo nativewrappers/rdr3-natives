@@ -14,4 +14,3 @@ Vector3 GET_GAMEPLAY_CAM_ROT(int rotationOrder);
 * **rotationOrder**:
 
 ## Return value
-

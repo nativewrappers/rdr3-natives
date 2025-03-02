@@ -16,6 +16,3 @@ void TASK_SHOOT_AT_ENTITY(Entity entity,Entity targetEntity,int duration,Hash fi
 * **duration**:
 * **firingPattern**:
 * **affectCockedState**:
-
-
-

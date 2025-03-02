@@ -17,4 +17,3 @@ Any BOUNTY_GET_WANTED_POSTER_SLOT(Hash p0,Hash p1,Any* p2);
 * **p2**:
 
 ## Return value
-

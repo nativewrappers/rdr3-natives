@@ -14,4 +14,3 @@ int WEEKLY_COLLECTIBLE_GET_NUM_SETS(Hash chalHash);
 * **chalHash**:
 
 ## Return value
-

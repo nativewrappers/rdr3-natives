@@ -15,4 +15,3 @@ Any _HAS_TRAIN_LOADED(Vehicle train);
 * **train**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ Checks for XBOXONE Game Build.
 
 
 ## Return value
-

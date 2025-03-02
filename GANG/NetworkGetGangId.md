@@ -15,4 +15,3 @@ Any NETWORK_GET_GANG_ID(Player player);
 * **player**:
 
 ## Return value
-

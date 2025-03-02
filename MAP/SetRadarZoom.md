@@ -12,6 +12,3 @@ void SET_RADAR_ZOOM(int zoomLevel);
 
 ## Parameters
 * **zoomLevel**:
-
-
-

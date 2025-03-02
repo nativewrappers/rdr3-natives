@@ -13,6 +13,3 @@ void NETWORK_CONCEAL_PLAYER(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

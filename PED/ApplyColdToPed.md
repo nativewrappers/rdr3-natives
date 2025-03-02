@@ -15,6 +15,3 @@ Apply cold intensity to ped from 0.0 to 1.0
 * **ped**:
 * **intensity**:
 * **p2**:
-
-
-

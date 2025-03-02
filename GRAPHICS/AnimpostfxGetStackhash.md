@@ -21,4 +21,3 @@ InterrogationHit
 * **effectName**:
 
 ## Return value
-

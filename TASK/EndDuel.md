@@ -15,6 +15,3 @@ void END_DUEL(Ped ped,BOOL p1,float p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

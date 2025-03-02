@@ -15,6 +15,3 @@ This is useful if you want to add a delay between tasks when using a sequence ta
 ## Parameters
 * **ped**:
 * **ms**:
-
-
-

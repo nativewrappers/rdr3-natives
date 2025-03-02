@@ -16,4 +16,3 @@ Returns train
 * **trackIndex**:
 
 ## Return value
-

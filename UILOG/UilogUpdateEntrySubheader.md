@@ -15,6 +15,3 @@ void _UILOG_UPDATE_ENTRY_SUBHEADER(int p0,Hash p1,const char* p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

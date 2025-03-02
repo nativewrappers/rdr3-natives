@@ -14,4 +14,3 @@ BOOL DOES_BLIP_EXIST(Blip blip);
 * **blip**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ turretHash: WEAPON_TURRET_MAXIUM, WEAPON_TURRET_GATLING, WEAPON_TURRET_CANNON, W
 * **vehicle**:
 * **turretHash**:
 * **ammo**:
-
-
-

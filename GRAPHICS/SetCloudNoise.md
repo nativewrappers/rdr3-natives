@@ -15,6 +15,3 @@ void _SET_CLOUD_NOISE(float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

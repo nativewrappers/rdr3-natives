@@ -16,4 +16,3 @@ Old name: _GET_BENCHMARK_PASS_FROM_COMMAND_LINE
 
 
 ## Return value
-

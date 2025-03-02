@@ -15,4 +15,3 @@ Ped _GET_PED_USING_SCENARIO_POINT(int scenario);
 * **scenario**:
 
 ## Return value
-

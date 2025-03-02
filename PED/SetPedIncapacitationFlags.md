@@ -14,6 +14,3 @@ void _SET_PED_INCAPACITATION_FLAGS(Ped ped,int flags);
 ## Parameters
 * **ped**:
 * **flags**:
-
-
-

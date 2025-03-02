@@ -16,4 +16,3 @@ Player NETWORK_GET_HOST_OF_SCRIPT(const char* scriptName,int p1,int p2);
 * **p2**:
 
 ## Return value
-

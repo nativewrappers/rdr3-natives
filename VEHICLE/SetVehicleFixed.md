@@ -14,6 +14,3 @@ If the vehicle's engine's broken then you cannot fix it with this native.
 
 ## Parameters
 * **vehicle**:
-
-
-

@@ -13,6 +13,3 @@ void _CLEAR_LAUNCH_PARAM(const char* paramName);
 
 ## Parameters
 * **paramName**:
-
-
-

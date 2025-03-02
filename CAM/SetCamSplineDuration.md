@@ -13,6 +13,3 @@ void SET_CAM_SPLINE_DURATION(Cam cam,int timeDuration);
 ## Parameters
 * **cam**:
 * **timeDuration**:
-
-
-

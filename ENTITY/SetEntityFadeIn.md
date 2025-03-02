@@ -13,6 +13,3 @@ void _SET_ENTITY_FADE_IN(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

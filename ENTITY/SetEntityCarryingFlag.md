@@ -34,6 +34,3 @@ enum eCarryingFlag
 * **entity**:
 * **flagId**:
 * **value**:
-
-
-

@@ -14,6 +14,3 @@ https://alloc8or.re/rdr3/doc/enums/rage__eGpsFlags.txt
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

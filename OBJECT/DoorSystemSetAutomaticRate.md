@@ -13,6 +13,3 @@ void DOOR_SYSTEM_SET_AUTOMATIC_RATE(Hash doorHash,float rate);
 ## Parameters
 * **doorHash**:
 * **rate**:
-
-
-

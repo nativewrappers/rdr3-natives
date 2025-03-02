@@ -13,6 +13,3 @@ void _SET_CLOUD_HEIGHT(float height);
 
 ## Parameters
 * **height**:
-
-
-

@@ -14,6 +14,3 @@ void TASK_EAT(Ped ped,Any p1,Any p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

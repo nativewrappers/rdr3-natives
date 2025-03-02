@@ -15,6 +15,3 @@ void REMOVE_TAG_FROM_META_PED(Ped ped,Hash component,int p2);
 * **ped**:
 * **component**:
 * **p2**:
-
-
-

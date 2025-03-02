@@ -17,4 +17,3 @@ Returns a vector3 waypoint at the specified index for a path. Use _NAVMESH_REQUE
 * **waypointIndex**:
 
 ## Return value
-

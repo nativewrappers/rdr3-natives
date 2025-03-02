@@ -15,6 +15,3 @@ void START_ENTITY_FIRE(Any p0,Any p1,Any p2,Any p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

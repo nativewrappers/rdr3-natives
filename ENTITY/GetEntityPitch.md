@@ -14,4 +14,3 @@ float GET_ENTITY_PITCH(Entity entity);
 * **entity**:
 
 ## Return value
-

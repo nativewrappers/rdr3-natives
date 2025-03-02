@@ -14,6 +14,3 @@ void SET_FORCE_VEHICLE_ENGINE_DAMAGE_BY_BULLET(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

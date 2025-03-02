@@ -12,4 +12,3 @@ int GET_NUMBER_OF_STREAMING_REQUESTS();
 
 
 ## Return value
-

@@ -15,4 +15,3 @@ int GET_WANTED_SCORE(Player player);
 * **player**:
 
 ## Return value
-

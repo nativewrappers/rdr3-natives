@@ -14,6 +14,3 @@ void _SET_OBJECT_KICKABLE(Object object,BOOL kickable);
 ## Parameters
 * **object**:
 * **kickable**:
-
-
-

@@ -15,4 +15,3 @@ int _PROPSET_TO_NET(PropSet propSet);
 * **propSet**:
 
 ## Return value
-

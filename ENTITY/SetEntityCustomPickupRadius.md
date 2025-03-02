@@ -14,6 +14,3 @@ void _SET_ENTITY_CUSTOM_PICKUP_RADIUS(Entity entity,float radius);
 ## Parameters
 * **entity**:
 * **radius**:
-
-
-

@@ -16,4 +16,3 @@ Any _UI_PROMPT_SET_CONTROL_ACTION(Prompt prompt,Hash action);
 * **action**:
 
 ## Return value
-

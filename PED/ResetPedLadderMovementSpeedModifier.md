@@ -13,6 +13,3 @@ void _RESET_PED_LADDER_MOVEMENT_SPEED_MODIFIER(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

@@ -15,4 +15,3 @@ BOOL _IS_CINEMATIC_CAM_LOCATION_LOADED(const char* sLocationDictName);
 * **sLocationDictName**:
 
 ## Return value
-

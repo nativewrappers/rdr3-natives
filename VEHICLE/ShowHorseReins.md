@@ -13,6 +13,3 @@ void _SHOW_HORSE_REINS(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

@@ -13,6 +13,3 @@ void _CLEAR_WEATHER_TYPE_PERSIST_OVERTIME(int milliseconds);
 
 ## Parameters
 * **milliseconds**:
-
-
-

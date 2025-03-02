@@ -20,4 +20,3 @@ Prompt _UI_PROMPT_CREATE(Hash inputHash,const char* labelName,Any p2,Any p3,Any 
 * **p5**:
 
 ## Return value
-

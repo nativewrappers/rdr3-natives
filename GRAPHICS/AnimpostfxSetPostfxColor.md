@@ -17,6 +17,3 @@ void _ANIMPOSTFX_SET_POSTFX_COLOR(const char* effectName,int p1,int red,int gree
 * **green**:
 * **blue**:
 * **alpha**:
-
-
-

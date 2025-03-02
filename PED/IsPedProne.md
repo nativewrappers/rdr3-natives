@@ -14,4 +14,3 @@ BOOL IS_PED_PRONE(Ped ped);
 * **ped**:
 
 ## Return value
-

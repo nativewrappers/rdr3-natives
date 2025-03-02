@@ -15,4 +15,3 @@ Any IS_PED_RESPONDING_TO_THREAT(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Object _GET_PED_LAST_DROPPED_HAT(Ped ped);
 * **ped**:
 
 ## Return value
-

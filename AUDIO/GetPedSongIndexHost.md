@@ -14,4 +14,3 @@ Any _GET_PED_SONG_INDEX_HOST(Ped ped);
 * **ped**:
 
 ## Return value
-

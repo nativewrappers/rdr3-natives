@@ -14,6 +14,3 @@ _SET_PED_PATH_P*
 ## Parameters
 * **ped**:
 * **modifier**:
-
-
-

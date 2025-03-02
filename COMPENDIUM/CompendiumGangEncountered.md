@@ -12,6 +12,3 @@ void COMPENDIUM_GANG_ENCOUNTERED(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

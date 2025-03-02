@@ -21,6 +21,3 @@ playerBits (also known as playersToBroadcastTo) is a bitset that indicates which
 * **eventDataSize**:
 * **scriptMetadataIndex**:
 * **playerBits**:
-
-
-

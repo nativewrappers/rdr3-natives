@@ -13,4 +13,3 @@ Checks if the GPS route to the waypoint is navigable along a road. If a route ex
 
 
 ## Return value
-

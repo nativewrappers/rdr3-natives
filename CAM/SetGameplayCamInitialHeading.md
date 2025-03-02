@@ -13,6 +13,3 @@ void _SET_GAMEPLAY_CAM_INITIAL_HEADING(float camInitialHeading);
 
 ## Parameters
 * **camInitialHeading**:
-
-
-

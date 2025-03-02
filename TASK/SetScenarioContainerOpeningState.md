@@ -15,6 +15,3 @@ Opens/closes containers: ChestDugUp
 ## Parameters
 * **entity**:
 * **open**:
-
-
-

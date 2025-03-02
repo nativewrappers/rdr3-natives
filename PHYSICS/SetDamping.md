@@ -14,6 +14,3 @@ void SET_DAMPING(Entity entity,int vertex,float value);
 * **entity**:
 * **vertex**:
 * **value**:
-
-
-

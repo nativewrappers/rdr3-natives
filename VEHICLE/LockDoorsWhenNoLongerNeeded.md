@@ -13,6 +13,3 @@ void LOCK_DOORS_WHEN_NO_LONGER_NEEDED(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

@@ -13,6 +13,3 @@ void FORCE_CINEMATIC_RENDERING_THIS_UPDATE(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

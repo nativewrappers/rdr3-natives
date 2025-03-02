@@ -23,6 +23,3 @@ void TASK_START_SCENARIO_AT_POSITION(Ped ped,Hash scenarioHash,float x,float y,f
 * **p9**:
 * **p10**:
 * **p11**:
-
-
-

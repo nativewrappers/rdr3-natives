@@ -18,4 +18,3 @@ NOTE: if type is 0 returns PlayerPedId always?
 * **p0**:
 
 ## Return value
-

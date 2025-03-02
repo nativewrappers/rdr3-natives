@@ -15,4 +15,3 @@ Vector3 _GET_INTERIOR_POSITION(Interior interior);
 * **interior**:
 
 ## Return value
-

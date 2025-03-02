@@ -13,6 +13,3 @@ void _SET_ALL_GLOBAL_BLOCKS_HAVE_BEEN_LOADED(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

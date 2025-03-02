@@ -15,4 +15,3 @@ BOOL _UI_PROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

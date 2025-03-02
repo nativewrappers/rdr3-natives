@@ -14,4 +14,3 @@ Hash _CASHINVENTORY_TRANSACTION_GET_ACTION(int id);
 * **id**:
 
 ## Return value
-

@@ -20,4 +20,3 @@ int COUNT_PEDS_IN_COMBAT_WITH_TARGET_WITHIN_RADIUS(Ped ped,float x,float y,float
 * **flag**:
 
 ## Return value
-

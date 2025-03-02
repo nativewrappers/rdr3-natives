@@ -12,4 +12,3 @@ Vector3 GET_FINAL_RENDERED_CAM_COORD();
 
 
 ## Return value
-

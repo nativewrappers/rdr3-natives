@@ -13,6 +13,3 @@ void _0x76BAD9D538BCA1AA(int ropeId,float p1);
 ## Parameters
 * **ropeId**:
 * **p1**:
-
-
-

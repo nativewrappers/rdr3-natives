@@ -13,6 +13,3 @@ void TASK_BREAK_VEHICLE_DOOR_LOCK(Ped ped,Vehicle vehicle);
 ## Parameters
 * **ped**:
 * **vehicle**:
-
-
-

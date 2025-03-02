@@ -13,6 +13,3 @@ void PLAY_ENTITY_SCRIPTED_ANIM(Entity entity,Any* args);
 ## Parameters
 * **entity**:
 * **args**:
-
-
-

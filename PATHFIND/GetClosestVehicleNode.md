@@ -20,4 +20,3 @@ BOOL GET_CLOSEST_VEHICLE_NODE(float x,float y,float z,Vector3* outPosition,int n
 * **p6**:
 
 ## Return value
-

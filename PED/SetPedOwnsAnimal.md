@@ -15,6 +15,3 @@ void SET_PED_OWNS_ANIMAL(Ped ped,Ped animal,BOOL p2);
 * **ped**:
 * **animal**:
 * **p2**:
-
-
-

@@ -16,6 +16,3 @@ _SET_PED_COMBAT_A* - _SET_PED_COMBAT_M*
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

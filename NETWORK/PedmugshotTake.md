@@ -13,4 +13,3 @@ Any _PEDMUGSHOT_TAKE();
 
 
 ## Return value
-

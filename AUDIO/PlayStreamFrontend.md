@@ -12,6 +12,3 @@ void PLAY_STREAM_FRONTEND(int streamId);
 
 ## Parameters
 * **streamId**:
-
-
-

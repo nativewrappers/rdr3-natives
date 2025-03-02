@@ -16,4 +16,3 @@ Any _GET_AI_PED_DOES_HAVE_EVENT_MEMORY(Any* args,int p1);
 * **p1**:
 
 ## Return value
-

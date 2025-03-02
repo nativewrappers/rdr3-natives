@@ -18,4 +18,3 @@ Any AWARDS_GET_RESULT_ITEM(Any* rpcGuid,Hash awardHash,int itemIndex,Any* outRes
 * **outResultItem**:
 
 ## Return value
-

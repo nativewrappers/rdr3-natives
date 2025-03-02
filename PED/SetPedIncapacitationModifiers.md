@@ -17,6 +17,3 @@ void _SET_PED_INCAPACITATION_MODIFIERS(Ped ped,BOOL canBeIncapacitated,int thres
 * **threshold**:
 * **bleedoutTime**:
 * **p4**:
-
-
-

@@ -17,6 +17,3 @@ TM_IN_VEHICLE
 ## Parameters
 * **prompt**:
 * **mode**:
-
-
-

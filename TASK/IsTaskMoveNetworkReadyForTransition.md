@@ -14,4 +14,3 @@ BOOL IS_TASK_MOVE_NETWORK_READY_FOR_TRANSITION(Ped ped);
 * **ped**:
 
 ## Return value
-

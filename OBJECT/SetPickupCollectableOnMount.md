@@ -13,6 +13,3 @@ void _SET_PICKUP_COLLECTABLE_ON_MOUNT(Object object);
 
 ## Parameters
 * **object**:
-
-
-

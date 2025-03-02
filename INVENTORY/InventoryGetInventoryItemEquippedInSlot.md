@@ -19,4 +19,3 @@ int _INVENTORY_GET_INVENTORY_ITEM_EQUIPPED_IN_SLOT(int inventoryId,Any* guid,Has
 * **p4**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Always returns a null string.
 * **gamerHandle**:
 
 ## Return value
-

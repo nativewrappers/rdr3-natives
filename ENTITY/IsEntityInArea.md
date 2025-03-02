@@ -23,4 +23,3 @@ BOOL IS_ENTITY_IN_AREA(Entity entity,float x1,float y1,float z1,float x2,float y
 * **p9**:
 
 ## Return value
-

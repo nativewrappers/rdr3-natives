@@ -21,6 +21,3 @@ enum eCombatRange
 ## Parameters
 * **ped**:
 * **range**:
-
-
-

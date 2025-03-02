@@ -13,6 +13,3 @@ void _SET_PED_DESIRES_GROUP(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

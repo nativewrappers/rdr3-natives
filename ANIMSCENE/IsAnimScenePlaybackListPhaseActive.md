@@ -16,4 +16,3 @@ Any _IS_ANIM_SCENE_PLAYBACK_LIST_PHASE_ACTIVE(AnimScene animScene,const char* ph
 * **phaseName**:
 
 ## Return value
-

@@ -22,6 +22,3 @@ For more information, see common/data/ai/peddamageinfo.meta
 ## Parameters
 * **ped**:
 * **bleedoutProfile**:
-
-
-

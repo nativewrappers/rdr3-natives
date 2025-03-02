@@ -12,6 +12,3 @@ void NETWORK_SET_LOCAL_PLAYER_SYNC_LOOK_AT(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

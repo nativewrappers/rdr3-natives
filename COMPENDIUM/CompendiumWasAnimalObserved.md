@@ -14,4 +14,3 @@ BOOL COMPENDIUM_WAS_ANIMAL_OBSERVED(Ped ped);
 * **ped**:
 
 ## Return value
-

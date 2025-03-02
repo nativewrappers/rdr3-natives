@@ -13,6 +13,3 @@ void _SET_STATE_PHOTO_TAKEN_STAT(const char* p0);
 
 ## Parameters
 * **p0**:
-
-
-

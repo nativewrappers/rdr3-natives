@@ -15,4 +15,3 @@ Returns whether the player can control himself.
 * **player**:
 
 ## Return value
-

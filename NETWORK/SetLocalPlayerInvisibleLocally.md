@@ -12,6 +12,3 @@ void SET_LOCAL_PLAYER_INVISIBLE_LOCALLY(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

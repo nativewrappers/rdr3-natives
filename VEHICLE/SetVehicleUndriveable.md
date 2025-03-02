@@ -13,6 +13,3 @@ void SET_VEHICLE_UNDRIVEABLE(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

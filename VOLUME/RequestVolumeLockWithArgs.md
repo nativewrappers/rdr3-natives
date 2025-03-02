@@ -15,4 +15,3 @@ int REQUEST_VOLUME_LOCK_WITH_ARGS(Any* args);
 * **args**:
 
 ## Return value
-

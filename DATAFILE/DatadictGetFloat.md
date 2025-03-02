@@ -16,4 +16,3 @@ float DATADICT_GET_FLOAT(Any* objectData,const char* key);
 * **key**:
 
 ## Return value
-

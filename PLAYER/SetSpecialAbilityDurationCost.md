@@ -15,6 +15,3 @@ durationCost: per second
 ## Parameters
 * **player**:
 * **durationCost**:
-
-
-

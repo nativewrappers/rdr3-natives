@@ -16,4 +16,3 @@ Any IS_PED_EXITING_TRANSPORT(Ped ped,Entity transportEntity);
 * **transportEntity**:
 
 ## Return value
-

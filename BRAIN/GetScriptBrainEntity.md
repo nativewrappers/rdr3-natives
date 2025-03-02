@@ -13,4 +13,3 @@ Entity _GET_SCRIPT_BRAIN_ENTITY();
 
 
 ## Return value
-

@@ -18,6 +18,3 @@ Params: See 0x0751D461F06E41CE
 * **promptType**:
 * **promptMode**:
 * **enabled**:
-
-
-

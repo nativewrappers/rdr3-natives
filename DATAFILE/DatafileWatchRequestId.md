@@ -13,6 +13,3 @@ Adds the given request ID to the watch list.
 
 ## Parameters
 * **id**:
-
-
-

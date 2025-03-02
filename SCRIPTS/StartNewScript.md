@@ -15,4 +15,3 @@ int START_NEW_SCRIPT(const char* scriptName,int stackSize);
 * **stackSize**:
 
 ## Return value
-

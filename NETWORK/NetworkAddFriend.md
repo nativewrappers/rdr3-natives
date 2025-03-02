@@ -15,4 +15,3 @@ BOOL NETWORK_ADD_FRIEND(Any* gamerHandle,const char* message);
 * **message**:
 
 ## Return value
-

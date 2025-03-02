@@ -15,6 +15,3 @@ void _UI_PROMPT_ADD_GROUP_LINK(Any p0,Prompt prompt,Any p2);
 * **p0**:
 * **prompt**:
 * **p2**:
-
-
-

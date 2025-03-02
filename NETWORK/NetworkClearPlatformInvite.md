@@ -9,8 +9,3 @@ apiset: client
 // 0xA4484173759749B1
 void NETWORK_CLEAR_PLATFORM_INVITE();
 ```
-
-
-
-
-

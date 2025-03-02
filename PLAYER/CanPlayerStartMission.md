@@ -14,4 +14,3 @@ BOOL CAN_PLAYER_START_MISSION(Player player);
 * **player**:
 
 ## Return value
-

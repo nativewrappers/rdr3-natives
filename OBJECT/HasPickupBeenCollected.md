@@ -14,4 +14,3 @@ BOOL HAS_PICKUP_BEEN_COLLECTED(Pickup pickup);
 * **pickup**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ BOOL BOUNTY_REQUEST_BEGIN_LEGENDARY_MISSION_FOR_POSSE(Any* outRpcGuid,int p1,int
 * **p2**:
 
 ## Return value
-

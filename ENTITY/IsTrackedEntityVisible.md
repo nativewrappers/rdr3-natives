@@ -15,4 +15,3 @@ Any _IS_TRACKED_ENTITY_VISIBLE(Entity entity);
 * **entity**:
 
 ## Return value
-

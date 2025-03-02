@@ -14,6 +14,3 @@ void SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT(Ped ped,const char* signalName,float val
 * **ped**:
 * **signalName**:
 * **value**:
-
-
-

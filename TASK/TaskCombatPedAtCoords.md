@@ -20,6 +20,3 @@ p4/p5 = 0 in R* Scripts previous name TASK_COMBAT_PED_3
 * **z**:
 * **p4**:
 * **p5**:
-
-
-

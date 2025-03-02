@@ -14,4 +14,3 @@ float GET_PED_DESIRED_MOVE_BLEND_RATIO(Ped ped);
 * **ped**:
 
 ## Return value
-

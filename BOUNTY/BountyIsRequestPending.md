@@ -15,4 +15,3 @@ Any _BOUNTY_IS_REQUEST_PENDING(Any* rpcGuid);
 * **rpcGuid**:
 
 ## Return value
-

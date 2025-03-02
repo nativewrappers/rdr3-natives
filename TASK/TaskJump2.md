@@ -16,6 +16,3 @@ void _TASK_JUMP_2(Ped ped,float x,float y,float z,Entity entity);
 * **y**:
 * **z**:
 * **entity**:
-
-
-

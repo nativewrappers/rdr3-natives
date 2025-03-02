@@ -26,4 +26,3 @@ int START_PARTICLE_FX_LOOPED_ON_PED_BONE(const char* effectName,Ped ped,float xO
 * **zAxis**:
 
 ## Return value
-

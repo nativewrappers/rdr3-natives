@@ -16,6 +16,3 @@ void TASK_PATROL(Ped ped,const char* patrolRoute,Any p2,BOOL p3,BOOL p4);
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

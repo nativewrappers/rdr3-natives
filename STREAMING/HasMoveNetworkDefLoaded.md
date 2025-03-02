@@ -15,4 +15,3 @@ Any HAS_MOVE_NETWORK_DEF_LOADED(const char* name);
 * **name**:
 
 ## Return value
-

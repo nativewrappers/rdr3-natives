@@ -16,6 +16,3 @@ void _EAGLE_EYE_DISABLE_TRACKING_TRAIL(Entity entity,const char* trail,Any p2,An
 * **trail**:
 * **p2**:
 * **p3**:
-
-
-

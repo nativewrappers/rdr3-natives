@@ -13,6 +13,3 @@ void _DISABLE_STATIC_VEG_MODIFIER(Hash p0);
 
 ## Parameters
 * **p0**:
-
-
-

@@ -15,6 +15,3 @@ Disables lod/distant lights when BOOL is set to true
 
 ## Parameters
 * **disable**:
-
-
-

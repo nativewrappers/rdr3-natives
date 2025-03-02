@@ -13,4 +13,3 @@ int NETWORK_GET_GAME_MODE();
 
 
 ## Return value
-

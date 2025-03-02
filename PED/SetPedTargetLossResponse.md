@@ -16,6 +16,3 @@ TLR_SearchForTarget
 ## Parameters
 * **ped**:
 * **responseType**:
-
-
-

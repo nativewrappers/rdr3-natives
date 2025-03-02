@@ -15,4 +15,3 @@ BOOL IS_OBJECT_A_PORTABLE_PICKUP(Object object);
 * **object**:
 
 ## Return value
-

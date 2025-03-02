@@ -14,4 +14,3 @@ int CHAL_GET_MAX_RANKS(Hash chalHash);
 * **chalHash**:
 
 ## Return value
-

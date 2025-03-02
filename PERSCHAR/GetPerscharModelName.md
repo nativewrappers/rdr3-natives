@@ -15,4 +15,3 @@ Hash _GET_PERSCHAR_MODEL_NAME(Hash persCharHash);
 * **persCharHash**:
 
 ## Return value
-

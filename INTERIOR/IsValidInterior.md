@@ -14,4 +14,3 @@ BOOL IS_VALID_INTERIOR(Interior interior);
 * **interior**:
 
 ## Return value
-

@@ -19,6 +19,3 @@ void TASK_GOTO_ENTITY_OFFSET_XY(Ped ped,Entity entity,int duration,float targetR
 * **yOffset**:
 * **moveBlendRatio**:
 * **offsetFlags**:
-
-
-

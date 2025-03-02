@@ -13,6 +13,3 @@ void _UILOG_SET_CACHED_OBJECTIVE(const char* p0);
 
 ## Parameters
 * **p0**:
-
-
-

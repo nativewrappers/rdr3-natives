@@ -16,6 +16,3 @@ void SET_TEXT_DROPSHADOW(int distance,int r,int g,int b,int a);
 * **g**:
 * **b**:
 * **a**:
-
-
-

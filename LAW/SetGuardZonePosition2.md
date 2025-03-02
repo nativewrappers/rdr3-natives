@@ -15,6 +15,3 @@ void _SET_GUARD_ZONE_POSITION_2(const char* name,float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

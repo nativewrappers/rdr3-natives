@@ -14,4 +14,3 @@ BOOL IS_PED_DIVING(Ped ped);
 * **ped**:
 
 ## Return value
-

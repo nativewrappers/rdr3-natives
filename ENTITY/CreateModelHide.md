@@ -17,6 +17,3 @@ void CREATE_MODEL_HIDE(float x,float y,float z,float radius,Hash model,BOOL p5);
 * **radius**:
 * **model**:
 * **p5**:
-
-
-

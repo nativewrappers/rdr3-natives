@@ -14,6 +14,3 @@ void RETAIN_ENTITY_IN_INTERIOR(Entity entity,Interior interior);
 ## Parameters
 * **entity**:
 * **interior**:
-
-
-

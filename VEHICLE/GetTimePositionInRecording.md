@@ -14,4 +14,3 @@ float GET_TIME_POSITION_IN_RECORDING(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

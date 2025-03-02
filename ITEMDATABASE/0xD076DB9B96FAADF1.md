@@ -15,4 +15,3 @@ BOOL _0xD076DB9B96FAADF1(Hash award,Any* outData);
 * **outData**:
 
 ## Return value
-

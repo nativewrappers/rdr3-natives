@@ -15,4 +15,3 @@ Any _GET_BLOCKING_OF_NON_TEMPORARY_EVENTS(Ped ped);
 * **ped**:
 
 ## Return value
-

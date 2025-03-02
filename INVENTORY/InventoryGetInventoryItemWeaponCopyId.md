@@ -17,4 +17,3 @@ Returns CopyID
 * **guid**:
 
 ## Return value
-

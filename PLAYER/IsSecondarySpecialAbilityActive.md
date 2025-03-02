@@ -15,4 +15,3 @@ Any _IS_SECONDARY_SPECIAL_ABILITY_ACTIVE(Player player);
 * **player**:
 
 ## Return value
-

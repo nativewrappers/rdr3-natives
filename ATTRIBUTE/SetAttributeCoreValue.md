@@ -22,6 +22,3 @@ enum eAttributeCore
 * **ped**:
 * **coreIndex**:
 * **value**:
-
-
-

@@ -14,4 +14,3 @@ BOOL NETWORK_REQUEST_CONTROL_OF_NETWORK_ID(int netId);
 * **netId**:
 
 ## Return value
-

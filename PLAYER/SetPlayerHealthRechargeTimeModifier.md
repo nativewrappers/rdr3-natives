@@ -15,6 +15,3 @@ Setting player's Health recharge time to zero forces immediate health regen
 ## Parameters
 * **player**:
 * **modifier**:
-
-
-

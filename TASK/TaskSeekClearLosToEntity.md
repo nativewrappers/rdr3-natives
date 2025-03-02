@@ -16,6 +16,3 @@ void TASK_SEEK_CLEAR_LOS_TO_ENTITY(Ped ped,Entity entity,float p2,float p3,float
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

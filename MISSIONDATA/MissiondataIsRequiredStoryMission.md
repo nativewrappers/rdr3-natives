@@ -15,4 +15,3 @@ Any MISSIONDATA_IS_REQUIRED_STORY_MISSION(Hash missionId);
 * **missionId**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _IS_ROPE_BROKEN(int ropeId);
 * **ropeId**:
 
 ## Return value
-

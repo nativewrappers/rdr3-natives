@@ -15,4 +15,3 @@ Any _DOES_SCENARIO_POINT_HAVE_PROPS(int scenario);
 * **scenario**:
 
 ## Return value
-

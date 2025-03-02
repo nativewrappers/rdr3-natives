@@ -14,6 +14,3 @@ Enables or disables the Pick Up prompt for a hat on the ground for the specified
 ## Parameters
 * **player**:
 * **canPickup**:
-
-
-

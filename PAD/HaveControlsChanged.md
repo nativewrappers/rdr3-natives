@@ -15,4 +15,3 @@ BOOL HAVE_CONTROLS_CHANGED(int control);
 * **control**:
 
 ## Return value
-

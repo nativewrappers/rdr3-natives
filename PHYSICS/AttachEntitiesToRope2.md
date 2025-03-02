@@ -24,6 +24,3 @@ Attaches a rope to two entities: binds two bones from two entities; one entity c
 * **ent2Z**:
 * **boneName1**:
 * **boneName2**:
-
-
-

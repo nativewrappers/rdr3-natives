@@ -13,6 +13,3 @@ void REQUEST_VEHICLE_ASSET(Hash vehicleHash,int vehicleAsset);
 ## Parameters
 * **vehicleHash**:
 * **vehicleAsset**:
-
-
-

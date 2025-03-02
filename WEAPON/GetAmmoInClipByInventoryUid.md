@@ -17,4 +17,3 @@ Any _GET_AMMO_IN_CLIP_BY_INVENTORY_UID(Ped ped,int* ammo,Any* inventoryUid);
 * **inventoryUid**:
 
 ## Return value
-

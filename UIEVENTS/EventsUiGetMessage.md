@@ -26,4 +26,3 @@ Old name: _EVENT_MANAGER_GET_EVENT
 * **eventData**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void REGISTER_TARGET(Ped ped,Ped targetPed,BOOL p2);
 * **ped**:
 * **targetPed**:
 * **p2**:
-
-
-

@@ -15,4 +15,3 @@ int _ITEMDATABASE_GET_AWARD_ACQUIRE_COST_COUNT(Hash key);
 * **key**:
 
 ## Return value
-

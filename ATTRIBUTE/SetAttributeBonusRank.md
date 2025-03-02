@@ -15,6 +15,3 @@ attributeIndex: see SET_ATTRIBUTE_BASE_RANK
 * **ped**:
 * **attributeIndex**:
 * **newValue**:
-
-
-

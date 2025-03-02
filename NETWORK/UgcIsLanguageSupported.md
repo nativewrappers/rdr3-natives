@@ -14,4 +14,3 @@ BOOL UGC_IS_LANGUAGE_SUPPORTED(int languageId);
 * **languageId**:
 
 ## Return value
-

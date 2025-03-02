@@ -15,4 +15,3 @@ Any _IS_WEAPON_TORCH(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

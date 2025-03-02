@@ -16,4 +16,3 @@ int COUNT_PEDS_IN_COMBAT_WITH_TARGET(Ped ped,int flag);
 * **flag**:
 
 ## Return value
-

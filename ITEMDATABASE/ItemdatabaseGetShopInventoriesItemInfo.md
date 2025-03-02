@@ -17,4 +17,3 @@ Any _ITEMDATABASE_GET_SHOP_INVENTORIES_ITEM_INFO(Hash shopType,int index,Any* ou
 * **outData**:
 
 ## Return value
-

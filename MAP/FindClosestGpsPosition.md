@@ -18,4 +18,3 @@ Any _FIND_CLOSEST_GPS_POSITION(float x,float y,float z,Vector3* outPosition);
 * **outPosition**:
 
 ## Return value
-

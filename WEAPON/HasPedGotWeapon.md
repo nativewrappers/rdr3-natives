@@ -18,4 +18,3 @@ onlyCheckPlayerInventory: If true, it will only check the players current invent
 * **onlyCheckPlayerInventory**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Entity GET_PED_MOTION_FOCUS_ENTITY(Ped ped);
 * **ped**:
 
 ## Return value
-

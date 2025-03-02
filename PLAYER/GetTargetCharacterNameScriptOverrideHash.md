@@ -15,4 +15,3 @@ Hash GET_TARGET_CHARACTER_NAME_SCRIPT_OVERRIDE_HASH(Ped ped);
 * **ped**:
 
 ## Return value
-

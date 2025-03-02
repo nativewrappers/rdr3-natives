@@ -13,6 +13,3 @@ void _UNHITCH_HORSE(Ped horse);
 
 ## Parameters
 * **horse**:
-
-
-

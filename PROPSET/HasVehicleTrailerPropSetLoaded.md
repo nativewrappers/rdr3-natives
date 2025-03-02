@@ -16,4 +16,3 @@ Any _HAS_VEHICLE_TRAILER_PROP_SET_LOADED(Vehicle vehicle,int wagonIndex);
 * **wagonIndex**:
 
 ## Return value
-

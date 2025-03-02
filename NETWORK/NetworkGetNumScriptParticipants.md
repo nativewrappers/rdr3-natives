@@ -16,4 +16,3 @@ int NETWORK_GET_NUM_SCRIPT_PARTICIPANTS(const char* scriptName,int instanceId,Ha
 * **position**:
 
 ## Return value
-

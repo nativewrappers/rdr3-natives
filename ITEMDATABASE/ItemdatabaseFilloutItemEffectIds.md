@@ -16,4 +16,3 @@ Any _ITEMDATABASE_FILLOUT_ITEM_EFFECT_IDS(Hash key,Any* outData);
 * **outData**:
 
 ## Return value
-

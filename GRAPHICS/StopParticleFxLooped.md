@@ -13,6 +13,3 @@ void STOP_PARTICLE_FX_LOOPED(int ptfxHandle,BOOL p1);
 ## Parameters
 * **ptfxHandle**:
 * **p1**:
-
-
-

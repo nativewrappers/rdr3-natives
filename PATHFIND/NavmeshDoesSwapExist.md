@@ -15,4 +15,3 @@ Any _NAVMESH_DOES_SWAP_EXIST(const char* name);
 * **name**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Alternative Name: _GET_ENTITY_FROM_MAP_OBJECT; You can get existing objects and 
 * **modelHash**:
 
 ## Return value
-

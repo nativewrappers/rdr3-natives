@@ -16,4 +16,3 @@ https://i.imgur.com/1rHibjW.jpg
 * **trackIndex**:
 
 ## Return value
-

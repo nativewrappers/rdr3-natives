@@ -17,6 +17,3 @@ void _SET_ENTITY_MASK_LAYERS(Entity entity,float* layer0,float* layer1,float* la
 * **layer1**:
 * **layer2**:
 * **layer3**:
-
-
-

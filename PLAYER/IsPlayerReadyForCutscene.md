@@ -14,4 +14,3 @@ BOOL IS_PLAYER_READY_FOR_CUTSCENE(Player player);
 * **player**:
 
 ## Return value
-

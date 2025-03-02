@@ -13,6 +13,3 @@ void _REMOVE_VEHICLE_LIGHT_PROP_SETS(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

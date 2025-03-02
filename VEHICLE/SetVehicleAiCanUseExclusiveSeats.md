@@ -14,6 +14,3 @@ Used to be incorrectly named SET_VEHICLE_EXCLUSIVE_DRIVER
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

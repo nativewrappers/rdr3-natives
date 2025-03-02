@@ -12,6 +12,3 @@ void SET_WIND_SPEED(float speed);
 
 ## Parameters
 * **speed**:
-
-
-

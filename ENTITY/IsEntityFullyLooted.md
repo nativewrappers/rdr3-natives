@@ -15,4 +15,3 @@ Any _IS_ENTITY_FULLY_LOOTED(Entity entity);
 * **entity**:
 
 ## Return value
-

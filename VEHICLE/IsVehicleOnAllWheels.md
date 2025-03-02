@@ -14,4 +14,3 @@ BOOL IS_VEHICLE_ON_ALL_WHEELS(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

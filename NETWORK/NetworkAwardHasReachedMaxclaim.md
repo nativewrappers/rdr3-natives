@@ -15,4 +15,3 @@ Any NETWORK_AWARD_HAS_REACHED_MAXCLAIM(Any p0);
 * **p0**:
 
 ## Return value
-

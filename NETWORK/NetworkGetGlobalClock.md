@@ -17,4 +17,3 @@ BOOL NETWORK_GET_GLOBAL_CLOCK(int* hour,int* minute,int* second);
 * **second**:
 
 ## Return value
-

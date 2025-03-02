@@ -15,6 +15,3 @@ void TASK_VEHICLE_DRIVE_WANDER(Ped ped,Vehicle vehicle,float speed,int drivingSt
 * **vehicle**:
 * **speed**:
 * **drivingStyle**:
-
-
-

@@ -15,4 +15,3 @@ float _UI_PROMPT_GET_PROGRESS(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

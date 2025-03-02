@@ -17,4 +17,3 @@ _GET_R* - _GET_T*
 * **ped**:
 
 ## Return value
-

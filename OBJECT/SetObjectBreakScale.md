@@ -14,6 +14,3 @@ void _SET_OBJECT_BREAK_SCALE(Object object,float scale);
 ## Parameters
 * **object**:
 * **scale**:
-
-
-

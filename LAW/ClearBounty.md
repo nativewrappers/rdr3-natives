@@ -13,6 +13,3 @@ void CLEAR_BOUNTY(Player player);
 
 ## Parameters
 * **player**:
-
-
-

@@ -19,6 +19,3 @@ StartAimingDist = distance where the ped should start to aim.
 * **target**:
 * **distanceToStopAt**:
 * **StartAimingDist**:
-
-
-

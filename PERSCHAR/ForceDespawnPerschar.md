@@ -13,6 +13,3 @@ void _FORCE_DESPAWN_PERSCHAR(PersChar persChar);
 
 ## Parameters
 * **persChar**:
-
-
-

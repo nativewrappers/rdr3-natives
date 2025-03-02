@@ -17,4 +17,3 @@ BOOL GET_WATER_HEIGHT_NO_WAVES(float x,float y,float z,float* height);
 * **height**:
 
 ## Return value
-

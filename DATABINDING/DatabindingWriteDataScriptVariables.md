@@ -14,6 +14,3 @@ void _DATABINDING_WRITE_DATA_SCRIPT_VARIABLES(int p0,int p1, ...);
 * **p0**:
 * **p1**:
 * **...**:
-
-
-

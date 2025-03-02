@@ -13,4 +13,3 @@ Returns whether the game's measurement system is set to metric.
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any _NETWORK_GET_GANG_LEADER_HANDLE(Any gangId,Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

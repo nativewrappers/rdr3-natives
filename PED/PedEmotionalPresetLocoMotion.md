@@ -20,6 +20,3 @@ flag: always 4 in R* Scripts
 * **targetPed**:
 * **duration**:
 * **flag**:
-
-
-

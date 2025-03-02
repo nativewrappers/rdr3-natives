@@ -15,4 +15,3 @@ int _UI_PROMPT_GET_GROUP_ACTIVE_PAGE(Hash hash);
 * **hash**:
 
 ## Return value
-

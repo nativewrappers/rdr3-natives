@@ -16,4 +16,3 @@ BOOL IS_PED_IN_CURRENT_CONVERSATION(const char* p0,Ped ped,Any p2);
 * **p2**:
 
 ## Return value
-

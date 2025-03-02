@@ -14,6 +14,3 @@ void _SET_FORCE_CURRENT_WEAPON_INTO_COCKED_STATE(Ped ped,int attachPoint);
 ## Parameters
 * **ped**:
 * **attachPoint**:
-
-
-

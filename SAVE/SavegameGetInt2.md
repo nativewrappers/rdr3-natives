@@ -16,6 +16,3 @@ Commonly used with time/timestamps
 ## Parameters
 * **p0**:
 * **variableName**:
-
-
-

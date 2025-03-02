@@ -14,6 +14,3 @@ void _SET_PED_TARGET_ACTION_DISABLE_FLAG(Ped ped,int actionDisableFlag);
 ## Parameters
 * **ped**:
 * **actionDisableFlag**:
-
-
-

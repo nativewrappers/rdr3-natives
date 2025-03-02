@@ -16,4 +16,3 @@ Any _BLIP_ADD_STYLE(Blip blip,Hash styleHash);
 * **styleHash**:
 
 ## Return value
-

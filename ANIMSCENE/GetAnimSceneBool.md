@@ -16,4 +16,3 @@ Any GET_ANIM_SCENE_BOOL(AnimScene animScene,const char* name);
 * **name**:
 
 ## Return value
-

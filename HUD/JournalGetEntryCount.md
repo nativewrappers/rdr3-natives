@@ -12,4 +12,3 @@ Any _JOURNAL_GET_ENTRY_COUNT();
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns "WNS_INVALID" if the weapon is invalid/doesn't exist.
 * **weaponHash**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void TASK_COMBAT_PED(Ped ped,Ped targetPed,int p2,int p3);
 * **targetPed**:
 * **p2**:
 * **p3**:
-
-
-

@@ -12,4 +12,3 @@ BOOL NETWORK_IS_SESSION_ACTIVE();
 
 
 ## Return value
-

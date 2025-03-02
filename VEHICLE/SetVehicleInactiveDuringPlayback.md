@@ -13,6 +13,3 @@ void SET_VEHICLE_INACTIVE_DURING_PLAYBACK(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

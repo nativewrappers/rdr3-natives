@@ -15,6 +15,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/interiors/interior_sets
 * **interior**:
 * **entitySetName**:
 * **p2**:
-
-
-

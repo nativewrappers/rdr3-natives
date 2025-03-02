@@ -14,6 +14,3 @@ void _0x32CEDA9A0AB4CEF7(Ped ped,Hash p1,BOOL p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

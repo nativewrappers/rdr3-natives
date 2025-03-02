@@ -15,4 +15,3 @@ Ped GET_MOUNT_OWNED_BY_PLAYER(Player player);
 * **player**:
 
 ## Return value
-

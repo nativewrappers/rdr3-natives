@@ -17,6 +17,3 @@ flags: 0 = HANDS_UP_NOTHING; 1 = HANDS_UP_STRAIGHT_TO_LOOP
 * **facingPed**:
 * **timeToFacePed**:
 * **flags**:
-
-
-

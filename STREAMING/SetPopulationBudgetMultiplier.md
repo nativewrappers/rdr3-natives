@@ -13,6 +13,3 @@ void SET_POPULATION_BUDGET_MULTIPLIER(float fBudgetMultiplier);
 
 ## Parameters
 * **fBudgetMultiplier**:
-
-
-

@@ -14,6 +14,3 @@ Forces a rope to a certain length.
 ## Parameters
 * **ropeId**:
 * **length**:
-
-
-

@@ -15,4 +15,3 @@ Checks whether the specified player has a Ped, the Ped is not dead, is not injur
 * **player**:
 
 ## Return value
-

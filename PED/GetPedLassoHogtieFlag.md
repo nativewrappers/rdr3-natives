@@ -18,4 +18,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/LASSO_HOGTIE_FLAG
 * **flagId**:
 
 ## Return value
-

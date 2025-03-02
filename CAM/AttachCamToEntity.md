@@ -18,6 +18,3 @@ Last param determines if its relative to the Entity
 * **yOffset**:
 * **zOffset**:
 * **isRelative**:
-
-
-

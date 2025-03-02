@@ -14,6 +14,3 @@ Note: this native was added in build 1232.40
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

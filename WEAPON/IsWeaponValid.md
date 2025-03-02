@@ -14,4 +14,3 @@ BOOL IS_WEAPON_VALID(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

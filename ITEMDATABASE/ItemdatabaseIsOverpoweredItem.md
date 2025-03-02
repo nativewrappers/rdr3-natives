@@ -15,4 +15,3 @@ Any _ITEMDATABASE_IS_OVERPOWERED_ITEM(Hash key);
 * **key**:
 
 ## Return value
-

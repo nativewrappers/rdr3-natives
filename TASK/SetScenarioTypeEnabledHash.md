@@ -13,6 +13,3 @@ void _SET_SCENARIO_TYPE_ENABLED_HASH(Hash scenarioType,BOOL toggle);
 ## Parameters
 * **scenarioType**:
 * **toggle**:
-
-
-

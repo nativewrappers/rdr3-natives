@@ -19,4 +19,3 @@ Returns threadId
 * **p3**:
 
 ## Return value
-

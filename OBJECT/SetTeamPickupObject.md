@@ -14,6 +14,3 @@ void SET_TEAM_PICKUP_OBJECT(Object object,Any p1,BOOL p2);
 * **object**:
 * **p1**:
 * **p2**:
-
-
-

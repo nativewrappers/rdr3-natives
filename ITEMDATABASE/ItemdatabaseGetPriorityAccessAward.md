@@ -16,4 +16,3 @@ _ITEMDATABASE_GET_* - _ITEMDATABASE_IS_*
 * **award**:
 
 ## Return value
-

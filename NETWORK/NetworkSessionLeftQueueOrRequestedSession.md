@@ -15,4 +15,3 @@ Any NETWORK_SESSION_LEFT_QUEUE_OR_REQUESTED_SESSION(Any* sessionRequestId);
 * **sessionRequestId**:
 
 ## Return value
-

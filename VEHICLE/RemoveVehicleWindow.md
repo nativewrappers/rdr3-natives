@@ -18,6 +18,3 @@ windowIndex:
 ## Parameters
 * **vehicle**:
 * **windowIndex**:
-
-
-

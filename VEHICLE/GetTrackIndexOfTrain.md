@@ -15,4 +15,3 @@ int GET_TRACK_INDEX_OF_TRAIN(Vehicle train);
 * **train**:
 
 ## Return value
-

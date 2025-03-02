@@ -16,4 +16,3 @@ Any _BOUNTY_REQUEST_COMPLETE_SPLIT_WANTED_POSTER(Any* outRpcGuid,Any* p1);
 * **p1**:
 
 ## Return value
-

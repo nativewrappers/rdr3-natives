@@ -19,6 +19,3 @@ _TELEMETRY_C* - _TELEMETRY_G*
 * **y**:
 * **z**:
 * **reason**:
-
-
-

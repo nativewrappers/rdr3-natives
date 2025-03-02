@@ -14,4 +14,3 @@ BOOL NETWORK_IS_HANDLE_VALID(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

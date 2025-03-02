@@ -13,6 +13,3 @@ void SET_GAMEPLAY_CAM_MAX_MOTION_BLUR_STRENGTH_THIS_UPDATE(float p0);
 
 ## Parameters
 * **p0**:
-
-
-

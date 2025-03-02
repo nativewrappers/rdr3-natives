@@ -23,6 +23,3 @@ More customizable and more like quadrants
 * **permanent**:
 * **p7**:
 * **p8**:
-
-
-

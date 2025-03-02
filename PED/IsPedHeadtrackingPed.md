@@ -15,4 +15,3 @@ BOOL IS_PED_HEADTRACKING_PED(Ped ped1,Ped ped2);
 * **ped2**:
 
 ## Return value
-

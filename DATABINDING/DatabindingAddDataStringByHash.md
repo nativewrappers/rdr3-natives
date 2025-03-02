@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_STRING_BY_HASH(Any p0,Hash p1,const char* p2);
 * **p2**:
 
 ## Return value
-

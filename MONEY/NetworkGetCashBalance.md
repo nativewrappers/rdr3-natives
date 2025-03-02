@@ -13,4 +13,3 @@ int _NETWORK_GET_CASH_BALANCE();
 
 
 ## Return value
-

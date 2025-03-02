@@ -12,4 +12,3 @@ BOOL IS_PLAYER_SWITCH_IN_PROGRESS();
 
 
 ## Return value
-

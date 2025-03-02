@@ -17,4 +17,3 @@ Any STOP_ENTITY_ANIM(Entity entity,const char* animation,const char* animGroup,f
 * **p3**:
 
 ## Return value
-

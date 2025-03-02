@@ -16,4 +16,3 @@ Any _IS_ANIM_SCENE_LOADING(AnimScene animScene,BOOL p1);
 * **p1**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ _GET_PLAYER_I*
 * **p1**:
 
 ## Return value
-

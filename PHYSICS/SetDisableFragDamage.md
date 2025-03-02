@@ -13,6 +13,3 @@ void SET_DISABLE_FRAG_DAMAGE(Object object,BOOL toggle);
 ## Parameters
 * **object**:
 * **toggle**:
-
-
-

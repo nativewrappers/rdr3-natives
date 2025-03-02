@@ -14,4 +14,3 @@ int GET_CURRENT_SCRIPTED_CONVERSATION_LINE(const char* p0);
 * **p0**:
 
 ## Return value
-

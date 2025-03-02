@@ -15,6 +15,3 @@ Sets Player's Defense against AI modifier
 ## Parameters
 * **player**:
 * **modifier**:
-
-
-

@@ -15,6 +15,3 @@ Used for Script Function NET_FETCH_CLIENT_ACTIVATE_COMAPNION_ANALYSIS: Hiding! P
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

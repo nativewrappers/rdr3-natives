@@ -13,6 +13,3 @@ void SET_BLIP_SCALE(Blip blip,float scale);
 ## Parameters
 * **blip**:
 * **scale**:
-
-
-

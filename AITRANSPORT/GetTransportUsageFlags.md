@@ -17,4 +17,3 @@ See _SET_TRANSPORT_USAGE_FLAGS
 * **flags**:
 
 ## Return value
-

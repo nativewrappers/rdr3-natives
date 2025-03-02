@@ -19,4 +19,3 @@ Old name: _EVENT_MANAGER_PEEK_EVENT
 * **eventData**:
 
 ## Return value
-

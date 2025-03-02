@@ -14,4 +14,3 @@ int GET_PED_COMBAT_MOVEMENT(Ped ped);
 * **ped**:
 
 ## Return value
-

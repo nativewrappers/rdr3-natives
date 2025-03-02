@@ -16,4 +16,3 @@ Any _IS_ENTITY_UNDERWATER(Entity entity,BOOL p1);
 * **p1**:
 
 ## Return value
-

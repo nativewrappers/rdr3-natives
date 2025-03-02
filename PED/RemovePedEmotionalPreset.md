@@ -15,6 +15,3 @@ See _REQUEST_PED_EMOTIONAL_PRESET
 ## Parameters
 * **ped**:
 * **name**:
-
-
-

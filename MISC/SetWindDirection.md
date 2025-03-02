@@ -12,6 +12,3 @@ void SET_WIND_DIRECTION(float direction);
 
 ## Parameters
 * **direction**:
-
-
-

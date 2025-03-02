@@ -19,4 +19,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/clothes/metaped_outfits.lu
 * **p3**:
 
 ## Return value
-

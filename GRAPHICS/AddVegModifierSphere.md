@@ -22,4 +22,3 @@ Returns veg modifier handle
 * **p6**:
 
 ## Return value
-

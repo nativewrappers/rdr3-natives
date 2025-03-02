@@ -16,6 +16,3 @@ void _UILOG_MARK_ENTRY_AVAILABILITY(int p0,Hash p1,int p2,const char* p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

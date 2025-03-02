@@ -13,6 +13,3 @@ void SET_TRAIN_SPEED(Vehicle train,float speed);
 ## Parameters
 * **train**:
 * **speed**:
-
-
-

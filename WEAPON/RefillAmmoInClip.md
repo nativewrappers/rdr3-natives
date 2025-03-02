@@ -17,4 +17,3 @@ Any _REFILL_AMMO_IN_CLIP(Ped ped,Any* clipInventoryUid,int p2);
 * **p2**:
 
 ## Return value
-

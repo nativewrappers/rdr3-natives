@@ -16,4 +16,3 @@ Adds the first argument to the second.
 * **timeB**:
 
 ## Return value
-

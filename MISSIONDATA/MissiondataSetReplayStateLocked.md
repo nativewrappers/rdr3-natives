@@ -15,6 +15,3 @@ replayState: MISSIONDATA_GET_REPLAY_STATE
 ## Parameters
 * **missionId**:
 * **replayState**:
-
-
-

@@ -16,4 +16,3 @@ Checks if player is focused on any entity
 * **player**:
 
 ## Return value
-

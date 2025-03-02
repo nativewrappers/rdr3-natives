@@ -15,4 +15,3 @@ Any _GET_TRAIN_DIRECTION(Vehicle train);
 * **train**:
 
 ## Return value
-

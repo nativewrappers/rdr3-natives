@@ -13,6 +13,3 @@ void FIND_ALL_ATTACHED_CARRIABLE_ENTITIES(Ped ped,ItemSet itemset);
 ## Parameters
 * **ped**:
 * **itemset**:
-
-
-

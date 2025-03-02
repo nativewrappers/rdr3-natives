@@ -18,4 +18,3 @@ If targetPed is set to 0 the ped motivationState affects everyone
 * **targetPed**:
 
 ## Return value
-

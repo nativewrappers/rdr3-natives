@@ -9,8 +9,3 @@ apiset: client
 // 0xAD7B70F7230C5A12
 void _CLOSE_ALL_UIAPPS();
 ```
-
-
-
-
-

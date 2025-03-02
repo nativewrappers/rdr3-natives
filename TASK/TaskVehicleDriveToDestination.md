@@ -28,6 +28,3 @@ p10 = false
 * **stoppingRange1**:
 * **stoppingRange2**:
 * **p10**:
-
-
-

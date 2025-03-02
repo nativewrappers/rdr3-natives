@@ -14,6 +14,3 @@ void SET_PED_AMMO(Ped ped,Hash weaponHash,int ammo);
 * **ped**:
 * **weaponHash**:
 * **ammo**:
-
-
-

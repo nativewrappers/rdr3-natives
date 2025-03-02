@@ -14,6 +14,3 @@ void NETWORK_ALLOW_ENTITY_FADING_FOR_INSTANCES(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

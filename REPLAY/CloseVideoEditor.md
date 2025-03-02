@@ -16,4 +16,3 @@ Hardcoded to return true.
 * **p0**:
 
 ## Return value
-

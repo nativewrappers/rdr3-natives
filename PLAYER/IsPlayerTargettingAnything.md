@@ -14,4 +14,3 @@ BOOL IS_PLAYER_TARGETTING_ANYTHING(Player player);
 * **player**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns stamina normalizedValue / normalizedUnlockedMax
 * **ped**:
 
 ## Return value
-

@@ -20,4 +20,3 @@ p1 represents max amount of players in private session
 * **sessionRequestId**:
 
 ## Return value
-

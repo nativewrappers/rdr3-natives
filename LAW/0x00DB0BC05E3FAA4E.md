@@ -13,6 +13,3 @@ void _0x00DB0BC05E3FAA4E(Ped ped,int bitset);
 ## Parameters
 * **ped**:
 * **bitset**:
-
-
-

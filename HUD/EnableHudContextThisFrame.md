@@ -13,6 +13,3 @@ void _ENABLE_HUD_CONTEXT_THIS_FRAME(Hash component);
 
 ## Parameters
 * **component**:
-
-
-

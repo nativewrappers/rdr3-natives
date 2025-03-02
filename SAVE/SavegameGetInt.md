@@ -14,6 +14,3 @@ void _SAVEGAME_GET_INT(Any* p0,const char* variableName);
 ## Parameters
 * **p0**:
 * **variableName**:
-
-
-

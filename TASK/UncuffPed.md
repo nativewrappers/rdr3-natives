@@ -12,6 +12,3 @@ void UNCUFF_PED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

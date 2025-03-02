@@ -14,4 +14,3 @@ More info: https://en.wikipedia.org/wiki/Letterboxing_(filming)
 
 
 ## Return value
-

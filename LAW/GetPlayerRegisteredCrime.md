@@ -17,4 +17,3 @@ Any GET_PLAYER_REGISTERED_CRIME(Player player,int p1,Hash* crimeType);
 * **crimeType**:
 
 ## Return value
-

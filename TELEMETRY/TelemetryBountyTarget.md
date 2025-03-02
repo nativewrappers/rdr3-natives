@@ -13,6 +13,3 @@ void _TELEMETRY_BOUNTY_TARGET(Any* data);
 
 ## Parameters
 * **data**:
-
-
-

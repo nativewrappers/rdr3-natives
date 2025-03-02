@@ -22,4 +22,3 @@ Object CREATE_OBJECT(Hash modelHash,float x,float y,float z,BOOL isNetwork,BOOL 
 * **p8**:
 
 ## Return value
-

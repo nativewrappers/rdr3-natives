@@ -17,4 +17,3 @@ Has the entity1 got a clear line of sight to the other entity2 from the directio
 * **traceType**:
 
 ## Return value
-

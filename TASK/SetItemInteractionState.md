@@ -16,6 +16,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/tasks/TASK_ITEM_INTERACTIO
 * **ped**:
 * **itemInteractionState**:
 * **p2**:
-
-
-

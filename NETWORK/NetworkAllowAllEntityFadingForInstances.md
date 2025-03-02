@@ -13,6 +13,3 @@ void NETWORK_ALLOW_ALL_ENTITY_FADING_FOR_INSTANCES(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

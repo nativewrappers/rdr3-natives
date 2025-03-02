@@ -14,6 +14,3 @@ _STOP_* - _TEST_*
 ## Parameters
 * **ped**:
 * **emoteType**:
-
-
-

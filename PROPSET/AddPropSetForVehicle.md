@@ -15,6 +15,3 @@ List of vehicle propsets (wagons & trains): https://pastebin.com/1CsnvGLu / http
 ## Parameters
 * **vehicle**:
 * **propset**:
-
-
-

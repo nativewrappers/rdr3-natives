@@ -13,6 +13,3 @@ void TASK_RELOAD_WEAPON(Ped ped,BOOL unused);
 ## Parameters
 * **ped**:
 * **unused**:
-
-
-

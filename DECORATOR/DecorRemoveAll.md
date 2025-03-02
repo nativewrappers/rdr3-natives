@@ -15,4 +15,3 @@ BOOL DECOR_REMOVE_ALL(Entity entity);
 * **entity**:
 
 ## Return value
-

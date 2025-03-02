@@ -17,4 +17,3 @@ Ped _GET_ANIM_SCENE_PED(AnimScene animScene,const char* name,BOOL isNetwork);
 * **isNetwork**:
 
 ## Return value
-

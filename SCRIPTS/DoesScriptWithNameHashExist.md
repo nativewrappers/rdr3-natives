@@ -14,4 +14,3 @@ BOOL DOES_SCRIPT_WITH_NAME_HASH_EXIST(Hash scriptHash);
 * **scriptHash**:
 
 ## Return value
-

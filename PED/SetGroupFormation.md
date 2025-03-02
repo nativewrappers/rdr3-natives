@@ -19,6 +19,3 @@ eFormationType
 ## Parameters
 * **groupId**:
 * **formationType**:
-
-
-

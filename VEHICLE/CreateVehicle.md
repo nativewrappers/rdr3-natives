@@ -22,4 +22,3 @@ Vehicle CREATE_VEHICLE(Hash modelHash,float x,float y,float z,float heading,BOOL
 * **p8**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ BOOL DOES_ENTITY_HAVE_DRAWABLE(Entity entity);
 * **entity**:
 
 ## Return value
-

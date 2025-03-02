@@ -15,4 +15,3 @@ BOOL IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_PED(Ped ped,const char* waypointRecording
 * **waypointRecording**:
 
 ## Return value
-

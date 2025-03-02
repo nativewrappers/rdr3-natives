@@ -14,4 +14,3 @@ Any _MINIGAME_IS_CONNECTED_TO_SERVER(Any p0);
 * **p0**:
 
 ## Return value
-

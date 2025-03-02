@@ -16,6 +16,3 @@ Hash p1 seems to be unused, always 0
 ## Parameters
 * **toggle**:
 * **p1**:
-
-
-

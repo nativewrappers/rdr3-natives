@@ -13,6 +13,3 @@ void RELEASE_PED_VISIBILITY_TRACKING(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

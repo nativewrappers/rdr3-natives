@@ -15,4 +15,3 @@ Does the same like PLAYER::GET_PLAYER_PED
 * **player**:
 
 ## Return value
-

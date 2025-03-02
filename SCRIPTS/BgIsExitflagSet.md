@@ -16,4 +16,3 @@ Old name: _BG_EXITED_BECAUSE_BACKGROUND_THREAD_STOPPED
 
 
 ## Return value
-

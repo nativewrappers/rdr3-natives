@@ -13,6 +13,3 @@ void _BG_SET_TEXT_SCALE(float scaleX,float scaleY);
 ## Parameters
 * **scaleX**:
 * **scaleY**:
-
-
-

@@ -15,6 +15,3 @@ void _TELEMETRY_SET_SHOP_FOR_TRANSACTION(int transactionId,Hash p1,Hash p2);
 * **transactionId**:
 * **p1**:
 * **p2**:
-
-
-

@@ -13,6 +13,3 @@ void _UI_PROMPT_REGISTER_END(Prompt prompt);
 
 ## Parameters
 * **prompt**:
-
-
-

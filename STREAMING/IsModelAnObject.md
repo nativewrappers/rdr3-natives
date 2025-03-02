@@ -15,4 +15,3 @@ Any _IS_MODEL_AN_OBJECT(Hash model);
 * **model**:
 
 ## Return value
-

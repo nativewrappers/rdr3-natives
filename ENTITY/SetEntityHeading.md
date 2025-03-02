@@ -13,6 +13,3 @@ void SET_ENTITY_HEADING(Entity entity,float heading);
 ## Parameters
 * **entity**:
 * **heading**:
-
-
-

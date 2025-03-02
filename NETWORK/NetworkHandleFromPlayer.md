@@ -13,6 +13,3 @@ void NETWORK_HANDLE_FROM_PLAYER(Player player,Any* gamerHandle);
 ## Parameters
 * **player**:
 * **gamerHandle**:
-
-
-

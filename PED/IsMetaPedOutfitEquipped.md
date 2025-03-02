@@ -17,4 +17,3 @@ Used in script function HORSE_IS_META_PED_OUTFIT_SADDLE_EQUIPPED
 * **outfit**:
 
 ## Return value
-

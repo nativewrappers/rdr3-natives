@@ -14,6 +14,3 @@ Sets the range at which members will automatically leave the group.
 ## Parameters
 * **groupId**:
 * **separationRange**:
-
-
-

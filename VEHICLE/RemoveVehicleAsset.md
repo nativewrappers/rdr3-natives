@@ -12,6 +12,3 @@ void REMOVE_VEHICLE_ASSET(Hash vehicleAsset);
 
 ## Parameters
 * **vehicleAsset**:
-
-
-

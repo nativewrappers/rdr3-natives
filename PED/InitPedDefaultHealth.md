@@ -13,6 +13,3 @@ void INIT_PED_DEFAULT_HEALTH(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

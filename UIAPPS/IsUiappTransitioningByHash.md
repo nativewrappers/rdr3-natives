@@ -14,4 +14,3 @@ BOOL IS_UIAPP_TRANSITIONING_BY_HASH(Hash appNameHash);
 * **appNameHash**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void ALLOW_SONAR_BLIPS(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

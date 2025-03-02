@@ -14,4 +14,3 @@ BOOL DATAFILE_DELETE_REQUESTED_FILE(Any p0);
 * **p0**:
 
 ## Return value
-

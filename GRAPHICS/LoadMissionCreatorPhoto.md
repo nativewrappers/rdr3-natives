@@ -18,4 +18,3 @@ BOOL LOAD_MISSION_CREATOR_PHOTO(Any* p0,Any p1,Any p2,Any p3);
 * **p3**:
 
 ## Return value
-

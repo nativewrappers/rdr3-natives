@@ -15,4 +15,3 @@ Any _GET_NUM_RESERVED_HEALTH(Ped ped);
 * **ped**:
 
 ## Return value
-

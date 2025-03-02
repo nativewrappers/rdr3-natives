@@ -13,6 +13,3 @@ void _UI_PROMPT_SET_HOLD_INDEFINITELY_MODE(Prompt prompt);
 
 ## Parameters
 * **prompt**:
-
-
-

@@ -13,6 +13,3 @@ void SET_ENTITY_DYNAMIC(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

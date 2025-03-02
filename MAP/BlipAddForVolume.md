@@ -16,4 +16,3 @@ Blip _BLIP_ADD_FOR_VOLUME(Hash blipHash,Volume volume);
 * **volume**:
 
 ## Return value
-

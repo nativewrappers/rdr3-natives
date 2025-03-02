@@ -15,4 +15,3 @@ BOOL _ITEMDATABASE_GET_BUNDLE_ACQUIRE_COST_MODIFIERS(Hash bundle,Any* outData);
 * **outData**:
 
 ## Return value
-

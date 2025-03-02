@@ -14,4 +14,3 @@ float GET_PED_WAYPOINT_OVERRIDE_SPEED(Ped ped);
 * **ped**:
 
 ## Return value
-

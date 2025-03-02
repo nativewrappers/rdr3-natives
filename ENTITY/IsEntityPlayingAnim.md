@@ -17,4 +17,3 @@ BOOL IS_ENTITY_PLAYING_ANIM(Entity entity,const char* animDict,const char* animN
 * **animType**:
 
 ## Return value
-

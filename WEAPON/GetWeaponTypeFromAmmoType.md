@@ -15,4 +15,3 @@ Hash _GET_WEAPON_TYPE_FROM_AMMO_TYPE(Hash ammoType);
 * **ammoType**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ int _COMPENDIUM_GET_NUM_OF_ENTRIES_IN_CATEGORY(Hash category);
 * **category**:
 
 ## Return value
-

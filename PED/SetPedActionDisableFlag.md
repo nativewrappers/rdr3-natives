@@ -15,6 +15,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_ACTION_DISABLE_F
 ## Parameters
 * **ped**:
 * **actionDisableFlag**:
-
-
-

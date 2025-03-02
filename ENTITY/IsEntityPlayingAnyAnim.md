@@ -17,4 +17,3 @@ Params: p1 (probably animType) = 1, 0
 * **p1**:
 
 ## Return value
-

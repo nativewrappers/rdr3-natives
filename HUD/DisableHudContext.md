@@ -14,6 +14,3 @@ Old name: _DISPLAY_HUD_COMPONENT
 
 ## Parameters
 * **component**:
-
-
-

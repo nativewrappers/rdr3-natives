@@ -14,6 +14,3 @@ Only used in smuggler2 script
 
 ## Parameters
 * **maxAmplitude**:
-
-
-

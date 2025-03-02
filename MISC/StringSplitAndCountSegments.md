@@ -18,4 +18,3 @@ Not officially named
 
 ## Return value
 [object Object]
-

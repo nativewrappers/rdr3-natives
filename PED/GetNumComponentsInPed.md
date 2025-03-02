@@ -15,4 +15,3 @@ int _GET_NUM_COMPONENTS_IN_PED(Ped ped);
 * **ped**:
 
 ## Return value
-

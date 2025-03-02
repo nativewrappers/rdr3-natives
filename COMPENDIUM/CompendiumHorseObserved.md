@@ -14,6 +14,3 @@ Only gets called if bSetObserved is true and animalType is matching
 ## Parameters
 * **ped**:
 * **disableCompendiumToast**:
-
-
-

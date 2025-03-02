@@ -15,4 +15,3 @@ int _ITEMDATABASE_GET_ACQUIRE_COSTS_COUNT_FROM_COST_TYPE(Hash key,Hash costtype)
 * **costtype**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _IS_ANIMAL_INTERACTION_RUNNING(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ int _ITEMDATABASE_GET_SHOP_INVENTORIES_ITEMS_COUNT(Hash shopType);
 * **shopType**:
 
 ## Return value
-

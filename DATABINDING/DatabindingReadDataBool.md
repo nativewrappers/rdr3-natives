@@ -14,4 +14,3 @@ Any _DATABINDING_READ_DATA_BOOL(Any p0);
 * **p0**:
 
 ## Return value
-

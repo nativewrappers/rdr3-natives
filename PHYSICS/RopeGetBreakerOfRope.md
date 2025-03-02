@@ -14,4 +14,3 @@ Player _ROPE_GET_BREAKER_OF_ROPE(int ropeId);
 * **ropeId**:
 
 ## Return value
-

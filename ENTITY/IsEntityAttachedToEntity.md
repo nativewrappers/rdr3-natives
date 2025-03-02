@@ -15,4 +15,3 @@ BOOL IS_ENTITY_ATTACHED_TO_ENTITY(Entity from,Entity to);
 * **to**:
 
 ## Return value
-

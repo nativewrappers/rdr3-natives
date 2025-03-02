@@ -18,6 +18,3 @@ Value2 = always seems to be hex 0x3F800000 (1.000000 float).
 ## Parameters
 * **x**:
 * **Value2**:
-
-
-

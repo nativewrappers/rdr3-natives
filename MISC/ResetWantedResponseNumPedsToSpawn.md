@@ -9,8 +9,3 @@ apiset: client
 // 0xEF42F56F69877125
 void RESET_WANTED_RESPONSE_NUM_PEDS_TO_SPAWN();
 ```
-
-
-
-
-

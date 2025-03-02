@@ -17,4 +17,3 @@ Any _IS_PED_EXCLUSIVE_DRIVER_OF_VEHICLE(Ped ped,Vehicle vehicle,int* outIndex);
 * **outIndex**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void REMOVE_ANIM_SCENE_ENTITY(AnimScene animScene,const char* entityName,Entity 
 * **animScene**:
 * **entityName**:
 * **entity**:
-
-
-

@@ -14,4 +14,3 @@ int GET_PLAYER_WANTED_LEVEL(Player player);
 * **player**:
 
 ## Return value
-

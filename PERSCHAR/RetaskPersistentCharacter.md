@@ -13,6 +13,3 @@ void _RETASK_PERSISTENT_CHARACTER(PersChar persChar);
 
 ## Parameters
 * **persChar**:
-
-
-

@@ -16,4 +16,3 @@ Entity _FORCE_SPAWN_PERSCHAR(PersChar persChar,BOOL p1);
 * **p1**:
 
 ## Return value
-

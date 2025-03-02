@@ -14,6 +14,3 @@ void _SET_ACCURACY_AGAINST_LOCAL_PLAYER_MODIFIER(Ped ped,float modifier);
 ## Parameters
 * **ped**:
 * **modifier**:
-
-
-

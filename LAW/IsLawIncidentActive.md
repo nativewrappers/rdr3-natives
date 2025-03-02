@@ -15,4 +15,3 @@ Any IS_LAW_INCIDENT_ACTIVE(Player player);
 * **player**:
 
 ## Return value
-

@@ -20,4 +20,3 @@ Counts up as its the return value of how many items it writes to given itemSet
 * **itemSet**:
 
 ## Return value
-

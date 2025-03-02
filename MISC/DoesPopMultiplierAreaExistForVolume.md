@@ -15,4 +15,3 @@ Any _DOES_POP_MULTIPLIER_AREA_EXIST_FOR_VOLUME(Volume volume);
 * **volume**:
 
 ## Return value
-

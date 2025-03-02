@@ -13,6 +13,3 @@ _SET_ST* - _SET_SW*
 
 ## Parameters
 * **ped**:
-
-
-

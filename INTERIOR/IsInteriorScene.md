@@ -12,4 +12,3 @@ BOOL IS_INTERIOR_SCENE();
 
 
 ## Return value
-

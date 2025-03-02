@@ -20,4 +20,3 @@ Old name: _DROP_CURRENT_PED_WEAPON
 * **p4**:
 
 ## Return value
-

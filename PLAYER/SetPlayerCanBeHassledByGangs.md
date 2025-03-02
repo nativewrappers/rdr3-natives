@@ -14,6 +14,3 @@ Sets whether this player can be hassled by gangs.
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

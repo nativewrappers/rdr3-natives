@@ -19,6 +19,3 @@ void TASK_WANDER_IN_AREA(Ped ped,float x,float y,float z,float radius,float p5,f
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

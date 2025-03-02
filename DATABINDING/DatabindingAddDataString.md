@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_STRING(Any p0,const char* p1,const char* p2);
 * **p2**:
 
 ## Return value
-

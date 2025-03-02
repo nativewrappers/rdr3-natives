@@ -25,4 +25,3 @@ Returns compositeId
 * **p7**:
 
 ## Return value
-

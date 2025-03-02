@@ -16,4 +16,3 @@ p0 must be < 2
 * **p0**:
 
 ## Return value
-

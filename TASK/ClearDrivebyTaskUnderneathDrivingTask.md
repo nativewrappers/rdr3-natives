@@ -12,6 +12,3 @@ void CLEAR_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

@@ -12,4 +12,3 @@ BOOL IS_FIRST_PERSON_AIM_CAM_ACTIVE();
 
 
 ## Return value
-

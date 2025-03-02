@@ -13,6 +13,3 @@ void _SET_PED_PROMPT_NAME(Ped ped,const char* name);
 ## Parameters
 * **ped**:
 * **name**:
-
-
-

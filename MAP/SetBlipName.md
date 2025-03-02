@@ -14,6 +14,3 @@ void _SET_BLIP_NAME(Blip blip,const char* name);
 ## Parameters
 * **blip**:
 * **name**:
-
-
-

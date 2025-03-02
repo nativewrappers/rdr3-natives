@@ -13,6 +13,3 @@ It seems to make the entity's coords mark the point from which LOD-distances are
 
 ## Parameters
 * **entity**:
-
-
-

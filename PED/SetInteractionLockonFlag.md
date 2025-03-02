@@ -16,6 +16,3 @@ void _SET_INTERACTION_LOCKON_FLAG(Ped ped,Player player,int flag,BOOL enable);
 * **player**:
 * **flag**:
 * **enable**:
-
-
-

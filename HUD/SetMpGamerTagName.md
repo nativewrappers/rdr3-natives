@@ -13,6 +13,3 @@ void SET_MP_GAMER_TAG_NAME(int gamerTagId,const char* string);
 ## Parameters
 * **gamerTagId**:
 * **string**:
-
-
-

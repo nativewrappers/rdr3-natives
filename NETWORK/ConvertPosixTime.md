@@ -31,6 +31,3 @@ struct date_time
 ## Parameters
 * **posixTime**:
 * **timeStructure**:
-
-
-

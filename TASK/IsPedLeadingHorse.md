@@ -15,4 +15,3 @@ Any _IS_PED_LEADING_HORSE(Ped ped);
 * **ped**:
 
 ## Return value
-

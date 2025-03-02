@@ -15,4 +15,3 @@ BOOL SC_INBOX_SET_MESSAGE_AS_READ_AT_INDEX(int msgIndex);
 * **msgIndex**:
 
 ## Return value
-

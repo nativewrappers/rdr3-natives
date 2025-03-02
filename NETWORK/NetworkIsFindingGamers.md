@@ -12,4 +12,3 @@ BOOL NETWORK_IS_FINDING_GAMERS();
 
 
 ## Return value
-

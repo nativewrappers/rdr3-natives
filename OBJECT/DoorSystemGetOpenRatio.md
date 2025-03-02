@@ -14,4 +14,3 @@ float DOOR_SYSTEM_GET_OPEN_RATIO(Hash doorHash);
 * **doorHash**:
 
 ## Return value
-

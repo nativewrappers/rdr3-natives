@@ -13,6 +13,3 @@ void STAT_BOUNTY_ESCAPED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

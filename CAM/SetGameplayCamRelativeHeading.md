@@ -16,6 +16,3 @@ Heading is always 0 in aiming camera.
 ## Parameters
 * **heading**:
 * **p1**:
-
-
-

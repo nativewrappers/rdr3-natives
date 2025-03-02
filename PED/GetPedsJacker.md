@@ -14,4 +14,3 @@ Ped GET_PEDS_JACKER(Ped ped);
 * **ped**:
 
 ## Return value
-

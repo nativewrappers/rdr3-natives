@@ -14,4 +14,3 @@ nullsub, doesn't do anything
 
 
 ## Return value
-

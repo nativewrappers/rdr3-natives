@@ -12,6 +12,3 @@ void REQUEST_WAYPOINT_RECORDING(const char* waypointRecording);
 
 ## Parameters
 * **waypointRecording**:
-
-
-

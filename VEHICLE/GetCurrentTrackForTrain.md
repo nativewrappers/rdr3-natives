@@ -16,4 +16,3 @@ Returns p0 for 0xBA958F68031DDBFC (trackIndex)
 * **train**:
 
 ## Return value
-

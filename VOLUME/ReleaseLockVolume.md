@@ -13,6 +13,3 @@ void _RELEASE_LOCK_VOLUME(int volLockRequestId);
 
 ## Parameters
 * **volLockRequestId**:
-
-
-

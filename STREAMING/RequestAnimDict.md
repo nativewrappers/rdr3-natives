@@ -12,6 +12,3 @@ void REQUEST_ANIM_DICT(const char* animDict);
 
 ## Parameters
 * **animDict**:
-
-
-

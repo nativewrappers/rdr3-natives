@@ -15,4 +15,3 @@ Any _TEXTURE_DOWNLOAD_TEXTURE_NAME_IS_VALID(const char* name);
 * **name**:
 
 ## Return value
-

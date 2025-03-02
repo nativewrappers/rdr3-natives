@@ -16,4 +16,3 @@ Blip BLIP_ADD_FOR_PICKUP_PLACEMENT(Hash blipHash,Pickup pickup);
 * **pickup**:
 
 ## Return value
-

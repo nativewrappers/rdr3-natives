@@ -13,6 +13,3 @@ void _TEXTURE_DOWNLOAD_RELEASE_BY_NAME(const char* name);
 
 ## Parameters
 * **name**:
-
-
-

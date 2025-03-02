@@ -15,4 +15,3 @@ Any _HAS_PROP_SET_LOADED(Hash hash);
 * **hash**:
 
 ## Return value
-

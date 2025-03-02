@@ -13,6 +13,3 @@ void CLEAR_AMBIENT_ZONE_LIST_STATE(const char* ambientZone,BOOL p1);
 ## Parameters
 * **ambientZone**:
 * **p1**:
-
-
-

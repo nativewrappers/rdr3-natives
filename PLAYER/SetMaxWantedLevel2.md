@@ -13,6 +13,3 @@ void _SET_MAX_WANTED_LEVEL_2(int maxWantedLevel);
 
 ## Parameters
 * **maxWantedLevel**:
-
-
-

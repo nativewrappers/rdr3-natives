@@ -15,6 +15,3 @@ _STOP_RENDERING_* - _STOP_SCRIPTED*
 
 ## Parameters
 * **ped**:
-
-
-

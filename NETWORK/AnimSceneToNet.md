@@ -15,4 +15,3 @@ int _ANIM_SCENE_TO_NET(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

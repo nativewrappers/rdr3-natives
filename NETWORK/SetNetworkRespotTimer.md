@@ -15,6 +15,3 @@ void _SET_NETWORK_RESPOT_TIMER(Entity entity,int timer,BOOL p2);
 * **entity**:
 * **timer**:
 * **p2**:
-
-
-

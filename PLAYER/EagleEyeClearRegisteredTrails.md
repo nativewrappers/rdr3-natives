@@ -13,6 +13,3 @@ Clears all Eagle Eye trails that were registered for entities associated with th
 
 ## Parameters
 * **player**:
-
-
-

@@ -21,4 +21,3 @@ enum ePedLootStatus
 * **ped**:
 
 ## Return value
-

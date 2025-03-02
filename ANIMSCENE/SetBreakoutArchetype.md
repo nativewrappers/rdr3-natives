@@ -14,6 +14,3 @@ void _SET_BREAKOUT_ARCHETYPE(Ped ped,const char* archetype);
 ## Parameters
 * **ped**:
 * **archetype**:
-
-
-

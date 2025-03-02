@@ -17,4 +17,3 @@ int _INVENTORY_GET_INVENTORY_ITEM_COUNT_WITH_ITEMID(int inventoryId,Hash eInvent
 * **p2**:
 
 ## Return value
-

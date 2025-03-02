@@ -14,6 +14,3 @@ Old name: _ENABLE_EXTRA_TIMECYCLE_MODIFIER_STRENGTH
 
 ## Parameters
 * **strength**:
-
-
-

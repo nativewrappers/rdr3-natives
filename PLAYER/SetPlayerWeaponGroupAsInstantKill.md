@@ -15,6 +15,3 @@ void _SET_PLAYER_WEAPON_GROUP_AS_INSTANT_KILL(Player player,Hash weaponGroup,BOO
 * **player**:
 * **weaponGroup**:
 * **toggle**:
-
-
-

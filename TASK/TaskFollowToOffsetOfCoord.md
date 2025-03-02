@@ -26,6 +26,3 @@ void TASK_FOLLOW_TO_OFFSET_OF_COORD(Ped ped,Any p1,Any p2,Any p3,Any p4,Any p5,A
 * **p12**:
 * **p13**:
 * **p14**:
-
-
-

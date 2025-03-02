@@ -14,4 +14,3 @@ BOOL NETWORK_IS_FRIEND(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

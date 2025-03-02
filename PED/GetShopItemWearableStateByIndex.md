@@ -21,4 +21,3 @@ Use 0xFFCC2DB2D9953401 (_GET_SHOP_ITEM_NUM_WEARABLE_STATES) to get the number of
 * **p3**:
 
 ## Return value
-

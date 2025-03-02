@@ -15,6 +15,3 @@ void _SET_WEAPON_SOOT(Object weaponObject,float level,BOOL p2);
 * **weaponObject**:
 * **level**:
 * **p2**:
-
-
-

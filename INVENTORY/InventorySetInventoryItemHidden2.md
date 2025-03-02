@@ -16,6 +16,3 @@ Used with CSatchelItem, R* Script usage: fisihing_core
 * **inventoryId**:
 * **guid**:
 * **hidden**:
-
-
-

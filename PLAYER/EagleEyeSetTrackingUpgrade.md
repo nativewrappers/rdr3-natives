@@ -14,6 +14,3 @@ void _EAGLE_EYE_SET_TRACKING_UPGRADE(Player player,float p1);
 ## Parameters
 * **player**:
 * **p1**:
-
-
-

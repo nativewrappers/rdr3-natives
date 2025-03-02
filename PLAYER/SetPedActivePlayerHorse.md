@@ -15,6 +15,3 @@ Seems to work similar to 0xD2CB0FB0FDCB473D
 ## Parameters
 * **player**:
 * **horse**:
-
-
-

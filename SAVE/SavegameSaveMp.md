@@ -16,4 +16,3 @@ See SAVEGAME_SAVE_SP
 * **savegameType**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ char* GET_TARGET_CHARACTER_NAME_SCRIPT_OVERRIDE_RAW_STRING(Ped ped);
 * **ped**:
 
 ## Return value
-

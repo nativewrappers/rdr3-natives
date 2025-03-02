@@ -15,4 +15,3 @@ Any _IS_PED_INTIMIDATED(Ped ped);
 * **ped**:
 
 ## Return value
-

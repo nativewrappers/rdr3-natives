@@ -16,4 +16,3 @@ int _NETWORK_GET_GANG_MEMBERS(Any gangId,Any* memberHandles);
 * **memberHandles**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _REMOVE_PED_OVERLAY(int textureId,int overlayId);
 ## Parameters
 * **textureId**:
 * **overlayId**:
-
-
-

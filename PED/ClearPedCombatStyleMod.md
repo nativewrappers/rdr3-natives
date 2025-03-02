@@ -15,6 +15,3 @@ _CLEAR_PED_COMBAT_*
 ## Parameters
 * **ped**:
 * **combatStyleModHash**:
-
-
-

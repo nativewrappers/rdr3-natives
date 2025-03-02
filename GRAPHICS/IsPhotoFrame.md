@@ -12,4 +12,3 @@ BOOL IS_PHOTO_FRAME();
 
 
 ## Return value
-

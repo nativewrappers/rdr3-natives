@@ -14,6 +14,3 @@ _SET_PED_CA* - _SET_PED_CO*
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

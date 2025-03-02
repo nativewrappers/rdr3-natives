@@ -13,6 +13,3 @@ void TASK_HOGTIE_TARGET_PED(Ped ped,Ped targetPed);
 ## Parameters
 * **ped**:
 * **targetPed**:
-
-
-

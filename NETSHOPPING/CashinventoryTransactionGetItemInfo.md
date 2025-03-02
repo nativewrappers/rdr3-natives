@@ -16,4 +16,3 @@ BOOL _CASHINVENTORY_TRANSACTION_GET_ITEM_INFO(int id,int index,Any* itemInfo);
 * **itemInfo**:
 
 ## Return value
-

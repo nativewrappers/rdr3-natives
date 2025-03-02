@@ -15,4 +15,3 @@ float _GET_SCENARIO_POINT_RADIUS(int scenario);
 * **scenario**:
 
 ## Return value
-

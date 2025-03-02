@@ -12,4 +12,3 @@ BOOL GET_NO_LOADING_SCREEN();
 
 
 ## Return value
-

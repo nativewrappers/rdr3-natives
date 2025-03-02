@@ -14,6 +14,3 @@ void _PLAY_ANIMAL_VOCALIZATION_PHEROMONE_VIAL_RESPONSE(Ped ped,Hash p1,BOOL p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

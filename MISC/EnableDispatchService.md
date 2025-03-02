@@ -33,6 +33,3 @@ enum DispatchType
 ## Parameters
 * **dispatchService**:
 * **toggle**:
-
-
-

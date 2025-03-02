@@ -17,4 +17,3 @@ Any _ITEMDATABASE_GET_SHOP_LAYOUT_ROOT_MENU_INFO(Hash layout,int index,Any* outD
 * **outData**:
 
 ## Return value
-

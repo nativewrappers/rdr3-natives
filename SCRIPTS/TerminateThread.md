@@ -12,6 +12,3 @@ void TERMINATE_THREAD(int threadId);
 
 ## Parameters
 * **threadId**:
-
-
-

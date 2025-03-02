@@ -13,6 +13,3 @@ void SET_PARTICLE_FX_LOOPED_SCALE(int ptfxHandle,float scale);
 ## Parameters
 * **ptfxHandle**:
 * **scale**:
-
-
-

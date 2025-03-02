@@ -12,6 +12,3 @@ void TASK_WEAPON(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

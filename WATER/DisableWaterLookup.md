@@ -11,7 +11,3 @@ void DISABLE_WATER_LOOKUP();
 ```
 
 Must be called every frame to take full effect.
-
-
-
-

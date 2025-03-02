@@ -17,4 +17,3 @@ int GET_PED_NEARBY_PEDS(Ped ped,Any* sizeAndPeds,int ignoredPedType,int p3);
 * **p3**:
 
 ## Return value
-

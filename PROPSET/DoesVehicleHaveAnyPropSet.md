@@ -15,4 +15,3 @@ Any _DOES_VEHICLE_HAVE_ANY_PROP_SET(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

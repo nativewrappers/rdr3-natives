@@ -13,4 +13,3 @@ int NETWORK_GET_TOTAL_NUM_FRIENDS();
 
 
 ## Return value
-

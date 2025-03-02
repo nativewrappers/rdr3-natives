@@ -14,6 +14,3 @@ void _SET_DRAFT_VEHICLE_YOKE_CAN_BREAK(Vehicle draft,BOOL canBreak);
 ## Parameters
 * **draft**:
 * **canBreak**:
-
-
-

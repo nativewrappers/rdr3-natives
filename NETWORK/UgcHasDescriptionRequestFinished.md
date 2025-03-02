@@ -15,4 +15,3 @@ BOOL UGC_HAS_DESCRIPTION_REQUEST_FINISHED(Hash description);
 * **description**:
 
 ## Return value
-

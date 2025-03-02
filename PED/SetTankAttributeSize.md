@@ -16,6 +16,3 @@ Size will be permanent
 * **ped**:
 * **attributeIndex**:
 * **size**:
-
-
-

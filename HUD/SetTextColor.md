@@ -16,6 +16,3 @@ This native does nothing since build 1436, use _BG_SET_TEXT_COLOR (0x16FA5CE47F1
 * **g**:
 * **b**:
 * **a**:
-
-
-

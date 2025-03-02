@@ -23,4 +23,3 @@ Returns the nth closest vehicle node with a heading to a coord
 * **zTolerance**:
 
 ## Return value
-

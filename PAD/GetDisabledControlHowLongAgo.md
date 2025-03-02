@@ -15,4 +15,3 @@ int _GET_DISABLED_CONTROL_HOW_LONG_AGO(int control);
 * **control**:
 
 ## Return value
-

@@ -20,6 +20,3 @@ void TASK_VEHICLE_ESCORT(Ped ped,Vehicle vehicle,Vehicle targetVehicle,int mode,
 * **minDistance**:
 * **p7**:
 * **noRoadsDistance**:
-
-
-

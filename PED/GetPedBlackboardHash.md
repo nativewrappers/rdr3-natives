@@ -16,4 +16,3 @@ Hash _GET_PED_BLACKBOARD_HASH(Ped ped,const char* variableName);
 * **variableName**:
 
 ## Return value
-

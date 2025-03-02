@@ -18,4 +18,3 @@ int UGC_REQUEST_CONTENT_DATA_FROM_PARAMS(const char* contentTypeName,const char*
 * **languageId**:
 
 ## Return value
-

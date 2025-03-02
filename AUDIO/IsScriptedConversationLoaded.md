@@ -14,4 +14,3 @@ BOOL IS_SCRIPTED_CONVERSATION_LOADED(const char* convoRoot);
 * **convoRoot**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ Forces gameplay cam to specified vehicle as if you were in it
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

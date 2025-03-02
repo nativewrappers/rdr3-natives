@@ -22,4 +22,3 @@ Returns collectionId
 * **size**:
 
 ## Return value
-

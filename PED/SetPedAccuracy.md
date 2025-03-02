@@ -14,6 +14,3 @@ accuracy = 0-100, 100 being perfectly accurate
 ## Parameters
 * **ped**:
 * **accuracy**:
-
-
-

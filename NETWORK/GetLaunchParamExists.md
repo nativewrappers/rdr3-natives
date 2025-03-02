@@ -15,4 +15,3 @@ Any _GET_LAUNCH_PARAM_EXISTS(const char* paramName);
 * **paramName**:
 
 ## Return value
-

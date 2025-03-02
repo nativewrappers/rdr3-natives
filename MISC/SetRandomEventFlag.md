@@ -14,6 +14,3 @@ Does nothing if the mission flag is set.
 
 ## Parameters
 * **toggle**:
-
-
-

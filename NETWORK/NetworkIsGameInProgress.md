@@ -12,4 +12,3 @@ BOOL NETWORK_IS_GAME_IN_PROGRESS();
 
 
 ## Return value
-

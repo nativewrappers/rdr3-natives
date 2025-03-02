@@ -15,4 +15,3 @@ Any GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_MP(Hash discoveryHash);
 * **discoveryHash**:
 
 ## Return value
-

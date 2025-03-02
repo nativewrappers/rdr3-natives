@@ -15,4 +15,3 @@ int CHAL_ACHIEVEMENT_GET_PROGRESS_INT(Hash p0,Hash p1);
 * **p1**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ BOOL PED_HAS_USE_SCENARIO_TASK(Ped ped);
 * **ped**:
 
 ## Return value
-

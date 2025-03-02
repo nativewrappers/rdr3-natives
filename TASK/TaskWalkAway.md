@@ -13,6 +13,3 @@ void TASK_WALK_AWAY(Ped ped,Entity entity);
 ## Parameters
 * **ped**:
 * **entity**:
-
-
-

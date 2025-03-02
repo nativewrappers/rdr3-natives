@@ -27,6 +27,3 @@ void TASK_GO_TO_COORD_WHILE_AIMING_AT_COORD(Ped ped,Any p1,Any p2,Any p3,Any p4,
 * **p13**:
 * **p14**:
 * **p15**:
-
-
-

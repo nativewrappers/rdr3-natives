@@ -16,6 +16,3 @@ duration in seconds, -1.0 = forever
 * **ped**:
 * **combatStyleModHash**:
 * **duration**:
-
-
-

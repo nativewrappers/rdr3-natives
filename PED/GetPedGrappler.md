@@ -15,4 +15,3 @@ Ped _GET_PED_GRAPPLER(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ Marks the model as no longer needed.
 
 ## Parameters
 * **model**:
-
-
-

@@ -15,4 +15,3 @@ Any UGC_QUERY_WAS_FORCE_CANCELLED(int ugcRequestId);
 * **ugcRequestId**:
 
 ## Return value
-

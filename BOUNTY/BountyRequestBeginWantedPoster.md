@@ -16,4 +16,3 @@ Any _BOUNTY_REQUEST_BEGIN_WANTED_POSTER(Any* outRpcGuid,int p1);
 * **p1**:
 
 ## Return value
-

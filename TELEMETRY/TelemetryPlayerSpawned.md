@@ -12,6 +12,3 @@ void _TELEMETRY_PLAYER_SPAWNED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

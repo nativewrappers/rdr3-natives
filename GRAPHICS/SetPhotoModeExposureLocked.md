@@ -12,6 +12,3 @@ void _SET_PHOTO_MODE_EXPOSURE_LOCKED(BOOL lock);
 
 ## Parameters
 * **lock**:
-
-
-

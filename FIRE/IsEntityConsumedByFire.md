@@ -15,4 +15,3 @@ Any _IS_ENTITY_CONSUMED_BY_FIRE(Entity entity);
 * **entity**:
 
 ## Return value
-

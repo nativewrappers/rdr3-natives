@@ -26,4 +26,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/graphics/ptfx/ptfx_assets_
 * **p11**:
 
 ## Return value
-

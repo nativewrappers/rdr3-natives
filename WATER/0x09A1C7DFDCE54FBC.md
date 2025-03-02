@@ -14,6 +14,3 @@ _REMOVE_*
 
 ## Parameters
 * **p0**:
-
-
-

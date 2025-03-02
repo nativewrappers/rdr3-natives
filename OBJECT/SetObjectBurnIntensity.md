@@ -14,6 +14,3 @@ void _SET_OBJECT_BURN_INTENSITY(Object object,float intensity);
 ## Parameters
 * **object**:
 * **intensity**:
-
-
-

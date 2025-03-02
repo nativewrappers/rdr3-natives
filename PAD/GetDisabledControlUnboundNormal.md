@@ -15,4 +15,3 @@ float GET_DISABLED_CONTROL_UNBOUND_NORMAL(int control,Hash action);
 * **action**:
 
 ## Return value
-

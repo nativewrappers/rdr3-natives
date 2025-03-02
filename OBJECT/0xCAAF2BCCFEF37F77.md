@@ -14,6 +14,3 @@ _SET_OBJECT_*
 ## Parameters
 * **object**:
 * **p1**:
-
-
-

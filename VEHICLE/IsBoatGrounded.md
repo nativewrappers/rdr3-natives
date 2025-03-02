@@ -15,4 +15,3 @@ Any _IS_BOAT_GROUNDED(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

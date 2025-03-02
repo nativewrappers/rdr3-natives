@@ -14,6 +14,3 @@ void SET_PED_DECOMPOSED(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

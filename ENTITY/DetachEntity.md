@@ -14,6 +14,3 @@ void DETACH_ENTITY(Entity entity,BOOL p1,BOOL collision);
 * **entity**:
 * **p1**:
 * **collision**:
-
-
-

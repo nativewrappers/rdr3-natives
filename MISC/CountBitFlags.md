@@ -14,4 +14,3 @@ int _COUNT_BIT_FLAGS(Any* bitFlags);
 * **bitFlags**:
 
 ## Return value
-

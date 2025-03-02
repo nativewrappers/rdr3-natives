@@ -22,6 +22,3 @@ Types: 1148979456 (task with flee), 1148979587 (dismissing the vehicle)
 * **p3**:
 * **speed**:
 * **type**:
-
-
-

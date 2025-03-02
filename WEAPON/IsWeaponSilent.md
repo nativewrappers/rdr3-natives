@@ -15,4 +15,3 @@ Any _IS_WEAPON_SILENT(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

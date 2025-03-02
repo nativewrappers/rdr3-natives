@@ -17,4 +17,3 @@ Any SC_COMMUNITY_EVENT_GET_EXTRA_DATA_FLOAT_FOR_TYPE(const char* p0,float* p1,co
 * **p2**:
 
 ## Return value
-

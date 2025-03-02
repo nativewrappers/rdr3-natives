@@ -17,4 +17,3 @@ Hash _COLLECTABLE_GET_COLLECTABLE_ITEM_HASH(int index,Hash collectableCategory,H
 * **collectableSubcategory**:
 
 ## Return value
-

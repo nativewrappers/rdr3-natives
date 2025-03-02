@@ -25,4 +25,3 @@ int GET_CURRENT_LANGUAGE();
 
 
 ## Return value
-

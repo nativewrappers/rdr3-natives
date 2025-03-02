@@ -14,6 +14,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/graphics/HUD/prompts/promp
 
 ## Parameters
 * **p0**:
-
-
-

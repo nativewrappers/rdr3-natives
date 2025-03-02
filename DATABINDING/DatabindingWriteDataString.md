@@ -13,6 +13,3 @@ void _DATABINDING_WRITE_DATA_STRING(Any p0,const char* p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

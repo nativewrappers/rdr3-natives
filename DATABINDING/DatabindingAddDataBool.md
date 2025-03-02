@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_BOOL(Any p0,const char* p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

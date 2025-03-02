@@ -21,6 +21,3 @@ void _STOP_FIRE_IN_BOX(float posX,float posY,float posZ,float rotX,float rotY,fl
 * **scaleX**:
 * **scaleY**:
 * **scaleZ**:
-
-
-

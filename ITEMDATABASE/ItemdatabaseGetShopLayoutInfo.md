@@ -16,4 +16,3 @@ Any _ITEMDATABASE_GET_SHOP_LAYOUT_INFO(Hash layout,Any* outData);
 * **outData**:
 
 ## Return value
-

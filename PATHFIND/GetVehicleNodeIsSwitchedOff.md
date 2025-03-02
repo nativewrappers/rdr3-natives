@@ -14,4 +14,3 @@ BOOL GET_VEHICLE_NODE_IS_SWITCHED_OFF(int nodeID);
 * **nodeID**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any IS_TEAM_CARRIABLE_ENTITY(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

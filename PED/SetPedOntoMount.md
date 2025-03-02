@@ -16,6 +16,3 @@ void SET_PED_ONTO_MOUNT(Ped ped,Ped mount,int seatIndex,BOOL p3);
 * **mount**:
 * **seatIndex**:
 * **p3**:
-
-
-

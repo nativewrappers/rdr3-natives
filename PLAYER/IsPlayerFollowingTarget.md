@@ -16,4 +16,3 @@ Any _IS_PLAYER_FOLLOWING_TARGET(Player player,Ped ped);
 * **ped**:
 
 ## Return value
-

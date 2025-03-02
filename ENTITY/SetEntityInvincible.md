@@ -14,6 +14,3 @@ Sets a ped or an object totally invincible. It doesn't take any kind of damage. 
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

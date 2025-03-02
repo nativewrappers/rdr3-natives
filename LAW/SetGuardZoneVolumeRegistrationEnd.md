@@ -14,6 +14,3 @@ void _SET_GUARD_ZONE_VOLUME_REGISTRATION_END(const char* name,Volume volume);
 ## Parameters
 * **name**:
 * **volume**:
-
-
-

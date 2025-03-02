@@ -13,6 +13,3 @@ void _REMOVE_ENTITY_FROM_ENTITY_MASK(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

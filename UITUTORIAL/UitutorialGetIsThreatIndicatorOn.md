@@ -13,4 +13,3 @@ Any _UITUTORIAL_GET_IS_THREAT_INDICATOR_ON();
 
 
 ## Return value
-

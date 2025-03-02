@@ -14,6 +14,3 @@ void _COLLECTABLE_INCREMENT_NUM_FOUND(Hash collectableItem,int amount);
 ## Parameters
 * **collectableItem**:
 * **amount**:
-
-
-

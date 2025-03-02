@@ -14,4 +14,3 @@ Only used in trainrobbery_ambient R* Script
 
 
 ## Return value
-

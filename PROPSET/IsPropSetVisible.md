@@ -15,4 +15,3 @@ Any _IS_PROP_SET_VISIBLE(PropSet propSet);
 * **propSet**:
 
 ## Return value
-

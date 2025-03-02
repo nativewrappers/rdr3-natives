@@ -15,4 +15,3 @@ char* _GET_WEAPON_NAME_2(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

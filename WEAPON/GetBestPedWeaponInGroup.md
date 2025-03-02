@@ -20,4 +20,3 @@ Returns weaponHash
 * **p3**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Old name: _NETWORK_IS_PLAYER_EQUAL_TO_INDEX
 * **index**:
 
 ## Return value
-

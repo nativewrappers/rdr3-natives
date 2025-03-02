@@ -15,4 +15,3 @@ Any _IS_THIS_MODEL_A_DRAFT_VEHICLE(Hash model);
 * **model**:
 
 ## Return value
-

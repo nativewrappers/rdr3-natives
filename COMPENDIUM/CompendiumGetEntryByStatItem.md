@@ -15,4 +15,3 @@ int COMPENDIUM_GET_ENTRY_BY_STAT_ITEM(Hash category,Hash animalType);
 * **animalType**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ motivationState: see _SET_PED_MOTIVATION
 * **motivationState**:
 
 ## Return value
-

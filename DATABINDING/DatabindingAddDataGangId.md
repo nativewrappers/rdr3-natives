@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_GANG_ID(Any p0,const char* p1,Any gangId);
 * **gangId**:
 
 ## Return value
-

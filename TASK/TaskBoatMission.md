@@ -23,6 +23,3 @@ void TASK_BOAT_MISSION(Ped pedDriver,Vehicle boat,Any p2,Any p3,float x,float y,
 * **drivingStyle**:
 * **p10**:
 * **p11**:
-
-
-

@@ -15,4 +15,3 @@ float ATAN2(float p0,float p1);
 * **p1**:
 
 ## Return value
-

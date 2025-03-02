@@ -22,6 +22,3 @@ void TASK_USE_SCENARIO_POINT(Ped ped,int scenario,const char* conditionalAnim,in
 * **p7**:
 * **p8**:
 * **p9**:
-
-
-

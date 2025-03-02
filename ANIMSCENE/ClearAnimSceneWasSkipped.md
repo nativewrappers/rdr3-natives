@@ -13,6 +13,3 @@ void _CLEAR_ANIM_SCENE_WAS_SKIPPED(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

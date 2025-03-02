@@ -16,4 +16,3 @@ Returns amount for CAN_REGISTER_MISSION_VEHICLES
 * **trainConfig**:
 
 ## Return value
-

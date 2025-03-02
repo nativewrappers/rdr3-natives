@@ -13,6 +13,3 @@ void SET_HORN_ENABLED(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

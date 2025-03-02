@@ -18,4 +18,3 @@ BOOL GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX,float worldY,float
 * **screenY**:
 
 ## Return value
-

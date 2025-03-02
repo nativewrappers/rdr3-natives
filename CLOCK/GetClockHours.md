@@ -13,4 +13,3 @@ Gets the current ingame hour, expressed without zeros. (09:34 will be represente
 
 
 ## Return value
-

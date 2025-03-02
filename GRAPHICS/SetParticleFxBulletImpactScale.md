@@ -13,6 +13,3 @@ void SET_PARTICLE_FX_BULLET_IMPACT_SCALE(float scale);
 
 ## Parameters
 * **scale**:
-
-
-

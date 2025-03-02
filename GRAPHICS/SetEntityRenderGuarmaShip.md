@@ -16,6 +16,3 @@ _SET_ENTITY_QUATERNION_* - SET_ENTITY_RENDER_*
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

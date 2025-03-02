@@ -14,6 +14,3 @@ void _SET_DOOR_UNNETWORKED(Any p0,BOOL toggle);
 ## Parameters
 * **p0**:
 * **toggle**:
-
-
-

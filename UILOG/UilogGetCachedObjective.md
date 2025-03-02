@@ -13,4 +13,3 @@ char* _UILOG_GET_CACHED_OBJECTIVE();
 
 
 ## Return value
-

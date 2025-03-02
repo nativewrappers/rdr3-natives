@@ -16,4 +16,3 @@ char* _UGC_QUERY_GET_PLAYLIST_NAME(Any p0,int index);
 * **index**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ BOOL HAS_STREAMED_TEXTURE_DICT_LOADED(const char* textureDict);
 * **textureDict**:
 
 ## Return value
-

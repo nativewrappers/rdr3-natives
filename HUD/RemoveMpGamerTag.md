@@ -12,6 +12,3 @@ void REMOVE_MP_GAMER_TAG(int gamerTagId);
 
 ## Parameters
 * **gamerTagId**:
-
-
-

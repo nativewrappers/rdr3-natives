@@ -15,4 +15,3 @@ Hash _COLLECTABLE_GET_IPL(Hash collectableItem);
 * **collectableItem**:
 
 ## Return value
-

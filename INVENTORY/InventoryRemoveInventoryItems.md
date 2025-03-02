@@ -18,4 +18,3 @@ Only used in R* SP Scripts
 * **removeReason**:
 
 ## Return value
-

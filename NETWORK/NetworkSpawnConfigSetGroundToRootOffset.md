@@ -13,6 +13,3 @@ void NETWORK_SPAWN_CONFIG_SET_GROUND_TO_ROOT_OFFSET(float offset);
 
 ## Parameters
 * **offset**:
-
-
-

@@ -16,4 +16,3 @@ See _NETWORK_SESSION_ADD_SESSION_FLAGS
 * **flags**:
 
 ## Return value
-

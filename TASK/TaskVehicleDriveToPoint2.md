@@ -19,6 +19,3 @@ Params: p4 = 3.f or 8.f, p5 = 0.25f, p6 = 0 in R* Scripts
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

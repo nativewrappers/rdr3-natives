@@ -13,6 +13,3 @@ void _ANIMPOSTFX_STOP_TAG(const char* effectName);
 
 ## Parameters
 * **effectName**:
-
-
-

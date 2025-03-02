@@ -19,4 +19,3 @@ int UGC_TEXTURE_DOWNLOAD_REQUEST(Any* p0,Any p1,Any p2,Any p3,Any* p4,BOOL p5);
 * **p5**:
 
 ## Return value
-

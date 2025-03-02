@@ -15,6 +15,3 @@ Ped can not pull out a weapon when true
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

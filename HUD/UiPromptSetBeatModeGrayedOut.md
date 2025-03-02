@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_BEAT_MODE_GRAYED_OUT(Prompt prompt,Any p1);
 ## Parameters
 * **prompt**:
 * **p1**:
-
-
-

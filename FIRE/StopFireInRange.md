@@ -15,6 +15,3 @@ void STOP_FIRE_IN_RANGE(float x,float y,float z,float radius);
 * **y**:
 * **z**:
 * **radius**:
-
-
-

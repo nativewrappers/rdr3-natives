@@ -15,4 +15,3 @@ Hash _GET_PROP_SET_MODEL(PropSet propSet);
 * **propSet**:
 
 ## Return value
-

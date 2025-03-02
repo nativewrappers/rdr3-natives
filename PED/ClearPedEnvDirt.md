@@ -12,6 +12,3 @@ void CLEAR_PED_ENV_DIRT(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

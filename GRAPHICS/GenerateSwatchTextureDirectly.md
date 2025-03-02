@@ -15,6 +15,3 @@ Example: https://pastebin.com/tTgpER9A
 ## Parameters
 * **slot**:
 * **p1**:
-
-
-

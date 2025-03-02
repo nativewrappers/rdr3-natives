@@ -16,4 +16,3 @@ Any _NETWORK_IS_GANG_MEMBER(Any gangId,Player player);
 * **player**:
 
 ## Return value
-

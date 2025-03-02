@@ -15,6 +15,3 @@ void FORCE_PED_AI_AND_ANIMATION_UPDATE(Ped ped,BOOL p1,BOOL p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

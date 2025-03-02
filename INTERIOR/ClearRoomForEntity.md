@@ -12,6 +12,3 @@ void CLEAR_ROOM_FOR_ENTITY(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

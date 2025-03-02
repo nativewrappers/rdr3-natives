@@ -15,4 +15,3 @@ int _GET_VEHICLE_TINT(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

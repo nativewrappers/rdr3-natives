@@ -13,4 +13,3 @@ If the function returns 0, the end of the iteration has been reached.
 
 
 ## Return value
-

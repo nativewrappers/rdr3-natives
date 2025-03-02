@@ -15,4 +15,3 @@ char* COMPENDIUM_GET_SUBCATEGORY_SAMPLE_TOAST_TITLE(Hash category,Hash subcatego
 * **subcategory**:
 
 ## Return value
-

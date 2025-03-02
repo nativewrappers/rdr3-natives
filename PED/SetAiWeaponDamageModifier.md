@@ -12,6 +12,3 @@ void SET_AI_WEAPON_DAMAGE_MODIFIER(float value);
 
 ## Parameters
 * **value**:
-
-
-

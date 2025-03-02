@@ -18,4 +18,3 @@ Any _ITEMDATABASE_FILLOUT_BUY_AWARD_ACQUIRE_COSTS(Hash award,Any* outData,int* o
 * **p3**:
 
 ## Return value
-

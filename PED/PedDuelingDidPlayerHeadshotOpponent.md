@@ -15,4 +15,3 @@ Any _PED_DUELING_DID_PLAYER_HEADSHOT_OPPONENT(Ped ped);
 * **ped**:
 
 ## Return value
-

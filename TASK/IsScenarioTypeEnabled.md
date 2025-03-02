@@ -14,4 +14,3 @@ BOOL IS_SCENARIO_TYPE_ENABLED(const char* scenarioType);
 * **scenarioType**:
 
 ## Return value
-

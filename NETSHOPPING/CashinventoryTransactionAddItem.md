@@ -16,4 +16,3 @@ BOOL _CASHINVENTORY_TRANSACTION_ADD_ITEM(int id,Any item,int p2);
 * **p2**:
 
 ## Return value
-

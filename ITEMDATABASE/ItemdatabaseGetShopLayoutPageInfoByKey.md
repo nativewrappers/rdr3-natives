@@ -17,4 +17,3 @@ Any _ITEMDATABASE_GET_SHOP_LAYOUT_PAGE_INFO_BY_KEY(Hash layout,Hash pageKey,Any*
 * **outData**:
 
 ## Return value
-

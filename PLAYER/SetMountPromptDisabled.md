@@ -13,6 +13,3 @@ void _SET_MOUNT_PROMPT_DISABLED(BOOL disabled);
 
 ## Parameters
 * **disabled**:
-
-
-

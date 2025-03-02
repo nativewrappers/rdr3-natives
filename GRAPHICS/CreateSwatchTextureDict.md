@@ -15,4 +15,3 @@ Any _CREATE_SWATCH_TEXTURE_DICT(int slots);
 * **slots**:
 
 ## Return value
-

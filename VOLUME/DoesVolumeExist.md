@@ -15,4 +15,3 @@ Any DOES_VOLUME_EXIST(Volume volume);
 * **volume**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void _SET_PED_GETUP_ANIMATION(Ped ped,const char* animName,BOOL p2);
 * **ped**:
 * **animName**:
 * **p2**:
-
-
-

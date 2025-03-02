@@ -16,4 +16,3 @@ Returns true when requested asset is loaded
 * **asset**:
 
 ## Return value
-

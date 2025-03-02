@@ -13,6 +13,3 @@ Used in NET_CAMP_SPIRIT_ANIMAL_CLEAR_ANIMAL_VISIBILITY
 
 ## Parameters
 * **entity**:
-
-
-

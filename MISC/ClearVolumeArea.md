@@ -14,6 +14,3 @@ void _CLEAR_VOLUME_AREA(Volume volume,int flag);
 ## Parameters
 * **volume**:
 * **flag**:
-
-
-

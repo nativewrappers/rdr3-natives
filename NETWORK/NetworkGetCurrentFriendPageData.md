@@ -15,4 +15,3 @@ Any _NETWORK_GET_CURRENT_FRIEND_PAGE_DATA(Any* p0);
 * **p0**:
 
 ## Return value
-

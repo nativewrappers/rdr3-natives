@@ -14,4 +14,3 @@ Any COMPENDIUM_GET_STUDY_AWARD_ID(Ped ped);
 * **ped**:
 
 ## Return value
-

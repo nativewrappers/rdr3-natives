@@ -14,6 +14,3 @@ void _TRIGGER_SONAR_BLIP_ON_ENTITY(Hash typeHash,Entity entity);
 ## Parameters
 * **typeHash**:
 * **entity**:
-
-
-

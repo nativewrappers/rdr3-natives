@@ -15,4 +15,3 @@ Hash _GET_UIAPP_CURRENT_ACTIVITY_BY_HASH(Hash appNameHash);
 * **appNameHash**:
 
 ## Return value
-

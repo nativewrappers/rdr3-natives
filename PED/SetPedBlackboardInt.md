@@ -21,6 +21,3 @@ Most changes are only visible for "script" blackboards, some "script" blackboard
 * **variableName**:
 * **value**:
 * **removeTimer**:
-
-
-

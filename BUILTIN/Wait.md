@@ -12,6 +12,3 @@ void WAIT(int ms);
 
 ## Parameters
 * **ms**:
-
-
-

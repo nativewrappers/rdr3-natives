@@ -16,4 +16,3 @@ char* _GET_STRING_FROM_FLOAT(float value,int digits);
 * **digits**:
 
 ## Return value
-

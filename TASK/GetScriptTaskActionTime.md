@@ -16,4 +16,3 @@ float _GET_SCRIPT_TASK_ACTION_TIME(Ped ped,Hash task);
 * **task**:
 
 ## Return value
-

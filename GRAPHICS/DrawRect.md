@@ -38,6 +38,3 @@ Draws a rectangle on the screen.
 * **alpha**:
 * **p8**:
 * **p9**:
-
-
-

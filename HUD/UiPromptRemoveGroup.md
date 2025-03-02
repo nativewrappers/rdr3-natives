@@ -14,6 +14,3 @@ void _UI_PROMPT_REMOVE_GROUP(Prompt prompt,Any p1);
 ## Parameters
 * **prompt**:
 * **p1**:
-
-
-

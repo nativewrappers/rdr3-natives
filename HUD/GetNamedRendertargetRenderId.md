@@ -14,4 +14,3 @@ int GET_NAMED_RENDERTARGET_RENDER_ID(const char* name);
 * **name**:
 
 ## Return value
-

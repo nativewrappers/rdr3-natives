@@ -14,4 +14,3 @@ BOOL IS_NETWORK_ID_OWNED_BY_PARTICIPANT(int netId);
 * **netId**:
 
 ## Return value
-

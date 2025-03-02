@@ -12,6 +12,3 @@ void DELETE_PATROL_ROUTE(const char* patrolRoute);
 
 ## Parameters
 * **patrolRoute**:
-
-
-

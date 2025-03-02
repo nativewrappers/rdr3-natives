@@ -12,6 +12,3 @@ void REMOVE_PARTICLE_FX_FROM_ENTITY(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

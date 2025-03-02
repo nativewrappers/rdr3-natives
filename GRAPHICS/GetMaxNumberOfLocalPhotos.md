@@ -14,4 +14,3 @@ Always returns 200.
 
 
 ## Return value
-

@@ -12,4 +12,3 @@ BOOL HAS_NETWORK_TIME_STARTED();
 
 
 ## Return value
-

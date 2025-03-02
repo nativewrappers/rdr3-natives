@@ -16,4 +16,3 @@ Any _NETWORK_IS_MONEY_BALANCE_NOT_LESS_THAN(int cashBalance,int goldBarBalance);
 * **goldBarBalance**:
 
 ## Return value
-

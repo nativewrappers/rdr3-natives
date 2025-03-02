@@ -14,4 +14,3 @@ BOOL IS_ENTITY_ON_SCREEN(Entity entity);
 * **entity**:
 
 ## Return value
-

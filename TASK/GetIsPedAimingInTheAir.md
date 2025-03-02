@@ -15,4 +15,3 @@ Any GET_IS_PED_AIMING_IN_THE_AIR(Ped ped);
 * **ped**:
 
 ## Return value
-

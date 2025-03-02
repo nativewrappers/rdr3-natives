@@ -19,4 +19,3 @@ Getter: _INVENTORY_GET_FULL_INVENTORY_ITEM_DATA
 * **p3**:
 
 ## Return value
-

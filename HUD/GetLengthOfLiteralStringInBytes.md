@@ -14,4 +14,3 @@ int GET_LENGTH_OF_LITERAL_STRING_IN_BYTES(const char* string);
 * **string**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _REMOVE_WEAPON_ASSET(Hash weaponHash);
 
 ## Parameters
 * **weaponHash**:
-
-
-

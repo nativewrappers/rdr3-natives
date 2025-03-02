@@ -16,4 +16,3 @@ Any* DATAARRAY_GET_DICT(Any* arrayData,int arrayIndex);
 * **arrayIndex**:
 
 ## Return value
-

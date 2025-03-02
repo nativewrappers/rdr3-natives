@@ -14,4 +14,3 @@ BOOL IS_ENTITY_FOCUS(Entity entity);
 * **entity**:
 
 ## Return value
-

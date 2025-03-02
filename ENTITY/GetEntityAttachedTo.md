@@ -14,4 +14,3 @@ Entity GET_ENTITY_ATTACHED_TO(Entity entity);
 * **entity**:
 
 ## Return value
-

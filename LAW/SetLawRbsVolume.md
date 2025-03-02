@@ -14,6 +14,3 @@ void _SET_LAW_RBS_VOLUME(Player player,Hash p1);
 ## Parameters
 * **player**:
 * **p1**:
-
-
-

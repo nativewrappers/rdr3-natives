@@ -18,6 +18,3 @@ Old name: _GET_WEATHER_TYPE_TRANSITION
 * **weatherType1**:
 * **weatherType2**:
 * **percentWeather2**:
-
-
-

@@ -15,4 +15,3 @@ Any _GET_IS_CARRIABLE_PELT(Entity entity);
 * **entity**:
 
 ## Return value
-

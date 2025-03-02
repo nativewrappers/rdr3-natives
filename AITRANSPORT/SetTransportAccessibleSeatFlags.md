@@ -14,6 +14,3 @@ void SET_TRANSPORT_ACCESSIBLE_SEAT_FLAGS(Entity transportEntity,int flags);
 ## Parameters
 * **transportEntity**:
 * **flags**:
-
-
-

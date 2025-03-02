@@ -17,4 +17,3 @@ Any _PERSISTENCE_IS_SCENARIO_MARKED_AS_LOOTED_AT_COORDS(float x,float y,float z)
 * **z**:
 
 ## Return value
-

@@ -22,6 +22,3 @@ Old name: _CLAMP_GAMEPLAY_CAM_PITCH
 ## Parameters
 * **minimum**:
 * **maximum**:
-
-
-

@@ -14,6 +14,3 @@ void _SET_PLAYER_STAMINA_SPRINT_DEPLETION_MULTIPLIER(Player player,float multipl
 ## Parameters
 * **player**:
 * **multiplier**:
-
-
-

@@ -13,6 +13,3 @@ void TASK_FOLLOW_WAYPOINT_RECORDING_ADVANCED(Ped ped,Any p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

@@ -15,4 +15,3 @@ BOOL CAN_PED_IN_COMBAT_SEE_TARGET(Ped ped,Ped target);
 * **target**:
 
 ## Return value
-

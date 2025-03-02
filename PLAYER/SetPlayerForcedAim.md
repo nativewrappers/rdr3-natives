@@ -16,6 +16,3 @@ void SET_PLAYER_FORCED_AIM(Player player,BOOL toggle,Ped ped,int p3,BOOL p4);
 * **ped**:
 * **p3**:
 * **p4**:
-
-
-

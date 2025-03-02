@@ -17,4 +17,3 @@ Returns ammoHash from weaponObject (Returned by 0x6CA484C9A7377E4F)
 * **weaponObject**:
 
 ## Return value
-

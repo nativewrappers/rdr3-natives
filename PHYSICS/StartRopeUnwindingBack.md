@@ -13,6 +13,3 @@ void _START_ROPE_UNWINDING_BACK(int ropeId);
 
 ## Parameters
 * **ropeId**:
-
-
-

@@ -18,4 +18,3 @@ Returns string for GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO
 * **p2**:
 
 ## Return value
-

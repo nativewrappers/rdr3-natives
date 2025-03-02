@@ -13,6 +13,3 @@ void _SET_PED_INFINITE_AMMO_CLIP(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

@@ -15,6 +15,3 @@ void _SET_DEADEYE_ABILITY_LOCKED(Player player,int abilityType,BOOL toggle);
 * **player**:
 * **abilityType**:
 * **toggle**:
-
-
-

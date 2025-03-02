@@ -14,6 +14,3 @@ void _SET_PED_CLEAR_AIMING_IN_THE_AIR(Ped ped,Any p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

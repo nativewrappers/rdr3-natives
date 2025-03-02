@@ -15,6 +15,3 @@ Decreases Stamina bar drain speed by % when drawing a bow.
 ## Parameters
 * **player**:
 * **staminaDrain**:
-
-
-

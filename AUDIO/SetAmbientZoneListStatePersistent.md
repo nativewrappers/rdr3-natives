@@ -14,6 +14,3 @@ void SET_AMBIENT_ZONE_LIST_STATE_PERSISTENT(const char* ambientZone,BOOL p1,BOOL
 * **ambientZone**:
 * **p1**:
 * **p2**:
-
-
-

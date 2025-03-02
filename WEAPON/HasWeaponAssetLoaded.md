@@ -15,4 +15,3 @@ Any _HAS_WEAPON_ASSET_LOADED(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

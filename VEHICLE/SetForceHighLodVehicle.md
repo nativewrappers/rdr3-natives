@@ -14,6 +14,3 @@ void _SET_FORCE_HIGH_LOD_VEHICLE(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

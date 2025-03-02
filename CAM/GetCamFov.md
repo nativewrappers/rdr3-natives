@@ -14,4 +14,3 @@ float GET_CAM_FOV(Cam cam);
 * **cam**:
 
 ## Return value
-

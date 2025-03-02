@@ -16,4 +16,3 @@ BOOL NETWORK_IS_PLAYER_A_PARTICIPANT_ON_SCRIPT(Player p0,Any* p1,Any p2);
 * **p2**:
 
 ## Return value
-

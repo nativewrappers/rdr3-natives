@@ -12,6 +12,3 @@ void KNOCK_PED_OFF_VEHICLE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

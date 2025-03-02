@@ -16,4 +16,3 @@ Any _IS_TRACKED_PED_VISIBILITY_PERCENTAGE_NOT_LESS_THAN(Ped ped,float percent);
 * **percent**:
 
 ## Return value
-

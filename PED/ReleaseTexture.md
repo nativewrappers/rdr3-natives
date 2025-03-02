@@ -14,6 +14,3 @@ Removes a texture created by 0xC5E7204F322E49EB.
 
 ## Parameters
 * **textureId**:
-
-
-

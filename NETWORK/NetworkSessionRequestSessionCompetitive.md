@@ -29,4 +29,3 @@ enum eMatchType
 * **sessionRequestId**:
 
 ## Return value
-

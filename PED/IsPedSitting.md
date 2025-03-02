@@ -15,4 +15,3 @@ Any IS_PED_SITTING(Ped ped);
 * **ped**:
 
 ## Return value
-

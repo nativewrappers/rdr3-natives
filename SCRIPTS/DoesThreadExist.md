@@ -15,4 +15,3 @@ Any DOES_THREAD_EXIST(int threadId);
 * **threadId**:
 
 ## Return value
-

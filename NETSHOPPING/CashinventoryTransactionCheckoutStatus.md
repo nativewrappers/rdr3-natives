@@ -15,4 +15,3 @@ BOOL _CASHINVENTORY_TRANSACTION_CHECKOUT_STATUS(int id,int* status);
 * **status**:
 
 ## Return value
-

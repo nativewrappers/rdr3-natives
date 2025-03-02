@@ -15,4 +15,3 @@ Any _GET_IS_BIRD(Entity entity);
 * **entity**:
 
 ## Return value
-

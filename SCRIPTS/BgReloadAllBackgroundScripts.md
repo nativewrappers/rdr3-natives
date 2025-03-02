@@ -9,8 +9,3 @@ apiset: client
 // 0xBE7D814CFA181B56
 void _BG_RELOAD_ALL_BACKGROUND_SCRIPTS();
 ```
-
-
-
-
-

@@ -12,4 +12,3 @@ Any NETWORK_GET_PRIMARY_CLAN_DATA_PENDING();
 
 
 ## Return value
-

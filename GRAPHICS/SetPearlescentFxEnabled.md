@@ -15,6 +15,3 @@ Enables/disables a kind of 'shiny' effect on metals.
 ## Parameters
 * **object**:
 * **toggle**:
-
-
-

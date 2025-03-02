@@ -17,6 +17,3 @@ void _SET_MGM_EVENT(int mgmEventHandle,const char* p1,Any seatId,int p3,float p4
 * **seatId**:
 * **p3**:
 * **p4**:
-
-
-

@@ -16,4 +16,3 @@ BOOL _IS_PLAYER_BIT_SET_AT_INDEX(Any* value,int bitIndex);
 * **bitIndex**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Detect if ped is in any vehicle
 * **ped**:
 
 ## Return value
-

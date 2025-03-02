@@ -14,4 +14,3 @@ Vector3 GET_ROPE_LAST_VERTEX_COORD(int ropeId);
 * **ropeId**:
 
 ## Return value
-

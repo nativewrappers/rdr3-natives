@@ -14,6 +14,3 @@ void _SET_PED_PATH_PREFER_TO_AVOID_MUD(Ped ped,BOOL preferAvoidMud,float p2);
 * **ped**:
 * **preferAvoidMud**:
 * **p2**:
-
-
-

@@ -19,4 +19,3 @@ Doesn't actually return anything.
 * **isMP**:
 
 ## Return value
-

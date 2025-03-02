@@ -14,4 +14,3 @@ Only used in R* Script camera_photomode
 
 
 ## Return value
-

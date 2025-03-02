@@ -15,4 +15,3 @@ Any _IS_CAMERA_AVAILABLE(const char* cameraDictionary);
 * **cameraDictionary**:
 
 ## Return value
-

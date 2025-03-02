@@ -15,4 +15,3 @@ Returns the attachpoint for a weapon hash. (returns -1 for melee as they can't b
 * **weaponHash**:
 
 ## Return value
-

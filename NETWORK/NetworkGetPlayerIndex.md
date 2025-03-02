@@ -14,4 +14,3 @@ int NETWORK_GET_PLAYER_INDEX(Player player);
 * **player**:
 
 ## Return value
-

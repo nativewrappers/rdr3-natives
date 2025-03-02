@@ -12,6 +12,3 @@ void STOP_CAM_POINTING(Cam cam);
 
 ## Parameters
 * **cam**:
-
-
-

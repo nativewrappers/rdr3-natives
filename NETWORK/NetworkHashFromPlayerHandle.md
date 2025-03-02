@@ -14,4 +14,3 @@ Hash NETWORK_HASH_FROM_PLAYER_HANDLE(Player player);
 * **player**:
 
 ## Return value
-

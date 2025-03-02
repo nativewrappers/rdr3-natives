@@ -13,4 +13,3 @@ Any _ARE_ALL_AMBIENT_PED_RESERVATIONS_READY();
 
 
 ## Return value
-

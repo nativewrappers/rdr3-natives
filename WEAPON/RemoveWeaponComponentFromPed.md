@@ -15,6 +15,3 @@ void _REMOVE_WEAPON_COMPONENT_FROM_PED(Ped ped,Hash componentHash,Hash weaponHas
 * **ped**:
 * **componentHash**:
 * **weaponHash**:
-
-
-

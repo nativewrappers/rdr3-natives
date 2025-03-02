@@ -14,4 +14,3 @@ Any VEHICLE_WAYPOINT_PLAYBACK_GET_IS_PAUSED(Any p0);
 * **p0**:
 
 ## Return value
-

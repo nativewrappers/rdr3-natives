@@ -17,6 +17,3 @@ Baits: p_fishHook02x, p_baitBread01x, p_baitCorn01x, p_baitCheese01x, p_baitWorm
 * **bait**:
 * **withoutBuoy**:
 * **instantly**:
-
-
-

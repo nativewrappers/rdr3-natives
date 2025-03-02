@@ -16,6 +16,3 @@ personality (script_rel): AVOID, SCRIPTEDOUTLAW, TIMIDGUARDDOG, SCRIPTEDTIMIDROB
 ## Parameters
 * **ped**:
 * **personality**:
-
-
-

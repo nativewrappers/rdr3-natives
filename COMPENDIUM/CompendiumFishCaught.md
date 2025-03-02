@@ -13,6 +13,3 @@ void COMPENDIUM_FISH_CAUGHT(Ped ped,Hash category);
 ## Parameters
 * **ped**:
 * **category**:
-
-
-

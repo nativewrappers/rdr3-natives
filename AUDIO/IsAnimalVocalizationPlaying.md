@@ -14,4 +14,3 @@ BOOL IS_ANIMAL_VOCALIZATION_PLAYING(Ped pedHandle);
 * **pedHandle**:
 
 ## Return value
-

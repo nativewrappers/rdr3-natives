@@ -15,4 +15,3 @@ Any _IS_ANY_BIT_FLAG_SET(Any* bitFlags);
 * **bitFlags**:
 
 ## Return value
-

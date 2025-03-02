@@ -13,4 +13,3 @@ BOOL NETWORK_HAVE_ROS_BANNED_PRIV();
 
 
 ## Return value
-

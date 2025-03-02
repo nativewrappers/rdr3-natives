@@ -15,4 +15,3 @@ BOOL _UI_PROMPT_IS_JUST_RELEASED(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ Sets the entity's health. healthAmount sets the health value to that, and sets t
 * **entity**:
 * **healthAmount**:
 * **entityKilledBy**:
-
-
-

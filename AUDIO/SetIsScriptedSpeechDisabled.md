@@ -16,4 +16,3 @@ Any SET_IS_SCRIPTED_SPEECH_DISABLED(Ped ped,BOOL disabled);
 * **disabled**:
 
 ## Return value
-

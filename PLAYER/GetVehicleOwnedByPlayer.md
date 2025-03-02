@@ -15,4 +15,3 @@ Vehicle _GET_VEHICLE_OWNED_BY_PLAYER(Player player);
 * **player**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void REQUEST_STREAMED_TEXTURE_DICT(const char* textureDict,BOOL p1);
 ## Parameters
 * **textureDict**:
 * **p1**:
-
-
-

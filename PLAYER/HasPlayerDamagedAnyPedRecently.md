@@ -17,4 +17,3 @@ duration is in miliseconds
 * **duration**:
 
 ## Return value
-

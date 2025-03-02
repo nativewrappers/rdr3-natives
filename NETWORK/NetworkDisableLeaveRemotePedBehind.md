@@ -13,6 +13,3 @@ void NETWORK_DISABLE_LEAVE_REMOTE_PED_BEHIND(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

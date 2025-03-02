@@ -9,8 +9,3 @@ apiset: client
 // 0xFEE4A5459472A9F8
 void SPAWNPOINTS_CANCEL_SEARCH();
 ```
-
-
-
-
-

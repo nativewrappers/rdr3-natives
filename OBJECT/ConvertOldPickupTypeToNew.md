@@ -16,4 +16,3 @@ Old name: _GET_PICKUP_HASH
 * **pickupHash**:
 
 ## Return value
-

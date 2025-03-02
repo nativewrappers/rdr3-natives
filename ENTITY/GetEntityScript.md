@@ -16,4 +16,3 @@ Hash _GET_ENTITY_SCRIPT(Entity entity,Any* argStruct);
 * **argStruct**:
 
 ## Return value
-

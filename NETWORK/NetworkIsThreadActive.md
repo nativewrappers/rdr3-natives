@@ -15,4 +15,3 @@ Any _NETWORK_IS_THREAD_ACTIVE(int threadId);
 * **threadId**:
 
 ## Return value
-

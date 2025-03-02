@@ -14,6 +14,3 @@ void UI_MOVIEVIEW_SET_RENDER_TARGET(Any p0,Any p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

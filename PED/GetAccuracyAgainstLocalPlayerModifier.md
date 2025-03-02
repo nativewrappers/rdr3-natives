@@ -15,4 +15,3 @@ float _GET_ACCURACY_AGAINST_LOCAL_PLAYER_MODIFIER(Ped ped);
 * **ped**:
 
 ## Return value
-

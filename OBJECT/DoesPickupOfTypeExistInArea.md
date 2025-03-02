@@ -18,4 +18,3 @@ BOOL DOES_PICKUP_OF_TYPE_EXIST_IN_AREA(Hash pickupHash,float x,float y,float z,f
 * **radius**:
 
 ## Return value
-

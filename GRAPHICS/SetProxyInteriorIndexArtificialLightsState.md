@@ -15,6 +15,3 @@ state: false disables artificial interior light sources for specific proxyInteri
 ## Parameters
 * **proxyInteriorIndex**:
 * **state**:
-
-
-

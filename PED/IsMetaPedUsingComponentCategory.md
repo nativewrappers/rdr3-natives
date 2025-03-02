@@ -19,4 +19,3 @@ Old name: _IS_META_PED_USING_COMPONENT
 * **componentCategory**:
 
 ## Return value
-

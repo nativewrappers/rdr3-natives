@@ -18,6 +18,3 @@ nullsub, doesn't do anything
 * **leftFrequency**:
 * **rightDuration**:
 * **rightFrequency**:
-
-
-

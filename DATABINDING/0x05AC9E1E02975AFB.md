@@ -15,6 +15,3 @@ _DATABINDING_WRITE_DATA_*
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

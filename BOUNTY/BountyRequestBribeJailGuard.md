@@ -16,4 +16,3 @@ Any _BOUNTY_REQUEST_BRIBE_JAIL_GUARD(Any* outRpcGuid,int p1);
 * **p1**:
 
 ## Return value
-

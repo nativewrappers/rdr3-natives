@@ -14,6 +14,3 @@ Used in various R* MP & SP Scripts
 ## Parameters
 * **ped**:
 * **patternHash**:
-
-
-

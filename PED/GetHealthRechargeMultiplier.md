@@ -15,4 +15,3 @@ float _GET_HEALTH_RECHARGE_MULTIPLIER(Ped ped);
 * **ped**:
 
 ## Return value
-

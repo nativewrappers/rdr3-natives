@@ -17,4 +17,3 @@ Only used in R* SP Script beat_rat_infestation and homeinvasion
 * **p2**:
 
 ## Return value
-

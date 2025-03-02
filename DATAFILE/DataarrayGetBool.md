@@ -16,4 +16,3 @@ BOOL DATAARRAY_GET_BOOL(Any* arrayData,int arrayIndex);
 * **arrayIndex**:
 
 ## Return value
-

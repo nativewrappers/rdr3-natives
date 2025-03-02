@@ -15,6 +15,3 @@ Max: 1.15f
 ## Parameters
 * **ped**:
 * **value**:
-
-
-

@@ -28,4 +28,3 @@ enum eShapeTestStatus
 * **entityHit**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_BOOL_FROM_PATH(const char* p0,const char* p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _VIRTUAL_COLLECTION_SET_SIZE(Any p0,int size);
 ## Parameters
 * **p0**:
 * **size**:
-
-
-

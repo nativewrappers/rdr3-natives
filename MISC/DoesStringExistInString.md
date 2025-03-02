@@ -15,4 +15,3 @@ Any _DOES_STRING_EXIST_IN_STRING(const char* string1,const char* string2);
 * **string2**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void TASK_CLIMB_LADDER(Ped ped,float p1,BOOL p2,BOOL p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

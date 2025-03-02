@@ -22,6 +22,3 @@ void TASK_GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY_USING_COMBAT_STYLE(Ped ped,Any p1,
 * **p8**:
 * **p9**:
 * **p10**:
-
-
-

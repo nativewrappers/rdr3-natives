@@ -14,6 +14,3 @@ void _SET_PED_AS_SADDLE_HORSE_FOR_PLAYER(Player player,Ped mount);
 ## Parameters
 * **player**:
 * **mount**:
-
-
-

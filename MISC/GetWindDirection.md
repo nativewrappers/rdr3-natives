@@ -12,4 +12,3 @@ Vector3 GET_WIND_DIRECTION();
 
 
 ## Return value
-

@@ -17,6 +17,3 @@ void TASK_PED_SLIDE_TO_COORD(Ped ped,float x,float y,float z,float heading,float
 * **z**:
 * **heading**:
 * **p5**:
-
-
-

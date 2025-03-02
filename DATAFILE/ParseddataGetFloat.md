@@ -17,4 +17,3 @@ Any _PARSEDDATA_GET_FLOAT(Any* p0,Any* p1,Hash p2);
 * **p2**:
 
 ## Return value
-

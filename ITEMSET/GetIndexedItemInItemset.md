@@ -15,4 +15,3 @@ ScrHandle GET_INDEXED_ITEM_IN_ITEMSET(int index,ItemSet itemset);
 * **itemset**:
 
 ## Return value
-

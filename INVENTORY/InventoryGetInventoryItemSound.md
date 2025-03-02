@@ -18,4 +18,3 @@ Returns item Hash to be used with _IS_SCRIPTED_AUDIO_CUSTOM and _PLAY_SOUND_FROM
 * **soundType**:
 
 ## Return value
-

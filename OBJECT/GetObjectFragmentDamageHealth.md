@@ -15,4 +15,3 @@ float GET_OBJECT_FRAGMENT_DAMAGE_HEALTH(Any p0,BOOL p1);
 * **p1**:
 
 ## Return value
-

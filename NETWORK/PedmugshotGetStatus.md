@@ -13,4 +13,3 @@ int _PEDMUGSHOT_GET_STATUS();
 
 
 ## Return value
-

@@ -14,4 +14,3 @@ BOOL IS_MOVE_BLEND_RATIO_RUNNING(float moveBlendRatio);
 * **moveBlendRatio**:
 
 ## Return value
-

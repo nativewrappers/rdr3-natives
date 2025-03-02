@@ -16,4 +16,3 @@ int GET_BITS_IN_RANGE(int var,int rangeStart,int rangeEnd);
 * **rangeEnd**:
 
 ## Return value
-

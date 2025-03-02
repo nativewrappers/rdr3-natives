@@ -12,6 +12,3 @@ void SET_TIMECYCLE_MODIFIER_STRENGTH(float strength);
 
 ## Parameters
 * **strength**:
-
-
-

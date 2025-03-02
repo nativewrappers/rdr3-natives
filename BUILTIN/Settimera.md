@@ -12,6 +12,3 @@ void SETTIMERA(int value);
 
 ## Parameters
 * **value**:
-
-
-

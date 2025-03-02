@@ -20,4 +20,3 @@ Any _REQUEST_PROP_SCENARIO_PED(Ped ped,Object object,const char* p2,const char* 
 * **p5**:
 
 ## Return value
-

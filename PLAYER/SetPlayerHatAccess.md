@@ -16,6 +16,3 @@ If the flag is set to 15 and `allow` is true, the player can wear all available 
 * **player**:
 * **flag**:
 * **allow**:
-
-
-

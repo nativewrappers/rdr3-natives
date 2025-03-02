@@ -16,4 +16,3 @@ Any _IS_BIT_FLAG_SET(Any* bitFlags,int flag);
 * **flag**:
 
 ## Return value
-

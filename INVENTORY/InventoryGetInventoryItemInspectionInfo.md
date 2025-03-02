@@ -16,4 +16,3 @@ Any _INVENTORY_GET_INVENTORY_ITEM_INSPECTION_INFO(Hash item,Any* info);
 * **info**:
 
 ## Return value
-

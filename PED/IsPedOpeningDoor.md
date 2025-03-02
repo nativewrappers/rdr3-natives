@@ -18,4 +18,3 @@ Old name: _IS_PED_OPENING_A_DOOR
 * **ped**:
 
 ## Return value
-

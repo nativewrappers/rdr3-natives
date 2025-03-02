@@ -14,4 +14,3 @@ Hash _GET_HASH_OF_THREAD(int threadId);
 * **threadId**:
 
 ## Return value
-

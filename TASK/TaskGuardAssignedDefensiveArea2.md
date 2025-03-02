@@ -19,6 +19,3 @@ void _TASK_GUARD_ASSIGNED_DEFENSIVE_AREA_2(Ped ped,Any p1,Any p2,Any p3,Any p4,A
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

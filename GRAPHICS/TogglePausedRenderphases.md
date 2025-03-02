@@ -12,6 +12,3 @@ void TOGGLE_PAUSED_RENDERPHASES(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

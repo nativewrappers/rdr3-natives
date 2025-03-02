@@ -14,6 +14,3 @@ void SET_TRAIN_OFFSET_FROM_STATION(Vehicle train,float offset);
 ## Parameters
 * **train**:
 * **offset**:
-
-
-

@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_PRESSED_TIMED_MODE(Prompt prompt,int depletionTimeMs);
 ## Parameters
 * **prompt**:
 * **depletionTimeMs**:
-
-
-

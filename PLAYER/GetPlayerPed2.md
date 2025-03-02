@@ -15,4 +15,3 @@ Ped _GET_PLAYER_PED_2(Player player);
 * **player**:
 
 ## Return value
-

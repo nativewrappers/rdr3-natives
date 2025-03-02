@@ -14,6 +14,3 @@ void SET_PED_CAN_BE_TARGETTED_BY_PLAYER(Ped ped,Player player,BOOL toggle);
 * **ped**:
 * **player**:
 * **toggle**:
-
-
-

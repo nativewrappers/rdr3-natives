@@ -16,4 +16,3 @@ Any IS_PED_CARRYING_WEAPON(Ped ped,Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

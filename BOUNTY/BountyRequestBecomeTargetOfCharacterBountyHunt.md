@@ -15,4 +15,3 @@ Any _BOUNTY_REQUEST_BECOME_TARGET_OF_CHARACTER_BOUNTY_HUNT(Any* outRpcGuid);
 * **outRpcGuid**:
 
 ## Return value
-

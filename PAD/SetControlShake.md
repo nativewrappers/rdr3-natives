@@ -16,6 +16,3 @@ Old name: SET_PAD_SHAKE
 * **control**:
 * **duration**:
 * **frequency**:
-
-
-

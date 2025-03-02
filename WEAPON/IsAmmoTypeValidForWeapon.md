@@ -16,4 +16,3 @@ Any _IS_AMMO_TYPE_VALID_FOR_WEAPON(Hash weaponHash,Hash ammoHash);
 * **ammoHash**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ BOOL IS_PED_JUMPING(Ped ped);
 * **ped**:
 
 ## Return value
-

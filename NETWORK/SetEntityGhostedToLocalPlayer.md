@@ -14,6 +14,3 @@ void _SET_ENTITY_GHOSTED_TO_LOCAL_PLAYER(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

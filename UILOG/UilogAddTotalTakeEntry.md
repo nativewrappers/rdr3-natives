@@ -17,6 +17,3 @@ void _UILOG_ADD_TOTAL_TAKE_ENTRY(Hash p0,Hash p1,const char* p2,const char* p3,H
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

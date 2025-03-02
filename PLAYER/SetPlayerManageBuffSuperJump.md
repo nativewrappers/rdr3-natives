@@ -14,6 +14,3 @@ void _SET_PLAYER_MANAGE_BUFF_SUPER_JUMP(Player player,float p1);
 ## Parameters
 * **player**:
 * **p1**:
-
-
-

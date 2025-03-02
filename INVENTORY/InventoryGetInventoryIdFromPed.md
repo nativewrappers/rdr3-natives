@@ -36,4 +36,3 @@ enum eInventories
 * **ped**:
 
 ## Return value
-

@@ -23,4 +23,3 @@ enum eMetaPedType
 * **ped**:
 
 ## Return value
-

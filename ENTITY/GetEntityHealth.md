@@ -14,4 +14,3 @@ int GET_ENTITY_HEALTH(Entity entity);
 * **entity**:
 
 ## Return value
-

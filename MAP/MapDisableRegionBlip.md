@@ -13,6 +13,3 @@ void _MAP_DISABLE_REGION_BLIP(Hash regionHash);
 
 ## Parameters
 * **regionHash**:
-
-
-

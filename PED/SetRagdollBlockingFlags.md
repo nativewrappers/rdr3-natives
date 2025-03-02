@@ -39,6 +39,3 @@ enum eRagdollBlockingFlags
 ## Parameters
 * **ped**:
 * **flags**:
-
-
-

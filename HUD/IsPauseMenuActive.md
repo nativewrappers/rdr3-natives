@@ -13,4 +13,3 @@ Returns true when either Pause Menu, a Frontend Menu, Online Policies menu or So
 
 
 ## Return value
-

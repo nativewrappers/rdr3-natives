@@ -17,4 +17,3 @@ Any _ITEMDATABASE_CAN_EQUIP_ITEM_ON_CATEGORY(Hash key,Hash category,Hash slotId)
 * **slotId**:
 
 ## Return value
-

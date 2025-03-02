@@ -16,4 +16,3 @@ Retrieves the number of marks placed on a PED when Deadeye mode is active for th
 * **ped**:
 
 ## Return value
-

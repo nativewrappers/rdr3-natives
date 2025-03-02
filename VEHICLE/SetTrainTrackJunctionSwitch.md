@@ -16,6 +16,3 @@ trainTrack: FREIGHT_GROUP, TRAINS3, BRAITHWAITES2_TRACK_CONFIG, TRAINS_OLD_WEST0
 * **trainTrack**:
 * **junctionIndex**:
 * **enabled**:
-
-
-

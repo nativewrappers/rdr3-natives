@@ -13,6 +13,3 @@ void _MAP_DISCOVERY_SET_ENABLED(Hash discoveryHash);
 
 ## Parameters
 * **discoveryHash**:
-
-
-

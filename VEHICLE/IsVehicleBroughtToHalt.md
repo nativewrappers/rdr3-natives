@@ -16,4 +16,3 @@ Only returns true if BRING_VEHICLE_TO_HALT is called on vehicle beforehand
 * **vehicle**:
 
 ## Return value
-

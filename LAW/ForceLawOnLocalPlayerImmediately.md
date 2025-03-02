@@ -9,8 +9,3 @@ apiset: client
 // 0x956510F8C36B5C64
 void _FORCE_LAW_ON_LOCAL_PLAYER_IMMEDIATELY();
 ```
-
-
-
-
-

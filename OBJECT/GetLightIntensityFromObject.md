@@ -15,4 +15,3 @@ float _GET_LIGHT_INTENSITY_FROM_OBJECT(Object object);
 * **object**:
 
 ## Return value
-

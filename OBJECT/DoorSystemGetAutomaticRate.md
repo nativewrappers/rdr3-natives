@@ -15,4 +15,3 @@ float _DOOR_SYSTEM_GET_AUTOMATIC_RATE(Hash doorHash);
 * **doorHash**:
 
 ## Return value
-

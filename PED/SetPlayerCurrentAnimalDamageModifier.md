@@ -19,4 +19,3 @@ Params: p2 = 2, p3 = 3 in R* Scripts
 * **p3**:
 
 ## Return value
-

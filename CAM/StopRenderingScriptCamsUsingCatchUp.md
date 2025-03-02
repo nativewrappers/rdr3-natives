@@ -20,6 +20,3 @@ blendBackSmoothingType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/t
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

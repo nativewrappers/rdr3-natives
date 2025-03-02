@@ -14,4 +14,3 @@ BOOL IS_PED_AIMING_FROM_COVER(Ped ped);
 * **ped**:
 
 ## Return value
-

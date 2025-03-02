@@ -14,6 +14,3 @@ void CHAL_MISSION_ADD_GOAL_PROGRESS_INT(Hash missionHash,Hash goalHash,int value
 * **missionHash**:
 * **goalHash**:
 * **value**:
-
-
-

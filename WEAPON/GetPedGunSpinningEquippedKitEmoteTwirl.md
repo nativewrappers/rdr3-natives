@@ -15,4 +15,3 @@ Returns emote Hash
 * **ped**:
 
 ## Return value
-

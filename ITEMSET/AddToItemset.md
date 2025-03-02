@@ -15,4 +15,3 @@ BOOL ADD_TO_ITEMSET(Entity entity,ItemSet itemset);
 * **itemset**:
 
 ## Return value
-

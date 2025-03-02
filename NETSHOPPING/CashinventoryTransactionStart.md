@@ -16,4 +16,3 @@ BOOL _CASHINVENTORY_TRANSACTION_START(int* id,Hash type,Hash actionHash);
 * **actionHash**:
 
 ## Return value
-

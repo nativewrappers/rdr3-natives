@@ -16,6 +16,3 @@ Old Name: _SET_VARIABLE_ON_SOUND_WITH_ID
 * **soundId**:
 * **variableName**:
 * **variableValue**:
-
-
-

@@ -14,6 +14,3 @@ Based on TASK_COMBAT_HATED_TARGETS_AROUND_PED, the parameters are likely similar
 ## Parameters
 * **ped**:
 * **radius**:
-
-
-

@@ -17,4 +17,3 @@ Any SC_PRESENCE_ATTR_SET_INT_EX(const char* attrName,int value,BOOL p2);
 * **p2**:
 
 ## Return value
-

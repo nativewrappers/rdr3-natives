@@ -15,4 +15,3 @@ float _DATABINDING_READ_FLOAT(Hash entryId);
 * **entryId**:
 
 ## Return value
-

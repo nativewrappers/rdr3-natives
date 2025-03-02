@@ -12,4 +12,3 @@ int GET_GAME_TIMER();
 
 
 ## Return value
-

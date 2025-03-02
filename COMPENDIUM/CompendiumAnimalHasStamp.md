@@ -14,4 +14,3 @@ BOOL COMPENDIUM_ANIMAL_HAS_STAMP(int compendiumEntry);
 * **compendiumEntry**:
 
 ## Return value
-

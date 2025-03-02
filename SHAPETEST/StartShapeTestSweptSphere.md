@@ -23,4 +23,3 @@ ScrHandle START_SHAPE_TEST_SWEPT_SPHERE(float x1,float y1,float z1,float x2,floa
 * **p9**:
 
 ## Return value
-

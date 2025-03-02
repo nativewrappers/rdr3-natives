@@ -13,4 +13,3 @@ Returns current player ped
 
 
 ## Return value
-

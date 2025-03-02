@@ -17,4 +17,3 @@ Vector3 GET_OFFSET_FROM_ENTITY_GIVEN_WORLD_COORDS(Entity entity,float posX,float
 * **posZ**:
 
 ## Return value
-

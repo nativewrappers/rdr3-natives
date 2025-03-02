@@ -14,4 +14,3 @@ BOOL IS_PED_GOING_INTO_COVER(Ped ped);
 * **ped**:
 
 ## Return value
-

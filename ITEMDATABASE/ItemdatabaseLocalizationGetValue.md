@@ -17,4 +17,3 @@ int _ITEMDATABASE_LOCALIZATION_GET_VALUE(Any p0,Hash label,Any p2);
 * **p2**:
 
 ## Return value
-

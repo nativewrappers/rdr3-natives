@@ -16,4 +16,3 @@ goalContext: see _ACTIVATE_GOAL_CONTEXT
 * **goalContext**:
 
 ## Return value
-

@@ -21,4 +21,3 @@ int FIND_SCENARIO_OF_TYPE_HASH(float xPos,float yPos,float zPos,Hash scenarioTyp
 * **p6**:
 
 ## Return value
-

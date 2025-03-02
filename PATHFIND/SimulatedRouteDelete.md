@@ -13,6 +13,3 @@ void _SIMULATED_ROUTE_DELETE(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

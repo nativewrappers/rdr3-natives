@@ -14,6 +14,3 @@ void PLAY_ANIMAL_VOCALIZATION(Ped ped,const char* vocalizationName,BOOL p2);
 * **ped**:
 * **vocalizationName**:
 * **p2**:
-
-
-

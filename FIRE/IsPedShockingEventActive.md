@@ -16,4 +16,3 @@ Tested with fire & dynamite. Only returns true using value p1 = 1 and when the p
 * **p1**:
 
 ## Return value
-

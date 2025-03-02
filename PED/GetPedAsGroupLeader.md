@@ -14,4 +14,3 @@ Ped GET_PED_AS_GROUP_LEADER(int groupID);
 * **groupID**:
 
 ## Return value
-

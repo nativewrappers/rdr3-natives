@@ -15,6 +15,3 @@ void _SET_DAMAGE_FAR_DISTANCE_BONUS(Player player,float farRangeLowerBound,float
 * **player**:
 * **farRangeLowerBound**:
 * **farRangeUpperBound**:
-
-
-

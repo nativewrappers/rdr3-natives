@@ -14,4 +14,3 @@ BOOL IS_MP_GAMER_TAG_ACTIVE(int gamerTagId);
 * **gamerTagId**:
 
 ## Return value
-

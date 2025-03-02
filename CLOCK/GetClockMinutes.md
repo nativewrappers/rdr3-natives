@@ -13,4 +13,3 @@ Gets the current ingame clock minute.
 
 
 ## Return value
-

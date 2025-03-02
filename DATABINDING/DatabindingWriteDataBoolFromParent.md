@@ -14,6 +14,3 @@ void _DATABINDING_WRITE_DATA_BOOL_FROM_PARENT(Any p0,const char* p1,BOOL p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

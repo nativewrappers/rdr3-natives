@@ -15,6 +15,3 @@ void TASK_GUARD_CURRENT_POSITION(Ped ped,float p1,float p2,BOOL p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

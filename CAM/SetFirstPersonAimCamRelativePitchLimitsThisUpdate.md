@@ -15,6 +15,3 @@ Old name: _SET_FIRST_PERSON_CAM_PITCH_RANGE
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

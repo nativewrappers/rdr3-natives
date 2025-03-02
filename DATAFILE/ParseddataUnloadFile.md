@@ -13,6 +13,3 @@ void _PARSEDDATA_UNLOAD_FILE(int fileHandle);
 
 ## Parameters
 * **fileHandle**:
-
-
-

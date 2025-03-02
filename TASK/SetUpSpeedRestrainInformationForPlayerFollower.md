@@ -20,6 +20,3 @@ void SET_UP_SPEED_RESTRAIN_INFORMATION_FOR_PLAYER_FOLLOWER(Any p0,Any p1,Any p2,
 * **p6**:
 * **p7**:
 * **p8**:
-
-
-

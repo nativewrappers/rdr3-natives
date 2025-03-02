@@ -15,6 +15,3 @@ Makes the specified entity (ped, vehicle or object) persistent. Persistent entit
 * **entity**:
 * **p1**:
 * **p2**:
-
-
-

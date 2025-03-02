@@ -21,4 +21,3 @@ Gets the current day of the week.
 
 
 ## Return value
-

@@ -15,6 +15,3 @@ void DATABINDING_WRITE_STRING_FROM_PARENT(Any p0,const char* p1,const char* p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

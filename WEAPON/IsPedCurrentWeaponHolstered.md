@@ -15,4 +15,3 @@ Any _IS_PED_CURRENT_WEAPON_HOLSTERED(Ped ped);
 * **ped**:
 
 ## Return value
-

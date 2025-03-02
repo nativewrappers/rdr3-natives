@@ -13,4 +13,3 @@ Always returns 60
 
 
 ## Return value
-

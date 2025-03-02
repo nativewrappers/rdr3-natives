@@ -15,4 +15,3 @@ float _ROPE_GET_FORCED_LENGTH(int ropeId);
 * **ropeId**:
 
 ## Return value
-

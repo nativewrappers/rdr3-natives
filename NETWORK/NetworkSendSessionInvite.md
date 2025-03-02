@@ -20,4 +20,3 @@ Any _NETWORK_SEND_SESSION_INVITE(Any* gamerHandle,const char* contentId,Any* dat
 * **flags**:
 
 ## Return value
-

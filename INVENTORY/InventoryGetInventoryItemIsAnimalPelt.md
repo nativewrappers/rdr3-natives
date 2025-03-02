@@ -15,4 +15,3 @@ Any _INVENTORY_GET_INVENTORY_ITEM_IS_ANIMAL_PELT(Hash item);
 * **item**:
 
 ## Return value
-

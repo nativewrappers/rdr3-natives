@@ -14,6 +14,3 @@ void ADD_PED_TO_CONVERSATION(const char* convoRoot,Ped ped,const char* character
 * **convoRoot**:
 * **ped**:
 * **characterName**:
-
-
-

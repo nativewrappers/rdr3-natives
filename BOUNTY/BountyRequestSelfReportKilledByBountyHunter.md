@@ -15,4 +15,3 @@ Any _BOUNTY_REQUEST_SELF_REPORT_KILLED_BY_BOUNTY_HUNTER(Any* outRpcGuid);
 * **outRpcGuid**:
 
 ## Return value
-

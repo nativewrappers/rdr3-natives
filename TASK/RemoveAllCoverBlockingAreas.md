@@ -8,8 +8,3 @@ apiset: client
 // 0xDB6708C0B46F56D8
 void REMOVE_ALL_COVER_BLOCKING_AREAS();
 ```
-
-
-
-
-

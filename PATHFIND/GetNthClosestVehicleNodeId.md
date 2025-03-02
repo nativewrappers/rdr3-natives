@@ -20,4 +20,3 @@ int GET_NTH_CLOSEST_VEHICLE_NODE_ID(float x,float y,float z,int nth,int nodetype
 * **p6**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _NETWORK_AUTO_SESSION_SET_ALLOWED_TO_SPLIT(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

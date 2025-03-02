@@ -18,6 +18,3 @@ void _LOOT_TABLES_GET_INFO(Ped ped,BOOL p1,BOOL p2,Hash lootTableKey,Any* p4,Any
 * **lootTableKey**:
 * **p4**:
 * **p5**:
-
-
-

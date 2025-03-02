@@ -13,6 +13,3 @@ void SET_PED_VISUAL_FIELD_MAX_ANGLE(Ped ped,float value);
 ## Parameters
 * **ped**:
 * **value**:
-
-
-

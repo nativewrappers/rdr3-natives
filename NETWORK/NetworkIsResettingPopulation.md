@@ -13,4 +13,3 @@ Any NETWORK_IS_RESETTING_POPULATION();
 
 
 ## Return value
-

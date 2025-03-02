@@ -17,6 +17,3 @@ Example: https://pastebin.com/nDrJyWq2
 * **msgId**:
 * **p1**:
 * **p2**:
-
-
-

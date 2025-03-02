@@ -16,4 +16,3 @@ Gets a value indicating whether the specified ped is in any vehicle.
 * **atGetIn**:
 
 ## Return value
-

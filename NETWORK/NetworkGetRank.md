@@ -13,4 +13,3 @@ int _NETWORK_GET_RANK();
 
 
 ## Return value
-

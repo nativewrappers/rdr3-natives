@@ -12,6 +12,3 @@ void SET_TV_CHANNEL(int channel);
 
 ## Parameters
 * **channel**:
-
-
-

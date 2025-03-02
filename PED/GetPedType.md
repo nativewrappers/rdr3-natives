@@ -14,4 +14,3 @@ int GET_PED_TYPE(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Player GET_NEAREST_PLAYER_TO_ENTITY_ON_TEAM(Entity entity,int team,Ped playerPed
 * **flags**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void SET_PED_LEG_IK_MODE(Ped ped,int mode);
 ## Parameters
 * **ped**:
 * **mode**:
-
-
-

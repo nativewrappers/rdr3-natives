@@ -13,6 +13,3 @@ void _SET_WEATHER_TYPE_FROZEN(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

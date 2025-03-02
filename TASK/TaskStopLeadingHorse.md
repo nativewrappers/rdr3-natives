@@ -13,6 +13,3 @@ void TASK_STOP_LEADING_HORSE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

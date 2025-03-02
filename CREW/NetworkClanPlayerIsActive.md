@@ -14,4 +14,3 @@ BOOL NETWORK_CLAN_PLAYER_IS_ACTIVE(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

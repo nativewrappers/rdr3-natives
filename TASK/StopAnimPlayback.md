@@ -14,6 +14,3 @@ void STOP_ANIM_PLAYBACK(Ped ped,int p1,BOOL p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

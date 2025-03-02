@@ -17,4 +17,3 @@ Any BOUNTY_REQUEST_BEGIN_LEGENDARY_MISSION(Any* outRpcGuid,int p1,int p2);
 * **p2**:
 
 ## Return value
-

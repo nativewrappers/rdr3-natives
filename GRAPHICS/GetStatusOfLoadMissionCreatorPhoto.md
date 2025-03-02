@@ -16,4 +16,3 @@ contentId: returned by NETWORK::_UGC_QUERY_GET_CREATOR_PHOTO(uVar0, 0, sParam3)
 * **contentId**:
 
 ## Return value
-

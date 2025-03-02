@@ -13,6 +13,3 @@ void _EAGLE_EYE_SET_RANGE(Player player,float range);
 ## Parameters
 * **player**:
 * **range**:
-
-
-

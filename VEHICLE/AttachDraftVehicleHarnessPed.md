@@ -17,4 +17,3 @@ Any _ATTACH_DRAFT_VEHICLE_HARNESS_PED(Ped mount,Vehicle draft,int harnessId);
 * **harnessId**:
 
 ## Return value
-

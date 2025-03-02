@@ -18,4 +18,3 @@ Example : https://pastebin.com/GvdBp8Dh
 * **p2**:
 
 ## Return value
-

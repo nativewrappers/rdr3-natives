@@ -22,6 +22,3 @@ void TASK_FOLLOW_AND_CONVERSE_WITH_PED(Ped ped,Ped targetPed,Any p2,Any p3,float
 * **p8**:
 * **p9**:
 * **p10**:
-
-
-

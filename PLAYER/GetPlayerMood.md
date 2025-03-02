@@ -16,4 +16,3 @@ See _SET_PLAYER_MOOD
 * **player**:
 
 ## Return value
-

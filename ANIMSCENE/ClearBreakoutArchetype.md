@@ -13,6 +13,3 @@ void _CLEAR_BREAKOUT_ARCHETYPE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

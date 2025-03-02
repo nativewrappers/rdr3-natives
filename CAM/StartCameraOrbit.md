@@ -15,6 +15,3 @@ p0: struct<32> /*256*/
 
 ## Parameters
 * **p0**:
-
-
-

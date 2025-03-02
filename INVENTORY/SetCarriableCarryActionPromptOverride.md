@@ -13,6 +13,3 @@ void _SET_CARRIABLE_CARRY_ACTION_PROMPT_OVERRIDE(Any* data);
 
 ## Parameters
 * **data**:
-
-
-

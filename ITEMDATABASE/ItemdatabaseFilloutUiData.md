@@ -16,4 +16,3 @@ Any _ITEMDATABASE_FILLOUT_UI_DATA(Hash key,Any* outData);
 * **outData**:
 
 ## Return value
-

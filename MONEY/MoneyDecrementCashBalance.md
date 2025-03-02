@@ -14,4 +14,3 @@ BOOL _MONEY_DECREMENT_CASH_BALANCE(int amount);
 * **amount**:
 
 ## Return value
-

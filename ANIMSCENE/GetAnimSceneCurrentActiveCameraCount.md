@@ -15,4 +15,3 @@ int GET_ANIM_SCENE_CURRENT_ACTIVE_CAMERA_COUNT(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

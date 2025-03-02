@@ -16,4 +16,3 @@ int _INVENTORY_GET_CHILDREN_COUNT(int inventoryId,Any* parentGuid);
 * **parentGuid**:
 
 ## Return value
-

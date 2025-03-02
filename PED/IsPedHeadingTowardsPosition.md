@@ -18,4 +18,3 @@ BOOL IS_PED_HEADING_TOWARDS_POSITION(Ped ped,float x,float y,float z,float p4);
 * **p4**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void CHAL_NET_STOP_CHAL(Hash chalHash);
 
 ## Parameters
 * **chalHash**:
-
-
-

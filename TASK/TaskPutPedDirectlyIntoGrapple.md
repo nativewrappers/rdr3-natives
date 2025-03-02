@@ -20,6 +20,3 @@ grappleStyle: AR_GRAPPLE_STRUGGLE, AR_ALLIGATOR_LEG_GRAB_CHALLENGE_FAIL, AR_GRAP
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

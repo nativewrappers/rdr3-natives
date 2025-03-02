@@ -24,4 +24,3 @@ p3 if is set > 3 you can no longer press Q to change tab if there are more than 
 * **prompt**:
 
 ## Return value
-

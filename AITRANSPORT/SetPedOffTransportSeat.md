@@ -14,6 +14,3 @@ void SET_PED_OFF_TRANSPORT_SEAT(Ped ped,int flags);
 ## Parameters
 * **ped**:
 * **flags**:
-
-
-

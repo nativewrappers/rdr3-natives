@@ -15,4 +15,3 @@ Any GET_ALLOW_DUAL_WIELD(Ped ped);
 * **ped**:
 
 ## Return value
-

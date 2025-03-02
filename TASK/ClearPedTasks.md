@@ -14,6 +14,3 @@ void CLEAR_PED_TASKS(Ped ped,BOOL p1,BOOL p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

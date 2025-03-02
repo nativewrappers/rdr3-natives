@@ -15,4 +15,3 @@ ScrHandle _CREATE_SHOCKING_EVENT(Any* args);
 * **args**:
 
 ## Return value
-

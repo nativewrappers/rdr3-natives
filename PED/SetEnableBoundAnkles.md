@@ -13,6 +13,3 @@ void SET_ENABLE_BOUND_ANKLES(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

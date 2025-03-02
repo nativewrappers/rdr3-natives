@@ -16,4 +16,3 @@ Returns m_eContainerState
 * **entity**:
 
 ## Return value
-

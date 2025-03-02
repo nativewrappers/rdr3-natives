@@ -12,6 +12,3 @@ void REMOVE_DECAL(int decal);
 
 ## Parameters
 * **decal**:
-
-
-

@@ -14,4 +14,3 @@ BOOL IS_PED_GETTING_UP(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _LOAD_CAMERA_DATA_DICT(const char* cameraDictionary);
 
 ## Parameters
 * **cameraDictionary**:
-
-
-

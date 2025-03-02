@@ -14,4 +14,3 @@ BOOL CAN_ANCHOR_BOAT_HERE(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

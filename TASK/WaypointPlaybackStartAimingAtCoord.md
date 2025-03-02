@@ -17,6 +17,3 @@ void WAYPOINT_PLAYBACK_START_AIMING_AT_COORD(Any p0,Any p1,Any p2,Any p3,Any p4,
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

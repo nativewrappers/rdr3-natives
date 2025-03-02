@@ -14,4 +14,3 @@ int GET_VEHICLE_MODEL_NUMBER_OF_SEATS(Hash modelHash);
 * **modelHash**:
 
 ## Return value
-

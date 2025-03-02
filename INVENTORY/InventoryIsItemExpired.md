@@ -14,4 +14,3 @@ BOOL _INVENTORY_IS_ITEM_EXPIRED(Any* itemGUID);
 * **itemGUID**:
 
 ## Return value
-

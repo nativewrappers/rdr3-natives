@@ -16,4 +16,3 @@ Blip BLIP_ADD_FOR_ENTITY(Hash blipHash,Entity entity);
 * **entity**:
 
 ## Return value
-

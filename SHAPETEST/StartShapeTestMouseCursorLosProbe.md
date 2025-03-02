@@ -20,4 +20,3 @@ Old name: _START_SHAPE_TEST_SURROUNDING_COORDS
 * **flag2**:
 
 ## Return value
-

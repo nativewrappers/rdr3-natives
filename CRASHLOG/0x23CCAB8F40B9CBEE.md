@@ -16,4 +16,3 @@ BOOL _0x23CCAB8F40B9CBEE(float x,float y,float z);
 * **z**:
 
 ## Return value
-

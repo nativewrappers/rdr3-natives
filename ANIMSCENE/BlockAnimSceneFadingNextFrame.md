@@ -14,6 +14,3 @@ void BLOCK_ANIM_SCENE_FADING_NEXT_FRAME(BOOL p0,BOOL p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

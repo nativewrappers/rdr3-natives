@@ -12,6 +12,3 @@ void _SET_MILLISECONDS_PER_GAME_MINUTE(int ms);
 
 ## Parameters
 * **ms**:
-
-
-

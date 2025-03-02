@@ -26,6 +26,3 @@ void TASK_PLAY_UPPER_ANIM_FACING_ENTITY(Ped ped,const char* animDict,const char*
 * **p12**:
 * **p13**:
 * **p14**:
-
-
-

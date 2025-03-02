@@ -15,4 +15,3 @@ Any TEXT_BLOCK_IS_LOADED(const char* textBlock);
 * **textBlock**:
 
 ## Return value
-

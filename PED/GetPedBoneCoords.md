@@ -25,4 +25,3 @@ offsetZ: The Z-component of the offset to add to the position relative to the bo
 * **offsetZ**:
 
 ## Return value
-

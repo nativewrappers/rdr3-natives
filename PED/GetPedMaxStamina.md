@@ -15,4 +15,3 @@ float _GET_PED_MAX_STAMINA(Ped ped);
 * **ped**:
 
 ## Return value
-

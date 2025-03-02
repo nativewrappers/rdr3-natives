@@ -17,6 +17,3 @@ void TASK_SEEK_COVER_FROM_PED(Ped ped,Ped fromPed,int duration,Any p3,Any p4,Any
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

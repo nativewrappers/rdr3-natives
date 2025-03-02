@@ -14,4 +14,3 @@ Any _GET_PERSCHAR_OUTFIT(Hash persCharHash);
 * **persCharHash**:
 
 ## Return value
-

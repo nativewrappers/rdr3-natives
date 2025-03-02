@@ -13,6 +13,3 @@ void NETWORK_ACTIVITY_SET_CURRENT(int netPlaylistActivity);
 
 ## Parameters
 * **netPlaylistActivity**:
-
-
-

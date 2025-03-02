@@ -15,4 +15,3 @@ Any _GET_IS_PREDATOR(Entity entity);
 * **entity**:
 
 ## Return value
-

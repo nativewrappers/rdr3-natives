@@ -12,4 +12,3 @@ BOOL NETWORK_IS_CLOUD_AVAILABLE();
 
 
 ## Return value
-

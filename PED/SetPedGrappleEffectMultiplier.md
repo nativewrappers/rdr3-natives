@@ -16,4 +16,3 @@ Any _SET_PED_GRAPPLE_EFFECT_MULTIPLIER(Ped ped,float multiplier);
 * **multiplier**:
 
 ## Return value
-

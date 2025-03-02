@@ -17,4 +17,3 @@ _H* or _I*
 * **ped**:
 
 ## Return value
-

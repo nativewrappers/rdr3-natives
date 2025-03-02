@@ -14,4 +14,3 @@ Any _0xDB622ECD3DCBE078(Player player);
 * **player**:
 
 ## Return value
-

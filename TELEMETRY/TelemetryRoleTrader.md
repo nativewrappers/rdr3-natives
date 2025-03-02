@@ -14,6 +14,3 @@ void _TELEMETRY_ROLE_TRADER(Any p0,Any transactionId);
 ## Parameters
 * **p0**:
 * **transactionId**:
-
-
-

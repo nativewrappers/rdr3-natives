@@ -17,6 +17,3 @@ _SET_CLOUD_A* - _SET_CLOUD_H*
 * **x**:
 * **y**:
 * **z**:
-
-
-

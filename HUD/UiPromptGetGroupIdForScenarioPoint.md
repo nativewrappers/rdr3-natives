@@ -16,4 +16,3 @@ int _UI_PROMPT_GET_GROUP_ID_FOR_SCENARIO_POINT(Any p0,int p1);
 * **p1**:
 
 ## Return value
-

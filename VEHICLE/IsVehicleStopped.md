@@ -17,4 +17,3 @@ For some vehicles it returns true if the current speed is <= 0.00039999999.
 * **vehicle**:
 
 ## Return value
-

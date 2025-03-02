@@ -21,4 +21,3 @@ ScrHandle ADD_COVER_POINT(float p0,float p1,float p2,float p3,Any p4,Any p5,Any 
 * **p7**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _IS_BASE_A_COVER_POINT(ScrHandle handle);
 * **handle**:
 
 ## Return value
-

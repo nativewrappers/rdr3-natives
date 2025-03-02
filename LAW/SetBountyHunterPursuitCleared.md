@@ -11,7 +11,3 @@ void _SET_BOUNTY_HUNTER_PURSUIT_CLEARED();
 ```
 
 Force clears local player's wanted level
-
-
-
-

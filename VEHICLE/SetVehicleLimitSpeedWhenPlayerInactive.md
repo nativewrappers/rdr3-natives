@@ -15,6 +15,3 @@ _SET_VEHICLE_LI*
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

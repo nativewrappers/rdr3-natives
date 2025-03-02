@@ -12,6 +12,3 @@ void SET_RANDOM_SEED(int seed);
 
 ## Parameters
 * **seed**:
-
-
-

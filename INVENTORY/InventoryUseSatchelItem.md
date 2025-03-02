@@ -16,6 +16,3 @@ Only used in R* SP Scripts
 * **inventoryId**:
 * **eInventoryItem**:
 * **p2**:
-
-
-

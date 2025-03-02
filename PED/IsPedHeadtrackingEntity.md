@@ -15,4 +15,3 @@ BOOL IS_PED_HEADTRACKING_ENTITY(Ped ped,Entity entity);
 * **entity**:
 
 ## Return value
-

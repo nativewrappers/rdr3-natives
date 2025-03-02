@@ -14,6 +14,3 @@ Sets whether all trails are hidden during Eagle Eye mode.
 ## Parameters
 * **player**:
 * **hide**:
-
-
-

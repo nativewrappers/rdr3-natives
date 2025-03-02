@@ -13,6 +13,3 @@ void SET_ENABLE_VEHICLE_SLIPSTREAMING(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

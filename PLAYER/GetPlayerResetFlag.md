@@ -17,4 +17,3 @@ playerResetFlag: See 0x9F9A829C6751F3C7
 * **playerResetFlag**:
 
 ## Return value
-

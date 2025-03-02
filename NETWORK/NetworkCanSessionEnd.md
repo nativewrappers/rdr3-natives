@@ -12,4 +12,3 @@ BOOL NETWORK_CAN_SESSION_END();
 
 
 ## Return value
-

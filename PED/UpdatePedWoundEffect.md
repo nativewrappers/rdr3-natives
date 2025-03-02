@@ -15,6 +15,3 @@ Params: 0.0f to remove wound effects
 ## Parameters
 * **ped**:
 * **value**:
-
-
-

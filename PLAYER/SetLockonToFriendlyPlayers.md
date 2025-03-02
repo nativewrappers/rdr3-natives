@@ -14,6 +14,3 @@ void SET_LOCKON_TO_FRIENDLY_PLAYERS(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

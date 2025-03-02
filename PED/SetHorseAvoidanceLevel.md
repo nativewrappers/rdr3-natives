@@ -18,6 +18,3 @@ void SET_HORSE_AVOIDANCE_LEVEL(Ped horse,int avoidanceLevel);
 ## Parameters
 * **horse**:
 * **avoidanceLevel**:
-
-
-

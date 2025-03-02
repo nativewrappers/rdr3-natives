@@ -14,4 +14,3 @@ BOOL IS_PED_RUNNING_RAGDOLL_TASK(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ Clearing texture's data: setting params to default values, but keep overlays.
 
 ## Parameters
 * **textureId**:
-
-
-

@@ -14,4 +14,3 @@ BOOL IS_ENTITY_ATTACHED(Entity entity);
 * **entity**:
 
 ## Return value
-

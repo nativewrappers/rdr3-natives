@@ -15,4 +15,3 @@ Any CREATE_OBJECT_SKELETON(Object object);
 * **object**:
 
 ## Return value
-

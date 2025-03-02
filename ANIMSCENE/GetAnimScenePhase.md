@@ -15,4 +15,3 @@ float GET_ANIM_SCENE_PHASE(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

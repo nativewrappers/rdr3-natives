@@ -14,6 +14,3 @@ Hides the ped's weapon during a cutscene.
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

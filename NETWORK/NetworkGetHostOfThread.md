@@ -15,4 +15,3 @@ Player NETWORK_GET_HOST_OF_THREAD(int threadId);
 * **threadId**:
 
 ## Return value
-

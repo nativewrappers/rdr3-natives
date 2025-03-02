@@ -14,6 +14,3 @@ void SET_BLIP_SPRITE(Blip blip,Hash hash,BOOL p2);
 * **blip**:
 * **hash**:
 * **p2**:
-
-
-

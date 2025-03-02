@@ -17,4 +17,3 @@ Returns ugcRequestId
 * **contentTypeName**:
 
 ## Return value
-

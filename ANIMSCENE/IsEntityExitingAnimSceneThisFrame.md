@@ -16,4 +16,3 @@ Any IS_ENTITY_EXITING_ANIM_SCENE_THIS_FRAME(AnimScene animScene,const char* enti
 * **entityName**:
 
 ## Return value
-

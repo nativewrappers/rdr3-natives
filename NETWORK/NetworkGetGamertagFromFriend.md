@@ -15,4 +15,3 @@ char* _NETWORK_GET_GAMERTAG_FROM_FRIEND(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

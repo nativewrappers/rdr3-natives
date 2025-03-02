@@ -15,4 +15,3 @@ Any CHAL_MISSION_IS_GOAL_COMPLETE(Hash missionHash,Hash goalHash);
 * **goalHash**:
 
 ## Return value
-

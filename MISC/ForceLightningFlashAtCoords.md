@@ -16,6 +16,3 @@ p3 is always -1.0f in the scripts
 * **y**:
 * **z**:
 * **p3**:
-
-
-

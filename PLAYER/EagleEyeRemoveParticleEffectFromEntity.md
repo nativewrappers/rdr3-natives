@@ -18,6 +18,3 @@ p2: always 0
 * **entity1**:
 * **entity2**:
 * **p2**:
-
-
-

@@ -17,6 +17,3 @@ Old name: _SET_BOAT_MOVEMENT_RESISTANCE
 ## Parameters
 * **vehicle**:
 * **value**:
-
-
-

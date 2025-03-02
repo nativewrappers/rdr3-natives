@@ -15,6 +15,3 @@ void _SET_PLAYER_WEAPON_GROUP_DAMAGE_MODIFIER(Player player,Hash weaponGroup,flo
 * **player**:
 * **weaponGroup**:
 * **modifier**:
-
-
-

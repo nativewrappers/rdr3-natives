@@ -16,4 +16,3 @@ Any _IS_DEADEYE_ABILITY_LOCKED(Player player,int abilityType);
 * **abilityType**:
 
 ## Return value
-

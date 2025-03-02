@@ -14,4 +14,3 @@ BOOL DOES_SCENARIO_GROUP_EXIST(const char* scenarioGroup);
 * **scenarioGroup**:
 
 ## Return value
-

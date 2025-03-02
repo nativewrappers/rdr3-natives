@@ -13,6 +13,3 @@ void SET_PED_HIGHLY_PERCEPTIVE(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

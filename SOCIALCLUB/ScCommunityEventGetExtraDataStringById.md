@@ -17,4 +17,3 @@ BOOL SC_COMMUNITY_EVENT_GET_EXTRA_DATA_STRING_BY_ID(int p0,const char* p1,char* 
 * **p2**:
 
 ## Return value
-

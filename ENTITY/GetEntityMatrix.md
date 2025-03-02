@@ -16,6 +16,3 @@ void GET_ENTITY_MATRIX(Entity entity,Vector3* rightVector,Vector3* forwardVector
 * **forwardVector**:
 * **upVector**:
 * **position**:
-
-
-

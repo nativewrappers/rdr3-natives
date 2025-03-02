@@ -16,4 +16,3 @@ Getter for FREEZE_ENTITY_POSITION
 * **entity**:
 
 ## Return value
-

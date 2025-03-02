@@ -12,6 +12,3 @@ void _DATABINDING_CLEAR_BINDING_ARRAY(Hash entryId);
 
 ## Parameters
 * **entryId**:
-
-
-

@@ -17,6 +17,3 @@ void _UI_PROMPT_SET_MASH_MANUAL_MODE(Prompt prompt,float p1,float p2,float p3,An
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

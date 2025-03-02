@@ -14,6 +14,3 @@ Sets whether all random peds will run away from player if they are agitated (thr
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

@@ -16,4 +16,3 @@ Any _IS_SCENARIO_POINT_FLAG_SET(int scenario,int flag);
 * **flag**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any SHOULD_WEAPON_BE_DISCARDED_WHEN_SWAPPED(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

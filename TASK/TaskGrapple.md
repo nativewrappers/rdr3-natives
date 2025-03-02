@@ -21,4 +21,3 @@ grappleStyle: AR_GRAPPLE_MOUNT_STANDING_FROM_FRONT, AR_GRAPPLE_MOUNT_STANDING_FR
 * **p6**:
 
 ## Return value
-

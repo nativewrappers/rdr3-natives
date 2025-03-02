@@ -14,6 +14,3 @@ void SET_ENTITY_IS_TARGET_PRIORITY(Entity entity,BOOL p1,float p2);
 * **entity**:
 * **p1**:
 * **p2**:
-
-
-

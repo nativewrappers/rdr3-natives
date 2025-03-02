@@ -16,4 +16,3 @@ Player GET_NEAREST_PLAYER_TO_ENTITY(Entity entity,Ped playerPedToIgnore,int flag
 * **flags**:
 
 ## Return value
-

@@ -17,6 +17,3 @@ void _SET_PED_USE_TRANSPORT_SEAT_PREFERENCE(Ped ped,Entity transportEntity,int p
 * **preferenceSlot**:
 * **p3**:
 * **seatIndex**:
-
-
-

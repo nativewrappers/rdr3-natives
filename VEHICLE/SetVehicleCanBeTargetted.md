@@ -13,6 +13,3 @@ void SET_VEHICLE_CAN_BE_TARGETTED(Vehicle vehicle,BOOL state);
 ## Parameters
 * **vehicle**:
 * **state**:
-
-
-

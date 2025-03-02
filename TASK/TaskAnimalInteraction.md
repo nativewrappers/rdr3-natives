@@ -17,6 +17,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/tasks/TASK_ANIMAL_INTERACT
 * **interactionType**:
 * **interactionModel**:
 * **skipIdleAnimationClip**:
-
-
-

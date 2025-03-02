@@ -13,6 +13,3 @@ void _SET_DISPATCH_MULTIPLIER_OVERRIDE(float multiplier);
 
 ## Parameters
 * **multiplier**:
-
-
-

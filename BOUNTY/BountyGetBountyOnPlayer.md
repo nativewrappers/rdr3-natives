@@ -16,4 +16,3 @@ Any BOUNTY_GET_BOUNTY_ON_PLAYER(Any* gamerHandle,Any* bountyData);
 * **bountyData**:
 
 ## Return value
-

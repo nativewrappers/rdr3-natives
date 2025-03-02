@@ -15,4 +15,3 @@ Hash WEEKLY_COLLECTIBLE_GET_ITEM_SET_BUY_AWARD(Hash chalHash,int index);
 * **index**:
 
 ## Return value
-

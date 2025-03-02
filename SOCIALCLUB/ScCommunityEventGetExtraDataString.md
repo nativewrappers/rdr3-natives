@@ -16,4 +16,3 @@ Any SC_COMMUNITY_EVENT_GET_EXTRA_DATA_STRING(const char* p0,char* p1);
 * **p1**:
 
 ## Return value
-

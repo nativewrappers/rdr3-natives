@@ -15,6 +15,3 @@ void _SET_SPECIAL_ABILITY_ACTIVATION_COST(Player player,float activationCost,int
 * **player**:
 * **activationCost**:
 * **p2**:
-
-
-

@@ -13,6 +13,3 @@ void SET_SCRIPTED_CAMERA_IS_FIRST_PERSON_THIS_FRAME(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

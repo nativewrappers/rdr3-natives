@@ -15,4 +15,3 @@ BOOL _NETWORK_IS_FRIEND_HANDLE_IN_SAME_TITLE(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

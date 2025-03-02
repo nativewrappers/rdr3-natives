@@ -14,6 +14,3 @@ void _COLLECTABLE_INCREMENT_NUM_TURNED_IN(Hash collectableItem,int amount);
 ## Parameters
 * **collectableItem**:
 * **amount**:
-
-
-

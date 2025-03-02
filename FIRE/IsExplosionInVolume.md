@@ -17,4 +17,3 @@ explosionType: see ADD_EXPLOSION
 * **volume**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Retrieves whether all trails are currently hidden during Eagle Eye mode for the 
 * **player**:
 
 ## Return value
-

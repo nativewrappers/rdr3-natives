@@ -17,4 +17,3 @@ Returns category hash that each ped component has. Hash examples: MASKS, HATS, H
 * **index**:
 
 ## Return value
-

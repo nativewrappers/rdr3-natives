@@ -15,6 +15,3 @@ _SET_P* - _SET_S*
 
 ## Parameters
 * **p0**:
-
-
-

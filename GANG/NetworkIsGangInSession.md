@@ -15,4 +15,3 @@ Any NETWORK_IS_GANG_IN_SESSION(Any gangId);
 * **gangId**:
 
 ## Return value
-

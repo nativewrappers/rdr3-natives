@@ -15,6 +15,3 @@ Hashes: VOFX_PLAYER_MALE01, VOFX_PLAYER_MALE02, VOFX_PLAYER_MALE03, VOFX_PLAYER_
 ## Parameters
 * **ped**:
 * **voice**:
-
-
-

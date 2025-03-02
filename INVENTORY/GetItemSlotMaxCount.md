@@ -16,4 +16,3 @@ int _GET_ITEM_SLOT_MAX_COUNT(Hash provision,Hash slotId);
 * **slotId**:
 
 ## Return value
-

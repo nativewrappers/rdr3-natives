@@ -15,4 +15,3 @@ Any GET_IS_ANIMAL(Entity entity);
 * **entity**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void GET_INTERIOR_LOCATION_AND_NAMEHASH(Interior interior,Vector3* position,Hash
 * **interior**:
 * **position**:
 * **nameHash**:
-
-
-

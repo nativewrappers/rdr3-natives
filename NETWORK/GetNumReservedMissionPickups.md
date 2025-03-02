@@ -15,4 +15,3 @@ int _GET_NUM_RESERVED_MISSION_PICKUPS(BOOL p0);
 * **p0**:
 
 ## Return value
-

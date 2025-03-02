@@ -12,6 +12,3 @@ void ANIMPOSTFX_STOP(const char* effectName);
 
 ## Parameters
 * **effectName**:
-
-
-

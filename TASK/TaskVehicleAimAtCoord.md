@@ -15,6 +15,3 @@ void TASK_VEHICLE_AIM_AT_COORD(Ped ped,float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

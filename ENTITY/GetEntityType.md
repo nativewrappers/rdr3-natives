@@ -15,4 +15,3 @@ Returns entityType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/
 * **entity**:
 
 ## Return value
-

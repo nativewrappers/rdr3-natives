@@ -12,4 +12,3 @@ BOOL NETWORK_CLAN_SERVICE_IS_VALID();
 
 
 ## Return value
-

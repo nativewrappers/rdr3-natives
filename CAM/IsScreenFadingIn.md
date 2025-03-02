@@ -12,4 +12,3 @@ BOOL IS_SCREEN_FADING_IN();
 
 
 ## Return value
-

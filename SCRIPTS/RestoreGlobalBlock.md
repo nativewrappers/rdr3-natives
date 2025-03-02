@@ -15,4 +15,3 @@ Any _RESTORE_GLOBAL_BLOCK(int index);
 * **index**:
 
 ## Return value
-

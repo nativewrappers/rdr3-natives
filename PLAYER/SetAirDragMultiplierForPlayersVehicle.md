@@ -14,6 +14,3 @@ This can be between 1.0f - 50.0f
 ## Parameters
 * **player**:
 * **multiplier**:
-
-
-

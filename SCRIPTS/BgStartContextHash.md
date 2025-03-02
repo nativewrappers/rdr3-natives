@@ -13,6 +13,3 @@ Hashed version of BG_START_CONTEXT
 
 ## Parameters
 * **contextHash**:
-
-
-

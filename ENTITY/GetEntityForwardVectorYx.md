@@ -16,4 +16,3 @@ Gets the entity's forward vector in YX(Z) eulers. Similar to GET_ENTITY_FORWARD_
 * **entity**:
 
 ## Return value
-

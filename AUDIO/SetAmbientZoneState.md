@@ -14,6 +14,3 @@ void SET_AMBIENT_ZONE_STATE(const char* zoneName,BOOL isEnabled,BOOL p2);
 * **zoneName**:
 * **isEnabled**:
 * **p2**:
-
-
-

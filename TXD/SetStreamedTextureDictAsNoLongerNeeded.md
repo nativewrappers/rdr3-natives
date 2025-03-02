@@ -12,6 +12,3 @@ void SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED(const char* textureDict);
 
 ## Parameters
 * **textureDict**:
-
-
-

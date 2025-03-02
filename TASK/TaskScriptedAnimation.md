@@ -13,6 +13,3 @@ void TASK_SCRIPTED_ANIMATION(Ped ped,Any* args);
 ## Parameters
 * **ped**:
 * **args**:
-
-
-

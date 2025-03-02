@@ -15,4 +15,3 @@ Any _DOES_COVER_POINT_EXIST(ScrHandle handle);
 * **handle**:
 
 ## Return value
-

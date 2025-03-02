@@ -15,6 +15,3 @@ Found icons: SPEAKER, THROPY
 ## Parameters
 * **gamerTagId**:
 * **icon**:
-
-
-

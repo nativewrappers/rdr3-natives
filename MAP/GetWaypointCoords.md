@@ -12,4 +12,3 @@ Vector3 _GET_WAYPOINT_COORDS();
 
 
 ## Return value
-

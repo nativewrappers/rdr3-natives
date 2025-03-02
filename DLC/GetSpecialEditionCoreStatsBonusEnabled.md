@@ -13,4 +13,3 @@ Any _GET_SPECIAL_EDITION_CORE_STATS_BONUS_ENABLED();
 
 
 ## Return value
-

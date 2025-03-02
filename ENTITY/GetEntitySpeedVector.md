@@ -15,4 +15,3 @@ Vector3 GET_ENTITY_SPEED_VECTOR(Entity entity,BOOL relative);
 * **relative**:
 
 ## Return value
-

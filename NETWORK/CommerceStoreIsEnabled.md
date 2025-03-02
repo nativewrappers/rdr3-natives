@@ -12,4 +12,3 @@ BOOL _COMMERCE_STORE_IS_ENABLED();
 
 
 ## Return value
-

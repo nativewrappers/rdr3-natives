@@ -15,4 +15,3 @@ Any DOES_SCENARIO_POINT_EXIST(int scenario);
 * **scenario**:
 
 ## Return value
-

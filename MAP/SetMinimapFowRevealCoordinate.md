@@ -17,6 +17,3 @@ Up to eight coordinates may be revealed per frame
 * **y**:
 * **z**:
 * **p3**:
-
-
-

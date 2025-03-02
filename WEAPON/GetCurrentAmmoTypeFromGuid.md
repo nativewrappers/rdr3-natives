@@ -17,4 +17,3 @@ Returns ammoHash
 * **weaponGuid**:
 
 ## Return value
-

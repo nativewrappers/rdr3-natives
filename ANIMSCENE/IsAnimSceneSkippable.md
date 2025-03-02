@@ -15,4 +15,3 @@ Any _IS_ANIM_SCENE_SKIPPABLE(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

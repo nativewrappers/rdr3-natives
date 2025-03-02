@@ -16,4 +16,3 @@ char* DATADICT_GET_STRING(Any* objectData,const char* key);
 * **key**:
 
 ## Return value
-

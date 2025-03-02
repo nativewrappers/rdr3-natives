@@ -17,4 +17,3 @@ Any _GET_SHOP_ITEM_HAT_COMPONENT(Ped ped,int metapedType,BOOL p2);
 * **p2**:
 
 ## Return value
-

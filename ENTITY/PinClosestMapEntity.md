@@ -19,4 +19,3 @@ Any PIN_CLOSEST_MAP_ENTITY(Hash modelHash,float x,float y,float z,int flags);
 * **flags**:
 
 ## Return value
-

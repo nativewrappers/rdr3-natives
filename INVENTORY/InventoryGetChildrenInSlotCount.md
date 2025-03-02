@@ -17,4 +17,3 @@ int INVENTORY_GET_CHILDREN_IN_SLOT_COUNT(int inventoryId,Any* guid,Hash slotId);
 * **slotId**:
 
 ## Return value
-

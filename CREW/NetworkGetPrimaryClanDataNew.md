@@ -15,4 +15,3 @@ BOOL NETWORK_GET_PRIMARY_CLAN_DATA_NEW(Any* p0,Any* p1);
 * **p1**:
 
 ## Return value
-

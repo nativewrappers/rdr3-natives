@@ -15,6 +15,3 @@ void _SET_EVENT_TRACKER_FOR_PED(Ped ped,const char* eventName,int p2);
 * **ped**:
 * **eventName**:
 * **p2**:
-
-
-

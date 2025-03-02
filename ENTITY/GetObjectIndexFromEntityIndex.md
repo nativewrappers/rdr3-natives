@@ -15,4 +15,3 @@ Simply returns whatever is passed to it (Regardless of whether the handle is val
 * **entity**:
 
 ## Return value
-

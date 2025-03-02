@@ -12,6 +12,3 @@ void RESUME_ANIM_SCENE_FROM_LAST_CHECKPOINT(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

@@ -15,4 +15,3 @@ Returns the Player associated to a given Ped when in an online session.
 * **ped**:
 
 ## Return value
-

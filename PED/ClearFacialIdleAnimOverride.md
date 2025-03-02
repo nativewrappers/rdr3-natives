@@ -12,6 +12,3 @@ void CLEAR_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

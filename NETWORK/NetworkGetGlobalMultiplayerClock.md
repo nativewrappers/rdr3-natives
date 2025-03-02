@@ -14,6 +14,3 @@ void NETWORK_GET_GLOBAL_MULTIPLAYER_CLOCK(int* hours,int* minutes,int* seconds);
 * **hours**:
 * **minutes**:
 * **seconds**:
-
-
-

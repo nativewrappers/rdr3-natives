@@ -19,6 +19,3 @@ void TASK_COMBAT_ANIMAL_CHARGE_PED(Ped ped,Ped targetPed,BOOL p2,Any p3,Any p4,A
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

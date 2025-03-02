@@ -18,4 +18,3 @@ flag: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ItemDatab
 * **flag**:
 
 ## Return value
-

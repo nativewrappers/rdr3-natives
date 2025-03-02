@@ -13,6 +13,3 @@ void RESTORE_PLAYER_STAMINA(Player player,float p1);
 ## Parameters
 * **player**:
 * **p1**:
-
-
-

@@ -15,4 +15,3 @@ Any _NETWORK_SESSION_CANCEL_REQUEST(Any* sessionRequestId);
 * **sessionRequestId**:
 
 ## Return value
-

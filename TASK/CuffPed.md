@@ -13,6 +13,3 @@ void _CUFF_PED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

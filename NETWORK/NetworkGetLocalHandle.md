@@ -12,6 +12,3 @@ void NETWORK_GET_LOCAL_HANDLE(Any* gamerHandle);
 
 ## Parameters
 * **gamerHandle**:
-
-
-

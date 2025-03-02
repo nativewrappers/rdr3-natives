@@ -15,4 +15,3 @@ Returns the heading of the entity in degrees. Also know as the "Yaw" of an entit
 * **entity**:
 
 ## Return value
-

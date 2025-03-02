@@ -12,6 +12,3 @@ void DETACH_ANIM_SCENE_PRESERVING_LOCATION(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

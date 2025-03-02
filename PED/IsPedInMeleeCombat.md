@@ -22,4 +22,3 @@ You don't have to be holding the melee-targeting button to be in this stance; yo
 * **ped**:
 
 ## Return value
-

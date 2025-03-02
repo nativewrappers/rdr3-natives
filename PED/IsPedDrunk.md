@@ -15,4 +15,3 @@ Any _IS_PED_DRUNK(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -24,4 +24,3 @@ Creates metaped from ped outfit requestId. See _REQUEST_METAPED_OUTFIT
 * **p8**:
 
 ## Return value
-

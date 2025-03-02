@@ -15,4 +15,3 @@ Any _GET_PED_IS_IGNORING_DEAD_BODIES(Ped ped);
 * **ped**:
 
 ## Return value
-

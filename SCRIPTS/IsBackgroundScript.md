@@ -15,4 +15,3 @@ Any _IS_BACKGROUND_SCRIPT(int threadId);
 * **threadId**:
 
 ## Return value
-

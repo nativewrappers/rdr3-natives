@@ -18,4 +18,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/doorHashes/doorhashes.lua
 * **p1**:
 
 ## Return value
-

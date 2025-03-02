@@ -13,6 +13,3 @@ void _SET_LAUNCH_PARAM_STRING(const char* params);
 
 ## Parameters
 * **params**:
-
-
-

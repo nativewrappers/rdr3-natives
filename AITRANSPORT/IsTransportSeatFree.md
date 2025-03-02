@@ -17,4 +17,3 @@ Called together with IS_VEHICLE_SEAT_FREE
 * **seatIndex**:
 
 ## Return value
-

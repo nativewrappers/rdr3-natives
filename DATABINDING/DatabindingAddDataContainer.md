@@ -16,4 +16,3 @@ Returns entryId Hash
 * **p1**:
 
 ## Return value
-

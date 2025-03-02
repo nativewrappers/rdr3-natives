@@ -21,4 +21,3 @@ BOOL GET_NTH_CLOSEST_VEHICLE_NODE(float x,float y,float z,int nthClosest,Vector3
 * **unknown3**:
 
 ## Return value
-

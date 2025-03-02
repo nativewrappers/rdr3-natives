@@ -15,6 +15,3 @@ motionStateHash: see FORCE_PED_MOTION_STATE
 * **ped**:
 * **motionStateHash**:
 * **p2**:
-
-
-

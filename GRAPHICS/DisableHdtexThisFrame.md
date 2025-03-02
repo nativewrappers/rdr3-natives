@@ -9,8 +9,3 @@ apiset: client
 // 0x98A7CD5EA379A854
 void DISABLE_HDTEX_THIS_FRAME();
 ```
-
-
-
-
-

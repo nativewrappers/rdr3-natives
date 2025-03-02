@@ -21,6 +21,3 @@ Cloth type for mp_male from 0 - 109, 0 - 95 for mp_female
 * **component**:
 * **p2**:
 * **p3**:
-
-
-

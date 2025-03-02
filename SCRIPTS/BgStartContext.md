@@ -13,6 +13,3 @@ Inserts the given context into the background scripts context map.
 
 ## Parameters
 * **contextName**:
-
-
-

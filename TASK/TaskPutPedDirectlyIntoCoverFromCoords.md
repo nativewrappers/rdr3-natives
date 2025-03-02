@@ -30,6 +30,3 @@ void _TASK_PUT_PED_DIRECTLY_INTO_COVER_FROM_COORDS(Ped ped,float x,float y,float
 * **p15**:
 * **p16**:
 * **p17**:
-
-
-

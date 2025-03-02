@@ -15,4 +15,3 @@ BOOL ARE_STRINGS_EQUAL(const char* string1,const char* string2);
 * **string2**:
 
 ## Return value
-

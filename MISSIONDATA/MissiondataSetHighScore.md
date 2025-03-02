@@ -13,6 +13,3 @@ void MISSIONDATA_SET_HIGH_SCORE(Hash missionId,int score);
 ## Parameters
 * **missionId**:
 * **score**:
-
-
-

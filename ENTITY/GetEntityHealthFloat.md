@@ -16,4 +16,3 @@ Returns (CUR_HEALTH / MAX_HEALTH)
 * **entity**:
 
 ## Return value
-

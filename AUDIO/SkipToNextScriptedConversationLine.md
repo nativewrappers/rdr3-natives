@@ -12,6 +12,3 @@ void SKIP_TO_NEXT_SCRIPTED_CONVERSATION_LINE(const char* p0);
 
 ## Parameters
 * **p0**:
-
-
-

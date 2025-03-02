@@ -12,6 +12,3 @@ void STOP_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

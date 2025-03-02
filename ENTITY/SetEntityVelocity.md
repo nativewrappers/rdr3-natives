@@ -16,6 +16,3 @@ Note that the third parameter(denoted as z) is "up and down" with positive numbe
 * **x**:
 * **y**:
 * **z**:
-
-
-

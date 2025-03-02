@@ -13,6 +13,3 @@ void _STAT_CARRIED_SATCHEL_ITEM_FROM_PED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

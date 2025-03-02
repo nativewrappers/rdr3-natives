@@ -17,6 +17,3 @@ doorId: see SET_VEHICLE_DOOR_SHUT
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

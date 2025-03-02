@@ -16,4 +16,3 @@ _IS_ANY_* - _IS_CONTROL_*
 * **ped**:
 
 ## Return value
-

@@ -12,4 +12,3 @@ BOOL IS_HUD_HIDDEN();
 
 
 ## Return value
-

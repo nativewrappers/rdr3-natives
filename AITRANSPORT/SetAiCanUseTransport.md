@@ -14,6 +14,3 @@ void _SET_AI_CAN_USE_TRANSPORT(Entity transportEntity,BOOL state);
 ## Parameters
 * **transportEntity**:
 * **state**:
-
-
-

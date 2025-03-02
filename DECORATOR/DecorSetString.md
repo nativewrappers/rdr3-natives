@@ -17,4 +17,3 @@ BOOL DECOR_SET_STRING(Entity entity,const char* propertyName,const char* value);
 * **value**:
 
 ## Return value
-

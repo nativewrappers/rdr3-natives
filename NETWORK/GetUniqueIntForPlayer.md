@@ -14,4 +14,3 @@ int GET_UNIQUE_INT_FOR_PLAYER(Player player);
 * **player**:
 
 ## Return value
-

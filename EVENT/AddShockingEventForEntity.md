@@ -26,4 +26,3 @@ eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt
 * **p11**:
 
 ## Return value
-

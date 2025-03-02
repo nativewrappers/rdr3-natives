@@ -15,6 +15,3 @@ Seems to enable active horse equipment prompt when being near it and enables the
 ## Parameters
 * **player**:
 * **mount**:
-
-
-

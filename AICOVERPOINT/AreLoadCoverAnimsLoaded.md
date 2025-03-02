@@ -15,4 +15,3 @@ Any _ARE_LOAD_COVER_ANIMS_LOADED(Ped ped);
 * **ped**:
 
 ## Return value
-

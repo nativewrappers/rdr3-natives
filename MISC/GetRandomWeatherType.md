@@ -13,4 +13,3 @@ Hash _GET_RANDOM_WEATHER_TYPE();
 
 
 ## Return value
-

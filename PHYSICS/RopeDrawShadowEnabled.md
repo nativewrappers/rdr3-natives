@@ -13,6 +13,3 @@ void ROPE_DRAW_SHADOW_ENABLED(int* ropeId,BOOL toggle);
 ## Parameters
 * **ropeId**:
 * **toggle**:
-
-
-

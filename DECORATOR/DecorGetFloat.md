@@ -15,4 +15,3 @@ float DECOR_GET_FLOAT(Entity entity,const char* propertyName);
 * **propertyName**:
 
 ## Return value
-

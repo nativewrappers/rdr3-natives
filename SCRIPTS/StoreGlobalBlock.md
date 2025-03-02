@@ -15,4 +15,3 @@ Any _STORE_GLOBAL_BLOCK(int index);
 * **index**:
 
 ## Return value
-

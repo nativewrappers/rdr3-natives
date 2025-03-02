@@ -15,6 +15,3 @@ Old name: _SET_ENTITY_DECALS_DISABLED
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

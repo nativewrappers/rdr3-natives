@@ -15,6 +15,3 @@ Applies a aura effect to nearby entities when Deadeye is active, based on a flag
 ## Parameters
 * **player**:
 * **flag**:
-
-
-

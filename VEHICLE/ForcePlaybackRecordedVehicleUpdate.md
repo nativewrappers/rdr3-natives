@@ -15,6 +15,3 @@ Often called after START_PLAYBACK_RECORDED_VEHICLE and SKIP_TIME_IN_PLAYBACK_REC
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

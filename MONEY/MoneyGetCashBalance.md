@@ -12,4 +12,3 @@ int _MONEY_GET_CASH_BALANCE();
 
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _REMOVE_WEAPON_FROM_PED_BY_GUID(Ped ped,Any* weaponGuid,Hash removeReason);
 * **ped**:
 * **weaponGuid**:
 * **removeReason**:
-
-
-

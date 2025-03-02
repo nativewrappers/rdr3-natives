@@ -15,4 +15,3 @@ BOOL _SPACTIONPROXY_PROCESS_ACTION(Any p0,BOOL p1);
 * **p1**:
 
 ## Return value
-

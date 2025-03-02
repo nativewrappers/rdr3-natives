@@ -15,6 +15,3 @@ void _DELETE_PROP_SET(PropSet propSet,BOOL p1,BOOL p2);
 * **propSet**:
 * **p1**:
 * **p2**:
-
-
-

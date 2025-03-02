@@ -15,4 +15,3 @@ Returns whether the weapon has multiple ammo types or not.
 * **weaponHash**:
 
 ## Return value
-

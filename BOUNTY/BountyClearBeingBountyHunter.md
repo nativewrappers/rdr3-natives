@@ -9,8 +9,3 @@ apiset: client
 // 0xA59D1997ECD99F0A
 void _BOUNTY_CLEAR_BEING_BOUNTY_HUNTER();
 ```
-
-
-
-
-

@@ -15,4 +15,3 @@ Any _DATABINDING_GET_ARRAY_COUNT(Hash entryId);
 * **entryId**:
 
 ## Return value
-

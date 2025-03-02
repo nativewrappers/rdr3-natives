@@ -13,4 +13,3 @@ Does exactly the same thing as PLAYER_ID()
 
 
 ## Return value
-

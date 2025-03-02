@@ -19,6 +19,3 @@ timeout: The time, in milliseconds, to allow the task to complete. If the task t
 * **ped**:
 * **heading**:
 * **timeout**:
-
-
-

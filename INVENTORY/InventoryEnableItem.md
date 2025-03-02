@@ -14,6 +14,3 @@ void _INVENTORY_ENABLE_ITEM(int inventoryId,Hash item);
 ## Parameters
 * **inventoryId**:
 * **item**:
-
-
-

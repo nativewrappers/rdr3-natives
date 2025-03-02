@@ -15,6 +15,3 @@ Maximum possible speed is 30.0 (108 km/h)
 ## Parameters
 * **train**:
 * **speed**:
-
-
-

@@ -15,6 +15,3 @@ Sets object as not jumpable by horse.
 ## Parameters
 * **object**:
 * **p1**:
-
-
-

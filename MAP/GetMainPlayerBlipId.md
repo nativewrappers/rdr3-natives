@@ -12,4 +12,3 @@ Blip GET_MAIN_PLAYER_BLIP_ID();
 
 
 ## Return value
-

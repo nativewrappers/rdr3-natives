@@ -9,8 +9,3 @@ apiset: client
 // 0x2E399EAFBEEA74D5
 void _STOP_ALL_SCRIPTED_AUDIO_SOUNDS();
 ```
-
-
-
-
-

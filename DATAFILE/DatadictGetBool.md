@@ -16,4 +16,3 @@ BOOL DATADICT_GET_BOOL(Any* objectData,const char* key);
 * **key**:
 
 ## Return value
-

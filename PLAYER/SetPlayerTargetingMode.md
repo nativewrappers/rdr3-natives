@@ -21,6 +21,3 @@ enum eTargetingMode
 
 ## Parameters
 * **targetMode**:
-
-
-

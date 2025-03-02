@@ -14,6 +14,3 @@ void ATTACH_ANIM_SCENE_TO_ENTITY_PRESERVING_LOCATION(AnimScene animScene,Entity 
 * **animScene**:
 * **entity**:
 * **p2**:
-
-
-

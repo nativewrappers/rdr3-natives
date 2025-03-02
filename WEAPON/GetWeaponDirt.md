@@ -15,4 +15,3 @@ float _GET_WEAPON_DIRT(Object weaponObject);
 * **weaponObject**:
 
 ## Return value
-

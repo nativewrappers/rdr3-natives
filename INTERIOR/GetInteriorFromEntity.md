@@ -15,4 +15,3 @@ Returns the handle of the interior that the entity is in. Returns 0 if outside.
 * **entity**:
 
 ## Return value
-

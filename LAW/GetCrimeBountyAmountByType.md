@@ -16,4 +16,3 @@ Returns bounty (increment) value
 * **crimeType**:
 
 ## Return value
-

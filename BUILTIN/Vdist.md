@@ -21,4 +21,3 @@ The value returned will be in meters.
 * **z2**:
 
 ## Return value
-

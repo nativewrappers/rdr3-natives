@@ -26,4 +26,3 @@ Returns result of session request:
 * **p1**:
 
 ## Return value
-

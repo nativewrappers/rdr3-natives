@@ -13,6 +13,3 @@ void _TASK_CLIMB_2(Ped ped,float heading);
 ## Parameters
 * **ped**:
 * **heading**:
-
-
-

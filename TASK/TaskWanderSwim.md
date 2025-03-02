@@ -13,6 +13,3 @@ void TASK_WANDER_SWIM(Ped ped,Any p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

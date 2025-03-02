@@ -14,6 +14,3 @@ Makes the vehicle accept no passengers.
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

@@ -16,4 +16,3 @@ int _COLLECTABLE_CATEGORY_GET_NUM_TURNED_IN(Hash collectableCategory,Hash collec
 * **collectableSubcategory**:
 
 ## Return value
-

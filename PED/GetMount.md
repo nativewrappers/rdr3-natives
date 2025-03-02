@@ -14,4 +14,3 @@ Ped GET_MOUNT(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any NETWORK_IS_FEATURE_SUPPORTED(int featureId);
 * **featureId**:
 
 ## Return value
-

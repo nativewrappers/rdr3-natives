@@ -13,6 +13,3 @@ void STAT_BOUNTY_CAPTURED(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

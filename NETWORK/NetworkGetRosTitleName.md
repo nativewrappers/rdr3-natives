@@ -14,4 +14,3 @@ Returns CGameConfig->ConfigOnlineServices->RosTitleName (see gameconfig.xml)
 
 
 ## Return value
-

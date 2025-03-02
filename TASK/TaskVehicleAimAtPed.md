@@ -13,6 +13,3 @@ void TASK_VEHICLE_AIM_AT_PED(Ped ped,Ped target);
 ## Parameters
 * **ped**:
 * **target**:
-
-
-

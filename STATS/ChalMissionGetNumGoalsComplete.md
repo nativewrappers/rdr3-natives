@@ -14,4 +14,3 @@ int CHAL_MISSION_GET_NUM_GOALS_COMPLETE(Hash missionHash);
 * **missionHash**:
 
 ## Return value
-

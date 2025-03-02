@@ -15,4 +15,3 @@ int _GET_NUM_MARKED_DEADEYE_TARGETS(Player player);
 * **player**:
 
 ## Return value
-

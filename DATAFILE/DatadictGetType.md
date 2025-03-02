@@ -24,4 +24,3 @@ Types:
 * **key**:
 
 ## Return value
-

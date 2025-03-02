@@ -12,6 +12,3 @@ void RESET_WANTED_LEVEL_DIFFICULTY(Player player);
 
 ## Parameters
 * **player**:
-
-
-

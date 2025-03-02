@@ -16,4 +16,3 @@ char* _REQUEST_PEDSHOT_TEXTURE_MULTIPLAYER_DOWNLOAD(Any* gamerHandle,int p1);
 * **p1**:
 
 ## Return value
-

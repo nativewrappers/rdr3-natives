@@ -16,4 +16,3 @@ BOOL _ITEMDATABASE_GET_AWARD_ACQUIRE_COST(Hash award,int index,Any* outData);
 * **outData**:
 
 ## Return value
-

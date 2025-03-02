@@ -16,4 +16,3 @@ Any _UGC_QUERY_GET_PUBLISHED(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

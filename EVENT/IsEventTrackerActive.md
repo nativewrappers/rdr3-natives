@@ -16,4 +16,3 @@ BOOL _IS_EVENT_TRACKER_ACTIVE(const char* eventName,Hash shockingEvent);
 * **shockingEvent**:
 
 ## Return value
-

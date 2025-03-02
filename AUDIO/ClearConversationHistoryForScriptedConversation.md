@@ -13,6 +13,3 @@ void _CLEAR_CONVERSATION_HISTORY_FOR_SCRIPTED_CONVERSATION(const char* convoRoot
 
 ## Parameters
 * **convoRoot**:
-
-
-

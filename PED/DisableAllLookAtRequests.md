@@ -13,6 +13,3 @@ void _DISABLE_ALL_LOOK_AT_REQUESTS(Ped ped,int p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

@@ -15,4 +15,3 @@ Entity _GET_TRANSPORT_PED_IS_SEATED_ON(Ped ped);
 * **ped**:
 
 ## Return value
-

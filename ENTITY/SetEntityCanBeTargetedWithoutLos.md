@@ -14,6 +14,3 @@ Sets whether the entity can be targeted without being in line-of-sight.
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

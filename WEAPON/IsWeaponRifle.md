@@ -15,4 +15,3 @@ Any IS_WEAPON_RIFLE(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

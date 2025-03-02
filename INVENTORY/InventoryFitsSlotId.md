@@ -16,4 +16,3 @@ Any _INVENTORY_FITS_SLOT_ID(Hash item,Hash slotId);
 * **slotId**:
 
 ## Return value
-

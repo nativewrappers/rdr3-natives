@@ -13,4 +13,3 @@ Any PEDSHOT_IS_AVAILABLE();
 
 
 ## Return value
-

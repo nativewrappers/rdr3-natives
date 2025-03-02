@@ -15,4 +15,3 @@ Checks if the player can focus on tracks while in Eagle Eye mode. Returns true i
 * **player**:
 
 ## Return value
-

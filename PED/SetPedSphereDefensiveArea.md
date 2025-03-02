@@ -19,6 +19,3 @@ void SET_PED_SPHERE_DEFENSIVE_AREA(Ped ped,float x,float y,float z,float radius,
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

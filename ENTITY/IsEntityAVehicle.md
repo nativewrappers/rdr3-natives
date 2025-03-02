@@ -14,4 +14,3 @@ BOOL IS_ENTITY_A_VEHICLE(Entity entity);
 * **entity**:
 
 ## Return value
-

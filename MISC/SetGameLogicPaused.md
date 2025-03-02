@@ -10,7 +10,3 @@ void _SET_GAME_LOGIC_PAUSED();
 ```
 
 Note: this native was added in build 1232.56
-
-
-
-

@@ -14,6 +14,3 @@ It's unclear what exactly this does, but I assume it marks the blip as "no longe
 
 ## Parameters
 * **blip**:
-
-
-

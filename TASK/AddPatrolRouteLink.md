@@ -13,6 +13,3 @@ void ADD_PATROL_ROUTE_LINK(int node1,int node2);
 ## Parameters
 * **node1**:
 * **node2**:
-
-
-

@@ -15,6 +15,3 @@ Sets the player's team.
 * **player**:
 * **team**:
 * **bRestrictToThisScript**:
-
-
-

@@ -15,4 +15,3 @@ Any _IS_ANY_CONVERSATION_PLAYING(BOOL p0);
 * **p0**:
 
 ## Return value
-

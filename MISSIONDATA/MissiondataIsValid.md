@@ -15,4 +15,3 @@ Any MISSIONDATA_IS_VALID(Any p0);
 * **p0**:
 
 ## Return value
-

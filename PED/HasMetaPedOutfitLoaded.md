@@ -15,4 +15,3 @@ Any _HAS_META_PED_OUTFIT_LOADED(int requestId);
 * **requestId**:
 
 ## Return value
-

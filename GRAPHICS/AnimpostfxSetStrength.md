@@ -15,6 +15,3 @@ must be called after ANIMPOSTFX_PLAY, strength 0.0f - 1.0f
 ## Parameters
 * **effectName**:
 * **strength**:
-
-
-

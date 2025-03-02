@@ -15,4 +15,3 @@ BOOL GET_PLAYER_TARGET_ENTITY(Player player,Entity* entity);
 * **entity**:
 
 ## Return value
-

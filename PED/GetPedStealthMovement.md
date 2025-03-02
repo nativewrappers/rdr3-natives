@@ -15,4 +15,3 @@ Returns whether the entity is in stealth mode
 * **ped**:
 
 ## Return value
-

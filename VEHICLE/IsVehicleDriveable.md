@@ -16,4 +16,3 @@ BOOL IS_VEHICLE_DRIVEABLE(Vehicle vehicle,BOOL p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

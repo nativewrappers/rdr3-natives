@@ -14,6 +14,3 @@ void START_GPS_MULTI_ROUTE(Hash colorNameHash,BOOL onFoot,BOOL inVehicle);
 * **colorNameHash**:
 * **onFoot**:
 * **inVehicle**:
-
-
-

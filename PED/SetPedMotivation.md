@@ -32,6 +32,3 @@ If targetPed is set to 0 the ped motivationState affects everyone
 * **motivationState**:
 * **threshold**:
 * **targetPed**:
-
-
-

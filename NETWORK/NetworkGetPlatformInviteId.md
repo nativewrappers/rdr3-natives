@@ -13,4 +13,3 @@ int _NETWORK_GET_PLATFORM_INVITE_ID();
 
 
 ## Return value
-

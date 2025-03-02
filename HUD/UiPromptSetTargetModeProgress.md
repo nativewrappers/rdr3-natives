@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_TARGET_MODE_PROGRESS(Prompt prompt,float progress);
 ## Parameters
 * **prompt**:
 * **progress**:
-
-
-

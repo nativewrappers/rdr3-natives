@@ -14,4 +14,3 @@ Ped _GET_PED_TRANQUILIZER(Ped ped);
 * **ped**:
 
 ## Return value
-

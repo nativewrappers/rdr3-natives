@@ -14,6 +14,3 @@ Old name: _REMOVE_IMAP_2
 
 ## Parameters
 * **iplHash**:
-
-
-

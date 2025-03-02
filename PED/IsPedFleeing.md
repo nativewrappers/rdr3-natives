@@ -14,4 +14,3 @@ BOOL IS_PED_FLEEING(Ped ped);
 * **ped**:
 
 ## Return value
-

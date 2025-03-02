@@ -15,6 +15,3 @@ Found types: GENERIC_PLAYER, DEADDROP, HOTPROPERTY, MINIGAMES
 ## Parameters
 * **gamerTagId**:
 * **type**:
-
-
-

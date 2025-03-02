@@ -15,6 +15,3 @@ void _UNREGISTER_EAGLE_EYE_TRAILS_FOR_ENTITY(Player player,Entity entity,Any p2)
 * **player**:
 * **entity**:
 * **p2**:
-
-
-

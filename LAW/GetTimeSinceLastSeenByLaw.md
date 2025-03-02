@@ -16,4 +16,3 @@ Returns the amount of time (probably in game minutes) since last seen by the law
 * **player**:
 
 ## Return value
-

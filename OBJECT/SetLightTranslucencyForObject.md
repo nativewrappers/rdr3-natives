@@ -15,6 +15,3 @@ Params: value = 0.0 - 586.67 (?)
 ## Parameters
 * **object**:
 * **value**:
-
-
-

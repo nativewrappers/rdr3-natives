@@ -13,6 +13,3 @@ void RESET_MINIMAP_FOW(Hash hash);
 
 ## Parameters
 * **hash**:
-
-
-

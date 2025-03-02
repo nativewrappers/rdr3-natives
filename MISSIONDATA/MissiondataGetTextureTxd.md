@@ -15,4 +15,3 @@ Hash MISSIONDATA_GET_TEXTURE_TXD(Hash missionId);
 * **missionId**:
 
 ## Return value
-

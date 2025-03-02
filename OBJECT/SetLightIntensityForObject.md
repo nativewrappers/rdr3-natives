@@ -14,6 +14,3 @@ void _SET_LIGHT_INTENSITY_FOR_OBJECT(Object object,float lightIntensity);
 ## Parameters
 * **object**:
 * **lightIntensity**:
-
-
-

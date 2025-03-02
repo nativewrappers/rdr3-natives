@@ -13,6 +13,3 @@ void PAUSE_CLOCK(BOOL toggle,Any unused);
 ## Parameters
 * **toggle**:
 * **unused**:
-
-
-

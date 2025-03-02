@@ -15,6 +15,3 @@ Params: p1 is always false except in script nb_egg_protector
 ## Parameters
 * **compositeId**:
 * **p1**:
-
-
-

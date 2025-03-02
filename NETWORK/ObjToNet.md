@@ -15,4 +15,3 @@ Returns the network ID of the given object.
 * **object**:
 
 ## Return value
-

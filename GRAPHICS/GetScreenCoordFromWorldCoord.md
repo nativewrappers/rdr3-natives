@@ -18,4 +18,3 @@ BOOL GET_SCREEN_COORD_FROM_WORLD_COORD(float worldX,float worldY,float worldZ,fl
 * **screenY**:
 
 ## Return value
-

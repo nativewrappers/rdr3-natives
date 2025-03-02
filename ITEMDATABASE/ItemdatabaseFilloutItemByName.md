@@ -16,4 +16,3 @@ Any ITEMDATABASE_FILLOUT_ITEM_BY_NAME(Hash key,Any* outData);
 * **outData**:
 
 ## Return value
-

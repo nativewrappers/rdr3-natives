@@ -16,4 +16,3 @@ Any _NAVMESH_ASSIGN_NAVMESH_TO_VEHICLE(Vehicle vehicle,const char* navMeshName);
 * **navMeshName**:
 
 ## Return value
-

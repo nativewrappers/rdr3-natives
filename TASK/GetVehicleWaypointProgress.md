@@ -14,4 +14,3 @@ int GET_VEHICLE_WAYPOINT_PROGRESS(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

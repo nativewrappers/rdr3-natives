@@ -15,4 +15,3 @@ Only used in net_fetch R* Script
 * **crimeType**:
 
 ## Return value
-

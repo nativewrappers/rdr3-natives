@@ -17,4 +17,3 @@ float _UGC_QUERY_GET_RATING(Any p0,int index,int p2);
 * **p2**:
 
 ## Return value
-

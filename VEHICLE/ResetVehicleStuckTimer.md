@@ -13,6 +13,3 @@ void RESET_VEHICLE_STUCK_TIMER(Vehicle vehicle,int nullAttributes);
 ## Parameters
 * **vehicle**:
 * **nullAttributes**:
-
-
-

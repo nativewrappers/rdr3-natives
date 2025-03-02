@@ -15,4 +15,3 @@ int GET_PED_NEARBY_VEHICLES(Ped ped,Any* sizeAndVehs);
 * **sizeAndVehs**:
 
 ## Return value
-

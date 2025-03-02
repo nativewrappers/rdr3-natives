@@ -13,6 +13,3 @@ void BAIL_WITH_PASS_THROUGH_PARAMS(const char* params);
 
 ## Parameters
 * **params**:
-
-
-

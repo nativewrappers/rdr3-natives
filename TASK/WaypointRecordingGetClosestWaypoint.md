@@ -18,4 +18,3 @@ BOOL WAYPOINT_RECORDING_GET_CLOSEST_WAYPOINT(const char* waypointRecording,float
 * **point**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _IS_AMMO_VALID(Hash ammoHash);
 * **ammoHash**:
 
 ## Return value
-

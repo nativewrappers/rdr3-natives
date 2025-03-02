@@ -12,6 +12,3 @@ void REMOVE_PED_FROM_GROUP(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

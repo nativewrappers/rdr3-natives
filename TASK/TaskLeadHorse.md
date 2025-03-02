@@ -13,6 +13,3 @@ void TASK_LEAD_HORSE(Ped ped,Ped horse);
 ## Parameters
 * **ped**:
 * **horse**:
-
-
-

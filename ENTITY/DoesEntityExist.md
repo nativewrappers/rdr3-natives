@@ -15,4 +15,3 @@ Checks if the Entity exists
 * **entity**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ int _NETWORK_GET_GLOBAL_ENTITY_FLAGS(Entity entity);
 * **entity**:
 
 ## Return value
-

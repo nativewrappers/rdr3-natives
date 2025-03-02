@@ -14,6 +14,3 @@ It adds the wetness level to the player clothing/outfit. As if player just got o
 ## Parameters
 * **ped**:
 * **height**:
-
-
-

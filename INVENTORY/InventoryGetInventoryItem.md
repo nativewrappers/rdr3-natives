@@ -18,4 +18,3 @@ Any INVENTORY_GET_INVENTORY_ITEM(int inventoryId,Any* inData,Any* outData,BOOL p
 * **p3**:
 
 ## Return value
-

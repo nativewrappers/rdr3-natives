@@ -14,6 +14,3 @@ Pauses all script threads except the one that called it.
 
 ## Parameters
 * **toggle**:
-
-
-

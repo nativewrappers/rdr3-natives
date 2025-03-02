@@ -13,4 +13,3 @@ Return the local Participant ID
 
 
 ## Return value
-

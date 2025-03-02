@@ -15,4 +15,3 @@ int NETWORK_REQUEST_JOIN(Any p0);
 * **p0**:
 
 ## Return value
-

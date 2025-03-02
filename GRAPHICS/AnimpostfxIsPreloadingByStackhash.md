@@ -15,4 +15,3 @@ Any ANIMPOSTFX_IS_PRELOADING_BY_STACKHASH(Hash effectNameHash);
 * **effectNameHash**:
 
 ## Return value
-

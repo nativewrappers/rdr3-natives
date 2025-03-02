@@ -16,4 +16,3 @@ BOOL _DECOR_SET_UINT8(Entity entity,const char* propertyName,int value);
 * **value**:
 
 ## Return value
-

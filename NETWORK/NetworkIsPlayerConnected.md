@@ -14,4 +14,3 @@ BOOL NETWORK_IS_PLAYER_CONNECTED(Player player);
 * **player**:
 
 ## Return value
-

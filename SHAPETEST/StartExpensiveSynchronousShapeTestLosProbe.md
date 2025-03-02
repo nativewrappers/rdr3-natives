@@ -24,4 +24,3 @@ Does the same as 0x7EE9F5D83DD4F90E, except blocking until the shape test comple
 * **p8**:
 
 ## Return value
-

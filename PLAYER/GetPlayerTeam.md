@@ -16,4 +16,3 @@ Returns -1 in singleplayer.
 * **player**:
 
 ## Return value
-

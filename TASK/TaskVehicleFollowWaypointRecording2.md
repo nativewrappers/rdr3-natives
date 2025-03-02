@@ -22,6 +22,3 @@ void _TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING_2(Any p0,Any p1,Any p2,Any p3,Any p
 * **p7**:
 * **p8**:
 * **p9**:
-
-
-

@@ -14,6 +14,3 @@ flags = 0: DEFAULT; 1: KEEP_OLD_SPEED
 ## Parameters
 * **train**:
 * **flags**:
-
-
-

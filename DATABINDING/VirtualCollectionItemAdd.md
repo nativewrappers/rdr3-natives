@@ -15,6 +15,3 @@ void _VIRTUAL_COLLECTION_ITEM_ADD(Any p0,int index,Hash p2,Any p3);
 * **index**:
 * **p2**:
 * **p3**:
-
-
-

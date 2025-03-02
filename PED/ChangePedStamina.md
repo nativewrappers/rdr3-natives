@@ -17,4 +17,3 @@ Alters entity's stamina by 'amount'. Can be negative (to drain stamina). float a
 * **amount**:
 
 ## Return value
-

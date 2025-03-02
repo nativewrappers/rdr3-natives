@@ -13,6 +13,3 @@ void _LISTEN_PROJECTILE_HIT_EVENTS(BOOL listen);
 
 ## Parameters
 * **listen**:
-
-
-

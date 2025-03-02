@@ -12,6 +12,3 @@ void NETWORK_DISABLE_PROXIMITY_MIGRATION(int netID);
 
 ## Parameters
 * **netID**:
-
-
-

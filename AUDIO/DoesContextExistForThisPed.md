@@ -18,4 +18,3 @@ Checks if the ped can play the speech or has the speech file, last parameter is 
 * **unk**:
 
 ## Return value
-

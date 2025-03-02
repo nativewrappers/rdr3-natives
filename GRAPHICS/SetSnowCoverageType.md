@@ -20,6 +20,3 @@ enum class eSnowCoverageType
 
 ## Parameters
 * **type**:
-
-
-

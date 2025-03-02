@@ -15,6 +15,3 @@ regionHash: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minim
 ## Parameters
 * **regionHash**:
 * **styleHash**:
-
-
-

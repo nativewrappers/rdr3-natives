@@ -15,4 +15,3 @@ int GET_PED_GRAPPLE_STATE(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE(Player player);
 
 ## Parameters
 * **player**:
-
-
-

@@ -15,4 +15,3 @@ Any _IS_VOLUME_LOCK_REQUEST_VALID_2(int volLockRequestId);
 * **volLockRequestId**:
 
 ## Return value
-

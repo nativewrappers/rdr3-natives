@@ -14,6 +14,3 @@ void _SET_PED_INTERACTION_NEGATIVE_RESPONSE(Ped ped,const char* speech);
 ## Parameters
 * **ped**:
 * **speech**:
-
-
-

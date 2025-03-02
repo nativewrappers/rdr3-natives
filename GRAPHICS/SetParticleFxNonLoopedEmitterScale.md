@@ -14,6 +14,3 @@ void _SET_PARTICLE_FX_NON_LOOPED_EMITTER_SCALE(float p0,float p1,float p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

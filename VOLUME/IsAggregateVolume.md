@@ -15,4 +15,3 @@ Any _IS_AGGREGATE_VOLUME(Volume volume);
 * **volume**:
 
 ## Return value
-

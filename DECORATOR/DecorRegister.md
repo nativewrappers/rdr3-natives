@@ -13,6 +13,3 @@ void DECOR_REGISTER(const char* propertyName,int type);
 ## Parameters
 * **propertyName**:
 * **type**:
-
-
-

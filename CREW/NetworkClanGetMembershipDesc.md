@@ -15,4 +15,3 @@ BOOL NETWORK_CLAN_GET_MEMBERSHIP_DESC(Any* memberDesc,int p1);
 * **p1**:
 
 ## Return value
-

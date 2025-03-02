@@ -14,4 +14,3 @@ BOOL IS_STREAM_PLAYING(int streamId);
 * **streamId**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ gets the object id of a network id
 * **netHandle**:
 
 ## Return value
-

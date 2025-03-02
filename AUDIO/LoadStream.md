@@ -15,4 +15,3 @@ BOOL LOAD_STREAM(const char* streamName,const char* soundSet);
 * **soundSet**:
 
 ## Return value
-

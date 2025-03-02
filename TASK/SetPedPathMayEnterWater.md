@@ -13,6 +13,3 @@ void SET_PED_PATH_MAY_ENTER_WATER(Ped ped,BOOL mayEnterWater);
 ## Parameters
 * **ped**:
 * **mayEnterWater**:
-
-
-

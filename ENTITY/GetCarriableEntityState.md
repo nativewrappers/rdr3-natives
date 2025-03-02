@@ -31,4 +31,3 @@ enum eCarriableState
 * **entity**:
 
 ## Return value
-

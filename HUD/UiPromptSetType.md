@@ -15,6 +15,3 @@ Params: type = mostly 0, 6 (net_mission_intro_story_gvo), 7 (fm_mission_controll
 ## Parameters
 * **prompt**:
 * **type**:
-
-
-

@@ -13,6 +13,3 @@ void SET_VEHICLE_ENGINE_CAN_DEGRADE(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

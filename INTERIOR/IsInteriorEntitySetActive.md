@@ -15,4 +15,3 @@ BOOL IS_INTERIOR_ENTITY_SET_ACTIVE(Interior interior,const char* entitySetName);
 * **entitySetName**:
 
 ## Return value
-

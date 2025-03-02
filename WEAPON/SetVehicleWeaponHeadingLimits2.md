@@ -18,4 +18,3 @@ Any _SET_VEHICLE_WEAPON_HEADING_LIMITS_2(Vehicle vehicle,int p1,float minHeading
 * **maxHeading**:
 
 ## Return value
-

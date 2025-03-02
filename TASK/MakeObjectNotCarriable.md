@@ -13,6 +13,3 @@ void MAKE_OBJECT_NOT_CARRIABLE(Object object);
 
 ## Parameters
 * **object**:
-
-
-

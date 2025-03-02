@@ -16,6 +16,3 @@ void SET_CUSTOM_TEXTURES_ON_OBJECT(Object object,Hash txdHash,Any p2,Any p3);
 * **txdHash**:
 * **p2**:
 * **p3**:
-
-
-

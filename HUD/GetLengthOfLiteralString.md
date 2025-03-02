@@ -15,4 +15,3 @@ Returns the length of the string passed (much like strlen).
 * **string**:
 
 ## Return value
-

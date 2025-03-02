@@ -13,6 +13,3 @@ void RESERVE_NETWORK_MISSION_PICKUPS(int amount);
 
 ## Parameters
 * **amount**:
-
-
-

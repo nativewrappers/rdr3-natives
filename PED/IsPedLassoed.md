@@ -15,4 +15,3 @@ Any IS_PED_LASSOED(Ped ped);
 * **ped**:
 
 ## Return value
-

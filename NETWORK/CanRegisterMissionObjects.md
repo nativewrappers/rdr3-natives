@@ -14,4 +14,3 @@ BOOL CAN_REGISTER_MISSION_OBJECTS(int amount);
 * **amount**:
 
 ## Return value
-

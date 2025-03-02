@@ -18,4 +18,3 @@ int _REQUEST_SCENARIO_TYPE(Hash scenarioType,int p1,Any p2,Any p3);
 * **p3**:
 
 ## Return value
-

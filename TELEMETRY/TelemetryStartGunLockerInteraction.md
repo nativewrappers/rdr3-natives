@@ -9,8 +9,3 @@ apiset: client
 // 0xF0D54E0651DD7E07
 void _TELEMETRY_START_GUN_LOCKER_INTERACTION();
 ```
-
-
-
-
-

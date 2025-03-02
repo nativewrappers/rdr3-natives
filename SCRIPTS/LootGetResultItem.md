@@ -17,4 +17,3 @@ Any _LOOT_GET_RESULT_ITEM(Any* rpcGuid,int itemIndex,Any* outResultItem);
 * **outResultItem**:
 
 ## Return value
-

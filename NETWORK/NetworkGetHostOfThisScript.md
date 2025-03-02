@@ -12,4 +12,3 @@ Player NETWORK_GET_HOST_OF_THIS_SCRIPT();
 
 
 ## Return value
-

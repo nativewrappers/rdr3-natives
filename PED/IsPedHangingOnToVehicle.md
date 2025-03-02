@@ -14,4 +14,3 @@ BOOL IS_PED_HANGING_ON_TO_VEHICLE(Ped ped);
 * **ped**:
 
 ## Return value
-

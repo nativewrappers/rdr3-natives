@@ -14,4 +14,3 @@ int GET_PED_TIME_OF_DEATH(Ped ped);
 * **ped**:
 
 ## Return value
-

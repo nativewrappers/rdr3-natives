@@ -12,4 +12,3 @@ int GET_NETWORK_TIME();
 
 
 ## Return value
-

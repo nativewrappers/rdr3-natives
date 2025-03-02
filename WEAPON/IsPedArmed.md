@@ -16,4 +16,3 @@ Any IS_PED_ARMED(Ped ped,int flags);
 * **flags**:
 
 ## Return value
-

@@ -18,4 +18,3 @@ Any _ITEMDATABASE_GET_SHOP_LAYOUT_MENU_INFO_BY_INDEX(Hash layout,Hash menu,int i
 * **outData**:
 
 ## Return value
-

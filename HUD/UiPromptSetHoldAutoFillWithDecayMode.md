@@ -15,6 +15,3 @@ void _UI_PROMPT_SET_HOLD_AUTO_FILL_WITH_DECAY_MODE(Prompt prompt,int autoFillTim
 * **prompt**:
 * **autoFillTimeMs**:
 * **holdTimeMs**:
-
-
-

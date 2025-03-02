@@ -13,6 +13,3 @@ void SET_PICKUP_DO_NOT_AUTO_PLACE_ON_GROUND(Object pickupObject);
 
 ## Parameters
 * **pickupObject**:
-
-
-

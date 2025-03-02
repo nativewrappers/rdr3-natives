@@ -14,4 +14,3 @@ Hash GET_WEAPON_TYPE_FROM_PICKUP_TYPE(Hash pickupHash);
 * **pickupHash**:
 
 ## Return value
-

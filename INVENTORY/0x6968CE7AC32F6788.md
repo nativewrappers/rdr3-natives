@@ -13,6 +13,3 @@ Only used in R* SP Scripts
 
 ## Parameters
 * **inventoryId**:
-
-
-

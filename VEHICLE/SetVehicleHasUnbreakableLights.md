@@ -14,6 +14,3 @@ void SET_VEHICLE_HAS_UNBREAKABLE_LIGHTS(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

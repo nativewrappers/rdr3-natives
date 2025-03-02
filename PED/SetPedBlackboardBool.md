@@ -16,6 +16,3 @@ void _SET_PED_BLACKBOARD_BOOL(Ped ped,const char* variableName,BOOL value,int re
 * **variableName**:
 * **value**:
 * **removeTimer**:
-
-
-

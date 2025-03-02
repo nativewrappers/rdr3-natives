@@ -16,4 +16,3 @@ Returns weaponObject, attachPoint: see SET_CURRENT_PED_WEAPON
 * **attachPoint**:
 
 ## Return value
-

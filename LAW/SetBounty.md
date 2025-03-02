@@ -14,6 +14,3 @@ void SET_BOUNTY(Player player,int amount);
 ## Parameters
 * **player**:
 * **amount**:
-
-
-

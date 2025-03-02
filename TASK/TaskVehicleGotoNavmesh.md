@@ -19,6 +19,3 @@ void TASK_VEHICLE_GOTO_NAVMESH(Ped ped,Vehicle vehicle,float x,float y,float z,f
 * **speed**:
 * **behaviorFlag**:
 * **stoppingRange**:
-
-
-

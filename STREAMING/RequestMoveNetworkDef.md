@@ -13,6 +13,3 @@ void REQUEST_MOVE_NETWORK_DEF(const char* name);
 
 ## Parameters
 * **name**:
-
-
-

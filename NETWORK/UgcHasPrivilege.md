@@ -14,4 +14,3 @@ Checks if the user has ROS privilege 14.
 
 
 ## Return value
-

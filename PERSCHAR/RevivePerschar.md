@@ -15,4 +15,3 @@ Any _REVIVE_PERSCHAR(PersChar persChar);
 * **persChar**:
 
 ## Return value
-

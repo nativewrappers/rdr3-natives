@@ -13,6 +13,3 @@ void SET_CAM_NEAR_CLIP(Cam cam,float nearClip);
 ## Parameters
 * **cam**:
 * **nearClip**:
-
-
-

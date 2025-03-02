@@ -14,6 +14,3 @@ Affects the range of auto aim target.
 ## Parameters
 * **player**:
 * **range**:
-
-
-

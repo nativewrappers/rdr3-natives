@@ -15,6 +15,3 @@ Params: p1 is related to satchel_category
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

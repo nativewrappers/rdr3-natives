@@ -13,6 +13,3 @@ void DISABLE_PED_INJURED_ON_GROUND_BEHAVIOUR(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

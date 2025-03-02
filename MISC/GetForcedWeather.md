@@ -15,6 +15,3 @@ Returns the weather type that has been set by a script
 ## Parameters
 * **weather**:
 * **p1**:
-
-
-

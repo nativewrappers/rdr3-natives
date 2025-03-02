@@ -14,6 +14,3 @@ void _SET_PED_TO_DISABLE_RAGDOLL(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

@@ -15,4 +15,3 @@ ANIMPOSTFX_*
 * **effectNameHash**:
 
 ## Return value
-

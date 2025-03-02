@@ -27,6 +27,3 @@ Old name: _SET_PED_FACE_FEATURE
 * **ped**:
 * **index**:
 * **value**:
-
-
-

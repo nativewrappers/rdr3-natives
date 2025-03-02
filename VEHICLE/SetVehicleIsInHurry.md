@@ -14,6 +14,3 @@ void _SET_VEHICLE_IS_IN_HURRY(Vehicle vehicle,BOOL enabled);
 ## Parameters
 * **vehicle**:
 * **enabled**:
-
-
-

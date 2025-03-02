@@ -15,4 +15,3 @@ Returns whether the specified ped is reloading.
 * **ped**:
 
 ## Return value
-

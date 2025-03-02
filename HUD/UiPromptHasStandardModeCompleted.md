@@ -17,4 +17,3 @@ Params: p1 is 0
 * **p1**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Checks if the player's Deadeye ability is enabled.
 * **player**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ void _SET_PED_WRITHING_DURATION(Ped ped,float writhingDuration1,float writhingDu
 * **writhingDuration1**:
 * **writhingDuration2**:
 * **p3**:
-
-
-

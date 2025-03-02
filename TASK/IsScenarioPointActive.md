@@ -15,4 +15,3 @@ Any _IS_SCENARIO_POINT_ACTIVE(int scenario);
 * **scenario**:
 
 ## Return value
-

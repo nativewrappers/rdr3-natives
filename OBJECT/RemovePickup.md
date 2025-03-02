@@ -12,6 +12,3 @@ void REMOVE_PICKUP(Pickup pickup);
 
 ## Parameters
 * **pickup**:
-
-
-

@@ -13,6 +13,3 @@ void _DELETE_SCENARIO_POINT(int scenario);
 
 ## Parameters
 * **scenario**:
-
-
-

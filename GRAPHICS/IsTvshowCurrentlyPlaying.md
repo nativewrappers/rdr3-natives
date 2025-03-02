@@ -16,4 +16,3 @@ Old name: _IS_TV_PLAYLIST_ITEM_PLAYING
 * **videoCliphash**:
 
 ## Return value
-

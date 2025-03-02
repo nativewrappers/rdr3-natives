@@ -21,4 +21,3 @@ enum ePedDamageCleanliness
 * **ped**:
 
 ## Return value
-

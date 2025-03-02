@@ -16,4 +16,3 @@ float _GET_PLAYER_MAX_DEAD_EYE(Player player,Any p1);
 * **p1**:
 
 ## Return value
-

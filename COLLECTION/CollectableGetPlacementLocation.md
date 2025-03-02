@@ -15,4 +15,3 @@ Vector3 _COLLECTABLE_GET_PLACEMENT_LOCATION(Hash collectableItem);
 * **collectableItem**:
 
 ## Return value
-

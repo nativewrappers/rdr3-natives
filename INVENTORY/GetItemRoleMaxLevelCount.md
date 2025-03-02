@@ -16,4 +16,3 @@ int _GET_ITEM_ROLE_MAX_LEVEL_COUNT(int inventoryId,Hash eRoleMaxLevel);
 * **eRoleMaxLevel**:
 
 ## Return value
-

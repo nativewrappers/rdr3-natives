@@ -14,4 +14,3 @@ int GET_NUM_CREATED_MISSION_VEHICLES(BOOL p0);
 * **p0**:
 
 ## Return value
-

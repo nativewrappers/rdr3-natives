@@ -16,4 +16,3 @@ Returns p1 for 0xBA958F68031DDBFC (stationIndex)
 * **train**:
 
 ## Return value
-

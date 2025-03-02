@@ -25,4 +25,3 @@ flags: see CREATE_PICKUP
 * **p10**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void VEHICLE_WAYPOINT_PLAYBACK_PAUSE(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

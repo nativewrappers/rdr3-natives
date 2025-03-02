@@ -15,4 +15,3 @@ list of carriable configs  https://gist.github.com/WesternGamer/95a1f8daf02520ca
 * **hash**:
 
 ## Return value
-

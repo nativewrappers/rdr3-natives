@@ -14,4 +14,3 @@ BOOL IS_PED_ON_MOUNT(Ped ped);
 * **ped**:
 
 ## Return value
-

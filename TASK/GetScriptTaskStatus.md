@@ -28,4 +28,3 @@ FINISHED_TASK
 * **p2**:
 
 ## Return value
-

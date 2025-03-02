@@ -17,6 +17,3 @@ entity can be a ped or weapon object.
 * **componentHash**:
 * **weaponHash**:
 * **p3**:
-
-
-

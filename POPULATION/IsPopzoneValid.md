@@ -15,4 +15,3 @@ Any _IS_POPZONE_VALID(PopZone popZone);
 * **popZone**:
 
 ## Return value
-

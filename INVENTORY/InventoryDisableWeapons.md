@@ -15,6 +15,3 @@ Params: p1 = 0
 ## Parameters
 * **inventoryId**:
 * **p1**:
-
-
-

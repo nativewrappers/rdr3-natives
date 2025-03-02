@@ -17,4 +17,3 @@ It is best to check if the Ped is dead before asking for its killer.
 * **ped**:
 
 ## Return value
-

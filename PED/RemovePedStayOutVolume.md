@@ -16,4 +16,3 @@ Any _REMOVE_PED_STAY_OUT_VOLUME(Ped ped,Volume volume);
 * **volume**:
 
 ## Return value
-

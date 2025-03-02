@@ -23,4 +23,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/animations
 * **bitset**:
 
 ## Return value
-

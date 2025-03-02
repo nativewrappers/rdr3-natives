@@ -12,6 +12,3 @@ void SET_RANDOM_TRAINS(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

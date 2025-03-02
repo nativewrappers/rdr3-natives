@@ -13,6 +13,3 @@ void DISABLE_CAM_COLLISION_FOR_OBJECT(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

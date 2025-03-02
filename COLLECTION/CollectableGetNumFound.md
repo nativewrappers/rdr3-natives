@@ -15,4 +15,3 @@ int _COLLECTABLE_GET_NUM_FOUND(Hash collectableItem);
 * **collectableItem**:
 
 ## Return value
-

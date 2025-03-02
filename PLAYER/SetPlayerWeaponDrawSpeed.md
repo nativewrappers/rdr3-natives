@@ -14,6 +14,3 @@ void _SET_PLAYER_WEAPON_DRAW_SPEED(Player player,Hash weapon,float speed);
 * **player**:
 * **weapon**:
 * **speed**:
-
-
-

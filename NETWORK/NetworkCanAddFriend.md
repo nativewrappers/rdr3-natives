@@ -16,4 +16,3 @@ On PC this returns true if gamerHandle is a valid handle.
 * **gamerHandle**:
 
 ## Return value
-

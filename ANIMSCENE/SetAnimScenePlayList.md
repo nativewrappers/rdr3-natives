@@ -15,6 +15,3 @@ void SET_ANIM_SCENE_PLAY_LIST(AnimScene animScene,const char* playlistName,BOOL 
 * **animScene**:
 * **playlistName**:
 * **p2**:
-
-
-

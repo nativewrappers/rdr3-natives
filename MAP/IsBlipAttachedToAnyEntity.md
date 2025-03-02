@@ -15,4 +15,3 @@ Any _IS_BLIP_ATTACHED_TO_ANY_ENTITY(Blip blip);
 * **blip**:
 
 ## Return value
-

@@ -18,4 +18,3 @@ Returns how deep the water is below the ped (if in water)
 * **ped**:
 
 ## Return value
-

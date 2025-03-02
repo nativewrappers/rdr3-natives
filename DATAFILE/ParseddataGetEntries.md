@@ -16,4 +16,3 @@ Returns false when there are no entries.
 * **p0**:
 
 ## Return value
-

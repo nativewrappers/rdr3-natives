@@ -12,6 +12,3 @@ void SET_AMBIENT_PED_RANGE_MULTIPLIER_THIS_FRAME(float multiplier);
 
 ## Parameters
 * **multiplier**:
-
-
-

@@ -15,4 +15,3 @@ Any _IS_CAM_DATA_DICT_LOADED(const char* cameraDictionary);
 * **cameraDictionary**:
 
 ## Return value
-

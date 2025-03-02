@@ -14,4 +14,3 @@ BOOL CAN_KNOCK_PED_OFF_VEHICLE(Ped ped);
 * **ped**:
 
 ## Return value
-

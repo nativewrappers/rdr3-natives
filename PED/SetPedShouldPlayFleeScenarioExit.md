@@ -24,4 +24,3 @@ lookIntensity:
 * **lookIntensity**:
 
 ## Return value
-

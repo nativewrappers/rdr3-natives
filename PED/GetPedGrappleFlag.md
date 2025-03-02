@@ -15,4 +15,3 @@ int _GET_PED_GRAPPLE_FLAG(Ped ped);
 * **ped**:
 
 ## Return value
-

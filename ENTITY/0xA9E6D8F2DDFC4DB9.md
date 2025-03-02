@@ -13,6 +13,3 @@ void _0xA9E6D8F2DDFC4DB9(Any p0,Any p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

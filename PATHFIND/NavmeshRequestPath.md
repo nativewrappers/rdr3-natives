@@ -25,4 +25,3 @@ Only bit flag values used in scripts are 0, 23, and 29. 23 is used with dogs and
 * **bitFlag**:
 
 ## Return value
-

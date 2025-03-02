@@ -15,4 +15,3 @@ int COUNT_PARTICIPANT_BITS(Any* value);
 * **value**:
 
 ## Return value
-

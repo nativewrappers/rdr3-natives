@@ -13,6 +13,3 @@ void FIRE_SINGLE_BULLET(Any* args);
 
 ## Parameters
 * **args**:
-
-
-

@@ -13,6 +13,3 @@ void TASK_EVERYONE_LEAVE_VEHICLE_IN_ORDER(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

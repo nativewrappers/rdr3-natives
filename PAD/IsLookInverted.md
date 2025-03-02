@@ -12,4 +12,3 @@ BOOL IS_LOOK_INVERTED();
 
 
 ## Return value
-

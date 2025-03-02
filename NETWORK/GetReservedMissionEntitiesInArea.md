@@ -24,6 +24,3 @@ Old name: _GET_RESERVATIONS_FOR_SLOT_WORLD_POSITION
 * **vehicles**:
 * **objects**:
 * **pickups**:
-
-
-

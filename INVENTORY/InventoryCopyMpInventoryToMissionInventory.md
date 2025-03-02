@@ -18,6 +18,3 @@ void INVENTORY_COPY_MP_INVENTORY_TO_MISSION_INVENTORY(BOOL p0,BOOL p1,BOOL bCopy
 * **bCopyEmotes**:
 * **bCopyHorse**:
 * **p5**:
-
-
-

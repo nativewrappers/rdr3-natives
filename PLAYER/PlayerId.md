@@ -15,4 +15,3 @@ Always returns 0 in story mode.
 
 
 ## Return value
-

@@ -15,4 +15,3 @@ float GET_COMBAT_FLOAT(Ped ped,int combatType);
 * **combatType**:
 
 ## Return value
-

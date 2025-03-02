@@ -13,6 +13,3 @@ void _SET_PHOTO_STUDIO_STAT(int p0);
 
 ## Parameters
 * **p0**:
-
-
-

@@ -14,6 +14,3 @@ void _EAGLE_EYE_SET_DRAIN_RATE_MODIFIER(Player player,float modifier);
 ## Parameters
 * **player**:
 * **modifier**:
-
-
-

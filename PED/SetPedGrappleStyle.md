@@ -17,4 +17,3 @@ Hashes: GS_DRAGGING, GS_FACE_TO_BACK, GS_FACE_TO_FACE, GS_FACE_TO_FACE_WALL, GS_
 * **style**:
 
 ## Return value
-

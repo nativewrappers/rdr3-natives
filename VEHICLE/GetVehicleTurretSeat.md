@@ -16,4 +16,3 @@ Any _GET_VEHICLE_TURRET_SEAT(Vehicle vehicle,int* seatIndex);
 * **seatIndex**:
 
 ## Return value
-

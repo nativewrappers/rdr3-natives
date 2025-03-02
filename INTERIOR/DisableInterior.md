@@ -13,6 +13,3 @@ void DISABLE_INTERIOR(Interior interior,BOOL toggle);
 ## Parameters
 * **interior**:
 * **toggle**:
-
-
-

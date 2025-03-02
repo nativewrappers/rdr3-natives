@@ -14,6 +14,3 @@ void _SET_ALLOW_DUAL_WIELD(Ped ped,BOOL allow);
 ## Parameters
 * **ped**:
 * **allow**:
-
-
-

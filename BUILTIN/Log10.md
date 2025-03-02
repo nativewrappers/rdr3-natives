@@ -15,4 +15,3 @@ Old name: _LOG10
 * **value**:
 
 ## Return value
-

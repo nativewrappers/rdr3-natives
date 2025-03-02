@@ -20,4 +20,3 @@ Returns a handle to the created group, or 0 if a group couldn't be created.
 * **taskAllocator**:
 
 ## Return value
-

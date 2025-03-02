@@ -20,6 +20,3 @@ ropeTop returns top half of rope, ropeBottom returns bottom half of rope
 * **offsetY**:
 * **offsetZ**:
 * **p6**:
-
-
-

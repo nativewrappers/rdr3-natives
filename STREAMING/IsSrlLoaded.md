@@ -12,4 +12,3 @@ BOOL IS_SRL_LOADED();
 
 
 ## Return value
-

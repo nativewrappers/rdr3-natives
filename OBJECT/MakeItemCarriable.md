@@ -14,6 +14,3 @@ _PRE* or _Q* or _RE*
 
 ## Parameters
 * **object**:
-
-
-

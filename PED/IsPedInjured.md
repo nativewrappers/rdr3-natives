@@ -17,4 +17,3 @@ The default threshold is 100.
 * **ped**:
 
 ## Return value
-

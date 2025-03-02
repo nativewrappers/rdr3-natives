@@ -21,6 +21,3 @@ _CREATE_*
 * **ropeModelType**:
 * **length**:
 * **p4**:
-
-
-

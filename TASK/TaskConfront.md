@@ -16,4 +16,3 @@ Any TASK_CONFRONT(Ped ped,Ped targetPed,int p2);
 * **p2**:
 
 ## Return value
-

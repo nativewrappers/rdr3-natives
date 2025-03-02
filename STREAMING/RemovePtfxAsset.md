@@ -8,8 +8,3 @@ apiset: client
 // 0x042F9049EA419E86
 void REMOVE_PTFX_ASSET();
 ```
-
-
-
-
-

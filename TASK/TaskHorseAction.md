@@ -17,6 +17,3 @@ Params: p2, p3 are set to 0 in R* Scripts
 * **action**:
 * **targetPed**:
 * **p3**:
-
-
-

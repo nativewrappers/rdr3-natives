@@ -15,4 +15,3 @@ Any _NETWORK_SESSION_IS_NSRR_SUCCESS(Any* sessionRequestId);
 * **sessionRequestId**:
 
 ## Return value
-

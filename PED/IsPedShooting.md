@@ -15,4 +15,3 @@ Returns whether the specified ped is shooting.
 * **ped**:
 
 ## Return value
-

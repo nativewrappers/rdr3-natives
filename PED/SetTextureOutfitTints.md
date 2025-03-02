@@ -19,6 +19,3 @@ Used in script function METAPED_CLOTHING__XML__APPLY_OUTFIT_TINTS_TO_PED
 * **tint0**:
 * **tint1**:
 * **tint2**:
-
-
-

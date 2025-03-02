@@ -20,4 +20,3 @@ VEH_STUCK_JAMMED
 * **ms**:
 
 ## Return value
-

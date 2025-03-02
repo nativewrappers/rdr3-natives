@@ -15,4 +15,3 @@ int START_NEW_SCRIPT_WITH_NAME_HASH(Hash scriptHash,int stackSize);
 * **stackSize**:
 
 ## Return value
-

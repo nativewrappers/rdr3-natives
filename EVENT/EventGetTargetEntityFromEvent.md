@@ -18,4 +18,3 @@ Entity _EVENT_GET_TARGET_ENTITY_FROM_EVENT(Entity entity,Hash eventType,int p2,i
 * **p3**:
 
 ## Return value
-

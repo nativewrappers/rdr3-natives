@@ -14,4 +14,3 @@ Hash MISSIONDATA_GET_CATAGORY(Hash missionId);
 * **missionId**:
 
 ## Return value
-

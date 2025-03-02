@@ -16,4 +16,3 @@ Returns a hash of an entity's name. (Alternative Name: _GET_ENTITY_PROMPT_NAME_H
 * **entity**:
 
 ## Return value
-

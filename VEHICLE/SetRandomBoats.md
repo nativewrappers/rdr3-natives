@@ -12,6 +12,3 @@ void SET_RANDOM_BOATS(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

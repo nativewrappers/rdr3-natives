@@ -17,4 +17,3 @@ Any _INVENTORY_DOES_ITEM_OWN_EQUIPMENT(int inventoryId,Any* guid,Hash item);
 * **item**:
 
 ## Return value
-

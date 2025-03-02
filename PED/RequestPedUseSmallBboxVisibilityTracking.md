@@ -14,6 +14,3 @@ void REQUEST_PED_USE_SMALL_BBOX_VISIBILITY_TRACKING(Ped ped,BOOL p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

@@ -13,6 +13,3 @@ void SET_PED_GROUP_MEMBER_PASSENGER_INDEX(Ped ped,int index);
 ## Parameters
 * **ped**:
 * **index**:
-
-
-

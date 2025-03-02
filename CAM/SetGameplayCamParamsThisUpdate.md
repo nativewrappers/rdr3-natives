@@ -21,6 +21,3 @@ Citizen.InvokeNative(0x066167c63111d8cf,1.0, true, -1.0, true, 2.0)
 * **slideOffset**:
 * **enableZoom**:
 * **zoomOffset**:
-
-
-

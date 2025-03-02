@@ -18,6 +18,3 @@ Multiple Core Effect Filter Potency: p1 = 3
 * **effectName**:
 * **p1**:
 * **potency**:
-
-
-

@@ -14,4 +14,3 @@ BOOL IS_PED_JACKING(Ped ped);
 * **ped**:
 
 ## Return value
-

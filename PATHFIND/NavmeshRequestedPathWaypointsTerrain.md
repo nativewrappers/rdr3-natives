@@ -16,4 +16,3 @@ Returns a bit flag for seemingly terrain within the waypoints in the path. Check
 * **path**:
 
 ## Return value
-

@@ -28,4 +28,3 @@ _CREATE_[P-Z]
 * **stopAtDestination**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ float _GET_HOGTIE_ESCAPE_TIMER(Ped ped);
 * **ped**:
 
 ## Return value
-

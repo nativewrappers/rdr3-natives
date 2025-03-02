@@ -13,6 +13,3 @@ Sets the draw order for script draw commands.
 
 ## Parameters
 * **drawOrder**:
-
-
-

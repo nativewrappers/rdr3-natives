@@ -14,6 +14,3 @@ void SET_TV_CHANNEL_PLAYLIST(int tvChannel,const char* playlistName,BOOL restart
 * **tvChannel**:
 * **playlistName**:
 * **restart**:
-
-
-

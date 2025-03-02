@@ -14,6 +14,3 @@ void SET_PED_CAN_BODY_RECOIL_IK(Ped PedIndex,BOOL bEnableIK);
 ## Parameters
 * **PedIndex**:
 * **bEnableIK**:
-
-
-

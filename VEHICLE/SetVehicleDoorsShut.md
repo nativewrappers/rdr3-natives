@@ -14,6 +14,3 @@ Closes all doors of a vehicle:
 ## Parameters
 * **vehicle**:
 * **closeInstantly**:
-
-
-

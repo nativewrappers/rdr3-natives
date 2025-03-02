@@ -26,4 +26,3 @@ colorType: a color type(from 0 to 2). 0 is used for overlays with RGB colors usu
 * **sheetGridIndex**:
 
 ## Return value
-

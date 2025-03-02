@@ -19,4 +19,3 @@ float GET_ENTITY_HEIGHT(Entity entity,float X,float Y,float Z,BOOL atTop,BOOL in
 * **inWorldCoords**:
 
 ## Return value
-

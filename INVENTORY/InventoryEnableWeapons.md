@@ -13,6 +13,3 @@ void _INVENTORY_ENABLE_WEAPONS(int inventoryId);
 
 ## Parameters
 * **inventoryId**:
-
-
-

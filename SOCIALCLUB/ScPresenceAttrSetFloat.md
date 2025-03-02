@@ -16,4 +16,3 @@ Any SC_PRESENCE_ATTR_SET_FLOAT(Hash attrHash,float value);
 * **value**:
 
 ## Return value
-

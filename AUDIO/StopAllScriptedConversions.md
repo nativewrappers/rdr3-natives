@@ -15,6 +15,3 @@ void _STOP_ALL_SCRIPTED_CONVERSIONS(BOOL p0,BOOL p1,BOOL p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

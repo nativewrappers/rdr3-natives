@@ -14,4 +14,3 @@ BOOL IS_PED_RUNNING(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _UNLOCK_GET_ITEM_ROLE_UNLOCK_INFO(Hash unlockHash,Any* outData);
 ## Parameters
 * **unlockHash**:
 * **outData**:
-
-
-

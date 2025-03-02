@@ -13,4 +13,3 @@ Any _IS_CAM_PHOTOFX_RUNNING();
 
 
 ## Return value
-

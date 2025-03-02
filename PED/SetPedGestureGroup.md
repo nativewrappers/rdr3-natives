@@ -14,6 +14,3 @@ void SET_PED_GESTURE_GROUP(Ped ped,const char* gesture,int p2);
 * **ped**:
 * **gesture**:
 * **p2**:
-
-
-

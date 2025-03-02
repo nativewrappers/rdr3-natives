@@ -11,7 +11,3 @@ void _UI_FEED_CLEAR_ALL_CHANNELS();
 ```
 
 Hides Toast Notifications
-
-
-
-

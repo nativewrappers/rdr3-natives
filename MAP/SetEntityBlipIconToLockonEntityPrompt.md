@@ -14,6 +14,3 @@ adds the entity blip icon to the entity lockon prompt if wrong param will remove
 ## Parameters
 * **entity**:
 * **blipId**:
-
-
-

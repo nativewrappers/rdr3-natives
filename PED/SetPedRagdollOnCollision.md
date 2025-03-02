@@ -15,6 +15,3 @@ Causes Ped to ragdoll on collision with any object (e.g Running into trashcan). 
 * **ped**:
 * **toggle**:
 * **p2**:
-
-
-

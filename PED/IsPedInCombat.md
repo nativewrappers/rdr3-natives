@@ -15,4 +15,3 @@ BOOL IS_PED_IN_COMBAT(Ped ped,Ped target);
 * **target**:
 
 ## Return value
-

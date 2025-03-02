@@ -15,6 +15,3 @@ void SET_ENTITY_VISIBLE_IN_CUTSCENE(Entity entity,BOOL p1,BOOL p2,int p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

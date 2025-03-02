@@ -13,6 +13,3 @@ void SET_PLAYBACK_SPEED(Vehicle vehicle,float speed);
 ## Parameters
 * **vehicle**:
 * **speed**:
-
-
-

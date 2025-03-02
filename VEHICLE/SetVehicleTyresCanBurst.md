@@ -14,6 +14,3 @@ Allows you to toggle bulletproof tires.
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

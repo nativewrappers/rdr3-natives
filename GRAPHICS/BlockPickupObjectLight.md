@@ -14,6 +14,3 @@ void _BLOCK_PICKUP_OBJECT_LIGHT(Object pickupObject,BOOL toggle);
 ## Parameters
 * **pickupObject**:
 * **toggle**:
-
-
-

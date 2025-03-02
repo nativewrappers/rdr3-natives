@@ -17,4 +17,3 @@ Event names in the scripts: MGBegin, MGEnd, ReadyForCut
 * **eventName**:
 
 ## Return value
-

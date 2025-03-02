@@ -14,6 +14,3 @@ void _REMOVE_PED_BLACKBOARD_INT(Ped ped,const char* variableName);
 ## Parameters
 * **ped**:
 * **variableName**:
-
-
-

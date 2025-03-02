@@ -21,6 +21,3 @@ void _TASK_USE_NEAREST_SCENARIO_TO_COORD(Ped ped,float x,float y,float z,float d
 * **p7**:
 * **p8**:
 * **p9**:
-
-
-

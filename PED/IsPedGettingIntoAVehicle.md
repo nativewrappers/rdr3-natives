@@ -14,4 +14,3 @@ BOOL IS_PED_GETTING_INTO_A_VEHICLE(Ped ped);
 * **ped**:
 
 ## Return value
-

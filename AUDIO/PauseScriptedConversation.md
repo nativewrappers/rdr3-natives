@@ -16,6 +16,3 @@ void PAUSE_SCRIPTED_CONVERSATION(const char* p0,BOOL p1,BOOL p2,BOOL p3,BOOL p4)
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

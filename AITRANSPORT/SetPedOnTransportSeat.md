@@ -17,6 +17,3 @@ seat: see CREATE_PED_INSIDE_VEHICLE
 * **transportEntity**:
 * **seat**:
 * **flags**:
-
-
-

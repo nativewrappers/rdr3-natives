@@ -14,6 +14,3 @@ Activates EagleEye, called together with 0x28A13BF6B05C3D83
 
 ## Parameters
 * **player**:
-
-
-

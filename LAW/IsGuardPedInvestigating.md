@@ -15,4 +15,3 @@ Any _IS_GUARD_PED_INVESTIGATING(Ped ped);
 * **ped**:
 
 ## Return value
-

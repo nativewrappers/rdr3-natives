@@ -20,4 +20,3 @@ Any _GIVE_PED_SCENARIO_PROP(Ped ped,Object object,const char* conditionalAnim,co
 * **p5**:
 
 ## Return value
-

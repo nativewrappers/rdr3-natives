@@ -15,4 +15,3 @@ Hash _GET_ENTITY_AUDIO_MIX_GROUP(Entity entity);
 * **entity**:
 
 ## Return value
-

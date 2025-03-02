@@ -24,4 +24,3 @@ BOOL IS_POSITION_OCCUPIED(float x,float y,float z,float range,BOOL p4,BOOL p5,BO
 * **p10**:
 
 ## Return value
-

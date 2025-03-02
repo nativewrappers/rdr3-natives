@@ -15,4 +15,3 @@ Hash GET_ITEM_INTERACTION_ITEM_ID(Ped ped);
 * **ped**:
 
 ## Return value
-

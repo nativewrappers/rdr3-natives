@@ -13,6 +13,3 @@ Alias for REMOVE_ANIM_SET.
 
 ## Parameters
 * **clipSet**:
-
-
-

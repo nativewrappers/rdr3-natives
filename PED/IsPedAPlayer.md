@@ -14,4 +14,3 @@ BOOL IS_PED_A_PLAYER(Ped ped);
 * **ped**:
 
 ## Return value
-

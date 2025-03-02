@@ -15,4 +15,3 @@ BOOL IS_PED_MODEL(Ped ped,Hash modelHash);
 * **modelHash**:
 
 ## Return value
-

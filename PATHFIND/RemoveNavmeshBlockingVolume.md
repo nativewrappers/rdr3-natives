@@ -13,6 +13,3 @@ void _REMOVE_NAVMESH_BLOCKING_VOLUME(Volume volume);
 
 ## Parameters
 * **volume**:
-
-
-

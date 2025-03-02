@@ -13,6 +13,3 @@ void SET_DISABLE_VEHICLE_PETROL_TANK_FIRES(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

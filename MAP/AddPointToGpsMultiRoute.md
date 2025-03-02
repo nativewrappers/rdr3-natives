@@ -15,6 +15,3 @@ void ADD_POINT_TO_GPS_MULTI_ROUTE(float x,float y,float z,BOOL p3);
 * **y**:
 * **z**:
 * **p3**:
-
-
-

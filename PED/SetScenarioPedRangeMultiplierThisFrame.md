@@ -13,6 +13,3 @@ void _SET_SCENARIO_PED_RANGE_MULTIPLIER_THIS_FRAME(float multiplier);
 
 ## Parameters
 * **multiplier**:
-
-
-

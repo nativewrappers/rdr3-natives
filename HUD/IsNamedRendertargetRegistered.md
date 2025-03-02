@@ -14,4 +14,3 @@ BOOL IS_NAMED_RENDERTARGET_REGISTERED(const char* name);
 * **name**:
 
 ## Return value
-

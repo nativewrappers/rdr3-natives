@@ -15,4 +15,3 @@ BOOL SET_CURRENT_PED_VEHICLE_WEAPON(Ped ped,Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

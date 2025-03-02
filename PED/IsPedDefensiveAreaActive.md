@@ -15,4 +15,3 @@ BOOL IS_PED_DEFENSIVE_AREA_ACTIVE(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

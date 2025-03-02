@@ -15,4 +15,3 @@ Any DATABINDING_IS_ENTRY_VALID(Hash entryId);
 * **entryId**:
 
 ## Return value
-

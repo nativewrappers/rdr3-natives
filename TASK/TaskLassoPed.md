@@ -13,6 +13,3 @@ void TASK_LASSO_PED(Ped ped,Ped targetPed);
 ## Parameters
 * **ped**:
 * **targetPed**:
-
-
-

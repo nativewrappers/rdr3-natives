@@ -14,6 +14,3 @@ Old name: _SET_GAMEPLAY_HINT_ANIM_OFFSETY
 
 ## Parameters
 * **p0**:
-
-
-

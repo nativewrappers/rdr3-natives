@@ -17,4 +17,3 @@ _IS_PED_M* - _IS_PED_O*
 * **p2**:
 
 ## Return value
-

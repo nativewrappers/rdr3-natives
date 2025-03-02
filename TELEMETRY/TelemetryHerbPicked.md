@@ -13,6 +13,3 @@ void _TELEMETRY_HERB_PICKED(Hash herbType);
 
 ## Parameters
 * **herbType**:
-
-
-

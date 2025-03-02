@@ -12,6 +12,3 @@ void SET_PARKED_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
 
 ## Parameters
 * **multiplier**:
-
-
-

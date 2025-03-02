@@ -17,6 +17,3 @@ Also, disabling any assigned task immediately helped in the number of scenarios,
 
 ## Parameters
 * **ped**:
-
-
-

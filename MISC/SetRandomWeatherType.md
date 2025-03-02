@@ -13,6 +13,3 @@ void SET_RANDOM_WEATHER_TYPE(BOOL p0,BOOL p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

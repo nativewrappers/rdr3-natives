@@ -18,4 +18,3 @@ Any CAN_START_ITEM_INTERACTION(Ped ped,Hash itemHash,Hash interactionAnimHash,in
 * **p3**:
 
 ## Return value
-

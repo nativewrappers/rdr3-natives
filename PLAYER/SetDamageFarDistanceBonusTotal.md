@@ -14,6 +14,3 @@ void _SET_DAMAGE_FAR_DISTANCE_BONUS_TOTAL(Player player,float farDamageBonus);
 ## Parameters
 * **player**:
 * **farDamageBonus**:
-
-
-

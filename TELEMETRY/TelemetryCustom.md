@@ -13,6 +13,3 @@ void _TELEMETRY_CUSTOM(Any* args);
 
 ## Parameters
 * **args**:
-
-
-

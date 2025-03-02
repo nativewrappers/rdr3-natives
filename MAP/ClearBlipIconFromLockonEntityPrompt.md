@@ -14,6 +14,3 @@ will remove the blip icon from the entity lockon prompt, use 0 for p1
 ## Parameters
 * **entity**:
 * **p1**:
-
-
-

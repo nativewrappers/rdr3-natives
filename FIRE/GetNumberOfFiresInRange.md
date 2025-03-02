@@ -17,4 +17,3 @@ int GET_NUMBER_OF_FIRES_IN_RANGE(float x,float y,float z,float radius);
 * **radius**:
 
 ## Return value
-

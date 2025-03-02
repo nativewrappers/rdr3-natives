@@ -15,4 +15,3 @@ BOOL UPDATE_PLAYER_TELEPORT(Player player);
 * **player**:
 
 ## Return value
-

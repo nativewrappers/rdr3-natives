@@ -49,6 +49,3 @@ Alt name: _EQUIP_META_PED_OUTFIT_COMPONENT
 ## Parameters
 * **ped**:
 * **hash**:
-
-
-

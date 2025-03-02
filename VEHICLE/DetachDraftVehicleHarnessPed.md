@@ -16,4 +16,3 @@ Any _DETACH_DRAFT_VEHICLE_HARNESS_PED(Vehicle draft,Ped ped);
 * **ped**:
 
 ## Return value
-

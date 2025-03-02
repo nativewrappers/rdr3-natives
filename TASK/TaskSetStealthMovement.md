@@ -15,6 +15,3 @@ void TASK_SET_STEALTH_MOVEMENT(Ped ped,BOOL p1,Any p2,BOOL p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

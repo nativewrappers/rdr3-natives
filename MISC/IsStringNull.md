@@ -14,4 +14,3 @@ BOOL IS_STRING_NULL(const char* string);
 * **string**:
 
 ## Return value
-

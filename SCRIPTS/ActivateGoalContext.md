@@ -14,6 +14,3 @@ goalContext: see <availableContexts> in common/data/stats_and_challenges/goals_*
 
 ## Parameters
 * **goalContext**:
-
-
-

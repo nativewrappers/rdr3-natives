@@ -15,4 +15,3 @@ BOOL DECOR_REMOVE(Entity entity,const char* propertyName);
 * **propertyName**:
 
 ## Return value
-

@@ -18,4 +18,3 @@ Any _ITEMDATABASE_GET_BUNDLE_ITEM_INFO(int bundleId,Any* data,int index,Hash* ou
 * **outBundle**:
 
 ## Return value
-

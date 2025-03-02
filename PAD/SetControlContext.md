@@ -19,6 +19,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/Controls
 ## Parameters
 * **control**:
 * **context**:
-
-
-

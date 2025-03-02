@@ -16,4 +16,3 @@ Any _MAP_IS_REGION_HIGHLIGHTED_WITH_STYLE(Hash regionHash,Hash styleHash);
 * **styleHash**:
 
 ## Return value
-

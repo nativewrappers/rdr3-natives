@@ -12,6 +12,3 @@ void TASK_PERSISTENT_CHARACTER(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

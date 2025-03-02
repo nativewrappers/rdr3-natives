@@ -13,6 +13,3 @@ void SET_PED_IS_DRUNK(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

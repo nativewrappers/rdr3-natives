@@ -15,6 +15,3 @@ Sets boat to be anchored on spawn, called together with SET_BOAT_ANCHOR and _SET
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

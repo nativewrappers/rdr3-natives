@@ -12,6 +12,3 @@ void REQUEST_CLIP_SET(const char* clipSet);
 
 ## Parameters
 * **clipSet**:
-
-
-

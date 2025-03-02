@@ -18,6 +18,3 @@ void TASK_PLACE_CARRIED_ENTITY_AT_COORD(Ped ped,Entity entity,float x,float y,fl
 * **z**:
 * **p5**:
 * **flags**:
-
-
-

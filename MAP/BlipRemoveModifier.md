@@ -17,4 +17,3 @@ If modifierHash is 0, ALL modifiers will be removed.
 * **modifierHash**:
 
 ## Return value
-

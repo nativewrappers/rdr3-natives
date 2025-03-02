@@ -26,4 +26,3 @@ ScrHandle START_SHAPE_TEST_BOX(float posX,float posY,float posZ,float dimensions
 * **options**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any GET_PED_IS_GRAPPLING(Ped ped);
 * **ped**:
 
 ## Return value
-

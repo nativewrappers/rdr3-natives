@@ -15,6 +15,3 @@ Disables being able to kick move ped.
 ## Parameters
 * **ped**:
 * **disable**:
-
-
-

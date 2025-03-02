@@ -15,6 +15,3 @@ behaviour: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/CLaw
 ## Parameters
 * **ped**:
 * **behaviour**:
-
-
-

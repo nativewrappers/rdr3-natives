@@ -15,4 +15,3 @@ Any _0x02B21B6BEEDD83CC(Hash entryId,int p1);
 * **p1**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _SET_PED_ALL_WEAPONS_VISIBILITY(Ped ped,BOOL visible);
 ## Parameters
 * **ped**:
 * **visible**:
-
-
-

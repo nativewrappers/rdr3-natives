@@ -13,4 +13,3 @@ int SC_COMMUNITY_EVENT_GET_EVENT_ID();
 
 
 ## Return value
-

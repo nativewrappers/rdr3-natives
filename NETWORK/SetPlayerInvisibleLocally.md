@@ -13,6 +13,3 @@ void SET_PLAYER_INVISIBLE_LOCALLY(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

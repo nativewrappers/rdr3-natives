@@ -15,4 +15,3 @@ BOOL _MONEY_INCREMENT_CASH_BALANCE(int amount,Hash addReason);
 * **addReason**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void REMOVE_BLIP(Blip* blip);
 
 ## Parameters
 * **blip**:
-
-
-

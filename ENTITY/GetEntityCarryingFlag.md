@@ -17,4 +17,3 @@ flagId: see _SET_ENTITY_CARRYING_FLAG
 * **flagId**:
 
 ## Return value
-

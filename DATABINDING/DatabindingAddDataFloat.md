@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_FLOAT(Any p0,const char* p1,float p2);
 * **p2**:
 
 ## Return value
-

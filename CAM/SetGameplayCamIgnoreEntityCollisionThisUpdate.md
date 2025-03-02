@@ -14,6 +14,3 @@ Old name: _DISABLE_CAM_COLLISION_FOR_ENTITY
 
 ## Parameters
 * **entity**:
-
-
-

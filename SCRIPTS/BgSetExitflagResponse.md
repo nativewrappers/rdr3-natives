@@ -11,7 +11,3 @@ void BG_SET_EXITFLAG_RESPONSE();
 ```
 
 Sets bit 0 in GtaThread+0x784
-
-
-
-

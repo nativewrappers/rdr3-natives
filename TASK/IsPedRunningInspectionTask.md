@@ -15,4 +15,3 @@ Any IS_PED_RUNNING_INSPECTION_TASK(Ped ped);
 * **ped**:
 
 ## Return value
-

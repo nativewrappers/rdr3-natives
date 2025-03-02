@@ -15,4 +15,3 @@ Returns whether the specified model represents a vehicle.
 * **model**:
 
 ## Return value
-

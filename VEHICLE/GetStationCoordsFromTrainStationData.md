@@ -19,4 +19,3 @@ _GET_P* - _GET_T*
 * **stationIndex**:
 
 ## Return value
-

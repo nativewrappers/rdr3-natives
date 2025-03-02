@@ -14,4 +14,3 @@ Returns -1.0f if no multiplier has been set
 
 
 ## Return value
-

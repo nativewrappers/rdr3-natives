@@ -18,4 +18,3 @@ Display text on right of the screen, Example : https://pastebin.com/n1YmNe25
 * **p2**:
 
 ## Return value
-

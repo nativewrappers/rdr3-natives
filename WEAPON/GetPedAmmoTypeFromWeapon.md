@@ -16,4 +16,3 @@ Returns the current ammo type of the specified ped's specified weapon.
 * **weaponHash**:
 
 ## Return value
-

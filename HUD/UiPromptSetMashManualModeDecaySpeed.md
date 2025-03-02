@@ -17,6 +17,3 @@ punitive (been hit) rate: 0.14f
 ## Parameters
 * **prompt**:
 * **speed**:
-
-
-

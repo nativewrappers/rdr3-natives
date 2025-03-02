@@ -13,4 +13,3 @@ int SPAWNPOINTS_GET_NUM_SEARCH_RESULTS();
 
 
 ## Return value
-

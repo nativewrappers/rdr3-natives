@@ -16,4 +16,3 @@ inventoryId: see _INVENTORY_GET_PED_INVENTORY_ID
 * **inventoryId**:
 
 ## Return value
-

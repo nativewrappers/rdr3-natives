@@ -13,6 +13,3 @@ void SET_PED_ID_RANGE(Ped ped,float value);
 ## Parameters
 * **ped**:
 * **value**:
-
-
-

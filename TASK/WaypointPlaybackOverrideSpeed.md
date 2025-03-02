@@ -16,6 +16,3 @@ void WAYPOINT_PLAYBACK_OVERRIDE_SPEED(Ped ped,float speed,Any p2,Any p3,Any p4);
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

@@ -18,4 +18,3 @@ Returns false if pedshot push failed
 * **formatIndex**:
 
 ## Return value
-

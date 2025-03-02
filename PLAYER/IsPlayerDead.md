@@ -14,4 +14,3 @@ BOOL IS_PLAYER_DEAD(Player player);
 * **player**:
 
 ## Return value
-

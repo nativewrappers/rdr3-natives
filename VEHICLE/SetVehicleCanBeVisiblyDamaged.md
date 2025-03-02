@@ -13,6 +13,3 @@ void SET_VEHICLE_CAN_BE_VISIBLY_DAMAGED(Vehicle vehicle,BOOL state);
 ## Parameters
 * **vehicle**:
 * **state**:
-
-
-

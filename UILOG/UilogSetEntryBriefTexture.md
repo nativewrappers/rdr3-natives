@@ -16,6 +16,3 @@ void _UILOG_SET_ENTRY_BRIEF_TEXTURE(int p0,Hash p1,Hash texture,Hash textureDict
 * **p1**:
 * **texture**:
 * **textureDictionary**:
-
-
-

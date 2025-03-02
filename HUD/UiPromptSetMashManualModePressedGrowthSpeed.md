@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_MASH_MANUAL_MODE_PRESSED_GROWTH_SPEED(Prompt prompt,float sp
 ## Parameters
 * **prompt**:
 * **speed**:
-
-
-

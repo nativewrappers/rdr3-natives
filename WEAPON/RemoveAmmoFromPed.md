@@ -19,6 +19,3 @@ removeReason: see REMOVE_WEAPON_FROM_PED
 * **weaponHash**:
 * **amount**:
 * **removeReason**:
-
-
-

@@ -13,6 +13,3 @@ void SET_PED_RELATIONSHIP_GROUP_HASH(Ped ped,Hash relationshipGroup);
 ## Parameters
 * **ped**:
 * **relationshipGroup**:
-
-
-

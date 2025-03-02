@@ -14,6 +14,3 @@ void BLOCK_PICKUP_PLACEMENT_LIGHT(Pickup pickup,BOOL toggle);
 ## Parameters
 * **pickup**:
 * **toggle**:
-
-
-

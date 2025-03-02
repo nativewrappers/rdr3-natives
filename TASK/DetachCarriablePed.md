@@ -13,6 +13,3 @@ void _DETACH_CARRIABLE_PED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

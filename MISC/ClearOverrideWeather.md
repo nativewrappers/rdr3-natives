@@ -8,8 +8,3 @@ apiset: client
 // 0x80A398F16FFE3CC3
 void CLEAR_OVERRIDE_WEATHER();
 ```
-
-
-
-
-

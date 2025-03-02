@@ -13,6 +13,3 @@ void _UNLOAD_CINEMATIC_CAMERA_LOCATION(const char* dictionaryName);
 
 ## Parameters
 * **dictionaryName**:
-
-
-

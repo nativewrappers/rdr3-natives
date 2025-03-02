@@ -16,6 +16,3 @@ void _SET_VEHICLE_WEAPON_HEADING_LIMITS(Vehicle vehicle,int p1,float minHeading,
 * **p1**:
 * **minHeading**:
 * **maxHeading**:
-
-
-

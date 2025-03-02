@@ -14,6 +14,3 @@ void SET_VEHICLE_MAY_BE_USED_BY_GOTO_POINT_ANY_MEANS(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

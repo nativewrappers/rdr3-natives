@@ -15,4 +15,3 @@ Any _NETWORK_HAS_CONTROL_OF_ANIM_SCENE(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

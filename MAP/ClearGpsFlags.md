@@ -10,7 +10,3 @@ void CLEAR_GPS_FLAGS();
 ```
 
 Clears the GPS flags.
-
-
-
-

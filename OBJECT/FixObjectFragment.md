@@ -13,6 +13,3 @@ void FIX_OBJECT_FRAGMENT(Object object);
 
 ## Parameters
 * **object**:
-
-
-

@@ -14,6 +14,3 @@ void TASK_ANIMAL_FLEE(Ped ped,Ped targetPed,Any p2);
 * **ped**:
 * **targetPed**:
 * **p2**:
-
-
-

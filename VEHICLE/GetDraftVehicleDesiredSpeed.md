@@ -16,4 +16,3 @@ Returns rage::NumericLimits<float>::kMax (3.402823466e+38) if vehicle is not a v
 * **vehicle**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void _GET_VOLUME_BOUNDS(Volume volume,Vector3* min,Vector3* max);
 * **volume**:
 * **min**:
 * **max**:
-
-
-

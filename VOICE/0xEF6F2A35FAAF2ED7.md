@@ -14,4 +14,3 @@ BOOL _0xEF6F2A35FAAF2ED7(Player player);
 * **player**:
 
 ## Return value
-

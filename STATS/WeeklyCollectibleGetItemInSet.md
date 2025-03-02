@@ -18,4 +18,3 @@ Any WEEKLY_COLLECTIBLE_GET_ITEM_IN_SET(Hash chalHash,int setIndex,int itemIndex,
 * **p4**:
 
 ## Return value
-

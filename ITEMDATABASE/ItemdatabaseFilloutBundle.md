@@ -17,4 +17,3 @@ BOOL _ITEMDATABASE_FILLOUT_BUNDLE(Hash bundle,Hash costtype,int index,Any* outDa
 * **outData**:
 
 ## Return value
-

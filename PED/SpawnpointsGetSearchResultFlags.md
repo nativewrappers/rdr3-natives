@@ -14,6 +14,3 @@ void SPAWNPOINTS_GET_SEARCH_RESULT_FLAGS(Any p0,Any* p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

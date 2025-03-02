@@ -15,4 +15,3 @@ Entity NETWORK_GET_ENTITY_KILLER_OF_PLAYER(Player player,Hash* weaponHash);
 * **weaponHash**:
 
 ## Return value
-

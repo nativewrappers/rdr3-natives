@@ -14,4 +14,3 @@ BOOL _CASHINVENTORY_TRANSACTION_GET_BASKET_IS_VALID(int id);
 * **id**:
 
 ## Return value
-

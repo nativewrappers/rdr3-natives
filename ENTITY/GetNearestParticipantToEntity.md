@@ -15,4 +15,3 @@ Player GET_NEAREST_PARTICIPANT_TO_ENTITY(Entity entity);
 * **entity**:
 
 ## Return value
-

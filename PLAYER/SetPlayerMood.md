@@ -15,6 +15,3 @@ mood: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedMood
 ## Parameters
 * **player**:
 * **mood**:
-
-
-

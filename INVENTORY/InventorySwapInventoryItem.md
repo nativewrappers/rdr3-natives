@@ -17,4 +17,3 @@ Any _INVENTORY_SWAP_INVENTORY_ITEM(int inventoryId,Any* guid1,Any* guid2);
 * **guid2**:
 
 ## Return value
-

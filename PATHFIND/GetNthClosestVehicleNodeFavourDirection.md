@@ -25,4 +25,3 @@ BOOL GET_NTH_CLOSEST_VEHICLE_NODE_FAVOUR_DIRECTION(float x,float y,float z,float
 * **p11**:
 
 ## Return value
-

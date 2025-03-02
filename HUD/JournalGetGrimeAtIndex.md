@@ -14,4 +14,3 @@ Any _JOURNAL_GET_GRIME_AT_INDEX(Any p0);
 * **p0**:
 
 ## Return value
-

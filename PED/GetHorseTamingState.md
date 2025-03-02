@@ -30,4 +30,3 @@ enum eTamingState
 * **horse**:
 
 ## Return value
-

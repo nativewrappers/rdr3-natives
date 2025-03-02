@@ -14,4 +14,3 @@ BOOL IS_ENTITY_VISIBLE(Entity entity);
 * **entity**:
 
 ## Return value
-

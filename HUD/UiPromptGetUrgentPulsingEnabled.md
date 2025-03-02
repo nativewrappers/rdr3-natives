@@ -15,4 +15,3 @@ BOOL _UI_PROMPT_GET_URGENT_PULSING_ENABLED(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ int GET_STATUS_OF_SORTED_LIST_OPERATION();
 
 
 ## Return value
-

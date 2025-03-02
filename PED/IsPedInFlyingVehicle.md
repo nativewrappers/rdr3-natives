@@ -14,4 +14,3 @@ BOOL IS_PED_IN_FLYING_VEHICLE(Ped ped);
 * **ped**:
 
 ## Return value
-

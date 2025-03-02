@@ -21,6 +21,3 @@ void ADD_PATROL_ROUTE_NODE(int nodeId,const char* scenarioName,float x,float y,f
 * **lookPosZ**:
 * **duration**:
 * **p9**:
-
-
-

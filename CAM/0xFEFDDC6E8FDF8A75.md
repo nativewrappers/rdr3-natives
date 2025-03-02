@@ -14,6 +14,3 @@ _SET_GAMEPLAY_P* - _SET_GAMEPLAY_V*
 ## Parameters
 * **shakeName**:
 * **intensity**:
-
-
-

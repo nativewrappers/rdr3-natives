@@ -23,6 +23,3 @@ flags:
 * **carrier**:
 * **carriableSlot**:
 * **flags**:
-
-
-

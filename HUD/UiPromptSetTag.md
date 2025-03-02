@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_TAG(Prompt prompt,Any p1);
 ## Parameters
 * **prompt**:
 * **p1**:
-
-
-

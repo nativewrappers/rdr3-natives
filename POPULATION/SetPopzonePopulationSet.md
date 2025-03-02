@@ -13,6 +13,3 @@ void SET_POPZONE_POPULATION_SET(PopZone popZone,Hash populationSetHash);
 ## Parameters
 * **popZone**:
 * **populationSetHash**:
-
-
-

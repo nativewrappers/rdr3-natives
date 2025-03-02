@@ -17,4 +17,3 @@ int _GET_ENTITIES_IN_VOLUME(Volume volume,ItemSet itemSet,int entityType);
 * **entityType**:
 
 ## Return value
-

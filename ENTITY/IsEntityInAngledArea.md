@@ -27,4 +27,3 @@ Angle is measured in degrees.
 * **p10**:
 
 ## Return value
-

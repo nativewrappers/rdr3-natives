@@ -14,4 +14,3 @@ BOOL IS_ENTITY_ATTACHED_TO_ANY_PED(Entity entity);
 * **entity**:
 
 ## Return value
-

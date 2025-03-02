@@ -17,6 +17,3 @@ void _ADD_FLEE_TARGET_COORDS(Ped ped,float x,float y,float z,float p4);
 * **y**:
 * **z**:
 * **p4**:
-
-
-

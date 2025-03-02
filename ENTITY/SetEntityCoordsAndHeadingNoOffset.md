@@ -19,6 +19,3 @@ void _SET_ENTITY_COORDS_AND_HEADING_NO_OFFSET(Entity entity,float xPos,float yPo
 * **heading**:
 * **p5**:
 * **p6**:
-
-
-

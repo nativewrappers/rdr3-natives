@@ -18,4 +18,3 @@ Returns requestId, to be used with 0x74F512E29CB717E2
 * **outfit**:
 
 ## Return value
-

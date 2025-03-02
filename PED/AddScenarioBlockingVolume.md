@@ -18,4 +18,3 @@ flag: see ADD_SCENARIO_BLOCKING_AREA
 * **flag**:
 
 ## Return value
-

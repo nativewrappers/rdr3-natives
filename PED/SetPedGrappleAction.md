@@ -14,6 +14,3 @@ void _SET_PED_GRAPPLE_ACTION(Ped ped,Hash grappleAction);
 ## Parameters
 * **ped**:
 * **grappleAction**:
-
-
-

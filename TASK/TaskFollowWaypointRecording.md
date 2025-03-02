@@ -19,6 +19,3 @@ void TASK_FOLLOW_WAYPOINT_RECORDING(Ped ped,const char* waypointRecording,int p2
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

@@ -13,4 +13,3 @@ Any _NETWORK_HAS_CURRENT_GET_GAMER_STATUS_STARTED();
 
 
 ## Return value
-

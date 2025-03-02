@@ -14,4 +14,3 @@ BOOL NETWORK_IS_PARTICIPANT_ACTIVE(int p0);
 * **p0**:
 
 ## Return value
-

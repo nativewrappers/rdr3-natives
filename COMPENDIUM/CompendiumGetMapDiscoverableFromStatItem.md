@@ -17,4 +17,3 @@ Hash COMPENDIUM_GET_MAP_DISCOVERABLE_FROM_STAT_ITEM(Hash animalStatItem,float x,
 * **z**:
 
 ## Return value
-

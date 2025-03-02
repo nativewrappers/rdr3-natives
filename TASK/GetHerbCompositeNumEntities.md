@@ -17,4 +17,3 @@ Flowers, Stalks or whatever the composite has
 * **outEntities**:
 
 ## Return value
-

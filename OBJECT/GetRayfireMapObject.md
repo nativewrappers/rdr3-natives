@@ -18,4 +18,3 @@ Object GET_RAYFIRE_MAP_OBJECT(float x,float y,float z,float radius,const char* n
 * **name**:
 
 ## Return value
-

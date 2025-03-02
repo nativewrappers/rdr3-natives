@@ -16,6 +16,3 @@ void SET_ANIM_FILTER(Entity entity,const char* filterName,int priority,BOOL seco
 * **filterName**:
 * **priority**:
 * **secondary**:
-
-
-

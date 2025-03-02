@@ -12,4 +12,3 @@ BOOL _SPACTIONPROXY_START_MANAGER();
 
 
 ## Return value
-

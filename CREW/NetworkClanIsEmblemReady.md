@@ -15,4 +15,3 @@ BOOL NETWORK_CLAN_IS_EMBLEM_READY(Any p0,Any* p1);
 * **p1**:
 
 ## Return value
-

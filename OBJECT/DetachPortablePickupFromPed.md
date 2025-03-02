@@ -12,6 +12,3 @@ void DETACH_PORTABLE_PICKUP_FROM_PED(Object pickupObject);
 
 ## Parameters
 * **pickupObject**:
-
-
-

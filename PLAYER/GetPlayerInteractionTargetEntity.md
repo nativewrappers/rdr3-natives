@@ -18,4 +18,3 @@ Any GET_PLAYER_INTERACTION_TARGET_ENTITY(Player player,Entity* outEntity,BOOL p2
 * **p3**:
 
 ## Return value
-

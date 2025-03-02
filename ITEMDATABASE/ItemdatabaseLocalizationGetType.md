@@ -17,4 +17,3 @@ Returns LabelType
 * **p1**:
 
 ## Return value
-

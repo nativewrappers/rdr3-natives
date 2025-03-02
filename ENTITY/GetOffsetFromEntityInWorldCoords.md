@@ -22,4 +22,3 @@ z = up/down
 * **offsetZ**:
 
 ## Return value
-

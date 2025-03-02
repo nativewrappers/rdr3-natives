@@ -21,4 +21,3 @@ Note: scenariosInRadius is an array, and its size and values should be aligned t
 * **size**:
 
 ## Return value
-

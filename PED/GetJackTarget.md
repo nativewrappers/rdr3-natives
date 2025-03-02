@@ -14,4 +14,3 @@ Ped GET_JACK_TARGET(Ped ped);
 * **ped**:
 
 ## Return value
-

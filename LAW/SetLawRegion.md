@@ -68,6 +68,3 @@ enum eLawRegion : Hash
 * **player**:
 * **lawRegionHash**:
 * **stateHash**:
-
-
-

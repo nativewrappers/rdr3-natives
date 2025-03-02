@@ -18,4 +18,3 @@ ANIMPOSTFX_*
 * **p3**:
 
 ## Return value
-

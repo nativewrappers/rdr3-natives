@@ -18,4 +18,3 @@ Any _INVENTORY_GET_INVENTORY_ITEM_CHILD(int inventoryId,Any* parentGuid,Any chil
 * **outInventoryItem**:
 
 ## Return value
-

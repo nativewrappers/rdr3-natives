@@ -18,4 +18,3 @@ flagId: see SET_TRANSPORT_CONFIG_FLAG
 * **p2**:
 
 ## Return value
-

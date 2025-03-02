@@ -14,4 +14,3 @@ BOOL HAS_COLLISION_LOADED_AROUND_ENTITY(Entity entity);
 * **entity**:
 
 ## Return value
-

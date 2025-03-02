@@ -16,6 +16,3 @@ void _SET_PED_BLACKBOARD_FLOAT(Ped ped,const char* variableName,float value,int 
 * **variableName**:
 * **value**:
 * **removeTimer**:
-
-
-

@@ -12,6 +12,3 @@ void NETWORK_SHOW_PROFILE_UI(Any* gamerHandle);
 
 ## Parameters
 * **gamerHandle**:
-
-
-

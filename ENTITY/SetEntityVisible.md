@@ -13,6 +13,3 @@ void SET_ENTITY_VISIBLE(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

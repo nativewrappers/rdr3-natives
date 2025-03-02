@@ -15,4 +15,3 @@ Any CAN_PED_BE_MOUNTED(Ped ped);
 * **ped**:
 
 ## Return value
-

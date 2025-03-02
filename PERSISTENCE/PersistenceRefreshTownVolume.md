@@ -14,6 +14,3 @@ Only used in R* script long_update.ysc in script function REFRESH_CLOSEST_TOWN
 
 ## Parameters
 * **volume**:
-
-
-

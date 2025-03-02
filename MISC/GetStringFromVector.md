@@ -18,4 +18,3 @@ Returns a string in the following format: <<%.4f,%.4f,%.4f>>
 * **z**:
 
 ## Return value
-

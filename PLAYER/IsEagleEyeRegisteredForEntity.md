@@ -16,4 +16,3 @@ Any _IS_EAGLE_EYE_REGISTERED_FOR_ENTITY(Player player,Entity entity);
 * **entity**:
 
 ## Return value
-

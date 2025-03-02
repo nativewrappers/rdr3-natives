@@ -13,4 +13,3 @@ Base year is 1898.
 
 
 ## Return value
-

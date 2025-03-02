@@ -14,6 +14,3 @@ void _SET_PED_LIGHTS(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

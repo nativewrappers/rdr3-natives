@@ -15,4 +15,3 @@ Entity GET_CURRENT_TARGET_FOR_PED(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void _SET_PLAYER_HAS_DISCOVERED_CHARACTER_NAME_SP(Player player,int p1,Hash disc
 * **player**:
 * **p1**:
 * **discoveryHash**:
-
-
-

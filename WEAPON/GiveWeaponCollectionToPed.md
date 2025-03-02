@@ -14,6 +14,3 @@ void _GIVE_WEAPON_COLLECTION_TO_PED(Ped ped,Hash weaponCollection);
 ## Parameters
 * **ped**:
 * **weaponCollection**:
-
-
-

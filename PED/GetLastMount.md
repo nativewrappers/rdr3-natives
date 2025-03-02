@@ -15,4 +15,3 @@ Ped _GET_LAST_MOUNT(Ped ped);
 * **ped**:
 
 ## Return value
-

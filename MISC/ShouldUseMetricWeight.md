@@ -12,4 +12,3 @@ BOOL _SHOULD_USE_METRIC_WEIGHT();
 
 
 ## Return value
-

@@ -24,4 +24,3 @@ Types:
 * **arrayIndex**:
 
 ## Return value
-

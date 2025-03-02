@@ -12,6 +12,3 @@ void TRACK_OBJECT_VISIBILITY(Object object);
 
 ## Parameters
 * **object**:
-
-
-

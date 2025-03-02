@@ -14,4 +14,3 @@ float ABSF(float value);
 * **value**:
 
 ## Return value
-

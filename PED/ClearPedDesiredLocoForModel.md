@@ -14,6 +14,3 @@ Clears locomotion archetype
 
 ## Parameters
 * **ped**:
-
-
-

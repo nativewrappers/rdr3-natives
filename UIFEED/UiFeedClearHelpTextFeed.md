@@ -15,6 +15,3 @@ Clears help text
 ## Parameters
 * **feedMessage**:
 * **p1**:
-
-
-

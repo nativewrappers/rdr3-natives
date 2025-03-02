@@ -12,6 +12,3 @@ void RESET_ENTITY_ALPHA(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

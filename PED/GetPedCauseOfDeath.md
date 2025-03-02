@@ -15,4 +15,3 @@ Returns the hash of the weapon/model/object that killed the ped.
 * **ped**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ Params: p1 = -1 in R* Scripts
 * **player**:
 * **p1**:
 * **p2**:
-
-
-

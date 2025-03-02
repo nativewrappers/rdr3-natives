@@ -14,6 +14,3 @@ Ped will no longer get angry when you stay near him.
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

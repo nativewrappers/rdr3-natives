@@ -15,4 +15,3 @@ Cam CREATE_CAMERA(Hash camHash,BOOL p1);
 * **p1**:
 
 ## Return value
-

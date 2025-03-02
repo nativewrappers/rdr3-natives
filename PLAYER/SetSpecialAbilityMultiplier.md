@@ -14,6 +14,3 @@ void _SET_SPECIAL_ABILITY_MULTIPLIER(Player player,float multiplier);
 ## Parameters
 * **player**:
 * **multiplier**:
-
-
-

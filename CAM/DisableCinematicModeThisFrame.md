@@ -9,8 +9,3 @@ apiset: client
 // 0x8910C24B7E0046EC
 void _DISABLE_CINEMATIC_MODE_THIS_FRAME();
 ```
-
-
-
-
-

@@ -14,6 +14,3 @@ void _INVENTORY_COPY_ITEM_TO_MISSION_INVENTORY(Any* guid,BOOL p1);
 ## Parameters
 * **guid**:
 * **p1**:
-
-
-

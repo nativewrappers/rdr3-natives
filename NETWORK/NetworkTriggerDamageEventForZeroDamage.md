@@ -15,6 +15,3 @@ Old name: _NETWORK_SET_VEHICLE_WHEELS_DESTRUCTIBLE
 ## Parameters
 * **entity**:
 * **p1**:
-
-
-

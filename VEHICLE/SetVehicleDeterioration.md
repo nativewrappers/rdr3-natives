@@ -16,6 +16,3 @@ void _SET_VEHICLE_DETERIORATION(Vehicle vehicle,float amount,int p2,BOOL p3);
 * **amount**:
 * **p2**:
 * **p3**:
-
-
-

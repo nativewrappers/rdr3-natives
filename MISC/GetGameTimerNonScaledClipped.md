@@ -14,4 +14,3 @@ Returns rage::fwTimer::sm_nonScaledClippedTime
 
 
 ## Return value
-

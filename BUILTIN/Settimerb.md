@@ -12,6 +12,3 @@ void SETTIMERB(int value);
 
 ## Parameters
 * **value**:
-
-
-

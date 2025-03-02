@@ -15,4 +15,3 @@ Any NETWORK_ACCEPT_RS_INVITE(int p0);
 * **p0**:
 
 ## Return value
-

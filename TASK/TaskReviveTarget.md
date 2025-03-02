@@ -14,6 +14,3 @@ void TASK_REVIVE_TARGET(Ped ped,Ped reviver,Hash tool);
 * **ped**:
 * **reviver**:
 * **tool**:
-
-
-

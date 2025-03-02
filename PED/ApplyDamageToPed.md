@@ -17,6 +17,3 @@ damages a ped with the given amount
 * **damageArmour**:
 * **boneId**:
 * **pedKiller**:
-
-
-

@@ -15,6 +15,3 @@ void _SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT_2(Ped ped,const char* signalName,float 
 * **ped**:
 * **signalName**:
 * **value**:
-
-
-

@@ -12,6 +12,3 @@ void CLEAR_ENTITY_LAST_DAMAGE_ENTITY(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

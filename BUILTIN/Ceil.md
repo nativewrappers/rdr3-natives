@@ -15,4 +15,3 @@ Rounds a float value up to the next whole number
 * **value**:
 
 ## Return value
-

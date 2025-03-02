@@ -13,4 +13,3 @@ Player _NETWORK_GET_SESSION_HOST();
 
 
 ## Return value
-

@@ -15,6 +15,3 @@ void SET_PLAYER_WEAPON_TYPE_DAMAGE_MODIFIER(Player player,Hash weaponHash,float 
 * **player**:
 * **weaponHash**:
 * **damageModifier**:
-
-
-

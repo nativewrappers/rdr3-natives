@@ -13,6 +13,3 @@ void REPORT_POLICE_SPOTTED_PLAYER(Player player);
 
 ## Parameters
 * **player**:
-
-
-

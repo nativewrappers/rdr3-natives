@@ -16,4 +16,3 @@ Same as _HAS_PROP_SET_LOADED
 * **hash**:
 
 ## Return value
-

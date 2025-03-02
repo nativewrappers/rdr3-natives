@@ -14,6 +14,3 @@ void _SET_PLAYER_TOTAL_ACCURACY_MODIFIER(Player player,float accuracy);
 ## Parameters
 * **player**:
 * **accuracy**:
-
-
-

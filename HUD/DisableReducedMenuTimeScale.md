@@ -11,7 +11,3 @@ void _DISABLE_REDUCED_MENU_TIME_SCALE();
 ```
 
 Disables reduced time scale while menus such as weapon wheel and satchel are open.
-
-
-
-

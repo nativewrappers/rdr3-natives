@@ -12,6 +12,3 @@ void TASK_CLEAR_LOOK_AT(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

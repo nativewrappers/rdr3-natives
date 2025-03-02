@@ -23,6 +23,3 @@ void _ATTACH_ENTITES_TO_ROPE_3(int ropeId,Entity entity1,Entity entity2,float p3
 * **p8**:
 * **p9**:
 * **p10**:
-
-
-

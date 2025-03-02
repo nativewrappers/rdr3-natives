@@ -16,4 +16,3 @@ Old name: _NETWORK_GET_AVERAGE_LATENCY_FOR_PLAYER
 * **player**:
 
 ## Return value
-

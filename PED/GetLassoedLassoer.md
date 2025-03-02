@@ -15,4 +15,3 @@ Ped _GET_LASSOED_LASSOER(Ped ped);
 * **ped**:
 
 ## Return value
-

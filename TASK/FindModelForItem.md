@@ -15,4 +15,3 @@ Hash _FIND_MODEL_FOR_ITEM(Hash item);
 * **item**:
 
 ## Return value
-

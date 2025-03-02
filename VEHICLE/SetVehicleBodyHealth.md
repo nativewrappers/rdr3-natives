@@ -13,6 +13,3 @@ void SET_VEHICLE_BODY_HEALTH(Vehicle vehicle,float value);
 ## Parameters
 * **vehicle**:
 * **value**:
-
-
-

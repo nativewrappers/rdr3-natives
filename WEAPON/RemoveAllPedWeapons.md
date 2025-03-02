@@ -14,6 +14,3 @@ void REMOVE_ALL_PED_WEAPONS(Ped ped,BOOL p1,BOOL p2);
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

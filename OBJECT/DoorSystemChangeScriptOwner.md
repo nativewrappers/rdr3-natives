@@ -13,6 +13,3 @@ void _DOOR_SYSTEM_CHANGE_SCRIPT_OWNER(Hash doorHash);
 
 ## Parameters
 * **doorHash**:
-
-
-

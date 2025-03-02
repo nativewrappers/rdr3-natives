@@ -17,4 +17,3 @@ Any _ITEMDATABASE_GET_HAS_SLOT_INFO(Hash category,int index,Hash* outSlotId);
 * **outSlotId**:
 
 ## Return value
-

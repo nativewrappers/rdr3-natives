@@ -14,6 +14,3 @@ void _REMOVE_COMPANION_FLAG(Ped ped,int p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

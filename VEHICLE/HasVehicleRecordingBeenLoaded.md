@@ -16,4 +16,3 @@ See REQUEST_VEHICLE_RECORDING
 * **script**:
 
 ## Return value
-

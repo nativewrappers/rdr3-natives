@@ -15,4 +15,3 @@ BOOL IS_PED_ON_SPECIFIC_VEHICLE(Ped ped,Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

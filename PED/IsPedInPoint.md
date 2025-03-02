@@ -23,4 +23,3 @@ _IS_PED_IN_*
 * **p5**:
 
 ## Return value
-

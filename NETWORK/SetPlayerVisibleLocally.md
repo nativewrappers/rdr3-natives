@@ -13,6 +13,3 @@ void SET_PLAYER_VISIBLE_LOCALLY(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

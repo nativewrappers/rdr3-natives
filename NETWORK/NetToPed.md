@@ -15,4 +15,3 @@ gets the ped id of a network id
 * **netHandle**:
 
 ## Return value
-

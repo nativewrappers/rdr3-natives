@@ -26,4 +26,3 @@ p8 determines whether the ILO prompt is a lock on prompt with RMB
 * **p9**:
 
 ## Return value
-

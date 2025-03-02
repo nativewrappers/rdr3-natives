@@ -19,4 +19,3 @@ dispatchResponseHash: see common/data/dispatchresponses/..
 * **dispatchResponseHash**:
 
 ## Return value
-

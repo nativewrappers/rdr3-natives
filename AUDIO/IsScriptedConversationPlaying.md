@@ -15,4 +15,3 @@ Any IS_SCRIPTED_CONVERSATION_PLAYING(const char* p0);
 * **p0**:
 
 ## Return value
-

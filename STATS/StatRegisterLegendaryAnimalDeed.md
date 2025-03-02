@@ -12,6 +12,3 @@ void STAT_REGISTER_LEGENDARY_ANIMAL_DEED(Hash deedHash);
 
 ## Parameters
 * **deedHash**:
-
-
-

@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_VISIBLE(Prompt prompt,BOOL toggle);
 ## Parameters
 * **prompt**:
 * **toggle**:
-
-
-

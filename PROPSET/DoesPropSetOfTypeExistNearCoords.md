@@ -18,4 +18,3 @@ Any _DOES_PROP_SET_OF_TYPE_EXIST_NEAR_COORDS(Hash propsetHash,float x,float y,fl
 * **z**:
 
 ## Return value
-

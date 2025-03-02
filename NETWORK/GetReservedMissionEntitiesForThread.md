@@ -19,6 +19,3 @@ Only used in R* Script net_stable_manager
 * **pedMin**:
 * **vehicleMin**:
 * **unkMin**:
-
-
-

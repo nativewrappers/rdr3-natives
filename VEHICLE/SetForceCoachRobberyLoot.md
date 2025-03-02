@@ -15,6 +15,3 @@ Hashes: COACH2_BOOT_LOOT_ITEMS_COACHROB_RSC, COACH2_BOOT_LOOT_ITEMS_COACHROB, CO
 ## Parameters
 * **vehicle**:
 * **coachrobberyLoot**:
-
-
-

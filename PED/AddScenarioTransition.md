@@ -14,6 +14,3 @@ Forces transition now, called together with 0xD65FDC686A031C83
 
 ## Parameters
 * **ped**:
-
-
-

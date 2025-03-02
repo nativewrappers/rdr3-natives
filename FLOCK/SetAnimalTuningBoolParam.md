@@ -14,6 +14,3 @@ void SET_ANIMAL_TUNING_BOOL_PARAM(Ped animal,int index,BOOL value);
 * **animal**:
 * **index**:
 * **value**:
-
-
-

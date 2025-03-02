@@ -9,8 +9,3 @@ apiset: client
 // 0x51259AE5C72D4A1B
 void _UI_PROMPT_CLEAR_PROMPT_PRIORITY_PREFERENCE();
 ```
-
-
-
-
-

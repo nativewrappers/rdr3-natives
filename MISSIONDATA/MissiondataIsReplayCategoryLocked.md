@@ -14,4 +14,3 @@ BOOL _MISSIONDATA_IS_REPLAY_CATEGORY_LOCKED(Hash category);
 * **category**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns zero if the entity is not a carriable
 * **entity**:
 
 ## Return value
-

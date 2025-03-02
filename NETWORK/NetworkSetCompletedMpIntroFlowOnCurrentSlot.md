@@ -15,4 +15,3 @@ Any NETWORK_SET_COMPLETED_MP_INTRO_FLOW_ON_CURRENT_SLOT(BOOL completed);
 * **completed**:
 
 ## Return value
-

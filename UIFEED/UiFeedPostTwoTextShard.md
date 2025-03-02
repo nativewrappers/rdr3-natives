@@ -18,4 +18,3 @@ int _UI_FEED_POST_TWO_TEXT_SHARD(Any* p0,Any* p1,BOOL p2,BOOL p3);
 * **p3**:
 
 ## Return value
-

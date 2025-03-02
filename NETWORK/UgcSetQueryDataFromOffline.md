@@ -13,6 +13,3 @@ void UGC_SET_QUERY_DATA_FROM_OFFLINE(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

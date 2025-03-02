@@ -14,4 +14,3 @@ BOOL HAS_ANIM_DICT_LOADED(const char* animDict);
 * **animDict**:
 
 ## Return value
-

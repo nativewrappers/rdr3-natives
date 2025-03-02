@@ -15,4 +15,3 @@ Hash SC_INBOX_GET_MESSAGE_TYPE_AT_INDEX(int msgIndex);
 * **msgIndex**:
 
 ## Return value
-

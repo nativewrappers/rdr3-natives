@@ -13,6 +13,3 @@ void SET_PED_DESIRED_HEADING(Ped ped,float heading);
 ## Parameters
 * **ped**:
 * **heading**:
-
-
-

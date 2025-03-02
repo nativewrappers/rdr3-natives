@@ -14,4 +14,3 @@ BOOL IS_INCIDENT_VALID(int incidentId);
 * **incidentId**:
 
 ## Return value
-

@@ -19,6 +19,3 @@ void NETWORK_RESURRECT_LOCAL_PLAYER(float x,float y,float z,float heading,int p4
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

@@ -15,4 +15,3 @@ Any IS_MAP_ENTITY_PINNED(Any p0);
 * **p0**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _ITEMDATABASE_IS_SHOP_LAYOUT_KEY_VALID(Hash layout);
 * **layout**:
 
 ## Return value
-

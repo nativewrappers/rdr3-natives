@@ -15,4 +15,3 @@ float GET_WAYPOINT_DISTANCE_ALONG_ROUTE(const char* waypointRecording,int p1);
 * **p1**:
 
 ## Return value
-

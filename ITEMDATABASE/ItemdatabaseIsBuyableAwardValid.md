@@ -15,4 +15,3 @@ Any ITEMDATABASE_IS_BUYABLE_AWARD_VALID(Hash award);
 * **award**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns dismounted timestamp
 * **player**:
 
 ## Return value
-

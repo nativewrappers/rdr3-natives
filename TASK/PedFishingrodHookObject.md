@@ -15,6 +15,3 @@ Used with 'P_BODYPARTARMFLOAT02X' model in fishing_core.c
 ## Parameters
 * **ped**:
 * **object**:
-
-
-

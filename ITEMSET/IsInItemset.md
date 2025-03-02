@@ -15,4 +15,3 @@ BOOL IS_IN_ITEMSET(Entity entity,ItemSet itemset);
 * **itemset**:
 
 ## Return value
-

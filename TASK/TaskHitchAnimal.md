@@ -14,6 +14,3 @@ void TASK_HITCH_ANIMAL(Ped ped,int scenarioPoint,int flag);
 * **ped**:
 * **scenarioPoint**:
 * **flag**:
-
-
-

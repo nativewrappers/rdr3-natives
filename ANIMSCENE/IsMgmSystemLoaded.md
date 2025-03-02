@@ -16,4 +16,3 @@ MGM stands for MiniGameMoments.
 * **mgmFilename**:
 
 ## Return value
-

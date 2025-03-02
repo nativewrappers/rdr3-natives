@@ -16,4 +16,3 @@ int GET_STATUS_OF_SAVE_HIGH_QUALITY_PHOTO();
 
 
 ## Return value
-

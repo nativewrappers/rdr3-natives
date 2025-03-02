@@ -20,4 +20,3 @@ _IS_* (related to CREATE_MISSION_TRAIN)
 * **p5**:
 
 ## Return value
-

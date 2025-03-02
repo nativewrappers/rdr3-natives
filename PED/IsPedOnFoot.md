@@ -14,4 +14,3 @@ BOOL IS_PED_ON_FOOT(Ped ped);
 * **ped**:
 
 ## Return value
-

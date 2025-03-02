@@ -16,6 +16,3 @@ void PERSISTENCE_REMOVE_ALL_ENTITIES_IN_AREA(float x,float y,float z,float radiu
 * **y**:
 * **z**:
 * **radius**:
-
-
-

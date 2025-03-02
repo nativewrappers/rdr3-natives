@@ -15,4 +15,3 @@ Clear blip data. It must be used before RemoveBlip I'm pretty sure that blips ar
 * **blipid**:
 
 ## Return value
-

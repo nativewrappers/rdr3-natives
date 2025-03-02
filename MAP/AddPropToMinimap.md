@@ -23,6 +23,3 @@ there are more and you can find them in the decompiles
 * **y**:
 * **rotation**:
 * **variation**:
-
-
-

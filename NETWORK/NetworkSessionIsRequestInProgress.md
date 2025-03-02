@@ -15,4 +15,3 @@ Any NETWORK_SESSION_IS_REQUEST_IN_PROGRESS(Any* sessionRequestId);
 * **sessionRequestId**:
 
 ## Return value
-

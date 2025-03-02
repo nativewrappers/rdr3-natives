@@ -13,4 +13,3 @@ Any NETWORK_HAS_PENDING_INVITE_FAILURE();
 
 
 ## Return value
-

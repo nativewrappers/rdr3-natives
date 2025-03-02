@@ -19,4 +19,3 @@ attachPoint: see SET_CURRENT_PED_WEAPON
 * **p4**:
 
 ## Return value
-

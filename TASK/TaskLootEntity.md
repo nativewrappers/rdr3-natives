@@ -13,6 +13,3 @@ void TASK_LOOT_ENTITY(Ped ped,Entity entity);
 ## Parameters
 * **ped**:
 * **entity**:
-
-
-

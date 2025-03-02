@@ -16,4 +16,3 @@ Old name: _GET_GAME_BUILD_STRING
 
 
 ## Return value
-

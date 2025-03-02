@@ -15,4 +15,3 @@ Retrieves the ID of the ped that the specified player is currently tracking whil
 * **player**:
 
 ## Return value
-

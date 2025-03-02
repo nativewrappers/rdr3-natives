@@ -18,6 +18,3 @@ distance defines how far it will travel until stopping.
 * **distance**:
 * **duration**:
 * **unknown**:
-
-
-

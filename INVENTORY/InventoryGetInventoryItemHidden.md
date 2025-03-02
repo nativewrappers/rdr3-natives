@@ -16,4 +16,3 @@ Any _INVENTORY_GET_INVENTORY_ITEM_HIDDEN(int inventoryId,Any* guid);
 * **guid**:
 
 ## Return value
-

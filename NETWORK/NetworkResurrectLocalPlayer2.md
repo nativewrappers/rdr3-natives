@@ -13,6 +13,3 @@ void _NETWORK_RESURRECT_LOCAL_PLAYER_2(Any* args);
 
 ## Parameters
 * **args**:
-
-
-

@@ -15,4 +15,3 @@ BOOL IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_VEHICLE(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

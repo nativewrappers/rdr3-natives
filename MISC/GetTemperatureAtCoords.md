@@ -16,4 +16,3 @@ float _GET_TEMPERATURE_AT_COORDS(float x,float y,float z);
 * **z**:
 
 ## Return value
-

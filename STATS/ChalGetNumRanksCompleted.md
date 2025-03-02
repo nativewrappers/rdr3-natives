@@ -14,4 +14,3 @@ int CHAL_GET_NUM_RANKS_COMPLETED(Hash chalHash);
 * **chalHash**:
 
 ## Return value
-

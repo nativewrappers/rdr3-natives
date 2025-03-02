@@ -20,6 +20,3 @@ void APPLY_PED_BLOOD_SPECIFIC(Ped ped,Any p1,float p2,float p3,float p4,float p5
 * **p6**:
 * **p7**:
 * **p8**:
-
-
-

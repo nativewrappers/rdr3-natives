@@ -15,4 +15,3 @@ Any _DOES_CHECKPOINT_HAVE_FX(int checkpoint);
 * **checkpoint**:
 
 ## Return value
-

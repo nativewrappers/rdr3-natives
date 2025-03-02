@@ -14,6 +14,3 @@ Allows you to aim and shoot at the direction the camera is facing.
 ## Parameters
 * **cam**:
 * **toggle**:
-
-
-

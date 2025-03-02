@@ -15,6 +15,3 @@ HAS_ACTOR_RECEIVED_TRACKED_EVENT_THAT_SHOULD_ALERT - iTimeSinceEvent >= iTimeLim
 * **entity**:
 * **eventType**:
 * **p2**:
-
-
-

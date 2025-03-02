@@ -14,6 +14,3 @@ Entities marked as no longer needed, will be deleted as the engine sees fit.
 
 ## Parameters
 * **entity**:
-
-
-

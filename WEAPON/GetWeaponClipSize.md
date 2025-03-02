@@ -15,4 +15,3 @@ int GET_WEAPON_CLIP_SIZE(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

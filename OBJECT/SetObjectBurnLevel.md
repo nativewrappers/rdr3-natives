@@ -16,6 +16,3 @@ Seems to mostly have effect on wood-made objects https://imgur.com/a/32oQvOn
 * **object**:
 * **burnLevel**:
 * **affectAsh**:
-
-
-

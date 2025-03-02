@@ -13,6 +13,3 @@ void REMOVE_FROM_ITEMSET(Entity entity,ItemSet itemset);
 ## Parameters
 * **entity**:
 * **itemset**:
-
-
-

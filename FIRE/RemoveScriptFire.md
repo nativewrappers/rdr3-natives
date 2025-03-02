@@ -12,6 +12,3 @@ void REMOVE_SCRIPT_FIRE(FireId fireHandle);
 
 ## Parameters
 * **fireHandle**:
-
-
-

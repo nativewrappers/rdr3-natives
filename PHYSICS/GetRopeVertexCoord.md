@@ -15,4 +15,3 @@ Vector3 GET_ROPE_VERTEX_COORD(int ropeId,int vertex);
 * **vertex**:
 
 ## Return value
-

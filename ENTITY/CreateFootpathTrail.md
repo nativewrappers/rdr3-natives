@@ -26,4 +26,3 @@ Any _CREATE_FOOTPATH_TRAIL(Any p0,const char* waypointRecord,BOOL bUseSnowOffset
 * **bInit**:
 
 ## Return value
-

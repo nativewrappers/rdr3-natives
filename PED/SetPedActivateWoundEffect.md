@@ -27,6 +27,3 @@ make blood fountain from your stomach: _SET_PED_ACTIVATE_WOUND_EFFECT(ped, unk, 
 * **bloodFountainPulse**:
 * **p8**:
 * **p9**:
-
-
-

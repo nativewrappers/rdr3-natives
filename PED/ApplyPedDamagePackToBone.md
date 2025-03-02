@@ -21,6 +21,3 @@ seems to only work with PD_Vomit ?
 * **yRot**:
 * **zRot**:
 * **damagePack**:
-
-
-

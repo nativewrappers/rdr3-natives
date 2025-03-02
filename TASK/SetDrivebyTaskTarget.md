@@ -17,6 +17,3 @@ void SET_DRIVEBY_TASK_TARGET(Ped shootingPed,Ped targetPed,Vehicle targetVehicle
 * **x**:
 * **y**:
 * **z**:
-
-
-

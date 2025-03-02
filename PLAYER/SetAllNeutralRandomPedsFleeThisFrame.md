@@ -13,6 +13,3 @@ void SET_ALL_NEUTRAL_RANDOM_PEDS_FLEE_THIS_FRAME(Player player);
 
 ## Parameters
 * **player**:
-
-
-

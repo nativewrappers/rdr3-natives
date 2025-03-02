@@ -9,8 +9,3 @@ apiset: client
 // 0xBB51299166B844F3
 void NETWORK_AUTO_SESSION_FINISH_INSTANCE();
 ```
-
-
-
-
-

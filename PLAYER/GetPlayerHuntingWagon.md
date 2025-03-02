@@ -15,4 +15,3 @@ Vehicle _GET_PLAYER_HUNTING_WAGON(Player player);
 * **player**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _SET_LAW_DISABLED(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

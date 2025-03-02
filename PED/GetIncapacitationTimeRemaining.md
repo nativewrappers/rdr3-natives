@@ -15,4 +15,3 @@ int _GET_INCAPACITATION_TIME_REMAINING(Ped ped);
 * **ped**:
 
 ## Return value
-

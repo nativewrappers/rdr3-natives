@@ -17,4 +17,3 @@ Any _HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON_RECENTLY(Entity entity,Hash weaponHash,in
 * **ms**:
 
 ## Return value
-

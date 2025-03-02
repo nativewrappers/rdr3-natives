@@ -14,6 +14,3 @@ void _DATABINDING_WRITE_DATA_INT_FROM_PARENT(Any p0,const char* p1,int p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

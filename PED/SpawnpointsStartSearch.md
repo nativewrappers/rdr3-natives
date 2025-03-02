@@ -22,6 +22,3 @@ Params: p4 = 35.f, duration = 5000 in R* Scripts
 * **p6**:
 * **duration**:
 * **p8**:
-
-
-

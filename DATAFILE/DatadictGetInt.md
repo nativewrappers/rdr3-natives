@@ -16,4 +16,3 @@ int DATADICT_GET_INT(Any* objectData,const char* key);
 * **key**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _DATABINDING_ADD_UI_ITEM_LIST_BY_HASH(Any p0,Hash p1);
 * **p1**:
 
 ## Return value
-

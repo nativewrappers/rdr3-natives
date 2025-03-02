@@ -15,4 +15,3 @@ Any IS_GROUP_LOCALLY_CONTROLLED(int groupId);
 * **groupId**:
 
 ## Return value
-

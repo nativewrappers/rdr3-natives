@@ -15,6 +15,3 @@ p1: 0.3f in R* Scripts
 ## Parameters
 * **waypointRecording**:
 * **p1**:
-
-
-

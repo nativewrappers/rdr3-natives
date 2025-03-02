@@ -15,6 +15,3 @@ Sets peds motion type
 ## Parameters
 * **ped**:
 * **locoMotionType**:
-
-
-

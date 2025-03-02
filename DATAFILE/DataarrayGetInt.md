@@ -16,4 +16,3 @@ int DATAARRAY_GET_INT(Any* arrayData,int arrayIndex);
 * **arrayIndex**:
 
 ## Return value
-

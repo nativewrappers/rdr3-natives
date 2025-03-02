@@ -13,6 +13,3 @@ void _UI_PROMPT_RESTART_MODES(Prompt prompt);
 
 ## Parameters
 * **prompt**:
-
-
-

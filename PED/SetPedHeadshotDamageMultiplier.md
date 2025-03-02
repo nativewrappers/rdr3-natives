@@ -14,6 +14,3 @@ void _SET_PED_HEADSHOT_DAMAGE_MULTIPLIER(Ped ped,float multiplier);
 ## Parameters
 * **ped**:
 * **multiplier**:
-
-
-

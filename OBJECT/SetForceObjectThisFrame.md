@@ -15,6 +15,3 @@ void SET_FORCE_OBJECT_THIS_FRAME(float x,float y,float z,float p3);
 * **y**:
 * **z**:
 * **p3**:
-
-
-

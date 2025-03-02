@@ -14,6 +14,3 @@ void TASK_WARP_PED_INTO_VEHICLE(Ped ped,Vehicle vehicle,int seat);
 * **ped**:
 * **vehicle**:
 * **seat**:
-
-
-

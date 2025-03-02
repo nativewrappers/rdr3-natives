@@ -15,6 +15,3 @@ void _ADD_ENTITY_TO_ENTITY_MASK_WITH_INTENSITY(Entity entity,int mask,float inte
 * **entity**:
 * **mask**:
 * **intensity**:
-
-
-

@@ -14,6 +14,3 @@ void SET_PED_AMMO_BY_TYPE(Ped ped,Hash ammoType,int ammo);
 * **ped**:
 * **ammoType**:
 * **ammo**:
-
-
-

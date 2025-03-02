@@ -18,4 +18,3 @@ Any _CREATE_WAYPOINT_PATH(const char* pathName,Any* p1,int nodes,int p3);
 * **p3**:
 
 ## Return value
-

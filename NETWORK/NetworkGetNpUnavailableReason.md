@@ -27,4 +27,3 @@ Returns some sort of unavailable reason:
 
 
 ## Return value
-

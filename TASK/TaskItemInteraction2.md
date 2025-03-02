@@ -19,6 +19,3 @@ void _TASK_ITEM_INTERACTION_2(Ped ped,Hash propNameGxt,Object prop,Hash propId,H
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

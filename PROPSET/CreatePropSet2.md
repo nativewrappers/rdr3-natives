@@ -24,4 +24,3 @@ Same as _CREATE_PROP_SET
 * **useVegMod**:
 
 ## Return value
-

@@ -17,6 +17,3 @@ Flags 0-31 would be stored in the first int, flags 32-63 in the second int, etc.
 ## Parameters
 * **bitFlags**:
 * **flag**:
-
-
-

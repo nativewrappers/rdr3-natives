@@ -14,4 +14,3 @@ BOOL IS_ENTITY_WAITING_FOR_WORLD_COLLISION(Entity entity);
 * **entity**:
 
 ## Return value
-

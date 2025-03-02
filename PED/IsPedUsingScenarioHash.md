@@ -17,4 +17,3 @@ Equivalent to IS_PED_USING_SCENARIO from V but takes a hash instead of a string.
 * **scenarioHash**:
 
 ## Return value
-

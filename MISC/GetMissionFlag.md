@@ -12,4 +12,3 @@ BOOL GET_MISSION_FLAG();
 
 
 ## Return value
-

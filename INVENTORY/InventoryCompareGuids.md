@@ -16,4 +16,3 @@ Any _INVENTORY_COMPARE_GUIDS(Any* guid1,Any* guid2);
 * **guid2**:
 
 ## Return value
-

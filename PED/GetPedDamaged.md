@@ -16,4 +16,3 @@ Returns true if _GET_PED_DAMAGE_CLEANLINESS was ever lower than 2
 * **ped**:
 
 ## Return value
-

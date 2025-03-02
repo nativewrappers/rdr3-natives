@@ -10,7 +10,3 @@ void BUSYSPINNER_OFF();
 ```
 
 Removes the loading prompt at the bottom right of the screen.
-
-
-
-

@@ -14,4 +14,3 @@ Any _POKER_FOLD(Any p0);
 * **p0**:
 
 ## Return value
-

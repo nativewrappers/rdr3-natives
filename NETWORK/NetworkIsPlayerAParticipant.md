@@ -14,4 +14,3 @@ BOOL NETWORK_IS_PLAYER_A_PARTICIPANT(Player player);
 * **player**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ Sets the time it takes for a hogtied ped to escape
 ## Parameters
 * **ped**:
 * **time**:
-
-
-

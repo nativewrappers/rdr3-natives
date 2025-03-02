@@ -14,6 +14,3 @@ void _SET_PLAYER_INTERACTION_POSITIVE_RESPONSE(Player player,const char* speech)
 ## Parameters
 * **player**:
 * **speech**:
-
-
-

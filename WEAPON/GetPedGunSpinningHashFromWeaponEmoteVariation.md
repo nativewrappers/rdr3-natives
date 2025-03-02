@@ -16,4 +16,3 @@ Returns iSpinHash / iVariationSpin
 * **weaponEmoteVariation**:
 
 ## Return value
-

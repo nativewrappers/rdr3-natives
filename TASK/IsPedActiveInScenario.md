@@ -15,4 +15,3 @@ BOOL IS_PED_ACTIVE_IN_SCENARIO(Ped ped,int scenario);
 * **scenario**:
 
 ## Return value
-

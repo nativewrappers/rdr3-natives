@@ -19,4 +19,3 @@ BOOL HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_BROKEN(float p0,float p1,float p2,float p3,
 * **p5**:
 
 ## Return value
-

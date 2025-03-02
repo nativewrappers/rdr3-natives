@@ -22,6 +22,3 @@ SPECIAL_ABILITY_REVIVE
 ## Parameters
 * **player**:
 * **type**:
-
-
-

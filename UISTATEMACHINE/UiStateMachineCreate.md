@@ -16,4 +16,3 @@ Any UI_STATE_MACHINE_CREATE(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ BOOL DOES_ANIM_DICT_EXIST(const char* animDict);
 * **animDict**:
 
 ## Return value
-

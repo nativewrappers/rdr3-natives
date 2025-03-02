@@ -16,6 +16,3 @@ paletteHash: https://raw.githubusercontent.com/femga/rdr3_discoveries/master/clo
 * **textureId**:
 * **layerId**:
 * **paletteHash**:
-
-
-

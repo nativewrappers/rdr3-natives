@@ -12,6 +12,3 @@ void TEXTURE_DOWNLOAD_RELEASE(int textureDownloadId);
 
 ## Parameters
 * **textureDownloadId**:
-
-
-

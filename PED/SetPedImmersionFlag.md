@@ -16,6 +16,3 @@ Blocks ped from swimming underwater
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

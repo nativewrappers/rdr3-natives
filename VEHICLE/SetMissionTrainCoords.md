@@ -15,6 +15,3 @@ void SET_MISSION_TRAIN_COORDS(Vehicle train,float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

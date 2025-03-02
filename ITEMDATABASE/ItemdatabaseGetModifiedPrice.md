@@ -17,4 +17,3 @@ Returns an alternative cost hash to COST_SHOP_DEFAULT
 * **index**:
 
 ## Return value
-

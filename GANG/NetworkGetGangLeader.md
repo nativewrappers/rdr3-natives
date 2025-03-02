@@ -15,4 +15,3 @@ Player NETWORK_GET_GANG_LEADER(Any gangId);
 * **gangId**:
 
 ## Return value
-

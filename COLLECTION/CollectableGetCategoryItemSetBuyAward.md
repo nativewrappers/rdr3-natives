@@ -17,4 +17,3 @@ collectableCategory: ANTIQUE_BOTTLES, BIRD_EGGS, ARROWHEADS, FAMILY_HEIRLOOMS, W
 * **p1**:
 
 ## Return value
-

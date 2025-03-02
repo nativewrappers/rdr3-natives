@@ -15,6 +15,3 @@ Sets object as auto-jumpable by horse.
 ## Parameters
 * **object**:
 * **p1**:
-
-
-

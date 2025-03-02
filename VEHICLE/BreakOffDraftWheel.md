@@ -17,6 +17,3 @@ Similar to 0xD4F5EFB55769D272, _A*
 * **vehicle**:
 * **wheelIndex**:
 * **destroyingForce**:
-
-
-

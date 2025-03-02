@@ -12,6 +12,3 @@ void DETACH_CAM(Cam cam);
 
 ## Parameters
 * **cam**:
-
-
-

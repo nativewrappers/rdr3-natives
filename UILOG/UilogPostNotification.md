@@ -15,4 +15,3 @@ int _UILOG_POST_NOTIFICATION(Any* data);
 * **data**:
 
 ## Return value
-

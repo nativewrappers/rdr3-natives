@@ -13,4 +13,3 @@ Gets the current ingame clock second. Note that ingame clock seconds change real
 
 
 ## Return value
-

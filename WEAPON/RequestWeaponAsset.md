@@ -15,6 +15,3 @@ void _REQUEST_WEAPON_ASSET(Hash weaponHash,int p1,BOOL p2);
 * **weaponHash**:
 * **p1**:
 * **p2**:
-
-
-

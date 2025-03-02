@@ -13,4 +13,3 @@ int SC_INBOX_GET_TOTAL_NUM_MESSAGES();
 
 
 ## Return value
-

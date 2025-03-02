@@ -26,4 +26,3 @@ BOOL START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE(const char* effectName,Ped ped,flo
 * **axisZ**:
 
 ## Return value
-

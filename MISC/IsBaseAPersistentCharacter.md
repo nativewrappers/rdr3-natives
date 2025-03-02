@@ -15,4 +15,3 @@ Any _IS_BASE_A_PERSISTENT_CHARACTER(ScrHandle handle);
 * **handle**:
 
 ## Return value
-

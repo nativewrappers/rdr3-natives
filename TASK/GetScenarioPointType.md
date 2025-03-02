@@ -15,4 +15,3 @@ Hash _GET_SCENARIO_POINT_TYPE(int scenario);
 * **scenario**:
 
 ## Return value
-

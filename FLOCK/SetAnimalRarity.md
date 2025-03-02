@@ -15,6 +15,3 @@ rarityLevel: see _GET_ANIMAL_RARITY
 ## Parameters
 * **ped**:
 * **rarityLevel**:
-
-
-

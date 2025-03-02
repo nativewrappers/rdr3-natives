@@ -15,4 +15,3 @@ Hash _GET_WEAPON_UNLOCK(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

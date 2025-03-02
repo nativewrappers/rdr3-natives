@@ -17,4 +17,3 @@ Any _JOURNAL_GET_TEXTURE_WITH_LAYOUT(Any p0,Any p1,Any p2);
 * **p2**:
 
 ## Return value
-

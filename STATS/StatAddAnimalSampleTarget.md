@@ -14,6 +14,3 @@ Related to animal tagging
 
 ## Parameters
 * **animalType**:
-
-
-

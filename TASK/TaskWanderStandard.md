@@ -15,6 +15,3 @@ Makes ped walk around the area the params p1 p2 seems to not affect anything but
 * **ped**:
 * **p2**:
 * **p2**:
-
-
-

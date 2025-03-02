@@ -15,4 +15,3 @@ Any _IS_ANIM_SCENE_PAUSED(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

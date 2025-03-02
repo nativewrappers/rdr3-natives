@@ -15,4 +15,3 @@ Any _UI_PROMPT_HAS_HOLD_MODE(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

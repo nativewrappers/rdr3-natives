@@ -22,6 +22,3 @@ flag: 524419 and 0 in shop_horse_shop R* Script
 * **p5**:
 * **p6**:
 * **flag**:
-
-
-

@@ -19,6 +19,3 @@ flags: See TASK_ENTER_VEHICLE
 * **p3**:
 * **p4**:
 * **targetPed**:
-
-
-

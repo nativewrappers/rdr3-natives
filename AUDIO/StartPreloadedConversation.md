@@ -12,6 +12,3 @@ void START_PRELOADED_CONVERSATION(const char* convoRoot);
 
 ## Parameters
 * **convoRoot**:
-
-
-

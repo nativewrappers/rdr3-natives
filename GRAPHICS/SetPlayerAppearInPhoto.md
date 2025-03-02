@@ -12,6 +12,3 @@ void _SET_PLAYER_APPEAR_IN_PHOTO(Player player);
 
 ## Parameters
 * **player**:
-
-
-

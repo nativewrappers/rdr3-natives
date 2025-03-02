@@ -13,6 +13,3 @@ void UI_STATE_MACHINE_DESTROY_AND_CLEAR(Any* p0);
 
 ## Parameters
 * **p0**:
-
-
-

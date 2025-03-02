@@ -14,4 +14,3 @@ int GET_PED_MONEY(Ped ped);
 * **ped**:
 
 ## Return value
-

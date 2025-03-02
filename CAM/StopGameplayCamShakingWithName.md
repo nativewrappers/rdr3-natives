@@ -17,6 +17,3 @@ _STOP_GAMEPLAY_CAM* - _STOP_I*
 ## Parameters
 * **shakeName**:
 * **p1**:
-
-
-

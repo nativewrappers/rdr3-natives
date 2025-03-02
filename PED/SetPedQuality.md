@@ -15,6 +15,3 @@ quality: see _GET_PED_QUALITY
 ## Parameters
 * **ped**:
 * **quality**:
-
-
-

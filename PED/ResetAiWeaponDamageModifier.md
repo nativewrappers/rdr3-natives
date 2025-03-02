@@ -8,8 +8,3 @@ apiset: client
 // 0xEA16670E7BA4743C
 void RESET_AI_WEAPON_DAMAGE_MODIFIER();
 ```
-
-
-
-
-

@@ -15,4 +15,3 @@ BOOL IS_CONTROL_PRESSED(int control,Hash action);
 * **action**:
 
 ## Return value
-

@@ -13,4 +13,3 @@ int _GET_CURRENT_NUMBER_OF_LOCAL_PHOTOS();
 
 
 ## Return value
-

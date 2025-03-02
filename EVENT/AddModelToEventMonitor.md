@@ -16,6 +16,3 @@ Models used in the scripts: P_REGISTER05X, P_REGISTER06X, P_REGISTER03X, PLAYER_
 * **model**:
 * **p1**:
 * **p2**:
-
-
-

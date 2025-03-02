@@ -20,6 +20,3 @@ MISSION_RATING_GOLD,
 ## Parameters
 * **missionId**:
 * **rating**:
-
-
-

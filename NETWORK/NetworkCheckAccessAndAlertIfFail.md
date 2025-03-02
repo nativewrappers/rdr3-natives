@@ -13,4 +13,3 @@ Any NETWORK_CHECK_ACCESS_AND_ALERT_IF_FAIL();
 
 
 ## Return value
-

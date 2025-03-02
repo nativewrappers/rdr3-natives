@@ -18,4 +18,3 @@ Old name: _HAS_COLLISION_LOADED_AT_COORDS
 * **zPos**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _GET_CAN_TWIRL_WEAPON(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

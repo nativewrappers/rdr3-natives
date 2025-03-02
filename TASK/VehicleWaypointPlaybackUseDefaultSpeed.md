@@ -12,6 +12,3 @@ void VEHICLE_WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

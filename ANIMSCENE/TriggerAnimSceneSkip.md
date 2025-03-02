@@ -13,6 +13,3 @@ void TRIGGER_ANIM_SCENE_SKIP(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

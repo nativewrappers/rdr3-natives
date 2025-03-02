@@ -13,6 +13,3 @@ Deletes the given context from the background scripts context map.
 
 ## Parameters
 * **contextName**:
-
-
-

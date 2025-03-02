@@ -17,4 +17,3 @@ Calculates the magnitude of a vector but does not perform Sqrt operations. (Its 
 * **z**:
 
 ## Return value
-

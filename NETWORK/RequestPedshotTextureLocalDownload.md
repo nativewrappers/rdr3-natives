@@ -17,4 +17,3 @@ Only used in R* SP Script map_app_event_handler
 * **p1**:
 
 ## Return value
-

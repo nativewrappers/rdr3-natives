@@ -8,8 +8,3 @@ apiset: client
 // 0xFA8C41E8020D3439
 void SET_WAYPOINT_OFF();
 ```
-
-
-
-
-

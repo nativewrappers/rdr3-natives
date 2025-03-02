@@ -19,4 +19,3 @@ BOOL GET_SAFE_COORD_FOR_PED(float x,float y,float z,BOOL onGround,Vector3* outPo
 * **flags**:
 
 ## Return value
-

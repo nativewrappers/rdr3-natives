@@ -13,6 +13,3 @@ void SET_VEHICLE_WHEELS_CAN_BREAK(Vehicle vehicle,BOOL enabled);
 ## Parameters
 * **vehicle**:
 * **enabled**:
-
-
-

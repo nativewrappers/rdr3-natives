@@ -14,6 +14,3 @@ Enable/disable a color on the entity in eagle eye mode.
 ## Parameters
 * **entity**:
 * **enable**:
-
-
-

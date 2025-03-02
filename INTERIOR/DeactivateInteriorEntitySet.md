@@ -14,6 +14,3 @@ void DEACTIVATE_INTERIOR_ENTITY_SET(Interior interior,const char* entitySetName,
 * **interior**:
 * **entitySetName**:
 * **p2**:
-
-
-

@@ -26,4 +26,3 @@ Returns the zone's name hash if its type matches one of the following:
 * **z**:
 
 ## Return value
-

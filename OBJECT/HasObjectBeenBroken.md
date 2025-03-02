@@ -14,4 +14,3 @@ BOOL HAS_OBJECT_BEEN_BROKEN(Any p0);
 * **p0**:
 
 ## Return value
-

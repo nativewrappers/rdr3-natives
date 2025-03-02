@@ -18,6 +18,3 @@ Registers a script for any object with a specific model hash.
 * **activationRange**:
 * **p4**:
 * **p5**:
-
-
-

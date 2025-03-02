@@ -14,6 +14,3 @@ void GET_GROUP_SIZE(int groupId,BOOL* hasLeader,int* numberOfFollowers);
 * **groupId**:
 * **hasLeader**:
 * **numberOfFollowers**:
-
-
-

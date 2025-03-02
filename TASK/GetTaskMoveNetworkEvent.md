@@ -15,4 +15,3 @@ BOOL GET_TASK_MOVE_NETWORK_EVENT(Ped ped,const char* eventName);
 * **eventName**:
 
 ## Return value
-

@@ -13,4 +13,3 @@ Any _IS_IN_CINEMATIC_MODE();
 
 
 ## Return value
-

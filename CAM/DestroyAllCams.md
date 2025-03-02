@@ -13,6 +13,3 @@ BOOL param indicates whether the cam should be destroyed if it belongs to the ca
 
 ## Parameters
 * **p0**:
-
-
-

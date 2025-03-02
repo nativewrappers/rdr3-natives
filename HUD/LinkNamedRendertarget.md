@@ -12,6 +12,3 @@ void LINK_NAMED_RENDERTARGET(Hash modelHash);
 
 ## Parameters
 * **modelHash**:
-
-
-

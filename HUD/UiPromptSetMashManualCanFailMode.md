@@ -17,6 +17,3 @@ void _UI_PROMPT_SET_MASH_MANUAL_CAN_FAIL_MODE(Prompt prompt,float p1,float p2,fl
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

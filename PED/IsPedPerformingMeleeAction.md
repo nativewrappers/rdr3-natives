@@ -16,4 +16,3 @@ BOOL IS_PED_PERFORMING_MELEE_ACTION(Ped ped,int p1,Hash p2);
 * **p2**:
 
 ## Return value
-

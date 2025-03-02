@@ -16,4 +16,3 @@ _IS_PED_S* - _IS_PED_U*
 * **ped**:
 
 ## Return value
-

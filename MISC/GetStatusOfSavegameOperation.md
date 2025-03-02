@@ -16,4 +16,3 @@ Only 0 and 1 are valid for p0, higher values causes the native to return 2.
 * **p0**:
 
 ## Return value
-

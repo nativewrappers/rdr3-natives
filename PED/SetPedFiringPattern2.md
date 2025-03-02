@@ -15,6 +15,3 @@ Used in R* MP Script fm_mission_controller and various R* SP Scripts for ambush*
 ## Parameters
 * **ped**:
 * **patternHash**:
-
-
-

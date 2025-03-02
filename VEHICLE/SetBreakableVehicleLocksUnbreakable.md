@@ -14,6 +14,3 @@ void SET_BREAKABLE_VEHICLE_LOCKS_UNBREAKABLE(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

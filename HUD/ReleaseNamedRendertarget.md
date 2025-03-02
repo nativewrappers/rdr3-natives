@@ -14,4 +14,3 @@ BOOL RELEASE_NAMED_RENDERTARGET(const char* name);
 * **name**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ BOOL CAN_REGISTER_MISSION_ENTITIES(int ped_amt,int vehicle_amt,int object_amt,in
 * **pickup_amt**:
 
 ## Return value
-

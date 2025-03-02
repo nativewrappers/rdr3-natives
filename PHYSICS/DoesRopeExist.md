@@ -14,4 +14,3 @@ BOOL DOES_ROPE_EXIST(int ropeId);
 * **ropeId**:
 
 ## Return value
-

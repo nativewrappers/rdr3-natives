@@ -15,6 +15,3 @@ Note: you must use VAR_STRING
 * **text**:
 * **x**:
 * **y**:
-
-
-

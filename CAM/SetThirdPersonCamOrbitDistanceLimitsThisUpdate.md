@@ -15,6 +15,3 @@ Old name: _ANIMATE_GAMEPLAY_CAM_ZOOM
 ## Parameters
 * **p0**:
 * **distance**:
-
-
-

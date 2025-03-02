@@ -19,6 +19,3 @@ Old name: _SET_HIDOF_ENV_BLUR_PARAMS
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

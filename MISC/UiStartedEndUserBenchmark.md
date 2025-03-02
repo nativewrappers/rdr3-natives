@@ -16,4 +16,3 @@ Old name: _UI_IS_SINGLEPLAYER_PAUSE_MENU_ACTIVE
 
 
 ## Return value
-

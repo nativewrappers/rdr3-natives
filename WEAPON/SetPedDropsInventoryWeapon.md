@@ -17,6 +17,3 @@ void SET_PED_DROPS_INVENTORY_WEAPON(Ped ped,Hash weaponHash,float xOffset,float 
 * **yOffset**:
 * **zOffset**:
 * **ammoCount**:
-
-
-

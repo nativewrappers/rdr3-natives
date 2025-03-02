@@ -15,4 +15,3 @@ Any _IS_TRACKED_POINT_VALID(int point);
 * **point**:
 
 ## Return value
-

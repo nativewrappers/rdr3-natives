@@ -14,6 +14,3 @@ void _SET_PED_PATH_PREFER_HORSE_WALKABLE(Ped ped,BOOL preferHorseWalkable,float 
 * **ped**:
 * **preferHorseWalkable**:
 * **p2**:
-
-
-

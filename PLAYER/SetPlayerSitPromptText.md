@@ -17,6 +17,3 @@ https://imgur.com/gallery/0x988c9045531b9fce-9bTHgkv
 ## Parameters
 * **playerID**:
 * **label**:
-
-
-

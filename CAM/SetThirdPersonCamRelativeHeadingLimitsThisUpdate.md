@@ -22,6 +22,3 @@ Old name: _CLAMP_GAMEPLAY_CAM_YAW
 ## Parameters
 * **minimum**:
 * **maximum**:
-
-
-

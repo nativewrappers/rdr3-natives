@@ -12,6 +12,3 @@ void TASK_ENTER_COVER(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

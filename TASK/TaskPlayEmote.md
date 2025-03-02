@@ -22,6 +22,3 @@ Similar to 0xB31A277C1AC7B7FF but checks if the ped's inventory contains the spe
 * **disableEarlyOutAnimTag**:
 * **ignoreInvalidMainTask**:
 * **destroyProps**:
-
-
-

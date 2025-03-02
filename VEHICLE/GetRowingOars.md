@@ -16,6 +16,3 @@ Returns handles of boat paddles entities.
 * **vehicle**:
 * **left**:
 * **right**:
-
-
-

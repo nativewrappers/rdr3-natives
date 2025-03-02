@@ -26,4 +26,3 @@ enum eDraftHarness
 * **harnessId**:
 
 ## Return value
-

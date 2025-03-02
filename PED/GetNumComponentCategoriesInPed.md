@@ -16,4 +16,3 @@ Works similar to 0x90403E8107B60E81 (_GET_NUM_COMPONENTS_IN_PED) but is used to 
 * **ped**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ int _DECOR_GET_UINT8(Entity entity,const char* propertyName);
 * **propertyName**:
 
 ## Return value
-

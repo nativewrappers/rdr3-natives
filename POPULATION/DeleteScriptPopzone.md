@@ -13,6 +13,3 @@ void _DELETE_SCRIPT_POPZONE(PopZone popZone);
 
 ## Parameters
 * **popZone**:
-
-
-

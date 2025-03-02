@@ -13,4 +13,3 @@ Any SC_COMMUNITY_EVENT_IS_ACTIVE();
 
 
 ## Return value
-

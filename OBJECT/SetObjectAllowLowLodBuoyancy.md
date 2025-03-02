@@ -14,6 +14,3 @@ void SET_OBJECT_ALLOW_LOW_LOD_BUOYANCY(Object object,BOOL toggle);
 ## Parameters
 * **object**:
 * **toggle**:
-
-
-

@@ -15,4 +15,3 @@ BOOL HAS_ANIM_EVENT_FIRED(Entity entity,Hash actionHash);
 * **actionHash**:
 
 ## Return value
-

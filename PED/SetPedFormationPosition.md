@@ -15,6 +15,3 @@ void _SET_PED_FORMATION_POSITION(Ped ped,int position,BOOL toggle);
 * **ped**:
 * **position**:
 * **toggle**:
-
-
-

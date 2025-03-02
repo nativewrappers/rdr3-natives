@@ -15,4 +15,3 @@ Any UGC_DID_REQUEST_SUCCEED(int ugcRequestId);
 * **ugcRequestId**:
 
 ## Return value
-

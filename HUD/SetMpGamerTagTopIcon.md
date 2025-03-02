@@ -15,6 +15,3 @@ Found icons: https://pastebin.com/xx6rEgiG
 ## Parameters
 * **gamerTagId**:
 * **icon**:
-
-
-

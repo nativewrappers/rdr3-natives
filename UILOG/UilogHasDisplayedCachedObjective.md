@@ -13,4 +13,3 @@ Any _UILOG_HAS_DISPLAYED_CACHED_OBJECTIVE();
 
 
 ## Return value
-

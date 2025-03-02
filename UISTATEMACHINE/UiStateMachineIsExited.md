@@ -15,4 +15,3 @@ Any _UI_STATE_MACHINE_IS_EXITED(Hash p0);
 * **p0**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Old name: _IS_ENTITY_GHOSTED_TO_LOCAL_PLAYER
 * **entity**:
 
 ## Return value
-

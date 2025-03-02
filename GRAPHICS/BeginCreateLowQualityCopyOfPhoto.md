@@ -16,4 +16,3 @@ Called together with FREE_MEMORY_FOR_LOW_QUALITY_PHOTO
 * **p0**:
 
 ## Return value
-

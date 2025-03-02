@@ -15,6 +15,3 @@ Hashes: SHORT_TIMED_EVENT_MP, SHORT_TIMED_EVENT, MEDIUM_TIMED_EVENT, LONG_TIMED_
 ## Parameters
 * **prompt**:
 * **timedEventHash**:
-
-
-

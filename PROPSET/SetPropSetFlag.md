@@ -14,6 +14,3 @@ void _SET_PROP_SET_FLAG(PropSet propSet,int flag);
 ## Parameters
 * **propSet**:
 * **flag**:
-
-
-

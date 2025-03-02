@@ -18,4 +18,3 @@ This function sets metadata of type bool to specified entity.
 * **value**:
 
 ## Return value
-

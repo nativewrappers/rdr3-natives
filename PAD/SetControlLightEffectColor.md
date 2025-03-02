@@ -19,6 +19,3 @@ Old name: _SET_CONTROL_GROUP_COLOR
 * **red**:
 * **green**:
 * **blue**:
-
-
-

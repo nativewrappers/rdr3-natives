@@ -15,4 +15,3 @@ Seems to do the exact same as INTERIOR::GET_ROOM_KEY_FROM_ENTITY
 * **entity**:
 
 ## Return value
-

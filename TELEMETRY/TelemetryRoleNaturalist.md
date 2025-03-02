@@ -21,6 +21,3 @@ void _TELEMETRY_ROLE_NATURALIST(Any transactionId,Any p1,Any p2,Any p3,Any p4,An
 * **p7**:
 * **p8**:
 * **p9**:
-
-
-

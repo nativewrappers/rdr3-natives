@@ -16,4 +16,3 @@ Returns time in ms since last input.
 * **control**:
 
 ## Return value
-

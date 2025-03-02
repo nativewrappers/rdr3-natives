@@ -15,4 +15,3 @@ int _ITEMDATABASE_GET_BUNDLE_ID(Hash bundle);
 * **bundle**:
 
 ## Return value
-

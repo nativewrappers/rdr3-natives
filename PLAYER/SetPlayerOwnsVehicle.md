@@ -14,6 +14,3 @@ void _SET_PLAYER_OWNS_VEHICLE(Player player,Vehicle vehicle);
 ## Parameters
 * **player**:
 * **vehicle**:
-
-
-

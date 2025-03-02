@@ -20,4 +20,3 @@ int _GET_ENTITIES_NEAR_POINT(float x,float y,float z,float radius,ItemSet itemSe
 * **p5**:
 
 ## Return value
-

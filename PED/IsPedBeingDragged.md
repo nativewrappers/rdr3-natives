@@ -15,4 +15,3 @@ Any IS_PED_BEING_DRAGGED(Ped ped);
 * **ped**:
 
 ## Return value
-

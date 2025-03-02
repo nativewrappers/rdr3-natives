@@ -21,4 +21,3 @@ Object CREATE_OBJECT_NO_OFFSET(Hash modelHash,float x,float y,float z,BOOL isNet
 * **p7**:
 
 ## Return value
-

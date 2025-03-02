@@ -14,4 +14,3 @@ Any _GET_META_PED_RACE(Ped ped);
 * **ped**:
 
 ## Return value
-

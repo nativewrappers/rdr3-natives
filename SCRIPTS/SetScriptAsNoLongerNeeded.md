@@ -12,6 +12,3 @@ void SET_SCRIPT_AS_NO_LONGER_NEEDED(const char* scriptName);
 
 ## Parameters
 * **scriptName**:
-
-
-

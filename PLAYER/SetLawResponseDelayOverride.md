@@ -13,6 +13,3 @@ void SET_LAW_RESPONSE_DELAY_OVERRIDE(float p0);
 
 ## Parameters
 * **p0**:
-
-
-

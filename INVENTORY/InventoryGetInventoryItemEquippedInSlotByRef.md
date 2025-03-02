@@ -18,4 +18,3 @@ Any _INVENTORY_GET_INVENTORY_ITEM_EQUIPPED_IN_SLOT_BY_REF(int inventoryId,Any* g
 * **outGuid**:
 
 ## Return value
-

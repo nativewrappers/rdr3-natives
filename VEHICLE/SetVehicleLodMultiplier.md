@@ -13,6 +13,3 @@ void SET_VEHICLE_LOD_MULTIPLIER(Vehicle vehicle,float multiplier);
 ## Parameters
 * **vehicle**:
 * **multiplier**:
-
-
-

@@ -13,6 +13,3 @@ Delete an incident with a given id.
 
 ## Parameters
 * **incidentId**:
-
-
-

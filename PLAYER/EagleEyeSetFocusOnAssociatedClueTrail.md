@@ -14,6 +14,3 @@ void _EAGLE_EYE_SET_FOCUS_ON_ASSOCIATED_CLUE_TRAIL(Player player,Entity linkedWa
 ## Parameters
 * **player**:
 * **linkedWaypointPed**:
-
-
-

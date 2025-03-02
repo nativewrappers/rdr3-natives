@@ -16,6 +16,3 @@ void _NETWORK_SPAWN_CONFIG_ADD_SPAWN_POINT(float x,float y,float z,float heading
 * **y**:
 * **z**:
 * **heading**:
-
-
-

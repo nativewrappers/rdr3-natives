@@ -12,4 +12,3 @@ Any _SAVEGAME_HAS_SAVE_FAILED();
 
 
 ## Return value
-

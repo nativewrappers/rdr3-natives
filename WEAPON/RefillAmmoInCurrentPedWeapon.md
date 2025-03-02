@@ -15,4 +15,3 @@ Any _REFILL_AMMO_IN_CURRENT_PED_WEAPON(Ped ped);
 * **ped**:
 
 ## Return value
-

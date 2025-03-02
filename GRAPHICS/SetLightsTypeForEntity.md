@@ -15,6 +15,3 @@ type must be less than or equal to 20
 ## Parameters
 * **entity**:
 * **type**:
-
-
-

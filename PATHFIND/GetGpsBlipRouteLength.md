@@ -12,4 +12,3 @@ int GET_GPS_BLIP_ROUTE_LENGTH();
 
 
 ## Return value
-

@@ -15,6 +15,3 @@ void SET_PED_USING_ACTION_MODE(Ped ped,BOOL bActionModeEnabled,int p2,const char
 * **bActionModeEnabled**:
 * **p2**:
 * **action**:
-
-
-

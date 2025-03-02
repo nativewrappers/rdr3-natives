@@ -15,4 +15,3 @@ Any _IS_ANY_PLAYER_BIT_SET(int* playerBits);
 * **playerBits**:
 
 ## Return value
-

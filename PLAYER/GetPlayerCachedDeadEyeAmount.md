@@ -15,4 +15,3 @@ float _GET_PLAYER_CACHED_DEAD_EYE_AMOUNT(Player player);
 * **player**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _ADD_PED_TO_FLOCK(Any p0,Ped ped);
 ## Parameters
 * **p0**:
 * **ped**:
-
-
-

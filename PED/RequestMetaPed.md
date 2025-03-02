@@ -18,4 +18,3 @@ Params: p1 = 1 in R* Scripts (Used in SP only)
 * **p1**:
 
 ## Return value
-

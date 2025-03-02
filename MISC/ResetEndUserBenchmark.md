@@ -13,7 +13,3 @@ void RESET_END_USER_BENCHMARK();
 Begins with RESET_*. Next character in the name is either D or E.
 
 Old name: _RESET_BENCHMARK_RECORDING
-
-
-
-

@@ -15,4 +15,3 @@ Any _IS_PERSISTENT_CHARACTER_VALID(PersChar persChar);
 * **persChar**:
 
 ## Return value
-

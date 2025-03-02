@@ -16,4 +16,3 @@ Any _GET_VEHICLE_DOORS_LOCKED_FOR_TEAM(Vehicle vehicle,int team);
 * **team**:
 
 ## Return value
-

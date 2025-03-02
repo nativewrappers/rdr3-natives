@@ -16,4 +16,3 @@ Hash _UGC_QUERY_GET_MISSION_DESC_HASH(Any p0,int index);
 * **index**:
 
 ## Return value
-

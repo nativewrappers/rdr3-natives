@@ -15,4 +15,3 @@ Any PARSEDDATA_IS_FILE_VALID(int fileHandle);
 * **fileHandle**:
 
 ## Return value
-

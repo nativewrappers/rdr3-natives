@@ -15,4 +15,3 @@ Any IS_UIAPP_RUNNING_BY_HASH(Hash appNameHash);
 * **appNameHash**:
 
 ## Return value
-

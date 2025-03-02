@@ -12,6 +12,3 @@ void DATAFILE_DELETE(int index);
 
 ## Parameters
 * **index**:
-
-
-

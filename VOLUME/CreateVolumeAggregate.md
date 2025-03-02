@@ -13,4 +13,3 @@ Volume CREATE_VOLUME_AGGREGATE();
 
 
 ## Return value
-

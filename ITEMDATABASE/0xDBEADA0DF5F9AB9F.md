@@ -16,4 +16,3 @@ BOOL _0xDBEADA0DF5F9AB9F(Hash layout,int index,int* outMenuKey);
 * **outMenuKey**:
 
 ## Return value
-

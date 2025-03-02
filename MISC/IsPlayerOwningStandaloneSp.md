@@ -12,4 +12,3 @@ BOOL _IS_PLAYER_OWNING_STANDALONE_SP();
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ int _UGC_QUERY_GET_LANGUAGE(Any p0,int index);
 * **index**:
 
 ## Return value
-

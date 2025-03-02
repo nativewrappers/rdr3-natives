@@ -17,4 +17,3 @@ flagId: see SET_PED_CONFIG_FLAG
 * **p2**:
 
 ## Return value
-

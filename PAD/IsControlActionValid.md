@@ -16,4 +16,3 @@ Any _IS_CONTROL_ACTION_VALID(Hash action,int control);
 * **control**:
 
 ## Return value
-

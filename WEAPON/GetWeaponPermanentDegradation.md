@@ -16,4 +16,3 @@ Related to rust of weapons
 * **weaponObject**:
 
 ## Return value
-

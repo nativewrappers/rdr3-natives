@@ -14,4 +14,3 @@ BOOL IS_NAMED_RENDERTARGET_LINKED(Hash modelHash);
 * **modelHash**:
 
 ## Return value
-

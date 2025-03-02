@@ -14,4 +14,3 @@ BOOL _SPACTIONPROXY_GET_NEXT_PENDING_BUY_ACTION(Any* data);
 * **data**:
 
 ## Return value
-

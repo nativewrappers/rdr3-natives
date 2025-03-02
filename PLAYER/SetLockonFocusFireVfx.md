@@ -15,6 +15,3 @@ Focus Fire VFX start for player: p1 = focusfire
 ## Parameters
 * **player**:
 * **p1**:
-
-
-

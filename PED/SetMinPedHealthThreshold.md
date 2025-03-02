@@ -14,6 +14,3 @@ void _SET_MIN_PED_HEALTH_THRESHOLD(Ped ped,float healthAmount);
 ## Parameters
 * **ped**:
 * **healthAmount**:
-
-
-

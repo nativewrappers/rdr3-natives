@@ -13,4 +13,3 @@ Any BEGIN_TAKE_HIGH_QUALITY_PHOTO();
 
 
 ## Return value
-

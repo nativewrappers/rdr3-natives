@@ -13,6 +13,3 @@ void NETWORK_HANDLE_FROM_FRIEND(int friendIndex,Any* gamerHandle);
 ## Parameters
 * **friendIndex**:
 * **gamerHandle**:
-
-
-

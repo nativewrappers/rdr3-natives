@@ -17,6 +17,3 @@ p1: usually 898171178 or 0 in R* scripts (doesn't seems to have any effect)
 ## Parameters
 * **configHash**:
 * **p1**:
-
-
-

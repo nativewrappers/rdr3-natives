@@ -13,6 +13,3 @@ void SET_EVERYONE_IGNORE_PLAYER(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

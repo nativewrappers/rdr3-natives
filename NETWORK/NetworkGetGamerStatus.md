@@ -16,4 +16,3 @@ int _NETWORK_GET_GAMER_STATUS(Any* gamerHandle,int p1);
 * **p1**:
 
 ## Return value
-

@@ -18,6 +18,3 @@ void _TELEMETRY_SHOP_ENTRY(Any shopType,Any shopRegion,Any region,Any p3,Any p4,
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

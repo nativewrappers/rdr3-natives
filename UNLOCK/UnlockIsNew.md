@@ -14,4 +14,3 @@ BOOL _UNLOCK_IS_NEW(Hash unlockHash);
 * **unlockHash**:
 
 ## Return value
-

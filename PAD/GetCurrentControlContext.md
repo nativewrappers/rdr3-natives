@@ -16,4 +16,3 @@ Gets the current control context. See: _SET_CONTROL_CONTEXT
 * **control**:
 
 ## Return value
-

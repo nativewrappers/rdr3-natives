@@ -15,4 +15,3 @@ BOOL _UI_PROMPT_DOES_AMBIENT_GROUP_EXIST(Hash hash);
 * **hash**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Ped _GET_RIDER_OF_MOUNT(Ped mount,BOOL p1);
 * **p1**:
 
 ## Return value
-

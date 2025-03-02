@@ -15,4 +15,3 @@ Any _IS_SPECIAL_ABILITY_ACTIVE(Player player);
 * **player**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void STOP_ANIM_TASK(Ped ped,const char* animDictionary,const char* animationName
 * **animDictionary**:
 * **animationName**:
 * **p3**:
-
-
-

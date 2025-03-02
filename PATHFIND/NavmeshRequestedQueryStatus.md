@@ -26,4 +26,3 @@ Old name: _NAVMESH_QUERY_STATUS
 * **path**:
 
 ## Return value
-

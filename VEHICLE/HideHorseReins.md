@@ -13,6 +13,3 @@ void _HIDE_HORSE_REINS(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

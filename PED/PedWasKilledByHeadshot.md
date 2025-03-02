@@ -15,4 +15,3 @@ BOOL _PED_WAS_KILLED_BY_HEADSHOT(Ped ped);
 * **ped**:
 
 ## Return value
-

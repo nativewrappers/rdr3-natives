@@ -15,4 +15,3 @@ Any IS_DRAFT_VEHICLE(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void CLOSE_SEQUENCE_TASK(int taskSequenceId);
 
 ## Parameters
 * **taskSequenceId**:
-
-
-

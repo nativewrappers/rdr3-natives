@@ -14,6 +14,3 @@ void SET_MINIMAP_FOW_REVEAL_VOLUME(Volume volume,Hash p1);
 ## Parameters
 * **volume**:
 * **p1**:
-
-
-

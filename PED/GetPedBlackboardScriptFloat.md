@@ -16,4 +16,3 @@ float GET_PED_BLACKBOARD_SCRIPT_FLOAT(Ped ped,const char* variableName);
 * **variableName**:
 
 ## Return value
-

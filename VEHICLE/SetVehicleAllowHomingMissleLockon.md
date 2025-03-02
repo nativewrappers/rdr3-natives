@@ -14,6 +14,3 @@ void SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

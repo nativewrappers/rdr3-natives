@@ -8,8 +8,3 @@ apiset: client
 // 0x53ED07BF368EDA59
 void SET_DISABLE_PETROL_DECALS_IGNITING_THIS_FRAME();
 ```
-
-
-
-
-

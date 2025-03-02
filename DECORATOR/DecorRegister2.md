@@ -14,6 +14,3 @@ void _DECOR_REGISTER_2(const char* propertyName,int type,BOOL p2);
 * **propertyName**:
 * **type**:
 * **p2**:
-
-
-

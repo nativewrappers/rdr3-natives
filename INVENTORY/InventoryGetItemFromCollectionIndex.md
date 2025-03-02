@@ -18,4 +18,3 @@ collectionId is < outCollectionSize
 * **itemData**:
 
 ## Return value
-

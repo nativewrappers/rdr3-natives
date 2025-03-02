@@ -14,6 +14,3 @@ void TASK_BARK(Ped ped,Ped barkAtTarget,Hash mood);
 * **ped**:
 * **barkAtTarget**:
 * **mood**:
-
-
-

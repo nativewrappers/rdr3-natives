@@ -15,6 +15,3 @@ _SET_PED_S* - _SET_PED_T*
 ## Parameters
 * **ped**:
 * **volume**:
-
-
-

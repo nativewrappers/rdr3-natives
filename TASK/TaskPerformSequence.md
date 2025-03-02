@@ -13,6 +13,3 @@ void TASK_PERFORM_SEQUENCE(Ped ped,int taskSequenceId);
 ## Parameters
 * **ped**:
 * **taskSequenceId**:
-
-
-

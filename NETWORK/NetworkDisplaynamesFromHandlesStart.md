@@ -17,4 +17,3 @@ Hardcoded to return -1.
 * **p1**:
 
 ## Return value
-

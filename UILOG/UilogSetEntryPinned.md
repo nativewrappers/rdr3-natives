@@ -15,6 +15,3 @@ void _UILOG_SET_ENTRY_PINNED(int p0,Hash p1,BOOL p2);
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

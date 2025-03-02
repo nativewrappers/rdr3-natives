@@ -14,4 +14,3 @@ BOOL HAS_NAMED_PTFX_ASSET_LOADED(Hash fxNameHash);
 * **fxNameHash**:
 
 ## Return value
-

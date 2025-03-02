@@ -13,6 +13,3 @@ void _MODIFY_PLAYER_DISCOVERED_CHARACTER_NAME_MP_SET_UNDISCOVERED(Hash discovery
 
 ## Parameters
 * **discoveryHash**:
-
-
-

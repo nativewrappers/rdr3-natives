@@ -16,6 +16,3 @@ Personalities can also be found in common:/data/ai/interactionpersonalities
 ## Parameters
 * **ped**:
 * **personality**:
-
-
-

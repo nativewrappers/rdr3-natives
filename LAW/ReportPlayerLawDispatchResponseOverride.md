@@ -14,6 +14,3 @@ void _REPORT_PLAYER_LAW_DISPATCH_RESPONSE_OVERRIDE(Player player,Hash dispatchRe
 ## Parameters
 * **player**:
 * **dispatchResponseHash**:
-
-
-

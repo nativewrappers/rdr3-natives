@@ -14,6 +14,3 @@ Disables the previously set interactive focus mode preset for a given player. se
 ## Parameters
 * **player**:
 * **name**:
-
-
-

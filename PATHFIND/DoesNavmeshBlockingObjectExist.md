@@ -14,4 +14,3 @@ BOOL DOES_NAVMESH_BLOCKING_OBJECT_EXIST(Any p0);
 * **p0**:
 
 ## Return value
-

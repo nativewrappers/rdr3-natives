@@ -19,4 +19,3 @@ Old name: _SET_PED_SHOULD_PLAY_DIRECTED_SCENARIO_EXIT
 * **z**:
 
 ## Return value
-

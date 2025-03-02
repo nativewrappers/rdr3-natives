@@ -15,4 +15,3 @@ Vector3 GET_ENTITY_ROTATION(Entity entity,int rotationOrder);
 * **rotationOrder**:
 
 ## Return value
-

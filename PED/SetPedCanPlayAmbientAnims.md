@@ -13,6 +13,3 @@ void SET_PED_CAN_PLAY_AMBIENT_ANIMS(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

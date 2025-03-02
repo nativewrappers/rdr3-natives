@@ -17,4 +17,3 @@ BOOL _ITEMDATABASE_FILLOUT_AWARD_ACQUIRE_COST(Hash award,Hash costtype,int index
 * **outData**:
 
 ## Return value
-

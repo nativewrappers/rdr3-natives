@@ -13,6 +13,3 @@ void _MAP_DISCOVER_REGION(Hash discoveryHash);
 
 ## Parameters
 * **discoveryHash**:
-
-
-

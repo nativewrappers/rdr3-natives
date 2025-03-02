@@ -15,4 +15,3 @@ Any _MAKE_PED_RELOAD(Ped ped);
 * **ped**:
 
 ## Return value
-

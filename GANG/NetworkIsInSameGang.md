@@ -16,4 +16,3 @@ Any NETWORK_IS_IN_SAME_GANG(Player player1,Player player2);
 * **player2**:
 
 ## Return value
-

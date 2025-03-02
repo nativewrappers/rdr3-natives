@@ -13,6 +13,3 @@ void _DELETE_ANIM_SCENE(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

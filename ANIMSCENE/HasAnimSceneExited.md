@@ -16,4 +16,3 @@ Any HAS_ANIM_SCENE_EXITED(AnimScene animScene,BOOL p1);
 * **p1**:
 
 ## Return value
-

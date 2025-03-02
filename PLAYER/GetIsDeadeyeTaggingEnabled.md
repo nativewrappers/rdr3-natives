@@ -15,4 +15,3 @@ Any _GET_IS_DEADEYE_TAGGING_ENABLED(Player player);
 * **player**:
 
 ## Return value
-

@@ -8,8 +8,3 @@ apiset: client
 // 0x86E0660E4F5C956D
 void NETWORK_CLEAR_GET_GAMER_STATUS();
 ```
-
-
-
-
-

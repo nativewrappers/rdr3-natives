@@ -15,4 +15,3 @@ Any _ENABLE_WEAPON_RESTORE(Ped ped);
 * **ped**:
 
 ## Return value
-

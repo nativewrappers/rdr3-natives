@@ -16,6 +16,3 @@ void KNOCK_OFF_PED_PROP(Ped ped,BOOL p1,BOOL p2,BOOL p3,BOOL p4);
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

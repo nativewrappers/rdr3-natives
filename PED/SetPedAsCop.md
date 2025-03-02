@@ -15,6 +15,3 @@ toggle = bSetRelGroup
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

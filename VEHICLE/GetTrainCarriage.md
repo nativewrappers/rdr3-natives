@@ -15,4 +15,3 @@ Entity GET_TRAIN_CARRIAGE(Vehicle train,int trailerNumber);
 * **trailerNumber**:
 
 ## Return value
-

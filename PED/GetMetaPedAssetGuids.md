@@ -23,4 +23,3 @@ Note: this works with non shop components, direct .ydd files.
 * **material**:
 
 ## Return value
-

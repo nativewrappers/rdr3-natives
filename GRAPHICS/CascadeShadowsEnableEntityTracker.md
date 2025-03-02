@@ -16,6 +16,3 @@ When OFF, they draw from a further distance.
 
 ## Parameters
 * **toggle**:
-
-
-

@@ -15,4 +15,3 @@ Alias for HAS_ANIM_SET_LOADED.
 * **clipSet**:
 
 ## Return value
-

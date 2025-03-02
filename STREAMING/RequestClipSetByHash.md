@@ -13,6 +13,3 @@ void _REQUEST_CLIP_SET_BY_HASH(Hash clipSetHash);
 
 ## Parameters
 * **clipSetHash**:
-
-
-

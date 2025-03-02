@@ -22,4 +22,3 @@ Params: p2: AR_TAKEDOWN_FRONT, AR_EXECUTION_FRONT, 0 in R* Scripts
 * **p7**:
 
 ## Return value
-

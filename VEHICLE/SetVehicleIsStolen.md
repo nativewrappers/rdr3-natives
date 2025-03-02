@@ -13,6 +13,3 @@ void SET_VEHICLE_IS_STOLEN(Vehicle vehicle,BOOL isStolen);
 ## Parameters
 * **vehicle**:
 * **isStolen**:
-
-
-

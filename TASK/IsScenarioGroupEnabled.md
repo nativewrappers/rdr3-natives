@@ -14,4 +14,3 @@ BOOL IS_SCENARIO_GROUP_ENABLED(const char* scenarioGroup);
 * **scenarioGroup**:
 
 ## Return value
-

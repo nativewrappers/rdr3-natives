@@ -17,4 +17,3 @@ _GET_M* - _GET_PED_A*
 * **p1**:
 
 ## Return value
-

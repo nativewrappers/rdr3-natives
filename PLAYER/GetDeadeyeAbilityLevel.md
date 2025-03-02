@@ -15,4 +15,3 @@ int _GET_DEADEYE_ABILITY_LEVEL(Player player);
 * **player**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ BOOL IS_EMOTE_TASK_RUNNING(Ped ped,Any p1);
 * **p1**:
 
 ## Return value
-

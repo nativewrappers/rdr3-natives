@@ -16,4 +16,3 @@ int BG_GET_LAUNCH_PARAM_VALUE(int scriptIndex,const char* p1);
 * **p1**:
 
 ## Return value
-

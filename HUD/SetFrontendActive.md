@@ -12,6 +12,3 @@ void SET_FRONTEND_ACTIVE(BOOL active);
 
 ## Parameters
 * **active**:
-
-
-

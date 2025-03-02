@@ -21,4 +21,3 @@ nmTaskMessageParameterName: See physicstasks.ymt. Search for DraggedByCart or 0x
 * **nmTaskMessageParameterName**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ This native checks if a ped is on the ground, in pain from a (gunshot) wound.
 * **ped**:
 
 ## Return value
-

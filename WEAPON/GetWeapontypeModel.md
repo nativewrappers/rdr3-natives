@@ -15,4 +15,3 @@ Gets the model hash from the weapon hash.
 * **weaponHash**:
 
 ## Return value
-

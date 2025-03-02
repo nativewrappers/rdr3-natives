@@ -16,4 +16,3 @@ _GET_WA*
 * **ped**:
 
 ## Return value
-

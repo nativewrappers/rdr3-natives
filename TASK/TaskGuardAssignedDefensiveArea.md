@@ -18,6 +18,3 @@ void TASK_GUARD_ASSIGNED_DEFENSIVE_AREA(Ped ped,float p1,float p2,float p3,float
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

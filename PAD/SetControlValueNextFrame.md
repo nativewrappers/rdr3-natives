@@ -23,4 +23,3 @@ Old name: _SET_CONTROL_NORMAL
 * **value**:
 
 ## Return value
-

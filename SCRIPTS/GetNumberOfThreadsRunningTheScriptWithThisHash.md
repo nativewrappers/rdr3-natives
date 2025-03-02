@@ -23,4 +23,3 @@ Old name: _GET_NUMBER_OF_REFERENCES_OF_SCRIPT_WITH_NAME_HASH
 * **scriptHash**:
 
 ## Return value
-

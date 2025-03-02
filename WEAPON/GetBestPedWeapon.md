@@ -16,4 +16,3 @@ Hash GET_BEST_PED_WEAPON(Ped ped,BOOL p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

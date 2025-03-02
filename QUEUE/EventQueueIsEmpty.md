@@ -14,4 +14,3 @@ Any _EVENT_QUEUE_IS_EMPTY(Hash hash);
 * **hash**:
 
 ## Return value
-

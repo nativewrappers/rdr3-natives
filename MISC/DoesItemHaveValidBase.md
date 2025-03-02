@@ -15,4 +15,3 @@ Any _DOES_ITEM_HAVE_VALID_BASE(ScrHandle item);
 * **item**:
 
 ## Return value
-

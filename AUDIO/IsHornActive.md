@@ -15,4 +15,3 @@ Checks whether the horn of a vehicle is currently played.
 * **vehicle**:
 
 ## Return value
-

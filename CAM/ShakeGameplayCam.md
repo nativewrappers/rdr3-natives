@@ -13,6 +13,3 @@ void SHAKE_GAMEPLAY_CAM(const char* shakeName,float intensity);
 ## Parameters
 * **shakeName**:
 * **intensity**:
-
-
-

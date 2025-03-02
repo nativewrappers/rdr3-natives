@@ -14,4 +14,3 @@ BOOL ANIMPOSTFX_IS_RUNNING(const char* effectName);
 * **effectName**:
 
 ## Return value
-

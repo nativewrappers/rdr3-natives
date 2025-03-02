@@ -16,4 +16,3 @@ Returns number of horses a wagon can have
 * **modelHash**:
 
 ## Return value
-

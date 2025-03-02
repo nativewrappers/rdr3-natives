@@ -14,4 +14,3 @@ BOOL IS_AN_ENTITY(ScrHandle handle);
 * **handle**:
 
 ## Return value
-

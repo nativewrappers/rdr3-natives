@@ -14,4 +14,3 @@ BOOL HAS_PLAYER_DAMAGED_AT_LEAST_ONE_PED(Player player);
 * **player**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Only used in R* Scripts fishing_core and av_fishing_river
 * **p1**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _UILOG_MARK_MISSION_COMPLETED(Hash p0);
 
 ## Parameters
 * **p0**:
-
-
-

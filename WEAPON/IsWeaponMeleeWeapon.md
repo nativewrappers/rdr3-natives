@@ -15,4 +15,3 @@ Any IS_WEAPON_MELEE_WEAPON(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void SET_DONT_ALLOW_PLAYER_TO_ENTER_VEHICLE_IF_LOCKED_FOR_PLAYER(Vehicle vehicle
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

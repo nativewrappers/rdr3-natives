@@ -15,6 +15,3 @@ Appears to remove stealth kill action from memory (?)
 ## Parameters
 * **hash**:
 * **enable**:
-
-
-

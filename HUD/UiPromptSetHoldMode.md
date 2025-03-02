@@ -15,6 +15,3 @@ Params: p2 is 304000 in R* SP Script coachrobberies
 ## Parameters
 * **prompt**:
 * **holdTimeMs**:
-
-
-

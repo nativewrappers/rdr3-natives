@@ -15,6 +15,3 @@ Can be used to clear anything from a ped by cloning it, including bullet holes.
 ## Parameters
 * **ped**:
 * **targetPed**:
-
-
-

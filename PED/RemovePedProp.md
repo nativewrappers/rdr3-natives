@@ -14,6 +14,3 @@ void _REMOVE_PED_PROP(Ped ped,const char* propName);
 ## Parameters
 * **ped**:
 * **propName**:
-
-
-

@@ -14,4 +14,3 @@ int GET_ACTIVE_VEHICLE_MISSION_TYPE(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

@@ -20,4 +20,3 @@ Any _REQUEST_ENTITY_LOOT_LIST(Ped mount,Any* argStruct,Hash visiblelootslotreque
 * **p5**:
 
 ## Return value
-

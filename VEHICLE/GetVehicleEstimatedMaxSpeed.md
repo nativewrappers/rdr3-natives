@@ -14,4 +14,3 @@ float GET_VEHICLE_ESTIMATED_MAX_SPEED(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

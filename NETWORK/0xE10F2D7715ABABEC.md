@@ -14,4 +14,3 @@ Any _0xE10F2D7715ABABEC(Any p0);
 * **p0**:
 
 ## Return value
-

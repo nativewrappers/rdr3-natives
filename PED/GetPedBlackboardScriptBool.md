@@ -16,4 +16,3 @@ Any GET_PED_BLACKBOARD_SCRIPT_BOOL(Ped ped,const char* variableName);
 * **variableName**:
 
 ## Return value
-

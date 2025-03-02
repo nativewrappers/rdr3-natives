@@ -14,6 +14,3 @@ void _SET_DRAFT_VEHICLE_ANIMALS_CAN_DETACH(Vehicle draft,BOOL canDetach);
 ## Parameters
 * **draft**:
 * **canDetach**:
-
-
-

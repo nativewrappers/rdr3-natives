@@ -21,6 +21,3 @@ fleeType: see TASK_FLEE_COORD
 * **time**:
 * **fleeType**:
 * **fleeSpeed**:
-
-
-

@@ -13,6 +13,3 @@ void _MISSIONDATA_TIMECYCLE_BOX_SET_MODIFIER(const char* timecycleName);
 
 ## Parameters
 * **timecycleName**:
-
-
-

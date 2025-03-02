@@ -13,6 +13,3 @@ void STOP_CODE_GAMEPLAY_HINT(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

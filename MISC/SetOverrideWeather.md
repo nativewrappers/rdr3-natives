@@ -13,6 +13,3 @@ void _SET_OVERRIDE_WEATHER(Hash weatherType);
 
 ## Parameters
 * **weatherType**:
-
-
-

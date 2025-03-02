@@ -15,6 +15,3 @@ Toggle handles wether Deadeye and Eagleeye are infinite or not.
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

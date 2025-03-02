@@ -15,4 +15,3 @@ Any NETWORK_IS_GANG_ID_VALID(Any gangId);
 * **gangId**:
 
 ## Return value
-

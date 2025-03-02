@@ -13,6 +13,3 @@ void FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME(const char* name,int cleanupFl
 ## Parameters
 * **name**:
 * **cleanupFlags**:
-
-
-

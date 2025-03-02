@@ -13,6 +13,3 @@ void SET_BOAT_ANCHOR(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

@@ -20,4 +20,3 @@ Any GET_ANIM_SCENE_ENTITY_LOCATION_DATA(AnimScene animScene,const char* entityNa
 * **p5**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ BOOL REMOVE_SHOCKING_EVENT(ScrHandle event);
 * **event**:
 
 ## Return value
-

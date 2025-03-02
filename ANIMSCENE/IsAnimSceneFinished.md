@@ -16,4 +16,3 @@ Any IS_ANIM_SCENE_FINISHED(AnimScene animScene,BOOL p1);
 * **p1**:
 
 ## Return value
-

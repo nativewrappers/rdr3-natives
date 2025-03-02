@@ -14,4 +14,3 @@ Same as GET_IS_LOADING_SCREEN_ACTIVE
 
 
 ## Return value
-

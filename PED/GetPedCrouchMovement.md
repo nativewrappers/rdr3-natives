@@ -15,4 +15,3 @@ Any GET_PED_CROUCH_MOVEMENT(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Entity GET_LOOTING_PICKUP_TARGET_ENTITY(Ped ped);
 * **ped**:
 
 ## Return value
-

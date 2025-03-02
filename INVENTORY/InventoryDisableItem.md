@@ -16,6 +16,3 @@ Example: (1, WEAPON_REVOLVER_CATTLEMAN, 0) - disables cattleman revolver on weap
 * **inventoryId**:
 * **item**:
 * **gtxReason**:
-
-
-

@@ -13,4 +13,3 @@ Any _GET_SPECIAL_EDITION_CASH_CAMP_BONUS_ENABLED();
 
 
 ## Return value
-

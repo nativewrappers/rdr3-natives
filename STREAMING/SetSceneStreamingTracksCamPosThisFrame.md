@@ -9,8 +9,3 @@ apiset: client
 // 0xA03A6812529AD9C8
 void SET_SCENE_STREAMING_TRACKS_CAM_POS_THIS_FRAME();
 ```
-
-
-
-
-

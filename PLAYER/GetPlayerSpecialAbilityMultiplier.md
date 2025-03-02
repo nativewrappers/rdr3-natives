@@ -15,4 +15,3 @@ float _GET_PLAYER_SPECIAL_ABILITY_MULTIPLIER(Player player);
 * **player**:
 
 ## Return value
-

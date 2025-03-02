@@ -14,6 +14,3 @@ void SET_PLAYER_TURNED_IN_BOUNTY_IN_REGION(Player player,Hash lawRegionHash);
 ## Parameters
 * **player**:
 * **lawRegionHash**:
-
-
-

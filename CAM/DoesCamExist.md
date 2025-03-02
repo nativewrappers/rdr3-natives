@@ -15,4 +15,3 @@ Returns whether or not the passed camera handle exists.
 * **cam**:
 
 ## Return value
-

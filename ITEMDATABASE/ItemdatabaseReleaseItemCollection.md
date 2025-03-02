@@ -15,4 +15,3 @@ Any _ITEMDATABASE_RELEASE_ITEM_COLLECTION(int collectionId);
 * **collectionId**:
 
 ## Return value
-

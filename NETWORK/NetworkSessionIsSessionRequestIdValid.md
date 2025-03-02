@@ -15,4 +15,3 @@ Any NETWORK_SESSION_IS_SESSION_REQUEST_ID_VALID(Any* sessionRequestId);
 * **sessionRequestId**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void _GET_ENTITY_WORLD_POSITION_OF_DIMENSIONS(Entity entity,Vector3* minimum,Vec
 * **entity**:
 * **minimum**:
 * **maximum**:
-
-
-

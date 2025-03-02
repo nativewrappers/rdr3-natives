@@ -13,4 +13,3 @@ Any NETWORK_SESSION_IS_TRANSITIONING();
 
 
 ## Return value
-

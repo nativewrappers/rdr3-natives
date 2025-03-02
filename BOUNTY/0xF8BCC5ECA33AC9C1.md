@@ -13,4 +13,3 @@ _BOUNTY_GET_*
 
 
 ## Return value
-

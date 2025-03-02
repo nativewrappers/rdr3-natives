@@ -16,6 +16,3 @@ void GET_ANIM_SCENE_ORIGIN(AnimScene animScene,Vector3* position,Vector3* rotati
 * **position**:
 * **rotation**:
 * **order**:
-
-
-

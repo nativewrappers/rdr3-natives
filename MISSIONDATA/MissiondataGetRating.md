@@ -15,4 +15,3 @@ int MISSIONDATA_GET_RATING(Hash missionId);
 * **missionId**:
 
 ## Return value
-

@@ -8,8 +8,3 @@ apiset: client
 // 0xFC179D7E8886DADF
 void SHUTDOWN_LOADING_SCREEN();
 ```
-
-
-
-
-

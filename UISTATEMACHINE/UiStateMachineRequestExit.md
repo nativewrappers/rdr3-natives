@@ -14,6 +14,3 @@ void UI_STATE_MACHINE_REQUEST_EXIT(Any p0,Any p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

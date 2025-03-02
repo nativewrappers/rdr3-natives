@@ -14,6 +14,3 @@ void _INCAPACITATED_REVIVE(Ped ped,Ped ped2);
 ## Parameters
 * **ped**:
 * **ped2**:
-
-
-

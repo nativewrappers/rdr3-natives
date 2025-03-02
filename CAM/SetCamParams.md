@@ -25,6 +25,3 @@ void SET_CAM_PARAMS(Cam cam,float posX,float posY,float posZ,float rotX,float ro
 * **p11**:
 * **p12**:
 * **p13**:
-
-
-

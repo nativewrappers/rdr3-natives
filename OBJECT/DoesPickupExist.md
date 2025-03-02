@@ -14,4 +14,3 @@ BOOL DOES_PICKUP_EXIST(Pickup pickup);
 * **pickup**:
 
 ## Return value
-

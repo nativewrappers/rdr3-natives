@@ -15,4 +15,3 @@ _GET_D* - _GET_L*
 * **ped**:
 
 ## Return value
-

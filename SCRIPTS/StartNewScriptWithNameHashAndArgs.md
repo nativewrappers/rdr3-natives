@@ -17,4 +17,3 @@ int START_NEW_SCRIPT_WITH_NAME_HASH_AND_ARGS(Hash scriptHash,Any* args,int argCo
 * **stackSize**:
 
 ## Return value
-

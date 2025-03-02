@@ -15,4 +15,3 @@ Any _TEXT_BLOCK_IS_STREAMED(const char* textBlock);
 * **textBlock**:
 
 ## Return value
-

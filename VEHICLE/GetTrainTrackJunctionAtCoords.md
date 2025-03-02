@@ -20,4 +20,3 @@ Outputs junctionIndex, to be used with 0xE6C5E2125EB210C1
 * **junctionIndex**:
 
 ## Return value
-

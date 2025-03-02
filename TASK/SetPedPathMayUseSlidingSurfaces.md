@@ -13,6 +13,3 @@ void _SET_PED_PATH_MAY_USE_SLIDING_SURFACES(Ped ped,BOOL useSlidingSurfaces);
 ## Parameters
 * **ped**:
 * **useSlidingSurfaces**:
-
-
-

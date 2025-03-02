@@ -16,6 +16,3 @@ https://imgur.com/a/bPzHcft
 ## Parameters
 * **vehicle**:
 * **lodLevel**:
-
-
-

@@ -21,4 +21,3 @@ BOOL GET_CLOSEST_VEHICLE_NODE_WITH_HEADING(float x,float y,float z,Vector3* outP
 * **p7**:
 
 ## Return value
-

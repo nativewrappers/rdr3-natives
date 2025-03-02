@@ -23,4 +23,3 @@ Vector3 GET_ANIM_INITIAL_OFFSET_ROTATION(const char* animDict,const char* animNa
 * **p9**:
 
 ## Return value
-

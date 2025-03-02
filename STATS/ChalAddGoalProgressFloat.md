@@ -14,6 +14,3 @@ void CHAL_ADD_GOAL_PROGRESS_FLOAT(Hash chalHash,Hash goalHash,float value);
 * **chalHash**:
 * **goalHash**:
 * **value**:
-
-
-

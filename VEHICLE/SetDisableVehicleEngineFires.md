@@ -13,6 +13,3 @@ void SET_DISABLE_VEHICLE_ENGINE_FIRES(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

@@ -14,6 +14,3 @@ void SET_WANTED_SCORE(Player player,int intensity);
 ## Parameters
 * **player**:
 * **intensity**:
-
-
-

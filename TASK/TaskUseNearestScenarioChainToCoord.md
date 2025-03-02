@@ -20,6 +20,3 @@ void TASK_USE_NEAREST_SCENARIO_CHAIN_TO_COORD(Ped ped,float x,float y,float z,fl
 * **p6**:
 * **p7**:
 * **p8**:
-
-
-

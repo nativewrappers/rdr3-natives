@@ -13,6 +13,3 @@ void SET_ANIM_SCENE_PAUSED(AnimScene animScene,BOOL toggle);
 ## Parameters
 * **animScene**:
 * **toggle**:
-
-
-

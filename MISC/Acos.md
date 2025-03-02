@@ -14,4 +14,3 @@ float ACOS(float p0);
 * **p0**:
 
 ## Return value
-

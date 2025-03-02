@@ -16,4 +16,3 @@ Returns true if the passed value is less than 32.
 * **player**:
 
 ## Return value
-

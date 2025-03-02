@@ -15,6 +15,3 @@ Outputs cached guids
 * **ped**:
 * **guidPrimary**:
 * **guidSecondary**:
-
-
-

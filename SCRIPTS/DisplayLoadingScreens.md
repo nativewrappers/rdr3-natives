@@ -18,6 +18,3 @@ void _DISPLAY_LOADING_SCREENS(Hash p0,Hash p1,Hash p2,const char* gamemodeName,c
 * **gamemodeName**:
 * **title**:
 * **subtitle**:
-
-
-

@@ -13,6 +13,3 @@ void _NETWORK_SPAWN_CONFIG_REMOVE_EXCLUSION_VOLUME(Volume volume);
 
 ## Parameters
 * **volume**:
-
-
-

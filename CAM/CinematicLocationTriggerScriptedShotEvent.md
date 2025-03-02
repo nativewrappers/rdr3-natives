@@ -16,6 +16,3 @@ void CINEMATIC_LOCATION_TRIGGER_SCRIPTED_SHOT_EVENT(const char* dictionary,const
 * **shotName**:
 * **cameraName**:
 * **p3**:
-
-
-

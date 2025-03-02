@@ -15,4 +15,3 @@ Any GAME_FRAMEWORK_MANAGER_INIT(Hash transitionMode);
 * **transitionMode**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ Not implemented.
 ## Parameters
 * **animal**:
 * **mood**:
-
-
-

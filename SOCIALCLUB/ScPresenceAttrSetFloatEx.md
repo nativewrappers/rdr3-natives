@@ -17,4 +17,3 @@ Any SC_PRESENCE_ATTR_SET_FLOAT_EX(const char* attrName,float value,BOOL p2);
 * **p2**:
 
 ## Return value
-

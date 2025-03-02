@@ -16,6 +16,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/vehicles/vehicle_modding/v
 * **vehicle**:
 * **extraId**:
 * **disable**:
-
-
-

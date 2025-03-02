@@ -17,6 +17,3 @@ Params: p2, p3 usually 0 in R* Scripts
 * **componentCategory**:
 * **p2**:
 * **p3**:
-
-
-

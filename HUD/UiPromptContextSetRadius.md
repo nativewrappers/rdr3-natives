@@ -14,6 +14,3 @@ void _UI_PROMPT_CONTEXT_SET_RADIUS(Prompt prompt,float radius);
 ## Parameters
 * **prompt**:
 * **radius**:
-
-
-

@@ -12,6 +12,3 @@ void _SET_CANT_LOSE_LAW_THIS_RESPONSE(BOOL enable);
 
 ## Parameters
 * **enable**:
-
-
-

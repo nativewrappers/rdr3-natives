@@ -14,4 +14,3 @@ Returns true if player is in first person
 
 
 ## Return value
-

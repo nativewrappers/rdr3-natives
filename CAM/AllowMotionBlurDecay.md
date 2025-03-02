@@ -14,6 +14,3 @@ void ALLOW_MOTION_BLUR_DECAY(Cam cam,BOOL p1);
 ## Parameters
 * **cam**:
 * **p1**:
-
-
-

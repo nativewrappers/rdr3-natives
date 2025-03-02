@@ -15,4 +15,3 @@ returns the amount of peds that were restrained with the weapon thrown bolas
 * **ped**:
 
 ## Return value
-

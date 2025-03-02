@@ -17,6 +17,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_CONFIG_FLAGS
 * **ped**:
 * **flagId**:
 * **value**:
-
-
-

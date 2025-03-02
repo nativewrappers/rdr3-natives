@@ -17,6 +17,3 @@ THREAD_PRIO_MANUAL_UPDATE = 100
 
 ## Parameters
 * **priority**:
-
-
-

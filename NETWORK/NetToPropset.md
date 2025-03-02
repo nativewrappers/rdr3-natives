@@ -15,4 +15,3 @@ PropSet _NET_TO_PROPSET(int netId);
 * **netId**:
 
 ## Return value
-

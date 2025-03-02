@@ -15,4 +15,3 @@ Hash _GET_PED_INTERACTION_PERSONALITY(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -20,4 +20,3 @@ Any _REQUEST_PED_FOR_SCENARIO_TYPE(Ped ped,Object object,const char* p2,Hash sce
 * **p5**:
 
 ## Return value
-

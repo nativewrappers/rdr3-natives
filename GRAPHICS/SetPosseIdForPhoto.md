@@ -13,6 +13,3 @@ void _SET_POSSE_ID_FOR_PHOTO(Any posseId);
 
 ## Parameters
 * **posseId**:
-
-
-

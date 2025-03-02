@@ -15,4 +15,3 @@ Any IS_PED_RUNNING_TASK_ITEM_INTERACTION(Ped ped);
 * **ped**:
 
 ## Return value
-

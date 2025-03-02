@@ -23,6 +23,3 @@ Params: p4 either 0.2f, 0.25f, 0.31f, 0.4f
 * **vPosOpponentZ**:
 * **fOpponentHead**:
 * **p10**:
-
-
-

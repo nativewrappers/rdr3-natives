@@ -13,6 +13,3 @@ Only used in fishing_core R* Script
 
 ## Parameters
 * **ped**:
-
-
-

@@ -25,6 +25,3 @@ void SHOOT_SINGLE_BULLET_BETWEEN_COORDS(float x1,float y1,float z1,float x2,floa
 * **isInvisible**:
 * **speed**:
 * **p13**:
-
-
-

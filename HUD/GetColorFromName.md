@@ -18,6 +18,3 @@ colorNameHash: https://alloc8or.re/rdr3/doc/enums/eColor.txt
 * **green**:
 * **blue**:
 * **alpha**:
-
-
-

@@ -15,4 +15,3 @@ Any _ANIMPOSTFX_IS_STACKHASH_PLAYING(Hash effectNameHash);
 * **effectNameHash**:
 
 ## Return value
-

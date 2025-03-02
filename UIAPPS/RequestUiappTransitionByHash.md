@@ -16,4 +16,3 @@ Any REQUEST_UIAPP_TRANSITION_BY_HASH(Hash appNameHash,Hash transitionHash);
 * **transitionHash**:
 
 ## Return value
-

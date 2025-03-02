@@ -16,6 +16,3 @@ void _TELEMETRY_SAMPLE(Any transactionId,Any animal,Any p2,Any bSampled,BOOL bTr
 * **p2**:
 * **bSampled**:
 * **bTranq**:
-
-
-

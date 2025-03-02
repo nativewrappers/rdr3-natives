@@ -14,4 +14,3 @@ Hardcoded to return zero.
 
 
 ## Return value
-

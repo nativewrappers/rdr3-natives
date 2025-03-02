@@ -15,4 +15,3 @@ Any _IS_PLAYER_IN_SCOPE(Player player);
 * **player**:
 
 ## Return value
-

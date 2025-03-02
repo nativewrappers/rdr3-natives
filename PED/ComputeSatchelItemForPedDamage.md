@@ -17,4 +17,3 @@ Any COMPUTE_SATCHEL_ITEM_FOR_PED_DAMAGE(Any p0,Ped pedAttached,int damageCleanli
 * **damageCleanliness**:
 
 ## Return value
-

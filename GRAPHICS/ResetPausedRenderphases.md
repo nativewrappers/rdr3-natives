@@ -8,8 +8,3 @@ apiset: client
 // 0xCCD9AAD85E1B559E
 void RESET_PAUSED_RENDERPHASES();
 ```
-
-
-
-
-

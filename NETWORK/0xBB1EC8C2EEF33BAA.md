@@ -12,6 +12,3 @@ void _0xBB1EC8C2EEF33BAA(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

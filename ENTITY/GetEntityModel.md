@@ -15,4 +15,3 @@ Returns the model hash from the entity
 * **entity**:
 
 ## Return value
-

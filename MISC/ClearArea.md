@@ -21,6 +21,3 @@ AMBIENT_POPULATION = 1048576
 * **z**:
 * **radius**:
 * **flag**:
-
-
-

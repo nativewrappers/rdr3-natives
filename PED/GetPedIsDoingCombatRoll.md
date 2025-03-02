@@ -15,4 +15,3 @@ Any GET_PED_IS_DOING_COMBAT_ROLL(Ped ped);
 * **ped**:
 
 ## Return value
-

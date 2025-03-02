@@ -12,4 +12,3 @@ BOOL _SHOULD_USE_24_HOUR_CLOCK();
 
 
 ## Return value
-

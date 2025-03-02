@@ -16,6 +16,3 @@ void SCRIPT_RACE_PLAYER_HIT_CHECKPOINT(int part,int checkpoint,int lap,int time)
 * **checkpoint**:
 * **lap**:
 * **time**:
-
-
-

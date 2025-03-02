@@ -15,4 +15,3 @@ Any GET_PED_IS_BEING_GRAPPLED(Ped ped);
 * **ped**:
 
 ## Return value
-

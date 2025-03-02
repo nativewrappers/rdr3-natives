@@ -16,4 +16,3 @@ Gets a value indicating whether the specified player is currently aiming freely 
 * **entity**:
 
 ## Return value
-

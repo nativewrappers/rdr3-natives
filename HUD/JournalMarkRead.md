@@ -13,6 +13,3 @@ void _JOURNAL_MARK_READ(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

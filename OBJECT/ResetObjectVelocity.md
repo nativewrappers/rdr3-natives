@@ -13,6 +13,3 @@ void _RESET_OBJECT_VELOCITY(Object object);
 
 ## Parameters
 * **object**:
-
-
-

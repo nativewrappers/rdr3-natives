@@ -14,6 +14,3 @@ void _PED_FISHINGROD_HOOK_ENTITY(Ped ped,Entity entity);
 ## Parameters
 * **ped**:
 * **entity**:
-
-
-

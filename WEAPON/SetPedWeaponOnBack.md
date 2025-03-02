@@ -14,6 +14,3 @@ Holster the holded shoulder weapon. Precisions: 0 means with anim while 1 means 
 ## Parameters
 * **ped**:
 * **disableAnim**:
-
-
-

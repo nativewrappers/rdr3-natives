@@ -14,4 +14,3 @@ _NETWORK_IS_T* - _NETWORK_RE*
 
 
 ## Return value
-

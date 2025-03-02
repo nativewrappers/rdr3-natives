@@ -20,4 +20,3 @@ Params: See 0x0751D461F06E41CE
 * **promptMode**:
 
 ## Return value
-

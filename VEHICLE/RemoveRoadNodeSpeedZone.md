@@ -15,4 +15,3 @@ BOOL REMOVE_ROAD_NODE_SPEED_ZONE(int speedzone);
 * **speedzone**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _PED_CLEAR_LOCO_MOTION(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

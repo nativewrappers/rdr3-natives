@@ -16,6 +16,3 @@ NOTE: Only disables the firing for one frame
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

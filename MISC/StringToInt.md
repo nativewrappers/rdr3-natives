@@ -16,4 +16,3 @@ Returns false if it's a null or empty string or if the string is too long. outIn
 * **outInteger**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void SET_SCENARIO_TYPE_ENABLED(const char* scenarioType,BOOL toggle);
 ## Parameters
 * **scenarioType**:
 * **toggle**:
-
-
-

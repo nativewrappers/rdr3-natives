@@ -14,4 +14,3 @@ Hash _GET_DEFAULT_RELATIONSHIP_GROUP_HASH(Hash modelHash);
 * **modelHash**:
 
 ## Return value
-

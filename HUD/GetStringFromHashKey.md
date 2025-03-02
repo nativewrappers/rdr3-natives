@@ -18,4 +18,3 @@ Old name: _GET_LABEL_TEXT_BY_HASH
 * **labelHash**:
 
 ## Return value
-

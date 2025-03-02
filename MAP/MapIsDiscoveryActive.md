@@ -15,4 +15,3 @@ Any _MAP_IS_DISCOVERY_ACTIVE(Hash discoveryHash);
 * **discoveryHash**:
 
 ## Return value
-

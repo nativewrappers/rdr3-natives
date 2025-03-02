@@ -16,4 +16,3 @@ Checks data related to Cinematic Cam Locations, if the check fails, the location
 * **locationDictName**:
 
 ## Return value
-

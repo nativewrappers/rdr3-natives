@@ -21,4 +21,3 @@ BOOL OVERRIDE_SAVE_HOUSE(BOOL override,float x,float y,float z,float heading,BOO
 * **returnHeading**:
 
 ## Return value
-

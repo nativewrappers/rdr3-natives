@@ -15,4 +15,3 @@ Any _REMOVE_SCENARIO_ASSET(Hash scenarioType);
 * **scenarioType**:
 
 ## Return value
-

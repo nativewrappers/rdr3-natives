@@ -19,4 +19,3 @@ Activates the Surrender prompt for the specified player in the current frame.
 
 
 [object Object]
-

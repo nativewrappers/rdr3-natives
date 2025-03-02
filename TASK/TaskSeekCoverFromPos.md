@@ -19,6 +19,3 @@ void TASK_SEEK_COVER_FROM_POS(Ped ped,float x,float y,float z,int duration,Any p
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

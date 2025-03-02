@@ -15,4 +15,3 @@ int _ITEMDATABASE_GET_NUMBER_OF_MODIFIED_PRICES(Hash key);
 * **key**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ Clears the intensity of aura effects applied to entities for a specific player i
 ## Parameters
 * **player**:
 * **bitflag**:
-
-
-

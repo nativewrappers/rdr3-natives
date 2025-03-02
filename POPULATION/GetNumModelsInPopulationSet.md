@@ -14,4 +14,3 @@ int GET_NUM_MODELS_IN_POPULATION_SET(Hash popSetHash);
 * **popSetHash**:
 
 ## Return value
-

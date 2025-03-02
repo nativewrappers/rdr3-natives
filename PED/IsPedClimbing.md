@@ -14,4 +14,3 @@ BOOL IS_PED_CLIMBING(Ped ped);
 * **ped**:
 
 ## Return value
-

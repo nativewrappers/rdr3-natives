@@ -12,4 +12,3 @@ BOOL IS_GAMEPLAY_HINT_ACTIVE();
 
 
 ## Return value
-

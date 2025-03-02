@@ -15,4 +15,3 @@ _IS_PED_R*
 * **ped**:
 
 ## Return value
-

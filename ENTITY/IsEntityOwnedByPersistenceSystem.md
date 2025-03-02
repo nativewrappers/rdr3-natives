@@ -15,4 +15,3 @@ Any _IS_ENTITY_OWNED_BY_PERSISTENCE_SYSTEM(Entity entity);
 * **entity**:
 
 ## Return value
-

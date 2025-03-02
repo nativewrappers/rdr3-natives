@@ -8,8 +8,3 @@ apiset: client
 // 0xE1F389F03DC83673
 void INVENTORY_DISABLE_MISSION_INVENTORY_PICKUPS();
 ```
-
-
-
-
-

@@ -15,4 +15,3 @@ Any _UI_PROMPT_IS_ENABLED(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

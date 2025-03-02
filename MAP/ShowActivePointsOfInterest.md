@@ -9,8 +9,3 @@ apiset: client
 // 0x3FBB838AEA30C1D8
 void _SHOW_ACTIVE_POINTS_OF_INTEREST();
 ```
-
-
-
-
-

@@ -15,6 +15,3 @@ AddTextEntry("custom_text", "Throw a punch") and use custom_text in the native
 ## Parameters
 * **player**:
 * **label**:
-
-
-

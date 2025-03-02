@@ -14,6 +14,3 @@ disables composite Pick prompt
 ## Parameters
 * **compositeId**:
 * **disable**:
-
-
-

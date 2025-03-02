@@ -15,4 +15,3 @@ Any _GET_PED_CAN_BE_INCAPACITATED_THIS_FRAME(Ped ped);
 * **ped**:
 
 ## Return value
-

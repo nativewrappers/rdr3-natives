@@ -14,4 +14,3 @@ Player NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

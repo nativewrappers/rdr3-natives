@@ -25,4 +25,3 @@ Only used in SP scripts, for example odriscolls1: BOOLS: true, true, true, false
 * **p9**:
 
 ## Return value
-

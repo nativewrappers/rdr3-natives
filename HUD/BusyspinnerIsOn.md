@@ -12,4 +12,3 @@ BOOL BUSYSPINNER_IS_ON();
 
 
 ## Return value
-

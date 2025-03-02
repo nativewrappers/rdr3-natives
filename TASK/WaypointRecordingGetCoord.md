@@ -16,4 +16,3 @@ BOOL WAYPOINT_RECORDING_GET_COORD(const char* waypointRecording,int point,Vector
 * **coord**:
 
 ## Return value
-

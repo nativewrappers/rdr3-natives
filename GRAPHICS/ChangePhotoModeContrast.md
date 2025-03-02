@@ -12,6 +12,3 @@ void _CHANGE_PHOTO_MODE_CONTRAST(float value);
 
 ## Parameters
 * **value**:
-
-
-

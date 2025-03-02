@@ -16,4 +16,3 @@ Any _UGC_QUERY_GET_BOOK_MARKED(Any p0,int index);
 * **index**:
 
 ## Return value
-

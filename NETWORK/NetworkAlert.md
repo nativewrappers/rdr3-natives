@@ -15,6 +15,3 @@ void _NETWORK_ALERT(Hash ctx,Hash lh,int ec,int h);
 * **lh**:
 * **ec**:
 * **h**:
-
-
-

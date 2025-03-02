@@ -15,6 +15,3 @@ void _SET_WORLD_WATER_TYPE(int waterType);
 
 ## Parameters
 * **waterType**:
-
-
-

@@ -14,6 +14,3 @@ void SET_ENTITY_COLLISION(Entity entity,BOOL toggle,BOOL keepPhysics);
 * **entity**:
 * **toggle**:
 * **keepPhysics**:
-
-
-

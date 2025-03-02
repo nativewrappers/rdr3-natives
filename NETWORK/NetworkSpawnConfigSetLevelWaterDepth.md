@@ -13,6 +13,3 @@ void _NETWORK_SPAWN_CONFIG_SET_LEVEL_WATER_DEPTH(int waterDepthLevel);
 
 ## Parameters
 * **waterDepthLevel**:
-
-
-

@@ -14,6 +14,3 @@ void _SET_GLOBAL_BLOCK_IS_LOADED(int index,BOOL toggle);
 ## Parameters
 * **index**:
 * **toggle**:
-
-
-

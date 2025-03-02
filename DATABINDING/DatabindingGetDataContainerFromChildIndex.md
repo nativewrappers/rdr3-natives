@@ -15,4 +15,3 @@ Any _DATABINDING_GET_DATA_CONTAINER_FROM_CHILD_INDEX(Hash entryId,int p1);
 * **p1**:
 
 ## Return value
-

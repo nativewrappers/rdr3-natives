@@ -15,4 +15,3 @@ Gets the X-component of the entity's forward vector.
 * **entity**:
 
 ## Return value
-

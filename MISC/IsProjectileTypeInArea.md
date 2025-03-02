@@ -22,4 +22,3 @@ Determines whether there is a projectile of a specific type within the specified
 * **isPlayer**:
 
 ## Return value
-

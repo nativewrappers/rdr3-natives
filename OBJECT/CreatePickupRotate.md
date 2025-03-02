@@ -29,4 +29,3 @@ flags: see CREATE_PICKUP
 * **p14**:
 
 ## Return value
-

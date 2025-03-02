@@ -24,4 +24,3 @@ Vector3 GET_CLOSEST_POINT_ON_LINE(float p0,float p1,float p2,float p3,float p4,f
 * **p9**:
 
 ## Return value
-

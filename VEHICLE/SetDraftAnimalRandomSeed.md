@@ -14,6 +14,3 @@ void _SET_DRAFT_ANIMAL_RANDOM_SEED(Vehicle vehicle,int seed);
 ## Parameters
 * **vehicle**:
 * **seed**:
-
-
-

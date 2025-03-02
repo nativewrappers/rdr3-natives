@@ -14,4 +14,3 @@ float _0x5CA7FB7D6DE49DCC(Player player);
 * **player**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Use GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle) - 1 for last seat index.
 * **seatIndex**:
 
 ## Return value
-

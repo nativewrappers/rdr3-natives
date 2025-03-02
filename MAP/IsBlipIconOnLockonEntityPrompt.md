@@ -16,4 +16,3 @@ checks if the entity lockon prompt contains an icon
 * **blipId**:
 
 ## Return value
-

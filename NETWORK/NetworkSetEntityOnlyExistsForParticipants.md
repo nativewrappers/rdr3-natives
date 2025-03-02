@@ -24,6 +24,3 @@ Old name: _NETWORK_SET_ENTITY_INVISIBLE_TO_NETWORK
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

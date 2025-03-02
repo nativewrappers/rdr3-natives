@@ -21,6 +21,3 @@ Tells the ped to go to a coord, without using the navemesh. if timeBeforeTelepor
 * **finalHeading**:
 * **targetRadius**:
 * **p8**:
-
-
-

@@ -13,4 +13,3 @@ Gets the current frame time.
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any _GET_BEST_PED_WEAPON_IN_INVENTORY(Ped ped,Any p1,Any* guidPrimary);
 * **guidPrimary**:
 
 ## Return value
-

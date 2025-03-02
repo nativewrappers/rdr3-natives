@@ -15,6 +15,3 @@ void _RESTORE_PED_STAMINA(Ped ped,float stamina);
 ## Parameters
 * **ped**:
 * **stamina**:
-
-
-

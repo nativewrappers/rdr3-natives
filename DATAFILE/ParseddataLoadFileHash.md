@@ -17,4 +17,3 @@ Returns parseddata script fileHandle
 * **p0**:
 
 ## Return value
-

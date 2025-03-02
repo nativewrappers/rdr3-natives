@@ -16,4 +16,3 @@ Note: this native was added in build 1311.23
 * **sessionId2**:
 
 ## Return value
-

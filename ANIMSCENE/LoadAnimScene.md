@@ -12,6 +12,3 @@ void LOAD_ANIM_SCENE(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

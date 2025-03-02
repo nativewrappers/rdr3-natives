@@ -14,4 +14,3 @@ float GET_WANTED_LEVEL_RADIUS(int p0);
 * **p0**:
 
 ## Return value
-

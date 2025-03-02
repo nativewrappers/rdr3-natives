@@ -14,4 +14,3 @@ BOOL IS_ENTITY_DEAD(Entity entity);
 * **entity**:
 
 ## Return value
-

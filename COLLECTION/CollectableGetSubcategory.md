@@ -15,4 +15,3 @@ Hash _COLLECTABLE_GET_SUBCATEGORY(Hash collectableItem);
 * **collectableItem**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void DELETE_MISSION_TRAIN(Vehicle* train);
 
 ## Parameters
 * **train**:
-
-
-

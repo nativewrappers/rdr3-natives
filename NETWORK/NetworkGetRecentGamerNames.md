@@ -18,4 +18,3 @@ Any NETWORK_GET_RECENT_GAMER_NAMES(int p0,int p1,Any* outData,int dataSize);
 * **dataSize**:
 
 ## Return value
-

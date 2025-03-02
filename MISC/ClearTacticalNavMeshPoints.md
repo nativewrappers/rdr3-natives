@@ -9,8 +9,3 @@ apiset: client
 // 0xD93B6516C6878267
 void CLEAR_TACTICAL_NAV_MESH_POINTS();
 ```
-
-
-
-
-

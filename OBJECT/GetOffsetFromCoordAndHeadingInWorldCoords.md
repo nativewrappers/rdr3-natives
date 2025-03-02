@@ -22,4 +22,3 @@ Old name: _GET_OBJECT_OFFSET_FROM_COORDS
 * **zOffset**:
 
 ## Return value
-

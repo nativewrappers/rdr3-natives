@@ -14,4 +14,3 @@ BOOL IS_PED_IN_ANY_HELI(Ped ped);
 * **ped**:
 
 ## Return value
-

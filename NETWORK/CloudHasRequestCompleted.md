@@ -14,4 +14,3 @@ BOOL CLOUD_HAS_REQUEST_COMPLETED(int id);
 * **id**:
 
 ## Return value
-

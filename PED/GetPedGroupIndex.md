@@ -15,4 +15,3 @@ Returns the groupId of which the specified ped is a member of.
 * **ped**:
 
 ## Return value
-

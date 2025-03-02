@@ -12,6 +12,3 @@ void DETACH_ANIM_SCENE(AnimScene animScene);
 
 ## Parameters
 * **animScene**:
-
-
-

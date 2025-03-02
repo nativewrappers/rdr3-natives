@@ -16,4 +16,3 @@ p0 seems to always be empty string, p1 is the hash of the path
 * **path**:
 
 ## Return value
-

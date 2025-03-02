@@ -18,4 +18,3 @@ Any NETWORK_AUTO_SESSION_SPLIT_SESSION(int playersToTake,int maxInstancePlayers,
 * **bucketId**:
 
 ## Return value
-

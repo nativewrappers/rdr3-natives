@@ -13,6 +13,3 @@ void REMOVE_GRASS_CULL_SPHERE(int handle);
 
 ## Parameters
 * **handle**:
-
-
-

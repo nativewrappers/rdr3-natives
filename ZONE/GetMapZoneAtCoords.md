@@ -43,4 +43,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/zones & https://alloc8or.r
 * **type**:
 
 ## Return value
-

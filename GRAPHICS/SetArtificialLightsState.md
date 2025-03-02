@@ -16,6 +16,3 @@ state: True turns off all artificial light sources in the map: buildings, street
 
 ## Parameters
 * **state**:
-
-
-

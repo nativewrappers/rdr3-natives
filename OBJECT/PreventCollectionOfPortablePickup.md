@@ -15,6 +15,3 @@ void PREVENT_COLLECTION_OF_PORTABLE_PICKUP(Object object,BOOL p1,BOOL p2);
 * **object**:
 * **p1**:
 * **p2**:
-
-
-

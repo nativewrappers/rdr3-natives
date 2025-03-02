@@ -16,6 +16,3 @@ void SET_VEHICLE_WEAPON_HEADING(Vehicle vehicle,int seatIndex,float heading,BOOL
 * **seatIndex**:
 * **heading**:
 * **p3**:
-
-
-

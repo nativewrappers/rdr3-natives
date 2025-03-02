@@ -25,4 +25,3 @@ int START_PARTICLE_FX_LOOPED_ON_ENTITY(const char* effectName,Entity entity,floa
 * **zAxis**:
 
 ## Return value
-

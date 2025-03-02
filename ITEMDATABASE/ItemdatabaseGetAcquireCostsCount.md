@@ -16,4 +16,3 @@ Returns the number of <Item>s <acquirecosts> has from the key in catalog_sp.ymt
 * **key**:
 
 ## Return value
-

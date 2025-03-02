@@ -15,4 +15,3 @@ Any _GET_CARRIED_PELT_SKINS(Ped mount,Any* outData);
 * **outData**:
 
 ## Return value
-

@@ -9,8 +9,3 @@ apiset: client
 // 0x32D5898C4898CD95
 void _CLEAR_TELEMETRY_SHOP_UI();
 ```
-
-
-
-
-

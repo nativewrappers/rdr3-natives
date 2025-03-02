@@ -16,4 +16,3 @@ _ADD* (_ADD_SHOCKING_EVENT_* ?)
 * **p1**:
 
 ## Return value
-

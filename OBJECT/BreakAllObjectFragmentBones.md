@@ -13,6 +13,3 @@ void BREAK_ALL_OBJECT_FRAGMENT_BONES(Object object);
 
 ## Parameters
 * **object**:
-
-
-

@@ -14,4 +14,3 @@ int NETWORK_GET_PARTICIPANT_INDEX(int index);
 * **index**:
 
 ## Return value
-

@@ -30,6 +30,3 @@ doorId: enum eDoorId
 * **vehicle**:
 * **doorId**:
 * **closeInstantly**:
-
-
-

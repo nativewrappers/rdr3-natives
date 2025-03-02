@@ -18,6 +18,3 @@ void TASK_GO_TO_ENTITY(Ped ped,Entity target,int duration,float distance,float s
 * **speed**:
 * **p5**:
 * **p6**:
-
-
-

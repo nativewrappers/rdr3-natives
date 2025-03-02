@@ -14,6 +14,3 @@ void _SET_TRAIN_STOPS_FOR_STATIONS(Vehicle train,BOOL toggle);
 ## Parameters
 * **train**:
 * **toggle**:
-
-
-

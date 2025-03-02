@@ -17,6 +17,3 @@ void TASK_STAND_GUARD(Ped ped,float x,float y,float z,float heading,const char* 
 * **z**:
 * **heading**:
 * **scenarioName**:
-
-
-

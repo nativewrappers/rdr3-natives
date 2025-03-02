@@ -15,4 +15,3 @@ int GET_RELATIONSHIP_BETWEEN_PEDS(Ped ped1,Ped ped2);
 * **ped2**:
 
 ## Return value
-

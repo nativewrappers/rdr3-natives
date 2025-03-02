@@ -21,4 +21,3 @@ Any _LAW_WITNESS_RESPONSE_TASK(Ped pedGroup1,Ped ped,Ped pedGroup2,float x,float
 * **crimeType**:
 
 ## Return value
-

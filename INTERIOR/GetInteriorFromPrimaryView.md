@@ -13,4 +13,3 @@ Interior GET_INTERIOR_FROM_PRIMARY_VIEW();
 
 
 ## Return value
-

@@ -17,6 +17,3 @@ Can also be used on trains and its wagons
 * **doorId**:
 * **loose**:
 * **openInstantly**:
-
-
-

@@ -14,6 +14,3 @@ void _SET_HEALTH_RECHARGE_MULTIPLIER(Ped ped,int multiplier);
 ## Parameters
 * **ped**:
 * **multiplier**:
-
-
-

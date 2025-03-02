@@ -12,4 +12,3 @@ BOOL GET_RANDOM_EVENT_FLAG();
 
 
 ## Return value
-

@@ -9,8 +9,3 @@ apiset: client
 // 0x3E2FDDBE435A8787
 void _PEDSHOT_PREVIOUS_PERSONA_PHOTO_DATA_CLEANUP();
 ```
-
-
-
-
-

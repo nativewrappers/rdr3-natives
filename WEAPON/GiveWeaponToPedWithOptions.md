@@ -17,4 +17,3 @@ BOOL GIVE_WEAPON_TO_PED_WITH_OPTIONS(Ped ped,Any* data,Any* outData);
 * **outData**:
 
 ## Return value
-

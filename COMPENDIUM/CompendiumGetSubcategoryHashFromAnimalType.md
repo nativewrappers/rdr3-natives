@@ -15,4 +15,3 @@ Hash _COMPENDIUM_GET_SUBCATEGORY_HASH_FROM_ANIMAL_TYPE(Hash category,Hash animal
 * **animalType**:
 
 ## Return value
-

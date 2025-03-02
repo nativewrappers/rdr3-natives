@@ -12,4 +12,3 @@ BOOL _CASHINVENTORY_INIT_SESSION_IS_FAULTED();
 
 
 ## Return value
-

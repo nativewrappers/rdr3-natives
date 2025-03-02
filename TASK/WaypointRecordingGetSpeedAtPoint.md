@@ -15,4 +15,3 @@ float WAYPOINT_RECORDING_GET_SPEED_AT_POINT(const char* waypointRecording,int po
 * **point**:
 
 ## Return value
-

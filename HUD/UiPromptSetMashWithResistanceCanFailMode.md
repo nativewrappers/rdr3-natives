@@ -18,6 +18,3 @@ For decreaseSpeed, 0.0f will result in the prompt not showing the mash progress 
 * **mashes**:
 * **decreaseSpeed**:
 * **startProgress**:
-
-
-

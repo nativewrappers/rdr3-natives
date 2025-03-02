@@ -16,4 +16,3 @@ Any SET_VEHICLE_AUTOMATICALLY_ATTACHES(Vehicle vehicle,BOOL p1,Any p2);
 * **p2**:
 
 ## Return value
-

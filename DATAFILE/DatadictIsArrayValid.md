@@ -15,4 +15,3 @@ Any DATADICT_IS_ARRAY_VALID(Any* fileDict);
 * **fileDict**:
 
 ## Return value
-

@@ -12,4 +12,3 @@ BOOL NETWORK_IS_IN_TUTORIAL_SESSION();
 
 
 ## Return value
-

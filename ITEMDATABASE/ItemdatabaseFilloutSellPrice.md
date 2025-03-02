@@ -18,4 +18,3 @@ Params: sellType = SELL_SHOP_DEFAULT
 * **outData**:
 
 ## Return value
-

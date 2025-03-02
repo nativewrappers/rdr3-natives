@@ -13,4 +13,3 @@ Any NETWORK_DID_GET_GAMER_STATUS_SUCCEED();
 
 
 ## Return value
-

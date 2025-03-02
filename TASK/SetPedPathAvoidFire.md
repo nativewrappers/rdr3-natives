@@ -13,6 +13,3 @@ void SET_PED_PATH_AVOID_FIRE(Ped ped,BOOL avoidFire);
 ## Parameters
 * **ped**:
 * **avoidFire**:
-
-
-

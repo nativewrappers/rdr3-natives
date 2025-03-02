@@ -19,6 +19,3 @@ void SET_GAMEPLAY_OBJECT_HINT(Any p0,float p1,float p2,float p3,BOOL p4,Any p5,A
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

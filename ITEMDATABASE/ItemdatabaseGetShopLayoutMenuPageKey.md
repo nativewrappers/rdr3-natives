@@ -18,4 +18,3 @@ Any _ITEMDATABASE_GET_SHOP_LAYOUT_MENU_PAGE_KEY(Hash layout,Hash menu,int index,
 * **outPageKey**:
 
 ## Return value
-

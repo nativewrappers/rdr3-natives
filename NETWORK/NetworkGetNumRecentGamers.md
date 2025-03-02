@@ -13,4 +13,3 @@ int _NETWORK_GET_NUM_RECENT_GAMERS();
 
 
 ## Return value
-

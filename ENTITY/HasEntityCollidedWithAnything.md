@@ -14,4 +14,3 @@ BOOL HAS_ENTITY_COLLIDED_WITH_ANYTHING(Entity entity);
 * **entity**:
 
 ## Return value
-

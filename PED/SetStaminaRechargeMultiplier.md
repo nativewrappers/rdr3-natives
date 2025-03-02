@@ -14,6 +14,3 @@ void _SET_STAMINA_RECHARGE_MULTIPLIER(Ped ped,int multiplier);
 ## Parameters
 * **ped**:
 * **multiplier**:
-
-
-

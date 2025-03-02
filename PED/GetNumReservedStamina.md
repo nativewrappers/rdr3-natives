@@ -15,4 +15,3 @@ returns the number of reserved stamina similar to _GET_NUM_RESERVED_HEALTH
 * **ped**:
 
 ## Return value
-

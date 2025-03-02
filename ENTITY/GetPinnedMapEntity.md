@@ -15,4 +15,3 @@ Entity _GET_PINNED_MAP_ENTITY(Any p0);
 * **p0**:
 
 ## Return value
-

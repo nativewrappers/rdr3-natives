@@ -13,6 +13,3 @@ void SET_VEHICLE_HAS_BEEN_OWNED_BY_PLAYER(Vehicle vehicle,BOOL owned);
 ## Parameters
 * **vehicle**:
 * **owned**:
-
-
-

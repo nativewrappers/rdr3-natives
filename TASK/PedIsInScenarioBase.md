@@ -15,4 +15,3 @@ Any _PED_IS_IN_SCENARIO_BASE(Ped ped);
 * **ped**:
 
 ## Return value
-

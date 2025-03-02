@@ -24,6 +24,3 @@ Searching area between coords 1 and 2
 * **p8**:
 * **duration**:
 * **p10**:
-
-
-

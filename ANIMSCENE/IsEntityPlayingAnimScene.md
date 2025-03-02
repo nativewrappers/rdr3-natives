@@ -16,4 +16,3 @@ Any IS_ENTITY_PLAYING_ANIM_SCENE(Entity entity,AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

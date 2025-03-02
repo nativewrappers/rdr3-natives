@@ -15,4 +15,3 @@ BOOL _UI_PROMPT_IS_ACTIVE(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

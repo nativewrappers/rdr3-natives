@@ -15,4 +15,3 @@ Vector3 GET_VOLUME_SCALE(Volume volume);
 * **volume**:
 
 ## Return value
-

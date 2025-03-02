@@ -13,4 +13,3 @@ int GET_NUMBER_OF_MICROSECONDS_SINCE_LAST_CALL();
 
 
 ## Return value
-

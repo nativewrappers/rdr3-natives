@@ -15,4 +15,3 @@ int GET_RELATIONSHIP_BETWEEN_GROUPS(Hash group1,Hash group2);
 * **group2**:
 
 ## Return value
-

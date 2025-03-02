@@ -25,4 +25,3 @@ enum eOnCallType
 * **sessionRequestId**:
 
 ## Return value
-

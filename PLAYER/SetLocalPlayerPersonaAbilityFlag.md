@@ -48,6 +48,3 @@ enum ePersonaAbilityFlag
 ## Parameters
 * **flagId**:
 * **toggle**:
-
-
-

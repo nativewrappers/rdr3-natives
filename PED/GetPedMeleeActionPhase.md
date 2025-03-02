@@ -15,4 +15,3 @@ float _GET_PED_MELEE_ACTION_PHASE(Ped ped);
 * **ped**:
 
 ## Return value
-

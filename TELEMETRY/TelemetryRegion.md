@@ -13,6 +13,3 @@ void _TELEMETRY_REGION(Hash regionHash);
 
 ## Parameters
 * **regionHash**:
-
-
-

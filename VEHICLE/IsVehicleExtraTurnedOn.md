@@ -15,4 +15,3 @@ BOOL IS_VEHICLE_EXTRA_TURNED_ON(Vehicle vehicle,int extraId);
 * **extraId**:
 
 ## Return value
-

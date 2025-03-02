@@ -15,4 +15,3 @@ Any _IS_SCRIPTED_CONVERSATION_CREATED(const char* convoRoot);
 * **convoRoot**:
 
 ## Return value
-

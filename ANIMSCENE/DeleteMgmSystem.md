@@ -13,6 +13,3 @@ void _DELETE_MGM_SYSTEM(int mgmHandle);
 
 ## Parameters
 * **mgmHandle**:
-
-
-

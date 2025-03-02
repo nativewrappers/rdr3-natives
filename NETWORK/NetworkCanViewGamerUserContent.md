@@ -15,4 +15,3 @@ Any NETWORK_CAN_VIEW_GAMER_USER_CONTENT(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

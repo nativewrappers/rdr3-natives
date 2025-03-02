@@ -15,4 +15,3 @@ Any _NETWORK_SET_GANG_SIZE(int size);
 * **size**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ old name DISABLE_LOOTING_COMPOSITE_LOOTABLE_THIS_FRAME
 ## Parameters
 * **compositeId**:
 * **disable**:
-
-
-

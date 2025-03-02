@@ -13,6 +13,3 @@ void NETWORK_SET_LOCAL_PLAYER_PENDING_FAST_INSTANCE_ID(int instanceId);
 
 ## Parameters
 * **instanceId**:
-
-
-

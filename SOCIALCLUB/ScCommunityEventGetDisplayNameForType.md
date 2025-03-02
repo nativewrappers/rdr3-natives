@@ -16,4 +16,3 @@ Any SC_COMMUNITY_EVENT_GET_DISPLAY_NAME_FOR_TYPE(char* p0,const char* p1);
 * **p1**:
 
 ## Return value
-

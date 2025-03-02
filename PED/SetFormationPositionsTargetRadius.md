@@ -15,4 +15,3 @@ Any SET_FORMATION_POSITIONS_TARGET_RADIUS(int groupId,float radius);
 * **radius**:
 
 ## Return value
-

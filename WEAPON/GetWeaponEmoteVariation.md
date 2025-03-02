@@ -25,4 +25,3 @@ WEAPON_EMOTE_NUM_VARIATIONS
 * **variation**:
 
 ## Return value
-

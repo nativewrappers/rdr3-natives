@@ -15,6 +15,3 @@ void BOOST_PLAYER_HORSE_SPEED_FOR_TIME(Player player,float speedBoost,int durati
 * **player**:
 * **speedBoost**:
 * **duration**:
-
-
-

@@ -13,4 +13,3 @@ Same as SHOULD_USE_METRIC_MEASUREMENTS
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any _IS_MOUNT_SEAT_FREE(Ped mount,int seat);
 * **seat**:
 
 ## Return value
-

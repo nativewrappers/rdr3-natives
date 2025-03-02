@@ -15,6 +15,3 @@ enum _0x18F77396
 ## Parameters
 * **groupId**:
 * **activity**:
-
-
-

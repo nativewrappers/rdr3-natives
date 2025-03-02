@@ -23,4 +23,3 @@ Volume _CREATE_VOLUME_BY_HASH(Hash volumeType,float x,float y,float z,float rotX
 * **scaleZ**:
 
 ## Return value
-

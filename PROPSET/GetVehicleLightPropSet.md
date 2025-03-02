@@ -16,4 +16,3 @@ Returns PropSet handle to be used with _GET_PROP_SET_MODEL
 * **vehicle**:
 
 ## Return value
-

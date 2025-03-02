@@ -13,4 +13,3 @@ int POSSE_GET_POSSE_MEMBERSHIP_COUNT();
 
 
 ## Return value
-

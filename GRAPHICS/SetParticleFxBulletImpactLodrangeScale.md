@@ -13,6 +13,3 @@ void SET_PARTICLE_FX_BULLET_IMPACT_LODRANGE_SCALE(float p0);
 
 ## Parameters
 * **p0**:
-
-
-

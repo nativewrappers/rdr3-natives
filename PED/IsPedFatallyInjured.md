@@ -16,4 +16,3 @@ If the handle is invalid, the function returns true.
 * **ped**:
 
 ## Return value
-

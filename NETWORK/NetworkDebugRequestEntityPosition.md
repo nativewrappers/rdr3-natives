@@ -14,6 +14,3 @@ Must be called from a background script, otherwise it will do nothing.
 
 ## Parameters
 * **p0**:
-
-
-

@@ -24,4 +24,3 @@ Volume _CREATE_ANTI_GRIEF_VOLUME(Hash volumeType,float x,float y,float z,float r
 * **scaleZ**:
 
 ## Return value
-

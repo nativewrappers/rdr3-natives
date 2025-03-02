@@ -14,6 +14,3 @@ void _SET_PED_COMBAT_BEHAVIOUR(Ped ped,Hash behaviour);
 ## Parameters
 * **ped**:
 * **behaviour**:
-
-
-

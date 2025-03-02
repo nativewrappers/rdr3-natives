@@ -14,4 +14,3 @@ BOOL IS_PED_CUFFED(Ped ped);
 * **ped**:
 
 ## Return value
-

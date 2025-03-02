@@ -15,4 +15,3 @@ Any _POKER_RAISE(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

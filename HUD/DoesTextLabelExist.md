@@ -15,4 +15,3 @@ Checks if the passed gxt name exists in the game files.
 * **label**:
 
 ## Return value
-

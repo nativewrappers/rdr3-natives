@@ -13,6 +13,3 @@ void _DATABINDING_WRITE_DATA_INT(Any p0,int p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

@@ -13,6 +13,3 @@ void RESET_WANTED_FOR_NEW_INCIDENT(Player player);
 
 ## Parameters
 * **player**:
-
-
-

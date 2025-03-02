@@ -15,4 +15,3 @@ BOOL IS_PLAYER_WANTED_LEVEL_GREATER(Player player,int wantedLevel);
 * **wantedLevel**:
 
 ## Return value
-

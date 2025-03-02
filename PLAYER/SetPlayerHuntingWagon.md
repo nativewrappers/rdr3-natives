@@ -15,6 +15,3 @@ Only applies to HUNTERCART01
 ## Parameters
 * **player**:
 * **wagon**:
-
-
-

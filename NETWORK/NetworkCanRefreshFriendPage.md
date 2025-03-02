@@ -13,4 +13,3 @@ Any NETWORK_CAN_REFRESH_FRIEND_PAGE();
 
 
 ## Return value
-

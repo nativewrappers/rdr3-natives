@@ -16,4 +16,3 @@ char* DATAARRAY_GET_STRING(Any* arrayData,int arrayIndex);
 * **arrayIndex**:
 
 ## Return value
-

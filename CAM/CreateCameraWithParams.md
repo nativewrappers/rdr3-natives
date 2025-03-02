@@ -23,4 +23,3 @@ Cam CREATE_CAMERA_WITH_PARAMS(Hash camHash,float posX,float posY,float posZ,floa
 * **p9**:
 
 ## Return value
-

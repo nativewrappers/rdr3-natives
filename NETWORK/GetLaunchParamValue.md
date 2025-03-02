@@ -15,4 +15,3 @@ char* GET_LAUNCH_PARAM_VALUE(const char* paramName);
 * **paramName**:
 
 ## Return value
-

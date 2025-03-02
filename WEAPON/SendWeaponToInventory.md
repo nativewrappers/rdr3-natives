@@ -16,6 +16,3 @@ However, the weapon is not visible on the horse holster, but you can reach the w
 ## Parameters
 * **ped**:
 * **weaponHash**:
-
-
-

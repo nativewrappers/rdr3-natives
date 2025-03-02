@@ -17,4 +17,3 @@ _C* (O, P, Q, R)
 * **train**:
 
 ## Return value
-

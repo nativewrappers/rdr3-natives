@@ -15,4 +15,3 @@ Hash _GET_ANIM_SCENE_DICT(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/boneNames
 * **boneIndex**:
 
 ## Return value
-

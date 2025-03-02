@@ -13,6 +13,3 @@ void _SHOW_PLAYER_CORES(BOOL state);
 
 ## Parameters
 * **state**:
-
-
-

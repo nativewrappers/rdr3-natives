@@ -15,6 +15,3 @@ void _ADD_BLOOD_TRAIL_POINT(float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

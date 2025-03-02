@@ -15,4 +15,3 @@ float _GET_STAMINA_RECHARGE_MULTIPLIER(Ped ped);
 * **ped**:
 
 ## Return value
-

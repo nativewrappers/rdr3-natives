@@ -15,6 +15,3 @@ Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId 
 * **entryId**:
 * **weapon**:
 * **ped**:
-
-
-

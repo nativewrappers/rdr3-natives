@@ -14,4 +14,3 @@ BOOL SC_PROFANITY_GET_CHECK_IS_PENDING(int token);
 * **token**:
 
 ## Return value
-

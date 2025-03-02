@@ -15,6 +15,3 @@ void TASK_COMBAT_PED_TIMED(Ped ped,Ped targetPed,int p2,Any p3);
 * **targetPed**:
 * **p2**:
 * **p3**:
-
-
-

@@ -16,4 +16,3 @@ Any _DOES_ENTITY_WITH_ID_EXIST_IN_ANIM_SCENE(AnimScene animScene,const char* ent
 * **entityId**:
 
 ## Return value
-

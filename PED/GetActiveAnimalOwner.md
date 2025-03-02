@@ -15,4 +15,3 @@ Ped _GET_ACTIVE_ANIMAL_OWNER(Ped animal);
 * **animal**:
 
 ## Return value
-

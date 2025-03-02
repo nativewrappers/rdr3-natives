@@ -14,6 +14,3 @@ Old name: STOP_PAD_SHAKE
 
 ## Parameters
 * **control**:
-
-
-

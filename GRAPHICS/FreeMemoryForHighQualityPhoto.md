@@ -9,8 +9,3 @@ apiset: client
 // 0xD45547D8396F002A
 void FREE_MEMORY_FOR_HIGH_QUALITY_PHOTO();
 ```
-
-
-
-
-

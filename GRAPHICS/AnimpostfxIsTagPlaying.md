@@ -15,4 +15,3 @@ Any _ANIMPOSTFX_IS_TAG_PLAYING(const char* effectName);
 * **effectName**:
 
 ## Return value
-

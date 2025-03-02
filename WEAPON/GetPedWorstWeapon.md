@@ -18,4 +18,3 @@ Hash _GET_PED_WORST_WEAPON(Ped ped,BOOL p1,BOOL p2,BOOL p3);
 * **p3**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ SOBER = 0.0f, SLIGHTLY_DRUNK = 0.25f, MODERATELY_DRUNK = 0.5f, VERY_DRUNK = 1.0f
 * **ped**:
 * **enabled**:
 * **drunknessLevel**:
-
-
-

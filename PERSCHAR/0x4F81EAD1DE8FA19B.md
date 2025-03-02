@@ -12,6 +12,3 @@ void _0x4F81EAD1DE8FA19B(PersChar persChar);
 
 ## Parameters
 * **persChar**:
-
-
-

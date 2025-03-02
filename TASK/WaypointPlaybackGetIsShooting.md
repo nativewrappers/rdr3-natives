@@ -14,4 +14,3 @@ Any WAYPOINT_PLAYBACK_GET_IS_SHOOTING(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ int COUNT_PLAYER_BITS(Any* value);
 * **value**:
 
 ## Return value
-

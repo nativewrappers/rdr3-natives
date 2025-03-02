@@ -18,6 +18,3 @@ void REMOVE_MODEL_SWAP(float x,float y,float z,float radius,Hash originalModel,H
 * **originalModel**:
 * **newModel**:
 * **p6**:
-
-
-

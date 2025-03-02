@@ -13,4 +13,3 @@ int _GET_NUMBER_OF_INSTRUCTIONS();
 
 
 ## Return value
-

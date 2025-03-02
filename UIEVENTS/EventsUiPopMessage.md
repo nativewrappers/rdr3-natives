@@ -14,6 +14,3 @@ Old name: _EVENT_MANAGER_POP_EVENT
 
 ## Parameters
 * **hash**:
-
-
-

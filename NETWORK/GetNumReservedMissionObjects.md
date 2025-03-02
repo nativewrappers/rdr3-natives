@@ -15,4 +15,3 @@ p0 appears to be for MP
 * **p0**:
 
 ## Return value
-

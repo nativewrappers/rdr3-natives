@@ -19,4 +19,3 @@ BOOL _GET_ENTITY_MASK_LAYERS(Entity entity,float* layer0,float* layer1,float* la
 * **layer3**:
 
 ## Return value
-

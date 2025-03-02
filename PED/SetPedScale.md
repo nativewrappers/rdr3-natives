@@ -13,6 +13,3 @@ void _SET_PED_SCALE(Ped ped,float scale);
 ## Parameters
 * **ped**:
 * **scale**:
-
-
-

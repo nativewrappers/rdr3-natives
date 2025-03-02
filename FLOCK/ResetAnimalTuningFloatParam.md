@@ -13,6 +13,3 @@ void RESET_ANIMAL_TUNING_FLOAT_PARAM(Ped animal,int index);
 ## Parameters
 * **animal**:
 * **index**:
-
-
-

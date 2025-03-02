@@ -14,6 +14,3 @@ void _UILOG_REMOVE_ENTRY(int p0,Hash p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

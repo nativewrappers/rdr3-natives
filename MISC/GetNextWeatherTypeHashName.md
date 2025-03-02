@@ -13,4 +13,3 @@ Hash _GET_NEXT_WEATHER_TYPE_HASH_NAME();
 
 
 ## Return value
-

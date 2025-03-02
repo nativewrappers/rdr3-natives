@@ -14,6 +14,3 @@ void _SET_PED_PATH_PREFER_TO_AVOID_FOLIAGE(Ped ped,BOOL preferAvoidFoliage,float
 * **ped**:
 * **preferAvoidFoliage**:
 * **p2**:
-
-
-

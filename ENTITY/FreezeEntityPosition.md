@@ -13,6 +13,3 @@ void FREEZE_ENTITY_POSITION(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

@@ -13,6 +13,3 @@ void _FADE_AND_DESTROY_VEHICLE(Vehicle* vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

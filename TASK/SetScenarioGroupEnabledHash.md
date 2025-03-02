@@ -13,6 +13,3 @@ void _SET_SCENARIO_GROUP_ENABLED_HASH(Hash scenarioGroup,BOOL toggle);
 ## Parameters
 * **scenarioGroup**:
 * **toggle**:
-
-
-

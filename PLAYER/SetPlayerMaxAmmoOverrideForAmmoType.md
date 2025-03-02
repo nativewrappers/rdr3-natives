@@ -15,6 +15,3 @@ void _SET_PLAYER_MAX_AMMO_OVERRIDE_FOR_AMMO_TYPE(Player player,Hash ammoType,int
 * **player**:
 * **ammoType**:
 * **amount**:
-
-
-

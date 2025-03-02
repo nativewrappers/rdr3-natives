@@ -16,4 +16,3 @@ int _COLLECTABLE_CATEGORY_GET_NUM_COLLECTABLES(Hash collectableCategory,Hash col
 * **collectableSubcategory**:
 
 ## Return value
-

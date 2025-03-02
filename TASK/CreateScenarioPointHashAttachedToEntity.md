@@ -24,4 +24,3 @@ Returns scenario
 * **p8**:
 
 ## Return value
-

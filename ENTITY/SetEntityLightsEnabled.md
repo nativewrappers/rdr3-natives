@@ -14,6 +14,3 @@ void _SET_ENTITY_LIGHTS_ENABLED(Entity entity,BOOL enabled);
 ## Parameters
 * **entity**:
 * **enabled**:
-
-
-

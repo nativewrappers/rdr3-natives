@@ -15,4 +15,3 @@ int GET_NUM_META_PED_OUTFITS(Ped ped);
 * **ped**:
 
 ## Return value
-

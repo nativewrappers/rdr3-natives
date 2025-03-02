@@ -17,4 +17,3 @@ Interior GET_INTERIOR_AT_COORDS_WITH_TYPE(float x,float y,float z,const char* in
 * **interiorType**:
 
 ## Return value
-

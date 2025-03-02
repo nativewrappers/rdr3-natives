@@ -16,6 +16,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/useful_info_from_rpfs/colo
 * **green**:
 * **blue**:
 * **alpha**:
-
-
-

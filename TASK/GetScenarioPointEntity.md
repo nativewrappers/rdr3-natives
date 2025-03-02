@@ -17,4 +17,3 @@ Old name for this native: _GET_ENTITY_SCENARIO_POINT_IS_ATTACHED_TO
 * **scenario**:
 
 ## Return value
-

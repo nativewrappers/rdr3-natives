@@ -13,6 +13,3 @@ void REACTIVATE_NAMED_OBJECT_BRAINS_WAITING_TILL_OUT_OF_RANGE(const char* script
 
 ## Parameters
 * **scriptName**:
-
-
-

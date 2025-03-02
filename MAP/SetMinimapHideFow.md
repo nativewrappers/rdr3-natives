@@ -13,6 +13,3 @@ Reveals the entire minimap (FOW = Fog of War)
 
 ## Parameters
 * **toggle**:
-
-
-

@@ -15,4 +15,3 @@ Hash _GET_PED_HOGTIE_WEAPON(Ped ped);
 * **ped**:
 
 ## Return value
-

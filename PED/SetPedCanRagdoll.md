@@ -13,6 +13,3 @@ void SET_PED_CAN_RAGDOLL(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

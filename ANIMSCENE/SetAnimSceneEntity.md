@@ -15,6 +15,3 @@ void SET_ANIM_SCENE_ENTITY(AnimScene animScene,const char* entityName,Entity ent
 * **entityName**:
 * **entity**:
 * **flags**:
-
-
-

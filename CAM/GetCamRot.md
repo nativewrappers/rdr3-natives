@@ -16,4 +16,3 @@ rotationOrder: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/
 * **rotationOrder**:
 
 ## Return value
-

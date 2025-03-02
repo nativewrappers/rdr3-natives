@@ -16,6 +16,3 @@ void SET_ENTITY_QUATERNION(Entity entity,float x,float y,float z,float w);
 * **y**:
 * **z**:
 * **w**:
-
-
-

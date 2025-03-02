@@ -15,4 +15,3 @@ returns true if the player is on a road while riding a horse but at a certain sp
 * **player**:
 
 ## Return value
-

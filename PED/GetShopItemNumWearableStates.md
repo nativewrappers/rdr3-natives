@@ -20,4 +20,3 @@ For use with 0x6243635AF2F1B826 (_GET_SHOP_ITEM_AVAILABLE_WEARABLE_STATE_BY_INDE
 * **p2**:
 
 ## Return value
-

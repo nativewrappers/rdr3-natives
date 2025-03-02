@@ -13,6 +13,3 @@ Sets whether the game should fade in after the player dies or is arrested.
 
 ## Parameters
 * **toggle**:
-
-
-

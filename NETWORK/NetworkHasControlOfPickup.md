@@ -14,4 +14,3 @@ BOOL NETWORK_HAS_CONTROL_OF_PICKUP(Pickup pickup);
 * **pickup**:
 
 ## Return value
-

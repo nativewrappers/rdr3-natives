@@ -13,6 +13,3 @@ void _UI_STICKY_FEED_CLEAR_MESSAGE(int msgId);
 
 ## Parameters
 * **msgId**:
-
-
-

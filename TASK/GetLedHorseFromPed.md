@@ -15,4 +15,3 @@ Ped _GET_LED_HORSE_FROM_PED(Ped ped);
 * **ped**:
 
 ## Return value
-

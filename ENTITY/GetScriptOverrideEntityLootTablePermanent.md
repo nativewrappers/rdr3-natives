@@ -17,4 +17,3 @@ Returns false if entity is not a ped or object.
 * **lootTable**:
 
 ## Return value
-

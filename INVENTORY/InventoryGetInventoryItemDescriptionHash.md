@@ -15,4 +15,3 @@ Hash _INVENTORY_GET_INVENTORY_ITEM_DESCRIPTION_HASH(Hash item);
 * **item**:
 
 ## Return value
-

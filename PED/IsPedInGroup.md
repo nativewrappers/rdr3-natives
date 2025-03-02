@@ -14,4 +14,3 @@ BOOL IS_PED_IN_GROUP(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _SET_PELT_FOR_HORSE(Ped horse,int peltId);
 ## Parameters
 * **horse**:
 * **peltId**:
-
-
-

@@ -28,6 +28,3 @@ Possible values:
 
 ## Parameters
 * **type**:
-
-
-

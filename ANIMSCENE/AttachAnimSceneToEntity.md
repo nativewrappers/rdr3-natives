@@ -14,6 +14,3 @@ void ATTACH_ANIM_SCENE_TO_ENTITY(AnimScene animScene,Entity entity,int p2);
 * **animScene**:
 * **entity**:
 * **p2**:
-
-
-

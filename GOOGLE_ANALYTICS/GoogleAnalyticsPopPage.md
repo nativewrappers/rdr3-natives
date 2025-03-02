@@ -12,6 +12,3 @@ void _GOOGLE_ANALYTICS_POP_PAGE(const char* pageName);
 
 ## Parameters
 * **pageName**:
-
-
-

@@ -19,4 +19,3 @@ _GET_IS_PED_[M-R]*
 * **trueUntilPlayerPocketsItem**:
 
 ## Return value
-

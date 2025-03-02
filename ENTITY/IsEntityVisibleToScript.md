@@ -14,4 +14,3 @@ BOOL IS_ENTITY_VISIBLE_TO_SCRIPT(Entity entity);
 * **entity**:
 
 ## Return value
-

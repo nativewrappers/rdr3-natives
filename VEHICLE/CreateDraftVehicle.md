@@ -25,4 +25,3 @@ Identical to CREATE_VEHICLE but allows to set draftAnimalPopGroup (see popgroups
 * **p9**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any _0xFFEBE5AA96BC2E4E(Ped ped,Hash crimeType,BOOL p2);
 * **p2**:
 
 ## Return value
-

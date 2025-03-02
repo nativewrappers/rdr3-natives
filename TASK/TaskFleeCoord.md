@@ -23,6 +23,3 @@ fleeStyle: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eFle
 * **p6**:
 * **duration**:
 * **p8**:
-
-
-

@@ -15,4 +15,3 @@ Ped GET_DRIVER_OF_VEHICLE(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

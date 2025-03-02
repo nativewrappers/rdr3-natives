@@ -15,4 +15,3 @@ BOOL UGC_RELEASE_CACHED_DESCRIPTION(Hash description);
 * **description**:
 
 ## Return value
-

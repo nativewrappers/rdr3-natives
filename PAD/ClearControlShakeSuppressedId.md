@@ -14,6 +14,3 @@ Old name: _CLEAR_SUPPRESSED_PAD_RUMBLE
 
 ## Parameters
 * **control**:
-
-
-

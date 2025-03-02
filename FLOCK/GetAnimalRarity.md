@@ -22,4 +22,3 @@ enum eAnimalRarityLevel
 * **ped**:
 
 ## Return value
-

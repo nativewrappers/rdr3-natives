@@ -13,6 +13,3 @@ void SET_ENTITY_MOTION_BLUR(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

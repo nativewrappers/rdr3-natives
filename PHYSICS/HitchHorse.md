@@ -16,6 +16,3 @@ void _HITCH_HORSE(Ped horse,float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

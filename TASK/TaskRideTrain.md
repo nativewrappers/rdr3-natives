@@ -15,6 +15,3 @@ void TASK_RIDE_TRAIN(Ped ped,Vehicle train,int scenarioPoint,Hash scenarioHash);
 * **train**:
 * **scenarioPoint**:
 * **scenarioHash**:
-
-
-

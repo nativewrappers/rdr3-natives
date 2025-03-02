@@ -17,6 +17,3 @@ Params: p3 is 0 in R* Script utopia2
 * **y**:
 * **z**:
 * **p3**:
-
-
-

@@ -16,6 +16,3 @@ Makes the ped ragdoll like when falling from a great height
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

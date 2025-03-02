@@ -14,4 +14,3 @@ Any _0xA7ECEBAFBAF997A5(Hash savegameType);
 * **savegameType**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any NETWORK_IS_AIM_CAM_ACTIVE(Player player);
 * **player**:
 
 ## Return value
-

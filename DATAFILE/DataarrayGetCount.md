@@ -15,4 +15,3 @@ int DATAARRAY_GET_COUNT(Any* arrayData);
 * **arrayData**:
 
 ## Return value
-

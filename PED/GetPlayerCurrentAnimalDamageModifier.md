@@ -15,4 +15,3 @@ Returns animal skin quality modifier
 * **player**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _STOP_AUDIO_SCENESET(const char* sceneset);
 
 ## Parameters
 * **sceneset**:
-
-
-

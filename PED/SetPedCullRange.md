@@ -16,6 +16,3 @@ The higher the multiplier the less the engine renders culls (https://docs.unity3
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

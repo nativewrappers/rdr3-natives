@@ -15,4 +15,3 @@ Any UI_GET_SCENE_UIOBJECT(Any p0);
 * **p0**:
 
 ## Return value
-

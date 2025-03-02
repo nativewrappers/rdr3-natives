@@ -12,6 +12,3 @@ void STOP_ROPE_WINDING(int ropeId);
 
 ## Parameters
 * **ropeId**:
-
-
-

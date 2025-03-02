@@ -18,4 +18,3 @@ Hardcoded to return zero.
 * **p2**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Any IS_PED_ENTERING_TRANSPORT(Ped ped,Entity transportEntity,BOOL p2);
 * **p2**:
 
 ## Return value
-

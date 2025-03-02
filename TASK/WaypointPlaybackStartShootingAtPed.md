@@ -16,6 +16,3 @@ void WAYPOINT_PLAYBACK_START_SHOOTING_AT_PED(Any p0,Any p1,Any p2,Any p3,Any p4)
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

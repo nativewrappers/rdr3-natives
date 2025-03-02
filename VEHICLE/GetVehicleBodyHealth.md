@@ -17,4 +17,3 @@ Vehicle does not necessarily explode or become undrivable at 0.
 * **vehicle**:
 
 ## Return value
-

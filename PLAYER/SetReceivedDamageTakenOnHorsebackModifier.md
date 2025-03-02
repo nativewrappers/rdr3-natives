@@ -16,6 +16,3 @@ Previous name: _SET_RECEIVED_HORSEBACK_DAMAGE_DECREASE
 ## Parameters
 * **player**:
 * **damageDecrease**:
-
-
-

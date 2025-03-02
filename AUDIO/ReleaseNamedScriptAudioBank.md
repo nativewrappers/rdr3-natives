@@ -12,6 +12,3 @@ void RELEASE_NAMED_SCRIPT_AUDIO_BANK(const char* audioBank);
 
 ## Parameters
 * **audioBank**:
-
-
-

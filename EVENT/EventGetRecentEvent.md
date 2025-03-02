@@ -18,4 +18,3 @@ Returns eventType
 * **p2**:
 
 ## Return value
-

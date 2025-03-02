@@ -17,6 +17,3 @@ void _ADD_TRAIN_TEMPORARY_STOP(Vehicle train,int trackIndex,float x,float y,floa
 * **x**:
 * **y**:
 * **z**:
-
-
-

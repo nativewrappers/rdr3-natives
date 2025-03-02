@@ -22,6 +22,3 @@ Only used in R* Script guama1 this native allows to modify the ocean water in th
 * **waveSpeed**:
 * **wavesStrength**:
 * **p8**:
-
-
-

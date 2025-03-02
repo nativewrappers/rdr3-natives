@@ -15,4 +15,3 @@ BOOL CHAL_ACHIEVEMENT_IS_COMPLETE(Hash p0,Hash p1);
 * **p1**:
 
 ## Return value
-

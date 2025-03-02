@@ -15,6 +15,3 @@ void _UGC_QUERY_GET_DATE(Any p0,int index,Any* p2);
 * **p0**:
 * **index**:
 * **p2**:
-
-
-

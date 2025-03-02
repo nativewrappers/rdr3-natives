@@ -15,4 +15,3 @@ BOOL _UNLOCK_IS_UNLOCK_FLAG_SET(Hash unlockHash,int flag);
 * **flag**:
 
 ## Return value
-

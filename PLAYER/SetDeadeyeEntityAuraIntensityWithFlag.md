@@ -19,6 +19,3 @@ Applies a customizable aura effect to nearby entities when Deadeye is active, wi
 * **p3**:
 * **intensity**:
 * **flag**:
-
-
-

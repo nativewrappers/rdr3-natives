@@ -15,4 +15,3 @@ Any _NETWORK_SESSION_SET_PLAYER_FLAGS(int flags);
 * **flags**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Unlike `GET_WAYPOINT_COORDS - 0x29B30D07C3F7873B`, which returns a single value,
 
 ## Return value
 [object Object]
-

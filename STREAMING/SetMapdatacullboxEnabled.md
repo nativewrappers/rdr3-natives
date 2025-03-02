@@ -13,6 +13,3 @@ void SET_MAPDATACULLBOX_ENABLED(const char* name,BOOL toggle);
 ## Parameters
 * **name**:
 * **toggle**:
-
-
-

@@ -16,4 +16,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS/challenge_goals.
 * **goalHash**:
 
 ## Return value
-

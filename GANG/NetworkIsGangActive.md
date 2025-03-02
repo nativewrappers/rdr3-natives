@@ -15,4 +15,3 @@ Any NETWORK_IS_GANG_ACTIVE(Any gangId);
 * **gangId**:
 
 ## Return value
-

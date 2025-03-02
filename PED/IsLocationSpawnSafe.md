@@ -16,4 +16,3 @@ Any IS_LOCATION_SPAWN_SAFE(Ped ped,float p1);
 * **p1**:
 
 ## Return value
-

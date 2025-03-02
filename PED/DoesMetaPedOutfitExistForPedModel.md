@@ -16,4 +16,3 @@ Any _DOES_META_PED_OUTFIT_EXIST_FOR_PED_MODEL(Hash outfit,Hash model);
 * **model**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Any _ITEMDATABASE_FILLOUT_SATCHEL_DATA(Hash key,int* outSatchelItemSize);
 * **outSatchelItemSize**:
 
 ## Return value
-

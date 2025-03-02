@@ -15,4 +15,3 @@ int COMPENDIUM_GET_ENTRY_BY_PED_INDEX(Hash category,Ped ped);
 * **ped**:
 
 ## Return value
-

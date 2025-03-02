@@ -14,6 +14,3 @@ Simply sets you as invincible (Health will not deplete).
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

@@ -17,4 +17,3 @@ int COMPARE_STRINGS(const char* str1,const char* str2,BOOL matchCase,int maxLeng
 * **maxLength**:
 
 ## Return value
-

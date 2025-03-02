@@ -14,6 +14,3 @@ _SET_DRAFT_VEHICLE_*
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

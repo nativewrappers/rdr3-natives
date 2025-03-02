@@ -13,6 +13,3 @@ void CLEAR_WANTED_SCORE(Player player);
 
 ## Parameters
 * **player**:
-
-
-

@@ -27,6 +27,3 @@ Attach an entity to coordinates physically better name may be perfered? seems to
 * **p12**:
 * **p13**:
 * **p14**:
-
-
-

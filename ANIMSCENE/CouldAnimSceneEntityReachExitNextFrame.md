@@ -18,4 +18,3 @@ Any COULD_ANIM_SCENE_ENTITY_REACH_EXIT_NEXT_FRAME(AnimScene animScene,const char
 * **p3**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void _EQUIP_META_PED_SUBOUTFIT(Ped ped,Hash suboutfit,int p2);
 * **ped**:
 * **suboutfit**:
 * **p2**:
-
-
-

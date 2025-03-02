@@ -14,6 +14,3 @@ void _CLEAR_PED_GRAPPLE_FLAG(Ped ped,int flag);
 ## Parameters
 * **ped**:
 * **flag**:
-
-
-

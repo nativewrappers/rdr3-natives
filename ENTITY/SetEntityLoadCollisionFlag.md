@@ -13,6 +13,3 @@ void SET_ENTITY_LOAD_COLLISION_FLAG(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

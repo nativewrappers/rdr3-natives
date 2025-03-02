@@ -12,6 +12,3 @@ void ATTACH_TV_AUDIO_TO_ENTITY(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

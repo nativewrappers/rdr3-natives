@@ -20,6 +20,3 @@ void DRAW_TV_CHANNEL(float xPos,float yPos,float xScale,float yScale,float rotat
 * **green**:
 * **blue**:
 * **alpha**:
-
-
-

@@ -14,6 +14,3 @@ Removes gravity well by handle returned from 0x4F5EBE70081E5A20
 
 ## Parameters
 * **handle**:
-
-
-

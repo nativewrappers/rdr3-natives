@@ -12,4 +12,3 @@ Any _MINIGAME_GET_NEXT_EVENT_TYPE();
 
 
 ## Return value
-

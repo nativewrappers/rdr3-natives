@@ -15,4 +15,3 @@ Checks if the specified model has loaded into memory.
 * **model**:
 
 ## Return value
-

@@ -20,6 +20,3 @@ some colors
 ## Parameters
 * **player**:
 * **auraColorHash**:
-
-
-

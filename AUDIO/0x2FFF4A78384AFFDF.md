@@ -14,4 +14,3 @@ Any _0x2FFF4A78384AFFDF(Entity entity);
 * **entity**:
 
 ## Return value
-

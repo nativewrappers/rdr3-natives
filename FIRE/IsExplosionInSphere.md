@@ -19,4 +19,3 @@ explosionType: see ADD_EXPLOSION
 * **radius**:
 
 ## Return value
-

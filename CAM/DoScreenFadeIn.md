@@ -15,6 +15,3 @@ duration: The time the fade should take, in milliseconds.
 
 ## Parameters
 * **duration**:
-
-
-

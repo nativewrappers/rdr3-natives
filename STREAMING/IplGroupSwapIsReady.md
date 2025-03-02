@@ -13,4 +13,3 @@ BOOL IPL_GROUP_SWAP_IS_READY();
 
 
 ## Return value
-

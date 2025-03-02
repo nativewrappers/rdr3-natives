@@ -14,4 +14,3 @@ BOOL GET_ENTITY_COLLISION_DISABLED(Entity entity);
 * **entity**:
 
 ## Return value
-

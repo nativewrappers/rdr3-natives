@@ -15,4 +15,3 @@ Any IS_ANIM_SCENE_EXITING_THIS_FRAME(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

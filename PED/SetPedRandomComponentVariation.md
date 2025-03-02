@@ -13,6 +13,3 @@ void SET_PED_RANDOM_COMPONENT_VARIATION(Ped ped,int p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

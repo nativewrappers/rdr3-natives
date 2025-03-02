@@ -14,6 +14,3 @@ Copies sourceVehicle's damage (broken bumpers, broken lights, etc.) to targetVeh
 ## Parameters
 * **sourceVehicle**:
 * **targetVehicle**:
-
-
-

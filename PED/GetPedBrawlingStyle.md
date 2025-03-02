@@ -15,4 +15,3 @@ Hash _GET_PED_BRAWLING_STYLE(Ped ped);
 * **ped**:
 
 ## Return value
-

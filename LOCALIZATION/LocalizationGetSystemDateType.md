@@ -18,4 +18,3 @@ Old name: _LOCALIZATION_GET_SYSTEM_DATE_FORMAT
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ float _GET_ATTRIBUTE_CORE_OVERPOWER_SECONDS_LEFT(Ped ped,int coreIndex);
 * **coreIndex**:
 
 ## Return value
-

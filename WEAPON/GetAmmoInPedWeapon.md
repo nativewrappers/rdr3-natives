@@ -15,4 +15,3 @@ int GET_AMMO_IN_PED_WEAPON(Ped ped,Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

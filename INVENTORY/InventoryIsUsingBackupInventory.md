@@ -14,4 +14,3 @@ old name _INVENTORY_USE_SP_BACKUP
 
 
 ## Return value
-

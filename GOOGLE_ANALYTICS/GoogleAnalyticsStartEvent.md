@@ -17,4 +17,3 @@ BOOL _GOOGLE_ANALYTICS_START_EVENT(const char* eventCategory,const char* eventAc
 * **eventValue**:
 
 ## Return value
-

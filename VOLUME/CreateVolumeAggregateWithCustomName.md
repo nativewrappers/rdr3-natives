@@ -14,4 +14,3 @@ Volume _CREATE_VOLUME_AGGREGATE_WITH_CUSTOM_NAME(const char* name);
 * **name**:
 
 ## Return value
-

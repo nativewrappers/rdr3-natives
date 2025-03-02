@@ -14,6 +14,3 @@ void _ANIMPOSTFX_PLAY_TIMED(const char* effectName,int duration);
 ## Parameters
 * **effectName**:
 * **duration**:
-
-
-

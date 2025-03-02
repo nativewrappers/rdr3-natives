@@ -31,4 +31,3 @@ enum eSavegameType : Hash
 * **savegameType**:
 
 ## Return value
-

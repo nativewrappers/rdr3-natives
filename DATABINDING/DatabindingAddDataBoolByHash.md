@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_BOOL_BY_HASH(Any p0,Hash p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

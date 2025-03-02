@@ -14,4 +14,3 @@ BOOL _IS_SCENARIO_GROUP_ENABLED_HASH(Hash scenarioGroup);
 * **scenarioGroup**:
 
 ## Return value
-

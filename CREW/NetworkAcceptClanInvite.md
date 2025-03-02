@@ -15,4 +15,3 @@ Any _NETWORK_ACCEPT_CLAN_INVITE(int crewInviteIndex);
 * **crewInviteIndex**:
 
 ## Return value
-

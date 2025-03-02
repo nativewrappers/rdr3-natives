@@ -9,8 +9,3 @@ apiset: client
 // 0xF1622CE88A1946FB
 void _UI_PROMPT_DISABLE_PROMPTS_THIS_FRAME();
 ```
-
-
-
-
-

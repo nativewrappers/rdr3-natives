@@ -13,6 +13,3 @@ Seems to set the peds stamina to 30%
 
 ## Parameters
 * **ped**:
-
-
-

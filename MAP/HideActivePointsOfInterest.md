@@ -9,8 +9,3 @@ apiset: client
 // 0xA1B4052C2A3DCC1E
 void _HIDE_ACTIVE_POINTS_OF_INTEREST();
 ```
-
-
-
-
-

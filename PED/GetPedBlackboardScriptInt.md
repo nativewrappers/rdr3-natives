@@ -16,4 +16,3 @@ int GET_PED_BLACKBOARD_SCRIPT_INT(Ped ped,const char* variableName);
 * **variableName**:
 
 ## Return value
-

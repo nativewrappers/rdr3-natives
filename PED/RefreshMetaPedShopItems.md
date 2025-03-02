@@ -15,6 +15,3 @@ p1 is always 1
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

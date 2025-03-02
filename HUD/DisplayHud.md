@@ -13,6 +13,3 @@ If Hud should be displayed
 
 ## Parameters
 * **toggle**:
-
-
-

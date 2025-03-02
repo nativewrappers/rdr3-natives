@@ -14,6 +14,3 @@ void SET_ENTITY_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP(Entity entity,BOOL p1,Hash re
 * **entity**:
 * **p1**:
 * **relationshipGroup**:
-
-
-

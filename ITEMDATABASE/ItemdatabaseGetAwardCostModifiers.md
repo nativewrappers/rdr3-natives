@@ -16,4 +16,3 @@ BOOL _ITEMDATABASE_GET_AWARD_COST_MODIFIERS(Hash award,Any* outData);
 * **outData**:
 
 ## Return value
-

@@ -19,6 +19,3 @@ Old name: _SET_WEATHER_TYPE_TRANSITION
 * **weatherType2**:
 * **percentWeather2**:
 * **enabled**:
-
-
-

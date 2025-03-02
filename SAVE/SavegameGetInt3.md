@@ -16,6 +16,3 @@ Commonly used with enums and flags
 ## Parameters
 * **p0**:
 * **variableName**:
-
-
-

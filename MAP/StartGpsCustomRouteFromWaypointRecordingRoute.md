@@ -18,6 +18,3 @@ void _START_GPS_CUSTOM_ROUTE_FROM_WAYPOINT_RECORDING_ROUTE(const char* waypointR
 * **colorNameHash**:
 * **p4**:
 * **p5**:
-
-
-

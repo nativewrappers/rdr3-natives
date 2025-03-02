@@ -17,4 +17,3 @@ Any SC_PRESENCE_ATTR_SET_STRING_EX(const char* attrName,const char* value,BOOL p
 * **p2**:
 
 ## Return value
-

@@ -12,6 +12,3 @@ void REMOVE_GROUP(int groupId);
 
 ## Parameters
 * **groupId**:
-
-
-

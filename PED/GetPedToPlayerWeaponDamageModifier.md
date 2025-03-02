@@ -15,4 +15,3 @@ float GET_PED_TO_PLAYER_WEAPON_DAMAGE_MODIFIER(Ped ped);
 * **ped**:
 
 ## Return value
-

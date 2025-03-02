@@ -14,6 +14,3 @@ Creates Kill Cam for specified Ped Handle
 
 ## Parameters
 * **ped**:
-
-
-

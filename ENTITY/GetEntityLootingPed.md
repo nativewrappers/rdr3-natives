@@ -15,4 +15,3 @@ Returns the entity that is looting a ped but only while the looting is active
 * **entity**:
 
 ## Return value
-

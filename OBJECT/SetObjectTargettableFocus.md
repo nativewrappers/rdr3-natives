@@ -16,6 +16,3 @@ focus on objects like focus on peds, p1 is to enable/disable p2 is to enable/dis
 * **object**:
 * **toggle**:
 * **weaponLock**:
-
-
-

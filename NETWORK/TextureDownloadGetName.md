@@ -14,4 +14,3 @@ char* TEXTURE_DOWNLOAD_GET_NAME(int textureDownloadId);
 * **textureDownloadId**:
 
 ## Return value
-

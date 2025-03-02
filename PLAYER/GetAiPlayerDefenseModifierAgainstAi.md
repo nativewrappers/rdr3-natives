@@ -15,4 +15,3 @@ float _GET_AI_PLAYER_DEFENSE_MODIFIER_AGAINST_AI(Player player);
 * **player**:
 
 ## Return value
-

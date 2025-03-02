@@ -15,4 +15,3 @@ Hash COMPENDIUM_GET_SUBCATEGORY_PED_IS_IN(Hash category,Ped ped);
 * **ped**:
 
 ## Return value
-

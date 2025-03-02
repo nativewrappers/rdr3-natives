@@ -19,6 +19,3 @@ Update variation on ped, needed after first creation, or when component or textu
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

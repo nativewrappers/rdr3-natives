@@ -17,4 +17,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/ANIMAL_TUNING_BOOL_PARA
 * **index**:
 
 ## Return value
-

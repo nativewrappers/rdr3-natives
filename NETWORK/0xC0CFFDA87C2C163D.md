@@ -16,4 +16,3 @@ Any _0xC0CFFDA87C2C163D(int p0,Any p1,int p2);
 * **p2**:
 
 ## Return value
-

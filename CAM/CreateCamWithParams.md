@@ -23,4 +23,3 @@ Cam CREATE_CAM_WITH_PARAMS(const char* camName,float posX,float posY,float posZ,
 * **p9**:
 
 ## Return value
-

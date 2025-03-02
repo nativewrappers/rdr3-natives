@@ -21,4 +21,3 @@ AI_ATTITUDE_NEVER_MET
 * **player**:
 
 ## Return value
-

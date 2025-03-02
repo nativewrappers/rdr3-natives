@@ -13,6 +13,3 @@ void _SET_ALLOW_DISABLED_LAW_RESPONSES(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

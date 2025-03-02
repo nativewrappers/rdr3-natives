@@ -14,6 +14,3 @@ void _SET_MINIMAP_FOW_OVERRIDE_REVEAL_SCALE(float scale,Hash p1);
 ## Parameters
 * **scale**:
 * **p1**:
-
-
-

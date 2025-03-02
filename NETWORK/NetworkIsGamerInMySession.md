@@ -14,4 +14,3 @@ BOOL NETWORK_IS_GAMER_IN_MY_SESSION(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

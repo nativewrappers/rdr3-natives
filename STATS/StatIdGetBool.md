@@ -16,4 +16,3 @@ statId: see STAT_ID_IS_VALID
 * **value**:
 
 ## Return value
-

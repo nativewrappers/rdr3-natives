@@ -14,4 +14,3 @@ Hash GET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Ped ped);
 * **ped**:
 
 ## Return value
-

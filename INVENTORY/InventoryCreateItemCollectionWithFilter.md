@@ -17,4 +17,3 @@ int _INVENTORY_CREATE_ITEM_COLLECTION_WITH_FILTER(int inventoryId,Any* filter,in
 * **numInCollection**:
 
 ## Return value
-

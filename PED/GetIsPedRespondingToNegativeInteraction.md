@@ -16,4 +16,3 @@ Any GET_IS_PED_RESPONDING_TO_NEGATIVE_INTERACTION(Ped ped,Player player);
 * **player**:
 
 ## Return value
-

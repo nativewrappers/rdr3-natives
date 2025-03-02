@@ -18,4 +18,3 @@ Returns event name hash: https://alloc8or.re/rdr3/doc/enums/eEventType.txt
 * **eventIndex**:
 
 ## Return value
-

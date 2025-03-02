@@ -14,4 +14,3 @@ BOOL IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK(Ped ped);
 * **ped**:
 
 ## Return value
-

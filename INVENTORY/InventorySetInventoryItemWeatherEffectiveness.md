@@ -20,6 +20,3 @@ OWE_GOOD_IN_ALL
 * **inventoryId**:
 * **guid**:
 * **weatherEffectiveness**:
-
-
-

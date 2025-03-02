@@ -15,4 +15,3 @@ BOOL _IS_TARGET_PED_CONSTRAINED_BY_PED_USING_BOLAS(Ped ped,Ped targetPed);
 * **targetPed**:
 
 ## Return value
-

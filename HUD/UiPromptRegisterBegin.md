@@ -13,4 +13,3 @@ Prompt _UI_PROMPT_REGISTER_BEGIN();
 
 
 ## Return value
-

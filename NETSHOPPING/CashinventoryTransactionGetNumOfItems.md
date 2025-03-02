@@ -14,4 +14,3 @@ int _CASHINVENTORY_TRANSACTION_GET_NUM_OF_ITEMS(int id);
 * **id**:
 
 ## Return value
-

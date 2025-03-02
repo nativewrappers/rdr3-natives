@@ -18,4 +18,3 @@ only these weapons below return true
 * **weapon**:
 
 ## Return value
-

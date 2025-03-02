@@ -14,4 +14,3 @@ BOOL IS_UIAPP_RUNNING(const char* appName);
 * **appName**:
 
 ## Return value
-

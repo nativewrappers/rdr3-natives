@@ -26,6 +26,3 @@ species: SPECIES_BIRD_CROW
 * **p11**:
 * **p12**:
 * **p13**:
-
-
-

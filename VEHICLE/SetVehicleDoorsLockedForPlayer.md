@@ -14,6 +14,3 @@ void SET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle,Player player,BOOL togg
 * **vehicle**:
 * **player**:
 * **toggle**:
-
-
-

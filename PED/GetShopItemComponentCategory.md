@@ -17,4 +17,3 @@ Hash _GET_SHOP_ITEM_COMPONENT_CATEGORY(Hash componentHash,int metapedType,BOOL i
 * **isMP**:
 
 ## Return value
-

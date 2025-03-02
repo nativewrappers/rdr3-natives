@@ -15,4 +15,3 @@ If the ped handle passed through the parenthesis is in a ragdoll state this will
 * **ped**:
 
 ## Return value
-

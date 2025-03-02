@@ -24,4 +24,3 @@ BOOL PLAY_CAM_ANIM(Cam cam,const char* animName,const char* animDictionary,float
 * **rotOrder**:
 
 ## Return value
-

@@ -13,4 +13,3 @@ Any IS_INSTANTLY_FILL_PED_POPULATION_FINISHED();
 
 
 ## Return value
-

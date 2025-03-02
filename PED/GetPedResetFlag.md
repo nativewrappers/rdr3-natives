@@ -15,4 +15,3 @@ BOOL GET_PED_RESET_FLAG(Ped ped,int flagId);
 * **flagId**:
 
 ## Return value
-

@@ -17,6 +17,3 @@ void _SET_PED_TO_BE_REMOVED(Ped ped,float p1,float p2,int p3,Any p4);
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

@@ -13,6 +13,3 @@ void _CAM_DESTROY(const char* cameraDictionary);
 
 ## Parameters
 * **cameraDictionary**:
-
-
-

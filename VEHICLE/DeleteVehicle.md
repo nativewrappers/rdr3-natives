@@ -20,6 +20,3 @@ Deletes the specified vehicle, then sets the handle pointed to by the pointer to
 
 ## Parameters
 * **vehicle**:
-
-
-

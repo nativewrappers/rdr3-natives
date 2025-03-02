@@ -18,4 +18,3 @@ Any _AWARDS_GET_UNLOCK_CLAIM_DATA(Any* rpcGuid,Hash awardHash,int dataIndex,Any*
 * **outUnlockData**:
 
 ## Return value
-

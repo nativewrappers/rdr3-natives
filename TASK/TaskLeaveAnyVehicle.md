@@ -15,6 +15,3 @@ flags: See TASK_ENTER_VEHICLE
 * **ped**:
 * **p1**:
 * **taskFlag**:
-
-
-

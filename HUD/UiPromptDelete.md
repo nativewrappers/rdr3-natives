@@ -13,6 +13,3 @@ void _UI_PROMPT_DELETE(Prompt prompt);
 
 ## Parameters
 * **prompt**:
-
-
-

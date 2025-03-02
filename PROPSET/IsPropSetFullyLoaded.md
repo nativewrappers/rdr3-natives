@@ -15,4 +15,3 @@ Any IS_PROP_SET_FULLY_LOADED(PropSet propSet);
 * **propSet**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ _C* - _DEL*
 
 ## Parameters
 * **entity**:
-
-
-

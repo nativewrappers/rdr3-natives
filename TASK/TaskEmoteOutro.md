@@ -13,6 +13,3 @@ void _TASK_EMOTE_OUTRO(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

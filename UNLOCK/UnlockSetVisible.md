@@ -14,6 +14,3 @@ void UNLOCK_SET_VISIBLE(Hash unlockHash,BOOL toggle);
 ## Parameters
 * **unlockHash**:
 * **toggle**:
-
-
-

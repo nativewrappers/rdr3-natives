@@ -15,4 +15,3 @@ int GET_PED_AMMO_BY_TYPE(Ped ped,Hash ammoType);
 * **ammoType**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ Sets whether this player can take cover.
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

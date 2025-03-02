@@ -17,4 +17,3 @@ Any SET_PED_WAYPOINT_ROUTE_OFFSET(Ped ped,float p1,float p2,float p3);
 * **p3**:
 
 ## Return value
-

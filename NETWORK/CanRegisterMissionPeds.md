@@ -14,4 +14,3 @@ BOOL CAN_REGISTER_MISSION_PEDS(int amount);
 * **amount**:
 
 ## Return value
-

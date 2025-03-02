@@ -14,6 +14,3 @@ void _SET_PED_GRAPPLE_SEQUENCE(Ped ped,const char* grappleSequence);
 ## Parameters
 * **ped**:
 * **grappleSequence**:
-
-
-

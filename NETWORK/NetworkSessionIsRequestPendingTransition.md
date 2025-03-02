@@ -15,4 +15,3 @@ Any NETWORK_SESSION_IS_REQUEST_PENDING_TRANSITION(Any* sessionRequestId);
 * **sessionRequestId**:
 
 ## Return value
-

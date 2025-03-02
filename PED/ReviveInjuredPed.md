@@ -12,6 +12,3 @@ void REVIVE_INJURED_PED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

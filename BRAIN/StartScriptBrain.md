@@ -21,4 +21,3 @@ Returns threadId
 * **p5**:
 
 ## Return value
-

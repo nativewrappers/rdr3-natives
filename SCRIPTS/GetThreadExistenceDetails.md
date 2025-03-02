@@ -15,6 +15,3 @@ void GET_THREAD_EXISTENCE_DETAILS(int threadId,BOOL* threadExists,BOOL* hasScrip
 * **threadId**:
 * **threadExists**:
 * **hasScriptHandler**:
-
-
-

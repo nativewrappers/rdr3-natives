@@ -16,4 +16,3 @@ BOOL GET_MAX_AMMO(Ped ped,int* ammo,Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

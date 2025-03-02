@@ -17,6 +17,3 @@ https://gfycat.com/meagerfaireyra
 * **red**:
 * **green**:
 * **blue**:
-
-
-

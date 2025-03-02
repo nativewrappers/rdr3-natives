@@ -14,4 +14,3 @@ BOOL IS_PLAYER_SCRIPT_CONTROL_ON(Player player);
 * **player**:
 
 ## Return value
-

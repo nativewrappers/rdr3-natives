@@ -13,6 +13,3 @@ void SET_ENABLE_SPEED_RESTRAIN_FOR_WAYPOINT_RECORDING_LEADER(Any p0,Any p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

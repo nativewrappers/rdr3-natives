@@ -16,4 +16,3 @@ Any _DETACH_DRAFT_VEHICLE_HARNESS_FROM_INDEX(Vehicle draft,int harnessId);
 * **harnessId**:
 
 ## Return value
-

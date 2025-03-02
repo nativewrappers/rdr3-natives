@@ -14,6 +14,3 @@ void _SET_REMOVE_PED_NETWORKED(Ped ped,int p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

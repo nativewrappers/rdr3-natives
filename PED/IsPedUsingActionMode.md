@@ -14,4 +14,3 @@ BOOL IS_PED_USING_ACTION_MODE(Ped ped);
 * **ped**:
 
 ## Return value
-

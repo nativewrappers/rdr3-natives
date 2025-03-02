@@ -15,4 +15,3 @@ eventGroup: 0 = SCRIPT_EVENT_QUEUE_AI (CEventGroupScriptAI), 1 = SCRIPT_EVENT_QU
 * **eventGroup**:
 
 ## Return value
-

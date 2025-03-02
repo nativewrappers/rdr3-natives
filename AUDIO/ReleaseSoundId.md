@@ -12,6 +12,3 @@ void RELEASE_SOUND_ID(int soundId);
 
 ## Parameters
 * **soundId**:
-
-
-

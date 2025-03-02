@@ -13,4 +13,3 @@ Any IS_GAME_SESSION_STATE_MACHINE_IDLE();
 
 
 ## Return value
-

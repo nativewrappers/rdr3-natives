@@ -16,4 +16,3 @@ Any _HAS_SCENARIO_TYPE_LOADED(Hash scenarioType,BOOL p1);
 * **p1**:
 
 ## Return value
-

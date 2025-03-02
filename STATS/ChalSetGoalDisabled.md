@@ -14,6 +14,3 @@ void CHAL_SET_GOAL_DISABLED(Hash chalHash,Hash goalHash,BOOL disabled);
 * **chalHash**:
 * **goalHash**:
 * **disabled**:
-
-
-

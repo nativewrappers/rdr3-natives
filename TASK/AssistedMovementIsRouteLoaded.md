@@ -14,4 +14,3 @@ BOOL ASSISTED_MOVEMENT_IS_ROUTE_LOADED(const char* route);
 * **route**:
 
 ## Return value
-

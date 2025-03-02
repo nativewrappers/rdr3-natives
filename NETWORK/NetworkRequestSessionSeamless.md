@@ -32,4 +32,3 @@ enum eSeamlessType
 * **sessionRequestId**:
 
 ## Return value
-

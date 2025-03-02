@@ -15,4 +15,3 @@ Any _IS_VEHICLE_PROP_SET_LOADED(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

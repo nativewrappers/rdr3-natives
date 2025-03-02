@@ -13,6 +13,3 @@ void ALLOW_DAMAGE_EVENTS_FOR_NON_NETWORKED_OBJECTS(BOOL enabled);
 
 ## Parameters
 * **enabled**:
-
-
-

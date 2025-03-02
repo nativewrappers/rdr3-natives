@@ -14,4 +14,3 @@ float GET_ENTITY_UPRIGHT_VALUE(Entity entity);
 * **entity**:
 
 ## Return value
-

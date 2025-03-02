@@ -15,6 +15,3 @@ Old name: _SET_ENTITY_CLEANUP_BY_ENGINE
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

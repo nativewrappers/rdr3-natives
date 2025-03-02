@@ -15,4 +15,3 @@ Player _NETWORK_GET_PLAYER_OWNER_OF_NETWORK_ID(int netId);
 * **netId**:
 
 ## Return value
-

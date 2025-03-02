@@ -16,4 +16,3 @@ Actually returns void in IDA but the script header defines a BOOL return type
 * **interior**:
 
 ## Return value
-

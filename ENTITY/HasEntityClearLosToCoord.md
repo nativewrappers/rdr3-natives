@@ -19,4 +19,3 @@ Any HAS_ENTITY_CLEAR_LOS_TO_COORD(Entity entity,float x,float y,float z,int flag
 * **flags**:
 
 ## Return value
-

@@ -19,6 +19,3 @@ eventType: https://alloc8or.re/rdr3/doc/enums/eEventType.txt
 * **z**:
 * **radius**:
 * **p5**:
-
-
-

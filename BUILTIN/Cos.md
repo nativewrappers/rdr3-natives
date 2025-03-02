@@ -14,4 +14,3 @@ float COS(float value);
 * **value**:
 
 ## Return value
-

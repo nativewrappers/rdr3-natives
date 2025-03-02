@@ -13,6 +13,3 @@ void SET_DECISION_MAKER_TO_DEFAULT(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

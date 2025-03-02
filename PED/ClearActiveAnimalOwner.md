@@ -16,6 +16,3 @@ Set to false for player horse in scripts and seems it's only true when releasing
 ## Parameters
 * **horse**:
 * **clear**:
-
-
-

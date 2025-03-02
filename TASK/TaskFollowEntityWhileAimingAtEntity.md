@@ -19,6 +19,3 @@ void TASK_FOLLOW_ENTITY_WHILE_AIMING_AT_ENTITY(Ped ped,Any p1,Any p2,Any p3,Any 
 * **p5**:
 * **p6**:
 * **p7**:
-
-
-

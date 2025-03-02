@@ -17,4 +17,3 @@ Any GET_DRAFT_ANIMAL_COUNT(Vehicle vehicle,int* expected,int* actual);
 * **actual**:
 
 ## Return value
-

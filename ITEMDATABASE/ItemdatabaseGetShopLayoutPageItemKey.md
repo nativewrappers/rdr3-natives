@@ -20,4 +20,3 @@ Any _ITEMDATABASE_GET_SHOP_LAYOUT_PAGE_ITEM_KEY(Hash layout,Hash pageKey,int ind
 * **outLayout**:
 
 ## Return value
-

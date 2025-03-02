@@ -13,6 +13,3 @@ void _UI_PROMPT_SET_PROMPT_PRIORITY_PREFERENCE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

@@ -13,6 +13,3 @@ void BLOCK_PICKUP_FROM_PLAYER_COLLECTION(Any p0,Any p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

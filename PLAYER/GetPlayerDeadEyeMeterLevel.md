@@ -16,4 +16,3 @@ float _GET_PLAYER_DEAD_EYE_METER_LEVEL(Player player,BOOL p1);
 * **p1**:
 
 ## Return value
-

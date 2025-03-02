@@ -15,4 +15,3 @@ BOOL NETWORK_CHECK_COMMUNICATION_PRIVILEGES(int p0);
 * **p0**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _CLEAR_BIT_FLAG(Any* bitFlags,int flag);
 ## Parameters
 * **bitFlags**:
 * **flag**:
-
-
-

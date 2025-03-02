@@ -18,6 +18,3 @@ fire damage Defense mod: type = 8, 15
 * **player**:
 * **type**:
 * **defenseModifier**:
-
-
-

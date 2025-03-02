@@ -14,4 +14,3 @@ int GET_WANTED_LEVEL_THRESHOLD(int wantedLevel);
 * **wantedLevel**:
 
 ## Return value
-

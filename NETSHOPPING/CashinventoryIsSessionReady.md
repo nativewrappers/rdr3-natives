@@ -12,4 +12,3 @@ BOOL _CASHINVENTORY_IS_SESSION_READY();
 
 
 ## Return value
-

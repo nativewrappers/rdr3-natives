@@ -12,6 +12,3 @@ void REMOVE_DECALS_FROM_OBJECT(Object obj);
 
 ## Parameters
 * **obj**:
-
-
-

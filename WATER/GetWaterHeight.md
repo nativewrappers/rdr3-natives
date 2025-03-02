@@ -18,4 +18,3 @@ Checks against a global variable that is set by _SET_WORLD_WATER_TYPE. If that i
 * **height**:
 
 ## Return value
-

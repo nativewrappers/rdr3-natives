@@ -15,6 +15,3 @@ Params: p1 = 1 & 2 in R* Scripts, 0 = Disable avoidance, 1 = Enabled avoidance, 
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

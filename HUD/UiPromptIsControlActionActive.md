@@ -15,4 +15,3 @@ Any UI_PROMPT_IS_CONTROL_ACTION_ACTIVE(Hash controlAction);
 * **controlAction**:
 
 ## Return value
-

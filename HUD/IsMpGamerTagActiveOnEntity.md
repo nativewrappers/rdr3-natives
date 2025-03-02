@@ -16,4 +16,3 @@ Any _IS_MP_GAMER_TAG_ACTIVE_ON_ENTITY(int gamerTagId,Entity entity);
 * **entity**:
 
 ## Return value
-

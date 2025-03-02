@@ -27,6 +27,3 @@ ENTER_ANIM_SCENE_DONT_FOLLOW_NAVMESH = (1 << 7)
 * **flag**:
 * **p7**:
 * **p8**:
-
-
-

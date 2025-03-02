@@ -15,4 +15,3 @@ Any IS_WEAPON_REPEATER(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

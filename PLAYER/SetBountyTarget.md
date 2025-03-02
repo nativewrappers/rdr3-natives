@@ -14,6 +14,3 @@ void _SET_BOUNTY_TARGET(Player player,Player target);
 ## Parameters
 * **player**:
 * **target**:
-
-
-

@@ -13,4 +13,3 @@ char* _NETWORK_GET_STRING_CASH_BALANCE();
 
 
 ## Return value
-

@@ -20,4 +20,3 @@ int GET_MATCHING_ENTITIES(Volume volume,ItemSet itemSet,int entityType,Any p3,Ha
 * **p5**:
 
 ## Return value
-

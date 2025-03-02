@@ -16,4 +16,3 @@ type: see DECOR_REGISTER
 * **type**:
 
 ## Return value
-

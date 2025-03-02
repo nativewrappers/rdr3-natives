@@ -14,4 +14,3 @@ float GET_PED_WAYPOINT_DISTANCE(Ped ped);
 * **ped**:
 
 ## Return value
-

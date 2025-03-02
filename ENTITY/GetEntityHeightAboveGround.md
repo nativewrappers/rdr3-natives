@@ -14,4 +14,3 @@ float GET_ENTITY_HEIGHT_ABOVE_GROUND(Entity entity);
 * **entity**:
 
 ## Return value
-

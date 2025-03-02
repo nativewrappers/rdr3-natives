@@ -24,6 +24,3 @@ void TASK_FOLLOW_NAV_MESH_TO_COORD_ADVANCED(Ped ped,float x,float y,float z,floa
 * **p10**:
 * **entity**:
 * **unk**:
-
-
-

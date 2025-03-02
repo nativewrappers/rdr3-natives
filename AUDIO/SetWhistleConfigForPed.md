@@ -16,6 +16,3 @@ whistleConfig: Ped.WhistlePitch (0.0 - 1.0), Ped.WhistleClarity (0.0 - 1.0), Ped
 * **ped**:
 * **whistleConfig**:
 * **value**:
-
-
-

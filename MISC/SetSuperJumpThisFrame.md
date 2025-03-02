@@ -12,6 +12,3 @@ void SET_SUPER_JUMP_THIS_FRAME(Player player);
 
 ## Parameters
 * **player**:
-
-
-

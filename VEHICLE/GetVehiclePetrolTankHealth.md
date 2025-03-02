@@ -15,4 +15,3 @@ float GET_VEHICLE_PETROL_TANK_HEALTH(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

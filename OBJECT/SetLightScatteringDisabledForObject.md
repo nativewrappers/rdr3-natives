@@ -14,6 +14,3 @@ void _SET_LIGHT_SCATTERING_DISABLED_FOR_OBJECT(Object object,BOOL disable);
 ## Parameters
 * **object**:
 * **disable**:
-
-
-

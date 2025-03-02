@@ -13,6 +13,3 @@ Note: patrolRoute must be prefixed with 'miss_' for it to be valid
 
 ## Parameters
 * **patrolRoute**:
-
-
-

@@ -15,6 +15,3 @@ NET_FETCH_CLIENT_UPDATE_PED_FIGHT_PROFICIENCY: Changing parry multiplier for ped
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

@@ -12,4 +12,3 @@ int GET_CAUSE_OF_MOST_RECENT_FORCE_CLEANUP();
 
 
 ## Return value
-

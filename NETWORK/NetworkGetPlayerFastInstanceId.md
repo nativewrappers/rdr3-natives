@@ -15,4 +15,3 @@ int _NETWORK_GET_PLAYER_FAST_INSTANCE_ID(Player player);
 * **player**:
 
 ## Return value
-

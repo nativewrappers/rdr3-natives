@@ -17,4 +17,3 @@ returned values:
 * **ped**:
 
 ## Return value
-

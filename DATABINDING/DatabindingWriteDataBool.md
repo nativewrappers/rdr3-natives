@@ -13,6 +13,3 @@ void _DATABINDING_WRITE_DATA_BOOL(Any p0,BOOL p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

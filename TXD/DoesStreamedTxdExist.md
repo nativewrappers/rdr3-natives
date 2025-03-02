@@ -15,4 +15,3 @@ Any DOES_STREAMED_TXD_EXIST(Hash txdHash);
 * **txdHash**:
 
 ## Return value
-

@@ -18,4 +18,3 @@ Gets a value indicating whether the specified position is on a road.
 * **vehicle**:
 
 ## Return value
-

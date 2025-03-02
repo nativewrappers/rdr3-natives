@@ -24,6 +24,3 @@ straightLineDist: distance at which AI switches to heading for target directly i
 * **drivingMode**:
 * **stopRange**:
 * **straightLineDist**:
-
-
-

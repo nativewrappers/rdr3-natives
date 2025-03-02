@@ -18,4 +18,3 @@ int _GET_COVER_POINT_STATE_FROM_PED(Ped ped);
 * **ped**:
 
 ## Return value
-

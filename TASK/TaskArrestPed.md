@@ -13,6 +13,3 @@ void TASK_ARREST_PED(Ped ped,Ped target);
 ## Parameters
 * **ped**:
 * **target**:
-
-
-

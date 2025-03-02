@@ -20,6 +20,3 @@ Citizen.InvokeNative(0xC412AA1C73111FE0,mount,GetHashKey('PROVISION_DEER_HIDE_PO
 * **albedo**:
 * **normal**:
 * **p4**:
-
-
-

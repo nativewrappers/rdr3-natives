@@ -27,4 +27,3 @@ Creates a pickup-able metaped component. asset doesn't seems to be related to co
 * **p9**:
 
 ## Return value
-

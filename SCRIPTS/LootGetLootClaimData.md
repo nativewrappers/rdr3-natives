@@ -16,4 +16,3 @@ BOOL _LOOT_GET_LOOT_CLAIM_DATA(Any* rpcGuid,int dataIndex,Any* outLootData);
 * **outLootData**:
 
 ## Return value
-

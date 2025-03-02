@@ -17,4 +17,3 @@ Any _ITEMDATABASE_DOES_ITEM_HAVE_TAG(Hash item,Hash tag,Hash tagType);
 * **tagType**:
 
 ## Return value
-

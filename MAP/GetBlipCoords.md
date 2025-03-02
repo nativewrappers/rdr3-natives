@@ -14,4 +14,3 @@ Vector3 GET_BLIP_COORDS(Blip blip);
 * **blip**:
 
 ## Return value
-

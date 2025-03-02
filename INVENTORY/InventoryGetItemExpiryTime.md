@@ -14,4 +14,3 @@ int _INVENTORY_GET_ITEM_EXPIRY_TIME(Any* itemGUID);
 * **itemGUID**:
 
 ## Return value
-

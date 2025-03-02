@@ -20,4 +20,3 @@ BOOL DOES_SCENARIO_EXIST_IN_AREA(float x,float y,float z,float radius,BOOL p4,An
 * **p6**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ Opens file.
 
 ## Parameters
 * **p0**:
-
-
-

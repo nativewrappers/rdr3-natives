@@ -13,6 +13,3 @@ void _CLOSE_UIAPP_IMMEDIATE(const char* appName);
 
 ## Parameters
 * **appName**:
-
-
-

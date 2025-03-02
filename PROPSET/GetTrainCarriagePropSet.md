@@ -16,4 +16,3 @@ Example before/after deleting a train carriage's propset: https://imgur.com/a/qR
 * **trainCarriage**:
 
 ## Return value
-

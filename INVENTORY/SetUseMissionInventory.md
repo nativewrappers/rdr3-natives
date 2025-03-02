@@ -14,6 +14,3 @@ This native has no functionality.
 
 ## Parameters
 * **toggle**:
-
-
-

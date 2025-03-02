@@ -22,6 +22,3 @@ p7/highForce - setting false will make the force really low
 * **isDirectionRel**:
 * **isForceRel**:
 * **p8**:
-
-
-

@@ -14,4 +14,3 @@ BOOL IS_PED_RUNNING_MOBILE_PHONE_TASK(Ped ped);
 * **ped**:
 
 ## Return value
-

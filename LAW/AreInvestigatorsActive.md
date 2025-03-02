@@ -17,4 +17,3 @@ Any _ARE_INVESTIGATORS_ACTIVE(Player player,BOOL areInvestigatorsActive,Any p2);
 * **p2**:
 
 ## Return value
-

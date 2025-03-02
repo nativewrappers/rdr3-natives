@@ -22,4 +22,3 @@ Ped CREATE_PED(Hash modelHash,float x,float y,float z,float heading,BOOL isNetwo
 * **p8**:
 
 ## Return value
-

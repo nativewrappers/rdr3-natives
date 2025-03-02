@@ -16,6 +16,3 @@ void SET_CAM_ACTIVE_WITH_INTERP(Cam camTo,Cam camFrom,int duration,int easeLocat
 * **duration**:
 * **easeLocation**:
 * **easeRotation**:
-
-
-

@@ -12,6 +12,3 @@ void DELETE_CHILD_ROPE(int ropeId);
 
 ## Parameters
 * **ropeId**:
-
-
-

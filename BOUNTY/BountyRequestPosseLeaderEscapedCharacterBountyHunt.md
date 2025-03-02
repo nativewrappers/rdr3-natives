@@ -15,4 +15,3 @@ Any _BOUNTY_REQUEST_POSSE_LEADER_ESCAPED_CHARACTER_BOUNTY_HUNT(Any* outRpcGuid);
 * **outRpcGuid**:
 
 ## Return value
-

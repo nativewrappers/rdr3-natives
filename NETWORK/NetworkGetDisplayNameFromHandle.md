@@ -23,4 +23,3 @@ if (_NETWORK_GET_DISPLAY_NAME_FROM_HANDLE(handle, displayName))
 * **displayName**:
 
 ## Return value
-

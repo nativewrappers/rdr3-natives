@@ -11,7 +11,3 @@ void DISABLE_FIRST_PERSON_FLASH_EFFECT_THIS_UPDATE();
 ```
 
 nullsub, doesn't do anything
-
-
-
-

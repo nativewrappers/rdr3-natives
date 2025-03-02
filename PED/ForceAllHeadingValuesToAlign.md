@@ -14,6 +14,3 @@ Old name: _FREEZE_PED_CAMERA_ROTATION
 
 ## Parameters
 * **ped**:
-
-
-

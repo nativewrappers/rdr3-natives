@@ -17,4 +17,3 @@ limb: 3 = Left Hand, 4 = Left Arm, 6 = Right Hand, 7 = Right Arm, 9 = Left Foot,
 * **limb**:
 
 ## Return value
-

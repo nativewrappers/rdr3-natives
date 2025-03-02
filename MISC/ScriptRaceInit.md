@@ -16,6 +16,3 @@ void SCRIPT_RACE_INIT(int numCheckpoints,int numLaps,int numPlayers,Any p3);
 * **numLaps**:
 * **numPlayers**:
 * **p3**:
-
-
-

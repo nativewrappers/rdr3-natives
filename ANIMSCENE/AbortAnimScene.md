@@ -13,6 +13,3 @@ void ABORT_ANIM_SCENE(AnimScene animScene,BOOL p1);
 ## Parameters
 * **animScene**:
 * **p1**:
-
-
-

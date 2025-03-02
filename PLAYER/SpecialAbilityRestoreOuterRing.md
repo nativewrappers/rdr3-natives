@@ -16,6 +16,3 @@ Restores Deadeye Outer Ring
 ## Parameters
 * **player**:
 * **amount**:
-
-
-

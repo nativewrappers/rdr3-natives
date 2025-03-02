@@ -14,6 +14,3 @@ Creates blood pools for the given ped in some interval for a few seconds.
 
 ## Parameters
 * **ped**:
-
-
-

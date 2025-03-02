@@ -15,4 +15,3 @@ Any _ANIMPOSTFX_HAS_LOADED(const char* effectName);
 * **effectName**:
 
 ## Return value
-

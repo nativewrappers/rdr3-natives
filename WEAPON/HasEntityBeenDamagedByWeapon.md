@@ -17,4 +17,3 @@ Any _HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON(Entity entity,Hash weaponName,int weaponT
 * **weaponType**:
 
 ## Return value
-

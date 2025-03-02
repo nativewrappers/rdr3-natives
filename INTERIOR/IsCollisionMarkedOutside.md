@@ -18,4 +18,3 @@ Returns true if the collision at the specified coords is marked as being outside
 * **z**:
 
 ## Return value
-

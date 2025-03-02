@@ -16,4 +16,3 @@ Returns relationshipGroup Hash
 * **volume**:
 
 ## Return value
-

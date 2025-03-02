@@ -13,6 +13,3 @@ void SET_PED_SHOULD_PLAY_NORMAL_SCENARIO_EXIT(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

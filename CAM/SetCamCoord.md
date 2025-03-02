@@ -16,6 +16,3 @@ Sets the position of the cam.
 * **posX**:
 * **posY**:
 * **posZ**:
-
-
-

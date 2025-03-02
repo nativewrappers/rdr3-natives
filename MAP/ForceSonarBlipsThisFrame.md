@@ -13,4 +13,3 @@ Doesn't actually return anything.
 
 
 ## Return value
-

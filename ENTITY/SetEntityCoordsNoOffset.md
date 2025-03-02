@@ -19,6 +19,3 @@ Axis - Invert Axis Flags
 * **xAxis**:
 * **yAxis**:
 * **zAxis**:
-
-
-

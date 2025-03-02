@@ -13,6 +13,3 @@ void _CLEAR_PED_LAST_WEAPON_DAMAGE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

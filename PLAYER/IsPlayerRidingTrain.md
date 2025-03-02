@@ -15,4 +15,3 @@ Returns true if the player is riding a train.
 * **player**:
 
 ## Return value
-

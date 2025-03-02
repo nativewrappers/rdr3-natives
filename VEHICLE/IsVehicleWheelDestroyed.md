@@ -16,4 +16,3 @@ Any _IS_VEHICLE_WHEEL_DESTROYED(Vehicle vehicle,int wheel);
 * **wheel**:
 
 ## Return value
-

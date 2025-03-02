@@ -16,6 +16,3 @@ Only works on CClothingItem
 * **inventoryId**:
 * **guid**:
 * **inUse**:
-
-
-

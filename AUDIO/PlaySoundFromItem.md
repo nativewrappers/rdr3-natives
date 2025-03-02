@@ -17,6 +17,3 @@ soundSet: HUD_SHOP_SOUNDSET, COMPANIONS_ROBBERIES_SOUNDSET
 * **item**:
 * **soundSet**:
 * **p2**:
-
-
-

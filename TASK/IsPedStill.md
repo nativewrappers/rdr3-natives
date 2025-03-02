@@ -14,4 +14,3 @@ BOOL IS_PED_STILL(Ped ped);
 * **ped**:
 
 ## Return value
-

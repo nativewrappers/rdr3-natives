@@ -15,6 +15,3 @@ void MISSIONDATA_SET_RATING_SCORES(Hash missionId,int bronzeScore,int silverScor
 * **bronzeScore**:
 * **silverScore**:
 * **goldScore**:
-
-
-

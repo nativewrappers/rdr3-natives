@@ -12,6 +12,3 @@ void REMOVE_PORTAL_SETTINGS_OVERRIDE(const char* p0);
 
 ## Parameters
 * **p0**:
-
-
-

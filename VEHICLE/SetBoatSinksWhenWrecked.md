@@ -13,6 +13,3 @@ void SET_BOAT_SINKS_WHEN_WRECKED(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

@@ -22,6 +22,3 @@ Note: If a player is in the vehicle, it will only sound briefly.
 * **duration**:
 * **mode**:
 * **forever**:
-
-
-

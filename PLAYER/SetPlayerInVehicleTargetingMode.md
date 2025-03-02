@@ -15,6 +15,3 @@ see SET_PLAYER_TARGETING_MODE for eTargetingMode
 
 ## Parameters
 * **targetMode**:
-
-
-

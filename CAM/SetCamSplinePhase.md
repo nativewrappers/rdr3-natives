@@ -13,6 +13,3 @@ void SET_CAM_SPLINE_PHASE(Cam cam,float p1);
 ## Parameters
 * **cam**:
 * **p1**:
-
-
-

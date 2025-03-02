@@ -13,6 +13,3 @@ void FADE_AND_DESTROY_PED(Ped* ped);
 
 ## Parameters
 * **ped**:
-
-
-

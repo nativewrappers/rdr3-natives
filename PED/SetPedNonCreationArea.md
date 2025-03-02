@@ -18,6 +18,3 @@ The distance between these points, is the diagonal of a box (remember it's 3D).
 * **x2**:
 * **y2**:
 * **z2**:
-
-
-

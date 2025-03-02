@@ -14,6 +14,3 @@ This modifies the damage value of your weapon. Whether it is a multiplier or bas
 ## Parameters
 * **player**:
 * **modifier**:
-
-
-

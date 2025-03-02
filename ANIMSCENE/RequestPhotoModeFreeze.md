@@ -9,8 +9,3 @@ apiset: client
 // 0x7C709C01D43D94CD
 void _REQUEST_PHOTO_MODE_FREEZE();
 ```
-
-
-
-
-

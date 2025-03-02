@@ -12,4 +12,3 @@ float GET_GAMEPLAY_CAM_RELATIVE_HEADING();
 
 
 ## Return value
-

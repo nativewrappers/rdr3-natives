@@ -12,6 +12,3 @@ void TASK_CLEAR_DEFENSIVE_AREA(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

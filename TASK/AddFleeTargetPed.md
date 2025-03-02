@@ -16,6 +16,3 @@ Params: p2 is always -1.f in R* Scripts
 * **ped**:
 * **targetPed**:
 * **p2**:
-
-
-

@@ -17,6 +17,3 @@ Old name: _SET_PICKUP_OBJECT_GLOW_ENABLED
 ## Parameters
 * **object**:
 * **toggle**:
-
-
-

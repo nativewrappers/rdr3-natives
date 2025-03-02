@@ -15,6 +15,3 @@ For more information, see common:/data/emotional_presets.meta
 ## Parameters
 * **ped**:
 * **name**:
-
-
-

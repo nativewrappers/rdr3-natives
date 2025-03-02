@@ -15,4 +15,3 @@ Any IS_PED_FALLING_OVER(Ped ped);
 * **ped**:
 
 ## Return value
-

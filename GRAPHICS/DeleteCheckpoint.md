@@ -12,6 +12,3 @@ void DELETE_CHECKPOINT(int checkpoint);
 
 ## Parameters
 * **checkpoint**:
-
-
-

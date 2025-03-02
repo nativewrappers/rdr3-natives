@@ -15,4 +15,3 @@ Any _IS_CARRIABLE_MODEL(Hash model);
 * **model**:
 
 ## Return value
-

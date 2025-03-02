@@ -9,8 +9,3 @@ apiset: client
 // 0x9A92C06ACBAF9731
 void _TRIGGER_MISSION_FAILED_CAM();
 ```
-
-
-
-
-

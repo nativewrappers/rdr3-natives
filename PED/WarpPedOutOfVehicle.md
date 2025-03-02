@@ -13,6 +13,3 @@ void _WARP_PED_OUT_OF_VEHICLE(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

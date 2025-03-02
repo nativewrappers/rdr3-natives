@@ -16,4 +16,3 @@ Any _IS_PED_TARGET_ACTION_DISABLE_FLAG_ENABLED(Ped ped,int actionDisableFlag);
 * **actionDisableFlag**:
 
 ## Return value
-

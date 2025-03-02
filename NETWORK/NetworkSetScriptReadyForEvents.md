@@ -13,6 +13,3 @@ void NETWORK_SET_SCRIPT_READY_FOR_EVENTS(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

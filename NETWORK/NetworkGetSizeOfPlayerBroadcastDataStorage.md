@@ -15,4 +15,3 @@ int _NETWORK_GET_SIZE_OF_PLAYER_BROADCAST_DATA_STORAGE(int* p0);
 * **p0**:
 
 ## Return value
-

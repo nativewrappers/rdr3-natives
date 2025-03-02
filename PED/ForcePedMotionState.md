@@ -19,4 +19,3 @@ motionStateHash: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/mai
 * **p4**:
 
 ## Return value
-

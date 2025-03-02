@@ -12,6 +12,3 @@ void _0xBB68908CD11AEBDC(PersChar persChar);
 
 ## Parameters
 * **persChar**:
-
-
-

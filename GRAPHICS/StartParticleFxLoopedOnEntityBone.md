@@ -26,4 +26,3 @@ int START_PARTICLE_FX_LOOPED_ON_ENTITY_BONE(const char* effectName,Entity entity
 * **zAxis**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ _H* - _I*
 ## Parameters
 * **mount**:
 * **kickOffRider**:
-
-
-

@@ -15,6 +15,3 @@ Sets ped eye redness, weariness: 0.f to 1.f
 ## Parameters
 * **ped**:
 * **weariness**:
-
-
-

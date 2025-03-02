@@ -23,6 +23,3 @@ enum eDoorState
 ## Parameters
 * **doorHash**:
 * **state**:
-
-
-

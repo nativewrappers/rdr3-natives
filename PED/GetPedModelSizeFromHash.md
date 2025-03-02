@@ -19,4 +19,3 @@ PS_EXTRA_LARGE
 * **modelHash**:
 
 ## Return value
-

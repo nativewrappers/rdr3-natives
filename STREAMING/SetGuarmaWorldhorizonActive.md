@@ -13,6 +13,3 @@ void _SET_GUARMA_WORLDHORIZON_ACTIVE(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

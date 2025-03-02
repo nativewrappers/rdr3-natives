@@ -14,6 +14,3 @@ Params: shootRate = 0 - 1000
 ## Parameters
 * **ped**:
 * **shootRate**:
-
-
-

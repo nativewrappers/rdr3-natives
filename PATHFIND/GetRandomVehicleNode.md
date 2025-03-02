@@ -22,4 +22,3 @@ BOOL GET_RANDOM_VEHICLE_NODE(float x,float y,float z,float radius,int minLanes,B
 * **nodeId**:
 
 ## Return value
-

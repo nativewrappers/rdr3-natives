@@ -13,6 +13,3 @@ void COMPENDIUM_HORSE_BONDING(Ped ped,int bondingLevel);
 ## Parameters
 * **ped**:
 * **bondingLevel**:
-
-
-

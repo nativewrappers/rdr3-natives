@@ -16,4 +16,3 @@ Any NETWORK_SET_MP_MISSION_FLAG_ON_CURRENT_SLOT(BOOL enabled,int flagIndex);
 * **flagIndex**:
 
 ## Return value
-

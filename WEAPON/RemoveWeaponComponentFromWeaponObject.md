@@ -13,6 +13,3 @@ void REMOVE_WEAPON_COMPONENT_FROM_WEAPON_OBJECT(Object weaponObject,Hash compone
 ## Parameters
 * **weaponObject**:
 * **component**:
-
-
-

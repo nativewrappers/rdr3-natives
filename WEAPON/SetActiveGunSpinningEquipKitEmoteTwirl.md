@@ -14,6 +14,3 @@ emote hashes: KIT_EMOTE_TWIRL_GUN, KIT_EMOTE_TWIRL_GUN_LEFT_HOLSTER, KIT_EMOTE_T
 ## Parameters
 * **ped**:
 * **emote**:
-
-
-

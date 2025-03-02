@@ -15,4 +15,3 @@ Returns true/false if the ped is/isn't male.
 * **ped**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Hash _GET_PED_META_OUTFIT_HASH(Ped ped);
 * **ped**:
 
 ## Return value
-

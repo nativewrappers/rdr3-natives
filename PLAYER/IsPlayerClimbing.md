@@ -15,4 +15,3 @@ Returns TRUE if the player ('s ped) is climbing at the moment.
 * **player**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void SET_PED_SWEAT(Ped ped,float sweat);
 ## Parameters
 * **ped**:
 * **sweat**:
-
-
-

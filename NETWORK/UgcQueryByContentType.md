@@ -21,4 +21,3 @@ Returns ugcRequestId
 * **p5**:
 
 ## Return value
-

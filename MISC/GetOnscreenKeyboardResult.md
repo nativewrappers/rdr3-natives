@@ -13,4 +13,3 @@ Returns NULL unless UPDATE_ONSCREEN_KEYBOARD() returns 1 in the same tick.
 
 
 ## Return value
-

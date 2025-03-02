@@ -19,4 +19,3 @@ Any _INVENTORY_GET_FULL_INVENTORY_ITEM_DATA(int inventoryId,Any* guid,Any* p2,in
 * **p4**:
 
 ## Return value
-

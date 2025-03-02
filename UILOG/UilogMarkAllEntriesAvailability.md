@@ -14,6 +14,3 @@ void _UILOG_MARK_ALL_ENTRIES_AVAILABILITY(int p0,const char* p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

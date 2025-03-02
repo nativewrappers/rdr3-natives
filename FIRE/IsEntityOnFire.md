@@ -14,4 +14,3 @@ BOOL IS_ENTITY_ON_FIRE(Entity entity);
 * **entity**:
 
 ## Return value
-

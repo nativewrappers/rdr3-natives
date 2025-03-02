@@ -14,6 +14,3 @@ Old name: _SET_RAIN_LEVEL
 
 ## Parameters
 * **intensity**:
-
-
-

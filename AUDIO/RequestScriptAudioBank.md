@@ -14,4 +14,3 @@ BOOL REQUEST_SCRIPT_AUDIO_BANK(const char* audioBank);
 * **audioBank**:
 
 ## Return value
-

@@ -16,6 +16,3 @@ p2 is usually the same as speed parameter
 * **object**:
 * **speed**:
 * **p2**:
-
-
-

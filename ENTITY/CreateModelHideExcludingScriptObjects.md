@@ -17,6 +17,3 @@ void CREATE_MODEL_HIDE_EXCLUDING_SCRIPT_OBJECTS(float x,float y,float z,float ra
 * **radius**:
 * **model**:
 * **p5**:
-
-
-

@@ -19,4 +19,3 @@ Any LOAD_SCENE_START_SPHERE(float x,float y,float z,float radius,int controlFlag
 * **controlFlags**:
 
 ## Return value
-

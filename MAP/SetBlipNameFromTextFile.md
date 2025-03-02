@@ -13,6 +13,3 @@ void SET_BLIP_NAME_FROM_TEXT_FILE(Blip blip,const char* textLabel);
 ## Parameters
 * **blip**:
 * **textLabel**:
-
-
-

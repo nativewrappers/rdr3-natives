@@ -16,4 +16,3 @@ BOOL IS_PED_IN_COVER(Ped ped,BOOL p1,BOOL p2);
 * **p2**:
 
 ## Return value
-

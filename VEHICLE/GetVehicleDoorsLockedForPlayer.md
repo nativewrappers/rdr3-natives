@@ -15,4 +15,3 @@ BOOL GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle,Player player);
 * **player**:
 
 ## Return value
-

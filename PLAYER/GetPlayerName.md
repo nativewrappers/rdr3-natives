@@ -14,4 +14,3 @@ char* GET_PLAYER_NAME(Player player);
 * **player**:
 
 ## Return value
-

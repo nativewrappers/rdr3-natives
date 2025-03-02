@@ -15,4 +15,3 @@ Any GET_IS_CARRIABLE_ENTITY(Entity entity);
 * **entity**:
 
 ## Return value
-

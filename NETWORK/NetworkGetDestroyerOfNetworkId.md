@@ -15,4 +15,3 @@ int NETWORK_GET_DESTROYER_OF_NETWORK_ID(int netId,Hash* weaponHash);
 * **weaponHash**:
 
 ## Return value
-

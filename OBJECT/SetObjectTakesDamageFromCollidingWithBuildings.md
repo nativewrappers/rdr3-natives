@@ -14,6 +14,3 @@ void SET_OBJECT_TAKES_DAMAGE_FROM_COLLIDING_WITH_BUILDINGS(Object object,BOOL en
 ## Parameters
 * **object**:
 * **enabled**:
-
-
-

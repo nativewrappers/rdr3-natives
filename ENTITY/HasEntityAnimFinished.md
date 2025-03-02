@@ -17,4 +17,3 @@ BOOL HAS_ENTITY_ANIM_FINISHED(Entity entity,const char* animDict,const char* ani
 * **p3**:
 
 ## Return value
-

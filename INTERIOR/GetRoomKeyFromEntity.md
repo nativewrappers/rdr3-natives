@@ -15,4 +15,3 @@ Gets the room hash key from the room that the specified entity is in. Each room 
 * **entity**:
 
 ## Return value
-

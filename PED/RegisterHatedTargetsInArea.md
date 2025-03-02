@@ -17,6 +17,3 @@ void _REGISTER_HATED_TARGETS_IN_AREA(Ped ped,float x,float y,float z,float radiu
 * **y**:
 * **z**:
 * **radius**:
-
-
-

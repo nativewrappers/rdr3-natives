@@ -15,4 +15,3 @@ Cam CREATE_CAM(const char* camName,BOOL p1);
 * **p1**:
 
 ## Return value
-

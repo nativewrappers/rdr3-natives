@@ -15,4 +15,3 @@ char* _UIPINNING_GET_TOOLTIP_TEXT(Hash hash);
 * **hash**:
 
 ## Return value
-

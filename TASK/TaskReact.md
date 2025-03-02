@@ -22,6 +22,3 @@ Params: reactingTo Entity can be 0, p8 is always 4
 * **p6**:
 * **p7**:
 * **p8**:
-
-
-

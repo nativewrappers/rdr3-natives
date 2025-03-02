@@ -25,4 +25,3 @@ enum ePedQuality
 * **ped**:
 
 ## Return value
-

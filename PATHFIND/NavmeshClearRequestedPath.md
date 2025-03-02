@@ -16,4 +16,3 @@ Called in scripts after finished with requested pathes. Immediately resets all v
 * **path**:
 
 ## Return value
-

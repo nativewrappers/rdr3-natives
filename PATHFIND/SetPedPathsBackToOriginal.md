@@ -18,6 +18,3 @@ void SET_PED_PATHS_BACK_TO_ORIGINAL(Any p0,Any p1,Any p2,Any p3,Any p4,Any p5,An
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

@@ -18,4 +18,3 @@ Removes any existing modifiers and sets the style.
 * **styleHash**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ _SET_W(EAPON?)*
 ## Parameters
 * **ped**:
 * **totalDamage**:
-
-
-

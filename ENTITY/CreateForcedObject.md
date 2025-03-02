@@ -17,6 +17,3 @@ void CREATE_FORCED_OBJECT(float x,float y,float z,Any p3,Hash modelHash,BOOL p5)
 * **p3**:
 * **modelHash**:
 * **p5**:
-
-
-

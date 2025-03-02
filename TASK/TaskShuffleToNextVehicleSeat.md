@@ -15,6 +15,3 @@ The ped MUST be in a vehicle and the vehicle parameter MUST be the ped's current
 ## Parameters
 * **ped**:
 * **vehicle**:
-
-
-

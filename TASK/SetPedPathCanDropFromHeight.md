@@ -13,6 +13,3 @@ void SET_PED_PATH_CAN_DROP_FROM_HEIGHT(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

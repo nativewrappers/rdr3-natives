@@ -14,4 +14,3 @@ Vehicle GET_VEHICLE_PED_IS_ENTERING(Ped ped);
 * **ped**:
 
 ## Return value
-

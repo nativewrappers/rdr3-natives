@@ -15,4 +15,3 @@ Hash _GET_WEAPON_STAT_ID(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

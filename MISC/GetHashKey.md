@@ -16,4 +16,3 @@ Note: this implementation is case-insensitive.
 * **string**:
 
 ## Return value
-

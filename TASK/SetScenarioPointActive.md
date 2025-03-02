@@ -14,6 +14,3 @@ void _SET_SCENARIO_POINT_ACTIVE(int scenario,BOOL active);
 ## Parameters
 * **scenario**:
 * **active**:
-
-
-

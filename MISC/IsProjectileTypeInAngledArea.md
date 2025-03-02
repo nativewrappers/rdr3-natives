@@ -22,4 +22,3 @@ BOOL IS_PROJECTILE_TYPE_IN_ANGLED_AREA(float p0,float p1,float p2,float p3,float
 * **p8**:
 
 ## Return value
-

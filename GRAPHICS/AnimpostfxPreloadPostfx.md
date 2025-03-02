@@ -13,6 +13,3 @@ void _ANIMPOSTFX_PRELOAD_POSTFX(const char* effectName);
 
 ## Parameters
 * **effectName**:
-
-
-

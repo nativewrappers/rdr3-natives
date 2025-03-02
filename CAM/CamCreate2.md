@@ -13,6 +13,3 @@ void _CAM_CREATE_2(const char* cameraDictionary);
 
 ## Parameters
 * **cameraDictionary**:
-
-
-

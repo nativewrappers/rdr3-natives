@@ -15,4 +15,3 @@ BOOL IS_THREAD_ACTIVE(int threadId,BOOL ignoreKilledState);
 * **ignoreKilledState**:
 
 ## Return value
-

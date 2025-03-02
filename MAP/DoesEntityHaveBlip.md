@@ -15,4 +15,3 @@ Any _DOES_ENTITY_HAVE_BLIP(Entity entity);
 * **entity**:
 
 ## Return value
-

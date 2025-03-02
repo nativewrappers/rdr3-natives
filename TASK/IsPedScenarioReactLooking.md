@@ -16,4 +16,3 @@ Any IS_PED_SCENARIO_REACT_LOOKING(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

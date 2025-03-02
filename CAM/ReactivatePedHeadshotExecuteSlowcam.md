@@ -16,6 +16,3 @@ Params: p1 seems to be 0 or 1 in R* Scripts
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

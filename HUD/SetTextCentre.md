@@ -12,6 +12,3 @@ void SET_TEXT_CENTRE(BOOL align);
 
 ## Parameters
 * **align**:
-
-
-

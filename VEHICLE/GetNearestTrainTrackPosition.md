@@ -17,4 +17,3 @@ Vector3 _GET_NEAREST_TRAIN_TRACK_POSITION(float x,float y,float z);
 * **z**:
 
 ## Return value
-

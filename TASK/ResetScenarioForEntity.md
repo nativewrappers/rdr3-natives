@@ -14,6 +14,3 @@ void _RESET_SCENARIO_FOR_ENTITY(int scenario,Entity entity);
 ## Parameters
 * **scenario**:
 * **entity**:
-
-
-

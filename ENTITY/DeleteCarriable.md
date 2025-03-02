@@ -13,6 +13,3 @@ void _DELETE_CARRIABLE(Entity* entity);
 
 ## Parameters
 * **entity**:
-
-
-

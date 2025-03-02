@@ -15,4 +15,3 @@ float POW(float base,float exponent);
 * **exponent**:
 
 ## Return value
-

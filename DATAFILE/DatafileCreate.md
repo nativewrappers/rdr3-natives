@@ -12,6 +12,3 @@ void DATAFILE_CREATE(int index);
 
 ## Parameters
 * **index**:
-
-
-

@@ -13,6 +13,3 @@ void SET_PED_PATH_CAN_USE_CLIMBOVERS(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

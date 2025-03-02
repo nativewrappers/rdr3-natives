@@ -17,4 +17,3 @@ Sets property to int.
 * **value**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ BOOL SET_AMMO_IN_CLIP(Ped ped,Hash weaponHash,int ammo);
 * **ammo**:
 
 ## Return value
-

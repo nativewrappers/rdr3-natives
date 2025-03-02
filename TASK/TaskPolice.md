@@ -15,4 +15,3 @@ Any TASK_POLICE(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

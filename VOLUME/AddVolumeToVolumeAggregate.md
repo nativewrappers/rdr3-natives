@@ -23,6 +23,3 @@ void _ADD_VOLUME_TO_VOLUME_AGGREGATE(Volume aggregate,Hash typeHash,float x,floa
 * **scaleX**:
 * **scaleY**:
 * **scaleZ**:
-
-
-

@@ -41,6 +41,3 @@ enum ePedAttribute
 * **ped**:
 * **attributeIndex**:
 * **newValue**:
-
-
-

@@ -12,6 +12,3 @@ void PIN_INTERIOR_IN_MEMORY(Interior interior);
 
 ## Parameters
 * **interior**:
-
-
-

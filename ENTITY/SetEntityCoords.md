@@ -19,6 +19,3 @@ void SET_ENTITY_COORDS(Entity entity,float xPos,float yPos,float zPos,BOOL xAxis
 * **yAxis**:
 * **zAxis**:
 * **clearArea**:
-
-
-

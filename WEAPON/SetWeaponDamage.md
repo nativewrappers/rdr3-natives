@@ -16,6 +16,3 @@ Related to weapon visual damage, not actual damage.
 * **weaponObject**:
 * **level**:
 * **p2**:
-
-
-

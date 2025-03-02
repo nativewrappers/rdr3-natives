@@ -34,4 +34,3 @@ permanentDegradation: default 0.5, any higher than 0 it will automatically make 
 * **p12**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Any _GET_HAS_PLAYER_DISCOVERED_CHARACTER_NAME_SP(Player player,int p1,Hash disco
 * **discoveryHash**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ BOOL IS_ENTITY_UPRIGHT(Entity entity,float angle);
 * **angle**:
 
 ## Return value
-

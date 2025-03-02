@@ -12,6 +12,3 @@ void RESERVE_NETWORK_MISSION_PEDS(int amount);
 
 ## Parameters
 * **amount**:
-
-
-

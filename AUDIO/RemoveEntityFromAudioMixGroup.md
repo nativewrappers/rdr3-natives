@@ -13,6 +13,3 @@ void REMOVE_ENTITY_FROM_AUDIO_MIX_GROUP(Entity entity,float p1);
 ## Parameters
 * **entity**:
 * **p1**:
-
-
-

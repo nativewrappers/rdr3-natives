@@ -10,7 +10,3 @@ void CLEAR_GPS_MULTI_ROUTE();
 ```
 
 Does the same as SET_GPS_MULTI_ROUTE_RENDER(false);
-
-
-
-

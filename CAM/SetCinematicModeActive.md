@@ -12,6 +12,3 @@ void SET_CINEMATIC_MODE_ACTIVE(BOOL p0);
 
 ## Parameters
 * **p0**:
-
-
-

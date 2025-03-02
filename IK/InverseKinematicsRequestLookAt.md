@@ -14,6 +14,3 @@ void _INVERSE_KINEMATICS_REQUEST_LOOK_AT(Ped ped,Any* args);
 ## Parameters
 * **ped**:
 * **args**:
-
-
-

@@ -14,4 +14,3 @@ Vector3 GET_CAM_COORD(Cam cam);
 * **cam**:
 
 ## Return value
-

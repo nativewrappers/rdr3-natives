@@ -15,4 +15,3 @@ Hash GET_TARGET_CHARACTER_NAME_FOR_LOCAL_PLAYER(Ped ped);
 * **ped**:
 
 ## Return value
-

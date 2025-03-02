@@ -14,4 +14,3 @@ BOOL IS_AUDIO_SCENE_ACTIVE(const char* scene);
 * **scene**:
 
 ## Return value
-

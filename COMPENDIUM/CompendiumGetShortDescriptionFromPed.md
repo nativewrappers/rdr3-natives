@@ -14,4 +14,3 @@ Hash COMPENDIUM_GET_SHORT_DESCRIPTION_FROM_PED(Ped ped);
 * **ped**:
 
 ## Return value
-

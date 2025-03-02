@@ -13,6 +13,3 @@ void _REMOVE_ALL_PED_AMMO(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

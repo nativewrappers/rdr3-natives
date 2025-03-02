@@ -18,4 +18,3 @@ Any _CASHINVENTORY_TRANSACTION_ADD_AWARD(int id,Hash hash,Any* p2,Any* p3);
 * **p3**:
 
 ## Return value
-

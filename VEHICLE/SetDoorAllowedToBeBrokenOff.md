@@ -18,6 +18,3 @@ Old name: _SET_VEHICLE_DOOR_CAN_BREAK
 * **vehicle**:
 * **doorId**:
 * **isBreakable**:
-
-
-

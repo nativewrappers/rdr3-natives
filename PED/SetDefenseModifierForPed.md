@@ -14,6 +14,3 @@ void _SET_DEFENSE_MODIFIER_FOR_PED(Ped ped,float modifier);
 ## Parameters
 * **ped**:
 * **modifier**:
-
-
-

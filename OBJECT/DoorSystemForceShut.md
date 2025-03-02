@@ -14,6 +14,3 @@ void _DOOR_SYSTEM_FORCE_SHUT(Hash doorHash,BOOL p1);
 ## Parameters
 * **doorHash**:
 * **p1**:
-
-
-

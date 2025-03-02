@@ -16,4 +16,3 @@ Any _IS_PED_IN_ANY_CONVERSATION(Ped ped,BOOL p1);
 * **p1**:
 
 ## Return value
-

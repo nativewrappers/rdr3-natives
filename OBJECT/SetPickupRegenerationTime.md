@@ -13,6 +13,3 @@ void SET_PICKUP_REGENERATION_TIME(Pickup pickup,int duration);
 ## Parameters
 * **pickup**:
 * **duration**:
-
-
-

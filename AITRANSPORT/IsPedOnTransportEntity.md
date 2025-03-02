@@ -17,4 +17,3 @@ Checks if ped is placed on target transportEntity
 * **transportEntity**:
 
 ## Return value
-

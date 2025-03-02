@@ -14,6 +14,3 @@ void _SET_LOOT_PELT_SATCHEL_ITEM(Ped ped,Any item);
 ## Parameters
 * **ped**:
 * **item**:
-
-
-

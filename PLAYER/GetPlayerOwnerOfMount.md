@@ -15,4 +15,3 @@ Player _GET_PLAYER_OWNER_OF_MOUNT(Ped mount);
 * **mount**:
 
 ## Return value
-

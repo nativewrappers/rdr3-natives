@@ -18,4 +18,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/AI/EVENTS/loot_rewards.lua
 * **lootTable**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any WAS_ANIM_SCENE_SKIPPED(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

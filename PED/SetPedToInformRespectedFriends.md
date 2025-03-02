@@ -14,6 +14,3 @@ void SET_PED_TO_INFORM_RESPECTED_FRIENDS(Ped ped,float radius,int maxFriends);
 * **ped**:
 * **radius**:
 * **maxFriends**:
-
-
-

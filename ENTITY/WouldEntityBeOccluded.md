@@ -18,4 +18,3 @@ BOOL WOULD_ENTITY_BE_OCCLUDED(Hash entityModelHash,float x,float y,float z,BOOL 
 * **p4**:
 
 ## Return value
-

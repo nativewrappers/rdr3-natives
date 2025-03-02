@@ -14,6 +14,3 @@ void SHAKE_CAM(Cam cam,const char* type,float amplitude);
 * **cam**:
 * **type**:
 * **amplitude**:
-
-
-

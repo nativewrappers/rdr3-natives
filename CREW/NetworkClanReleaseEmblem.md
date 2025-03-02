@@ -12,6 +12,3 @@ void NETWORK_CLAN_RELEASE_EMBLEM(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

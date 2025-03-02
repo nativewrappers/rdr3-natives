@@ -12,6 +12,3 @@ void SET_PICKUP_GENERATION_RANGE_MULTIPLIER(float multiplier);
 
 ## Parameters
 * **multiplier**:
-
-
-

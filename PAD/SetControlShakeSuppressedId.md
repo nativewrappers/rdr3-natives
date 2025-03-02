@@ -15,6 +15,3 @@ Old name: SET_PAD_SHAKE_SUPPRESSED_ID
 ## Parameters
 * **control**:
 * **uniqueId**:
-
-
-

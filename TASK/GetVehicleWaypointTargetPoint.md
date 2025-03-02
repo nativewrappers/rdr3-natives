@@ -14,4 +14,3 @@ int GET_VEHICLE_WAYPOINT_TARGET_POINT(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ float _GET_PLAYER_STAMINA(Player player);
 * **player**:
 
 ## Return value
-

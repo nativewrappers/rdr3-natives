@@ -13,6 +13,3 @@ Makes the ped run to take cover
 
 ## Parameters
 * **ped**:
-
-
-

@@ -14,4 +14,3 @@ int GET_ENTITY_ALPHA(Entity entity);
 * **entity**:
 
 ## Return value
-

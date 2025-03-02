@@ -15,4 +15,3 @@ Any _MINIGAME_IS_SEAT_OCCUPIED(Any p0);
 * **p0**:
 
 ## Return value
-

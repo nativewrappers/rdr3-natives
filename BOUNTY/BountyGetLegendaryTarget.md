@@ -16,4 +16,3 @@ Any BOUNTY_GET_LEGENDARY_TARGET(Any p0,Any* p1);
 * **p1**:
 
 ## Return value
-

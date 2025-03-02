@@ -18,4 +18,3 @@ BOOL IS_ANY_HOSTILE_PED_NEAR_POINT(Ped ped,float x,float y,float z,float radius)
 * **radius**:
 
 ## Return value
-

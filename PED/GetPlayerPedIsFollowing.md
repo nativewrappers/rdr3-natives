@@ -14,4 +14,3 @@ Player GET_PLAYER_PED_IS_FOLLOWING(Ped ped);
 * **ped**:
 
 ## Return value
-

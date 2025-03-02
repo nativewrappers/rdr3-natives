@@ -14,4 +14,3 @@ BOOL IS_CAM_SHAKING(Cam cam);
 * **cam**:
 
 ## Return value
-

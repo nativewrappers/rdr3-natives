@@ -16,6 +16,3 @@ It doesn't really explode the ped's head but it kills the ped
 ## Parameters
 * **ped**:
 * **weaponHash**:
-
-
-

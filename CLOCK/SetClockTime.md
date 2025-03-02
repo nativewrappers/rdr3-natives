@@ -15,6 +15,3 @@ SET_CLOCK_TIME(12, 34, 56);
 * **hour**:
 * **minute**:
 * **second**:
-
-
-

@@ -12,4 +12,3 @@ BOOL NETWORK_HAS_SOCIAL_CLUB_ACCOUNT();
 
 
 ## Return value
-

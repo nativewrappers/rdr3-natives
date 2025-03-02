@@ -15,6 +15,3 @@ Note: the buffer should be exactly 32 bytes long
 * **value**:
 * **format**:
 * **buffer**:
-
-
-

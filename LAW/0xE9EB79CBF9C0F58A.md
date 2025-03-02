@@ -15,4 +15,3 @@ Returns p1 value for 0xE4D6E45F491A66CB
 * **player**:
 
 ## Return value
-

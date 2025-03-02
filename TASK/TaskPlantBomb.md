@@ -16,6 +16,3 @@ void TASK_PLANT_BOMB(Ped ped,float x,float y,float z,float heading);
 * **y**:
 * **z**:
 * **heading**:
-
-
-

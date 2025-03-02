@@ -15,6 +15,3 @@ void TRIGGER_SONAR_BLIP(Hash typeHash,float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

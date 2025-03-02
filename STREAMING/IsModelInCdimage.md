@@ -15,4 +15,3 @@ Returns whether the specified model exists in the game.
 * **model**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _SET_PROP_SET_AS_NO_LONGER_NEEDED(PropSet propSet);
 
 ## Parameters
 * **propSet**:
-
-
-

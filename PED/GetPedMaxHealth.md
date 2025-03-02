@@ -14,4 +14,3 @@ int GET_PED_MAX_HEALTH(Ped ped);
 * **ped**:
 
 ## Return value
-

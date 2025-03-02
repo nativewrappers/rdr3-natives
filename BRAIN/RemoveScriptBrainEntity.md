@@ -12,6 +12,3 @@ void _REMOVE_SCRIPT_BRAIN_ENTITY(Entity entity);
 
 ## Parameters
 * **entity**:
-
-
-

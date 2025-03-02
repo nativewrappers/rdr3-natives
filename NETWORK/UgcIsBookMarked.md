@@ -14,4 +14,3 @@ BOOL _UGC_IS_BOOK_MARKED(const char* contentId);
 * **contentId**:
 
 ## Return value
-

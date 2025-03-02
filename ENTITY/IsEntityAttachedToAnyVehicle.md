@@ -14,4 +14,3 @@ BOOL IS_ENTITY_ATTACHED_TO_ANY_VEHICLE(Entity entity);
 * **entity**:
 
 ## Return value
-

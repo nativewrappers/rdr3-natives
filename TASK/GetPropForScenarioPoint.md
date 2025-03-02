@@ -17,4 +17,3 @@ Old name: _GET_SCENARIO_POINT_ENTITY
 * **name**:
 
 ## Return value
-

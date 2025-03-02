@@ -15,6 +15,3 @@ Only used in R* MP Script fm_mission_controller
 ## Parameters
 * **ped**:
 * **patternHash**:
-
-
-

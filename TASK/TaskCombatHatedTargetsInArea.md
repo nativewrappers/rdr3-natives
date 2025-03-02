@@ -19,6 +19,3 @@ Despite its name, it only attacks ONE hated target. The one closest to the speci
 * **radius**:
 * **flags**:
 * **p6**:
-
-
-

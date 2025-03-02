@@ -15,4 +15,3 @@ Any _GET_PLAYER_WAYPOINT_IS_ACTIVE(Player player);
 * **player**:
 
 ## Return value
-

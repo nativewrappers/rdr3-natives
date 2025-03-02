@@ -16,4 +16,3 @@ Any _IS_TRANSPORT_SEAT_OCCUPIED(Entity transportEntity,int seatIndex);
 * **seatIndex**:
 
 ## Return value
-

@@ -23,4 +23,3 @@ ownedByPlayer = only projectiles fired by the player will be detected.
 * **ownedByPlayer**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _SET_WEAPON_DEGRADATION(Object weaponObject,float level);
 ## Parameters
 * **weaponObject**:
 * **level**:
-
-
-

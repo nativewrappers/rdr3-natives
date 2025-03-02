@@ -15,4 +15,3 @@ PropSet _GET_VEHICLE_PROP_SET(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

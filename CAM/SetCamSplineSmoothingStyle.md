@@ -13,6 +13,3 @@ void SET_CAM_SPLINE_SMOOTHING_STYLE(Cam cam,int smoothingStyle);
 ## Parameters
 * **cam**:
 * **smoothingStyle**:
-
-
-

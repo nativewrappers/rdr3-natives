@@ -34,6 +34,3 @@ If you use a boneName (p12/p13) make sure boneId (p15/p16) is set to -1.
 * **alwaysZero4**:
 * **p19**:
 * **p20**:
-
-
-

@@ -14,6 +14,3 @@ void _SET_STAMINA_DEPLETION_MULTIPLIER(Ped ped,int multiplier);
 ## Parameters
 * **ped**:
 * **multiplier**:
-
-
-

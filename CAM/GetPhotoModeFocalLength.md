@@ -13,4 +13,3 @@ float _GET_PHOTO_MODE_FOCAL_LENGTH();
 
 
 ## Return value
-

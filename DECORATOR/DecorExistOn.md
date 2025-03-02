@@ -16,4 +16,3 @@ Returns whether or not the specified property is set for the entity.
 * **propertyName**:
 
 ## Return value
-

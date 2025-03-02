@@ -23,4 +23,3 @@ guid3: new item GUID (out param)
 * **outGuid**:
 
 ## Return value
-

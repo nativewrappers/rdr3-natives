@@ -12,6 +12,3 @@ void _CHANGE_PHOTO_MODE_EXPOSURE(float value);
 
 ## Parameters
 * **value**:
-
-
-

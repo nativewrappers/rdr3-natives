@@ -12,6 +12,3 @@ void SET_GPS_MULTI_ROUTE_RENDER(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

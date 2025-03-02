@@ -16,4 +16,3 @@ Doesn't actually return anything.
 * **toggle**:
 
 ## Return value
-

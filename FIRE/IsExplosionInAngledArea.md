@@ -22,4 +22,3 @@ explosionType: see ADD_EXPLOSION
 * **angle**:
 
 ## Return value
-

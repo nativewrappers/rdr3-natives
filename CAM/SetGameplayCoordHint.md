@@ -19,6 +19,3 @@ Hash used in finale1.ysc: 1726668277
 * **blendOutDuration**:
 * **blendInDuration**:
 * **p6**:
-
-
-

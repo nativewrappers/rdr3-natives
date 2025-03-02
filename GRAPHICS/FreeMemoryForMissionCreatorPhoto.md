@@ -9,8 +9,3 @@ apiset: client
 // 0x7DFF8F94937D2659
 void FREE_MEMORY_FOR_MISSION_CREATOR_PHOTO();
 ```
-
-
-
-
-

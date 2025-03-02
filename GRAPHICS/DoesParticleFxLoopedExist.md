@@ -14,4 +14,3 @@ BOOL DOES_PARTICLE_FX_LOOPED_EXIST(int ptfxHandle);
 * **ptfxHandle**:
 
 ## Return value
-

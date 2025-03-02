@@ -15,4 +15,3 @@ Object _GET_OBJECT_FROM_INDEXED_ITEM(ScrHandle item);
 * **item**:
 
 ## Return value
-

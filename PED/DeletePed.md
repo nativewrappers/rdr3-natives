@@ -13,6 +13,3 @@ Deletes the specified ped, then sets the handle pointed to by the pointer to NUL
 
 ## Parameters
 * **ped**:
-
-
-

@@ -13,4 +13,3 @@ Any _NETWORK_SPAWN_CONFIG_SEARCH_IN_PROGRESS();
 
 
 ## Return value
-

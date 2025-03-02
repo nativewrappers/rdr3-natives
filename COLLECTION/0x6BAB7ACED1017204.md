@@ -16,4 +16,3 @@ Params: collectableCategory = WEEKLY_COLLECTABLES
 * **p1**:
 
 ## Return value
-

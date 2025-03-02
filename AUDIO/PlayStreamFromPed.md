@@ -13,6 +13,3 @@ void PLAY_STREAM_FROM_PED(Ped ped,int streamId);
 ## Parameters
 * **ped**:
 * **streamId**:
-
-
-

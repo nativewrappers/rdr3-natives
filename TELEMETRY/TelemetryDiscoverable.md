@@ -13,6 +13,3 @@ void _TELEMETRY_DISCOVERABLE(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

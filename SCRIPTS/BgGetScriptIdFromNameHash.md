@@ -15,4 +15,3 @@ int BG_GET_SCRIPT_ID_FROM_NAME_HASH(Hash p0);
 * **p0**:
 
 ## Return value
-

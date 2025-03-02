@@ -16,4 +16,3 @@ Any _ITEMDATABASE_FILLOUT_PRICE_MODIFIER_BY_KEY(Hash key,Any* outData);
 * **outData**:
 
 ## Return value
-

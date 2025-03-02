@@ -9,8 +9,3 @@ apiset: client
 // 0x5A8B01199C3E79C3
 void LOAD_SCENE_STOP();
 ```
-
-
-
-
-

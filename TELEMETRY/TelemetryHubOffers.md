@@ -14,6 +14,3 @@ void _TELEMETRY_HUB_OFFERS(Any couponItem,Any p1);
 ## Parameters
 * **couponItem**:
 * **p1**:
-
-
-

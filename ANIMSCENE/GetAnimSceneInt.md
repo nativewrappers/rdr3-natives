@@ -16,4 +16,3 @@ int GET_ANIM_SCENE_INT(AnimScene animScene,const char* name);
 * **name**:
 
 ## Return value
-

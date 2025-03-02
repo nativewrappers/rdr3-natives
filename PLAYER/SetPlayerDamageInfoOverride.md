@@ -15,6 +15,3 @@ damageInfo: STANDARD_PED_DAMAGE, STANDARD_FEMALE_PED_DAMAGE, STANDARD_PLAYER_PED
 ## Parameters
 * **player**:
 * **damageInfo**:
-
-
-

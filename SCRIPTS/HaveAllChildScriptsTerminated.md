@@ -16,4 +16,3 @@ Waiting for child scripts to terminate / waiting for collapse of child scripts
 * **p0**:
 
 ## Return value
-

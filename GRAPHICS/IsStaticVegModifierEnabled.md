@@ -15,4 +15,3 @@ Any _IS_STATIC_VEG_MODIFIER_ENABLED(Hash p0);
 * **p0**:
 
 ## Return value
-

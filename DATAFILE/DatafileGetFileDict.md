@@ -14,4 +14,3 @@ char* DATAFILE_GET_FILE_DICT(int index);
 * **index**:
 
 ## Return value
-

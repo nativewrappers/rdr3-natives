@@ -15,6 +15,3 @@ Default range is 1.0f
 ## Parameters
 * **player**:
 * **range**:
-
-
-

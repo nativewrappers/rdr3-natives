@@ -14,4 +14,3 @@ BOOL IS_SCRIPTED_SPEECH_PLAYING(Any p0);
 * **p0**:
 
 ## Return value
-

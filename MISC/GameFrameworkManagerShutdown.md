@@ -9,8 +9,3 @@ apiset: client
 // 0xAFF2FD8ADD927585
 void _GAME_FRAMEWORK_MANAGER_SHUTDOWN();
 ```
-
-
-
-
-

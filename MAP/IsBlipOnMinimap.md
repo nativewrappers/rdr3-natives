@@ -14,4 +14,3 @@ BOOL IS_BLIP_ON_MINIMAP(Blip blip);
 * **blip**:
 
 ## Return value
-

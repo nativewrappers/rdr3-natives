@@ -49,4 +49,3 @@ enum class eEasingCurveType
 * **easingCurveType**:
 
 ## Return value
-

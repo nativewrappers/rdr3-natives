@@ -17,4 +17,3 @@ Calculates the magnitude of a vector.
 * **z**:
 
 ## Return value
-

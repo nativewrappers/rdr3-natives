@@ -14,6 +14,3 @@ It adds blip a icon to active prompts like from scenarios or pickups without the
 ## Parameters
 * **entity**:
 * **blipIcon**:
-
-
-

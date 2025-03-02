@@ -15,4 +15,3 @@ float _GET_ANIM_SCENE_DURATION(AnimScene animScene);
 * **animScene**:
 
 ## Return value
-

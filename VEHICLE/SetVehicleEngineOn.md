@@ -19,6 +19,3 @@ instantly: if true, the vehicle will be set to the state immediately; otherwise,
 * **vehicle**:
 * **value**:
 * **instantly**:
-
-
-

@@ -13,6 +13,3 @@ void _SET_PERSCHAR_OUTFIT(Hash persCharHash,Hash outfit);
 ## Parameters
 * **persCharHash**:
 * **outfit**:
-
-
-

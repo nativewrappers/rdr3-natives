@@ -17,4 +17,3 @@ Returns true if ped is in a dispute another ped (pedInDisputeWith can also be 0)
 * **pedInDisputeWith**:
 
 ## Return value
-

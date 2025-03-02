@@ -14,6 +14,3 @@ Old name: _SET_LOCAL_PLAYER_AS_GHOST
 
 ## Parameters
 * **toggle**:
-
-
-

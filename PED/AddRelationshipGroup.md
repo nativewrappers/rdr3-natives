@@ -16,4 +16,3 @@ The hash of the created relationship group is output in the second parameter.
 * **groupHash**:
 
 ## Return value
-

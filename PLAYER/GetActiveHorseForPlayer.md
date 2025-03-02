@@ -15,4 +15,3 @@ Ped _GET_ACTIVE_HORSE_FOR_PLAYER(Player player);
 * **player**:
 
 ## Return value
-

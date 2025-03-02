@@ -13,6 +13,3 @@ void GET_VEHICLE_NODE_POSITION(int nodeId,Vector3* outPosition);
 ## Parameters
 * **nodeId**:
 * **outPosition**:
-
-
-

@@ -17,6 +17,3 @@ void SET_PED_COMBAT_MOVEMENT(Ped ped,int combatMovement);
 ## Parameters
 * **ped**:
 * **combatMovement**:
-
-
-

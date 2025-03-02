@@ -14,6 +14,3 @@ dispatchService: see ENABLE_DISPATCH_SERVICE
 ## Parameters
 * **dispatchService**:
 * **toggle**:
-
-
-

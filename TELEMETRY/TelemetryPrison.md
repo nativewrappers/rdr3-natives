@@ -19,6 +19,3 @@ void _TELEMETRY_PRISON(Any transactionId,Any bountyAmount,Ped ped,Any completion
 * **jailTimeServed**:
 * **jailTimeLeft**:
 * **posseRole**:
-
-
-

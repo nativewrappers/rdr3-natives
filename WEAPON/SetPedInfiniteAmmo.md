@@ -14,6 +14,3 @@ void SET_PED_INFINITE_AMMO(Ped ped,BOOL toggle,Hash weaponHash);
 * **ped**:
 * **toggle**:
 * **weaponHash**:
-
-
-

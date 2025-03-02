@@ -25,6 +25,3 @@ void TASK_FOLLOW_TO_OFFSET_OF_ENTITY(Ped ped,Entity entity,float offsetX,float o
 * **p11**:
 * **p12**:
 * **p13**:
-
-
-

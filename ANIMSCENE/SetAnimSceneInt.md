@@ -15,6 +15,3 @@ void SET_ANIM_SCENE_INT(AnimScene animScene,const char* name,int value,BOOL p3);
 * **name**:
 * **value**:
 * **p3**:
-
-
-

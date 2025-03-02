@@ -12,4 +12,3 @@ BOOL GET_GPS_BLIP_ROUTE_FOUND();
 
 
 ## Return value
-

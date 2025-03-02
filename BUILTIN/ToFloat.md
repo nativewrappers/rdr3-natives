@@ -14,4 +14,3 @@ float TO_FLOAT(int value);
 * **value**:
 
 ## Return value
-

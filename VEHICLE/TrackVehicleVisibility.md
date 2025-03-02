@@ -12,6 +12,3 @@ void TRACK_VEHICLE_VISIBILITY(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

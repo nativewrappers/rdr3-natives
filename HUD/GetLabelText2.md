@@ -14,4 +14,3 @@ char* _GET_LABEL_TEXT_2(const char* label);
 * **label**:
 
 ## Return value
-

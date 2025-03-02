@@ -21,4 +21,3 @@ See TEST_PROBE_AGAINST_ALL_WATER.
 * **waterHeight**:
 
 ## Return value
-

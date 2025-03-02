@@ -14,4 +14,3 @@ Ped GET_MELEE_TARGET_FOR_PED(Ped ped);
 * **ped**:
 
 ## Return value
-

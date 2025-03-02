@@ -18,6 +18,3 @@ void _GET_SPAWN_DATA_FOR_ROAD_NODE(int nodeId,float x,float y,float z,Vector3* o
 * **z**:
 * **outCoords**:
 * **heading**:
-
-
-

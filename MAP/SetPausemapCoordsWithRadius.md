@@ -16,6 +16,3 @@ void _SET_PAUSEMAP_COORDS_WITH_RADIUS(float x,float y,float z,float radius);
 * **y**:
 * **z**:
 * **radius**:
-
-
-

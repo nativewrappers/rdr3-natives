@@ -19,4 +19,3 @@ Old name: _GET_TEXT_SUBSTRING
 * **length**:
 
 ## Return value
-

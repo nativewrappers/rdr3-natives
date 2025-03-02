@@ -16,4 +16,3 @@ int _COLLECTABLE_CATEGORY_GET_NUM_FOUND(Hash collectableCategory,Hash collectabl
 * **collectableSubcategory**:
 
 ## Return value
-

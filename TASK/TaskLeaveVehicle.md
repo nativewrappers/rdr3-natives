@@ -16,6 +16,3 @@ flags: See TASK_ENTER_VEHICLE
 * **vehicle**:
 * **flags**:
 * **unkPed**:
-
-
-

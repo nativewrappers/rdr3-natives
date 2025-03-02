@@ -16,4 +16,3 @@ Any _NETWORK_ARE_PLAYERS_IN_SAME_PLATFORM_PARTY(Any* gamerHandle1,Any* gamerHand
 * **gamerHandle2**:
 
 ## Return value
-

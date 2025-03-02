@@ -17,4 +17,3 @@ Example: _READ_INT_AS_FLOAT(0x3F800000) returns 1.0f because 0x3F800000 is the h
 * **value**:
 
 ## Return value
-

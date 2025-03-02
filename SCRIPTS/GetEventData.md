@@ -22,4 +22,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/EVENTS
 * **eventDataSize**:
 
 ## Return value
-

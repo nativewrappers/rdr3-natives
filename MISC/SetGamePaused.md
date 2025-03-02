@@ -13,6 +13,3 @@ Make sure to call this from the correct thread if you're using multiple threads 
 
 ## Parameters
 * **toggle**:
-
-
-

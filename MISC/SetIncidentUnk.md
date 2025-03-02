@@ -13,6 +13,3 @@ void _SET_INCIDENT_UNK(int incidentId);
 
 ## Parameters
 * **incidentId**:
-
-
-

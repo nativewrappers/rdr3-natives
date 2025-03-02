@@ -12,6 +12,3 @@ void _CREATE_GUARD_ZONE(const char* name);
 
 ## Parameters
 * **name**:
-
-
-

@@ -13,6 +13,3 @@ void _PEDSHOT_SET_PERSONA_PHOTO_TYPE(int personaPhotoLocalCacheType);
 
 ## Parameters
 * **personaPhotoLocalCacheType**:
-
-
-

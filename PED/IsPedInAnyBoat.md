@@ -14,4 +14,3 @@ BOOL IS_PED_IN_ANY_BOAT(Ped ped);
 * **ped**:
 
 ## Return value
-

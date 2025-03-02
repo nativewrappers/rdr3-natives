@@ -13,4 +13,3 @@ BOOL IS_INTERPOLATING_FROM_SCRIPT_CAMS();
 
 
 ## Return value
-

@@ -15,4 +15,3 @@ int _UI_PROMPT_GET_GROUP_ID_FOR_TARGET_ENTITY(Entity entity);
 * **entity**:
 
 ## Return value
-

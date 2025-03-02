@@ -19,6 +19,3 @@ void _TELEMETRY_COLLECT(Any transactionId,Any p1,Any p2,Any p3,Any p4,Any p5,Any
 * **p4**:
 * **p5**:
 * **p6**:
-
-
-

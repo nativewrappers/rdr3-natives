@@ -15,6 +15,3 @@ SET_PED_CAN_*
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

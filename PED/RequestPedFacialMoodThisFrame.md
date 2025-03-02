@@ -17,6 +17,3 @@ Params: p2 = 6 in R* Scripts
 * **ped**:
 * **mood**:
 * **p2**:
-
-
-

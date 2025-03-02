@@ -14,6 +14,3 @@ void _REQUEST_VEHICLE_ASSET_ANIMS(Ped ped,Entity entity,int vehicleAsset);
 * **ped**:
 * **entity**:
 * **vehicleAsset**:
-
-
-

@@ -121,7 +121,7 @@ ${native_data.description ? `${native_data.description}\n` : ""}
 ${native_data.params.length > 0 ? `## Parameters\n${converted_param_markdown}\n` : ""}
 ${native_data.results !== "void" ? "## Return value" : ""}
 ${native_data.examples?.length > 0 ? examples_converted : ""}
-`
+`.trimEnd()
 				const name = get_name_for_file(native_data.name ?? native_hash);
 				file_promises.push(fs.writeFile(`${NAMESPACE_PATH}/${name}.md`, native_gen, 'utf8'));
 

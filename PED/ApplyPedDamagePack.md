@@ -16,6 +16,3 @@ https://github.com/femga/rdr3_discoveries/blob/master/peds_customization/ped_dec
 * **damagePack**:
 * **damage**:
 * **mult**:
-
-
-

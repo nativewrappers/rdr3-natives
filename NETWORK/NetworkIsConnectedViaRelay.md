@@ -16,4 +16,3 @@ Old name: _NETWORK_IS_CONNECTION_ENDPOINT_RELAY_SERVER
 * **player**:
 
 ## Return value
-

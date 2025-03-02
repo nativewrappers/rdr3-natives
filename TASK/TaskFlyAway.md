@@ -13,6 +13,3 @@ void TASK_FLY_AWAY(Ped ped,Ped fleeFromTarget);
 ## Parameters
 * **ped**:
 * **fleeFromTarget**:
-
-
-

@@ -15,4 +15,3 @@ Entity _GET_ENTITY_FROM_ITEM(ScrHandle item);
 * **item**:
 
 ## Return value
-

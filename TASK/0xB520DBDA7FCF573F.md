@@ -14,4 +14,3 @@ BOOL _0xB520DBDA7FCF573F(Ped ped);
 * **ped**:
 
 ## Return value
-

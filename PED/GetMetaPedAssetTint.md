@@ -20,4 +20,3 @@ Any GET_META_PED_ASSET_TINT(Ped ped,int index,Hash* pallete,int* tint0,int* tint
 * **tint2**:
 
 ## Return value
-

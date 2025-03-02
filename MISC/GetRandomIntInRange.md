@@ -15,4 +15,3 @@ int GET_RANDOM_INT_IN_RANGE(int startRange,int endRange);
 * **endRange**:
 
 ## Return value
-

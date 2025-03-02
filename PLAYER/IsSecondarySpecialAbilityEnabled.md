@@ -16,4 +16,3 @@ Returns true if eagle eye is enabled for the player
 * **player**:
 
 ## Return value
-

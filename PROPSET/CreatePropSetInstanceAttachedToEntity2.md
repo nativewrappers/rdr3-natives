@@ -24,4 +24,3 @@ Same as CREATE_PROP_SET_INSTANCE_ATTACHED_TO_ENTITY
 * **p8**:
 
 ## Return value
-

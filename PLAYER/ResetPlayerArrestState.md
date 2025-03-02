@@ -12,6 +12,3 @@ void RESET_PLAYER_ARREST_STATE(Player player);
 
 ## Parameters
 * **player**:
-
-
-

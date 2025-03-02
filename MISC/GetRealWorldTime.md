@@ -15,4 +15,3 @@ Only used in rcm_pearson1.ysc
 
 
 ## Return value
-

@@ -15,4 +15,3 @@ int _ITEMDATABASE_GET_NUMBER_OF_MODIFIERS(Hash key);
 * **key**:
 
 ## Return value
-

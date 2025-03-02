@@ -31,6 +31,3 @@ HORSEFOLLOWPRIORITY_HIGH
 * **followMode**:
 * **followPriority**:
 * **p6**:
-
-
-

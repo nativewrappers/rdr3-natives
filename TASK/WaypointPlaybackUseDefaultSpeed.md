@@ -12,6 +12,3 @@ void WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

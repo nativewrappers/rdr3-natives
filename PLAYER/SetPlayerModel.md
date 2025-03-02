@@ -15,6 +15,3 @@ Make sure to request the model first and wait until it has loaded.
 * **player**:
 * **modelHash**:
 * **p2**:
-
-
-

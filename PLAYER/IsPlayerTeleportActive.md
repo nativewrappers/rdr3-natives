@@ -12,4 +12,3 @@ BOOL IS_PLAYER_TELEPORT_ACTIVE();
 
 
 ## Return value
-

@@ -15,6 +15,3 @@ Max level is 5.
 ## Parameters
 * **player**:
 * **level**:
-
-
-

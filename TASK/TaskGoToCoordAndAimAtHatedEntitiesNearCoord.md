@@ -26,6 +26,3 @@ void TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD(Ped ped,float goToLoc
 * **unkFlag**:
 * **aimingFlag**:
 * **firingPattern**:
-
-
-

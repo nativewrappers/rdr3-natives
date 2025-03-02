@@ -14,6 +14,3 @@ void _SET_DEADEYE_TAGGING_ENABLED(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

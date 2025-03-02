@@ -14,4 +14,3 @@ BOOL IS_PED_IN_ANY_PLANE(Ped ped);
 * **ped**:
 
 ## Return value
-

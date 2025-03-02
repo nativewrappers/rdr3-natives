@@ -15,4 +15,3 @@ Ped _GET_CARRIER_AS_PED(Entity entity);
 * **entity**:
 
 ## Return value
-

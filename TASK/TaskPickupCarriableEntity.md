@@ -13,6 +13,3 @@ void TASK_PICKUP_CARRIABLE_ENTITY(Ped ped,Entity entity);
 ## Parameters
 * **ped**:
 * **entity**:
-
-
-

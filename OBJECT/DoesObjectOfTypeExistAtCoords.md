@@ -19,4 +19,3 @@ BOOL DOES_OBJECT_OF_TYPE_EXIST_AT_COORDS(float x,float y,float z,float radius,Ha
 * **p5**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns hash where WEAPON_ is replaced with SLOT_
 * **weaponHash**:
 
 ## Return value
-

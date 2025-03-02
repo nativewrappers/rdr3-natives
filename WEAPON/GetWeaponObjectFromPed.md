@@ -17,4 +17,3 @@ Detaches the weapon from the ped and actually removes the ped's weapon
 * **p1**:
 
 ## Return value
-

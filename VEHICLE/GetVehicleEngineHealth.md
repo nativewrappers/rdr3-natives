@@ -23,4 +23,3 @@ Maximum: 1000
 * **vehicle**:
 
 ## Return value
-

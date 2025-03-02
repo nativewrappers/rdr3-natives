@@ -16,4 +16,3 @@ Return whether the ped is in the herd.
 * **ped**:
 
 ## Return value
-

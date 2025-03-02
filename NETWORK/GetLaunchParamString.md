@@ -13,4 +13,3 @@ char* _GET_LAUNCH_PARAM_STRING();
 
 
 ## Return value
-

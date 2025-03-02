@@ -15,6 +15,3 @@ void _SET_DAMAGE_CLOSE_DISTANCE_BONUS(Player player,float closeRangeLowerBound,f
 * **player**:
 * **closeRangeLowerBound**:
 * **closeRangeUpperBound**:
-
-
-

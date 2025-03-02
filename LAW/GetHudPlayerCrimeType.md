@@ -16,4 +16,3 @@ See _REPORT_CRIME
 * **player**:
 
 ## Return value
-

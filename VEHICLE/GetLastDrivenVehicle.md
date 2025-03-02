@@ -12,4 +12,3 @@ Vehicle GET_LAST_DRIVEN_VEHICLE();
 
 
 ## Return value
-

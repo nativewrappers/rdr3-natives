@@ -17,6 +17,3 @@ void _SET_TEXTURE_LAYER_TEXTURE_MAP(int textureId,int layerId,Hash albedoHash,Ha
 * **albedoHash**:
 * **normalHash**:
 * **materialHash**:
-
-
-

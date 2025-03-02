@@ -16,4 +16,3 @@ Any _UILOG_SET_PENDING_DETAILS_ID(int p0,Hash p1);
 * **p1**:
 
 ## Return value
-

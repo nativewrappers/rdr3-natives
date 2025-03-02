@@ -23,4 +23,3 @@ PokerJohnCamp
 * **mgmFilename**:
 
 ## Return value
-

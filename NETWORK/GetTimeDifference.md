@@ -16,4 +16,3 @@ Subtracts the second argument from the first.
 * **timeB**:
 
 ## Return value
-

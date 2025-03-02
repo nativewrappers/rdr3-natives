@@ -14,6 +14,3 @@ Same as SET_PED_ARMOUR, but ADDS 'amount' to the armor the Ped already has.
 ## Parameters
 * **ped**:
 * **amount**:
-
-
-

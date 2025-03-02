@@ -15,4 +15,3 @@ Any _IS_SCRIPTED_CONVERSION_ONGOING(const char* p0);
 * **p0**:
 
 ## Return value
-

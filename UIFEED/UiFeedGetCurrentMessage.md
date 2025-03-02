@@ -17,4 +17,3 @@ Returns feedMessage
 * **feedChannel**:
 
 ## Return value
-

@@ -18,4 +18,3 @@ Old name: _GET_PED_CURRENT_MOVEMENT_SPEED
 * **speedY**:
 
 ## Return value
-

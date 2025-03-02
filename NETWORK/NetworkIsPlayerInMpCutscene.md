@@ -15,4 +15,3 @@ Note: scripts seem to indicate that this was renamed to NETWORK_IS_PLAYER_IN_MP_
 * **player**:
 
 ## Return value
-

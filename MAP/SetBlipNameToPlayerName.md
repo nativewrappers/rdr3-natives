@@ -13,6 +13,3 @@ void SET_BLIP_NAME_TO_PLAYER_NAME(Blip blip,Player player);
 ## Parameters
 * **blip**:
 * **player**:
-
-
-

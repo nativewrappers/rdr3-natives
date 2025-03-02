@@ -16,4 +16,3 @@ int LAUNCH_UIAPP_WITH_ENTRY(const char* appName,const char* entry);
 * **entry**:
 
 ## Return value
-

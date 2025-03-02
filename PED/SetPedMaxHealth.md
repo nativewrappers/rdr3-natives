@@ -14,6 +14,3 @@ Sets the maximum health of a ped.
 ## Parameters
 * **ped**:
 * **value**:
-
-
-

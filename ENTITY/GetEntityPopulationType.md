@@ -14,4 +14,3 @@ int GET_ENTITY_POPULATION_TYPE(Entity entity);
 * **entity**:
 
 ## Return value
-

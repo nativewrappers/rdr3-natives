@@ -15,4 +15,3 @@ Vector3 GET_ENTITY_VELOCITY(Entity entity,int p1);
 * **p1**:
 
 ## Return value
-

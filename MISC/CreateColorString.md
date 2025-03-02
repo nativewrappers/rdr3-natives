@@ -15,4 +15,3 @@ Returns a formatted string (0x%x)
 * **rgb**:
 
 ## Return value
-

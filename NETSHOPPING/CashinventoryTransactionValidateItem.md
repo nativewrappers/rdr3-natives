@@ -16,4 +16,3 @@ int _CASHINVENTORY_TRANSACTION_VALIDATE_ITEM(Hash p0,Any* p1);
 * **p1**:
 
 ## Return value
-

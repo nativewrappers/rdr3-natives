@@ -13,4 +13,3 @@ float _GET_PHOTO_MODE_FOCUS_DISTANCE();
 
 
 ## Return value
-

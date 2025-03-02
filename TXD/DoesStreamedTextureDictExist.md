@@ -15,4 +15,3 @@ Any DOES_STREAMED_TEXTURE_DICT_EXIST(const char* textureDict);
 * **textureDict**:
 
 ## Return value
-

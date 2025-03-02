@@ -16,4 +16,3 @@ Any* DATADICT_GET_DICT(Any* objectData,const char* key);
 * **key**:
 
 ## Return value
-

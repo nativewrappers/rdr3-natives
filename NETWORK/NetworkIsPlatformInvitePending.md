@@ -13,4 +13,3 @@ Any NETWORK_IS_PLATFORM_INVITE_PENDING();
 
 
 ## Return value
-

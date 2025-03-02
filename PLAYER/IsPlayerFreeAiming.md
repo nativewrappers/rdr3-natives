@@ -15,4 +15,3 @@ Gets a value indicating whether the specified player is currently aiming freely.
 * **player**:
 
 ## Return value
-

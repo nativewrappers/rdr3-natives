@@ -24,4 +24,3 @@ Params: p5 = -1 in R* Scripts
 * **p7**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void _SET_PLAYER_CAN_MERCY_KILL(Player player,BOOL toggle);
 ## Parameters
 * **player**:
 * **toggle**:
-
-
-

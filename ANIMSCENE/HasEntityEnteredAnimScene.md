@@ -17,4 +17,3 @@ _HAS_L* (?)
 * **entityName**:
 
 ## Return value
-

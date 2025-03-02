@@ -15,4 +15,3 @@ Any _NETWORK_CAN_RECEIVE_INVITE_FROM_HANDLE(Any* gamerHandle);
 * **gamerHandle**:
 
 ## Return value
-

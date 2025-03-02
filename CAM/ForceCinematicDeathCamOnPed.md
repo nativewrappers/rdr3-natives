@@ -15,6 +15,3 @@ Params: targetPed = death cam focuses on it
 
 ## Parameters
 * **targetPed**:
-
-
-

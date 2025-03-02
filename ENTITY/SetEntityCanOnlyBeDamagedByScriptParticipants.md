@@ -13,6 +13,3 @@ void SET_ENTITY_CAN_ONLY_BE_DAMAGED_BY_SCRIPT_PARTICIPANTS(Entity EntityIndex,BO
 ## Parameters
 * **EntityIndex**:
 * **bOnlyDamagedWhenRunningScript**:
-
-
-

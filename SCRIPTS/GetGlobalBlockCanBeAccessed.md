@@ -14,4 +14,3 @@ BOOL _GET_GLOBAL_BLOCK_CAN_BE_ACCESSED(int index);
 * **index**:
 
 ## Return value
-

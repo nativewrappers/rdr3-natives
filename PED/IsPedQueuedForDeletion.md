@@ -15,4 +15,3 @@ Any _IS_PED_QUEUED_FOR_DELETION(Ped ped);
 * **ped**:
 
 ## Return value
-

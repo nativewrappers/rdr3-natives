@@ -15,4 +15,3 @@ Any COMPENDIUM_GET_SUBCATEGORY_TOAST_APP_ID(Hash category,Hash subcategory);
 * **subcategory**:
 
 ## Return value
-

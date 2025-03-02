@@ -15,4 +15,3 @@ BOOL WAYPOINT_RECORDING_GET_NUM_POINTS(const char* waypointRecording,int* points
 * **points**:
 
 ## Return value
-

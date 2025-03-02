@@ -18,4 +18,3 @@ If the Ped is not in a vehicle and includeLastVehicle is true, the vehicle they 
 * **lastVehicle**:
 
 ## Return value
-

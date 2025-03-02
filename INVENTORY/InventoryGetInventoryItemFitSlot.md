@@ -17,4 +17,3 @@ Any _INVENTORY_GET_INVENTORY_ITEM_FIT_SLOT(Hash p0,Any* p1,int p2);
 * **p2**:
 
 ## Return value
-

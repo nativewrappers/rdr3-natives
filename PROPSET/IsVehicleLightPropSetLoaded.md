@@ -15,4 +15,3 @@ Any _IS_VEHICLE_LIGHT_PROP_SET_LOADED(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

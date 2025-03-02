@@ -17,4 +17,3 @@ Any SC_COMMUNITY_EVENT_GET_EXTRA_DATA_FLOAT_BY_ID(int p0,const char* p1,float* p
 * **p2**:
 
 ## Return value
-

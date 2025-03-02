@@ -14,6 +14,3 @@ Shows or hides all Pick Up prompts for the specified player, including the promp
 ## Parameters
 * **player**:
 * **enable**:
-
-
-

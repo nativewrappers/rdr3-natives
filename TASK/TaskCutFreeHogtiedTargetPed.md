@@ -13,6 +13,3 @@ void _TASK_CUT_FREE_HOGTIED_TARGET_PED(Ped ped,Ped targetPed);
 ## Parameters
 * **ped**:
 * **targetPed**:
-
-
-

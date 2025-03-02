@@ -16,4 +16,3 @@ Returns kneeling, sitting, squating, and sleeping scenario hashes
 * **ped**:
 
 ## Return value
-

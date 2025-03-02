@@ -18,4 +18,3 @@ Returns a normalized value between 0.0f and 1.0f. You can get the actual anim ti
 * **animName**:
 
 ## Return value
-

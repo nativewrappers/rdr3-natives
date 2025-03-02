@@ -23,6 +23,3 @@ explosionType: https://github.com/femga/rdr3_discoveries/blob/master/graphics/ex
 * **isAudible**:
 * **isInvisible**:
 * **cameraShake**:
-
-
-

@@ -13,4 +13,3 @@ int _GET_RANDOM_WEATHER_TYPE_INDEX();
 
 
 ## Return value
-

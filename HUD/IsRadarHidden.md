@@ -12,4 +12,3 @@ BOOL IS_RADAR_HIDDEN();
 
 
 ## Return value
-

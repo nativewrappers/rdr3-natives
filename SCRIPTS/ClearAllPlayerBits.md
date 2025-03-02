@@ -13,6 +13,3 @@ void _CLEAR_ALL_PLAYER_BITS(Any* value);
 
 ## Parameters
 * **value**:
-
-
-

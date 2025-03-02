@@ -8,8 +8,3 @@ apiset: client
 // 0xDB249021652420C5
 void REMOVE_SHOCKING_EVENT_SPAWN_BLOCKING_AREAS();
 ```
-
-
-
-
-

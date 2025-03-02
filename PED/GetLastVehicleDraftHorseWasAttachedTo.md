@@ -15,4 +15,3 @@ Vehicle _GET_LAST_VEHICLE_DRAFT_HORSE_WAS_ATTACHED_TO(Ped horse);
 * **horse**:
 
 ## Return value
-

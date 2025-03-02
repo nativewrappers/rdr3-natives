@@ -17,4 +17,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/ANIMAL_TUNING_FLOAT_PAR
 * **index**:
 
 ## Return value
-

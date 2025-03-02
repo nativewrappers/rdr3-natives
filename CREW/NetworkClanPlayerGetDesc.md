@@ -16,4 +16,3 @@ BOOL NETWORK_CLAN_PLAYER_GET_DESC(Any* clanDesc,int bufferSize,Any* gamerHandle)
 * **gamerHandle**:
 
 ## Return value
-

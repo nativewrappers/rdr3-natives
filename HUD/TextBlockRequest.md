@@ -13,6 +13,3 @@ void TEXT_BLOCK_REQUEST(const char* textBlock);
 
 ## Parameters
 * **textBlock**:
-
-
-

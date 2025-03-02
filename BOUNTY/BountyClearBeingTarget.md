@@ -9,8 +9,3 @@ apiset: client
 // 0x932DB3C05A7465D1
 void _BOUNTY_CLEAR_BEING_TARGET();
 ```
-
-
-
-
-

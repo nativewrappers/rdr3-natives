@@ -15,4 +15,3 @@ Returns "INVALID_NET_RPC_GUID" if netRpcGuid is invalid.
 * **netRpcGuid**:
 
 ## Return value
-

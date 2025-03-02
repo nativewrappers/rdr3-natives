@@ -18,6 +18,3 @@ void TASK_GOTO_ENTITY_OFFSET(Ped ped,Entity entity,Any p2,float x,float y,float 
 * **y**:
 * **z**:
 * **duration**:
-
-
-

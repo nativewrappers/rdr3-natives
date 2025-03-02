@@ -15,4 +15,3 @@ int _ITEMDATABASE_GET_FITS_SLOT_COUNT(Hash category);
 * **category**:
 
 ## Return value
-

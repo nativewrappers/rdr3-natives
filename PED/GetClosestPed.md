@@ -25,4 +25,3 @@ Gets the closest ped in a radius.
 * **pedType**:
 
 ## Return value
-

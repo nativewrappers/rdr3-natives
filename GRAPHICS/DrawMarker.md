@@ -38,6 +38,3 @@ Old name: _DRAW_MARKER
 * **textureDict**:
 * **textureName**:
 * **drawOnEnts**:
-
-
-

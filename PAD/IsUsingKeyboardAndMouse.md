@@ -18,4 +18,3 @@ Old name: _IS_USING_KEYBOARD
 * **control**:
 
 ## Return value
-

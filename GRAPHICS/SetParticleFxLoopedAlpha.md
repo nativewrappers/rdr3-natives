@@ -13,6 +13,3 @@ void SET_PARTICLE_FX_LOOPED_ALPHA(int ptfxHandle,float alpha);
 ## Parameters
 * **ptfxHandle**:
 * **alpha**:
-
-
-

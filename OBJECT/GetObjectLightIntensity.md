@@ -16,4 +16,3 @@ Returns float value to be used with _SET_LIGHT_INTENSITY_FOR_OBJECT
 * **object**:
 
 ## Return value
-

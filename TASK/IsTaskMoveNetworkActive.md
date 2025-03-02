@@ -14,4 +14,3 @@ BOOL IS_TASK_MOVE_NETWORK_ACTIVE(Ped ped);
 * **ped**:
 
 ## Return value
-

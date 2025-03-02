@@ -13,4 +13,3 @@ Any _IS_MISSION_CREATOR_ACTIVE();
 
 
 ## Return value
-

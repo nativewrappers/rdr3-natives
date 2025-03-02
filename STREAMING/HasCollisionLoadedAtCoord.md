@@ -17,4 +17,3 @@ Any _HAS_COLLISION_LOADED_AT_COORD(float x,float y,float z);
 * **z**:
 
 ## Return value
-

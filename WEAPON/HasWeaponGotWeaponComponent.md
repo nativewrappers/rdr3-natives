@@ -15,4 +15,3 @@ BOOL HAS_WEAPON_GOT_WEAPON_COMPONENT(Object weapon,Hash addonHash);
 * **addonHash**:
 
 ## Return value
-

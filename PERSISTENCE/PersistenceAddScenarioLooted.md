@@ -13,6 +13,3 @@ void PERSISTENCE_ADD_SCENARIO_LOOTED(int scenario);
 
 ## Parameters
 * **scenario**:
-
-
-

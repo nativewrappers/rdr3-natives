@@ -16,4 +16,3 @@ Presumably returns the Entity that the Ped is currently diving out of the way of
 * **evadingEntity**:
 
 ## Return value
-

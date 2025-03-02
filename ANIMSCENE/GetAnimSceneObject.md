@@ -17,4 +17,3 @@ Object _GET_ANIM_SCENE_OBJECT(AnimScene animScene,const char* name,BOOL isNetwor
 * **isNetwork**:
 
 ## Return value
-

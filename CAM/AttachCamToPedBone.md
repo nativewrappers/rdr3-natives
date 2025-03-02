@@ -19,6 +19,3 @@ boneIndex: https://github.com/femga/rdr3_discoveries/tree/master/boneNames
 * **y**:
 * **z**:
 * **heading**:
-
-
-

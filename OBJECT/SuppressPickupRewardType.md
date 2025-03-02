@@ -14,6 +14,3 @@ void SUPPRESS_PICKUP_REWARD_TYPE(int rewardType,BOOL suppress);
 ## Parameters
 * **rewardType**:
 * **suppress**:
-
-
-

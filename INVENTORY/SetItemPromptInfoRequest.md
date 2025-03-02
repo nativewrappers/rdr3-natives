@@ -13,6 +13,3 @@ void _SET_ITEM_PROMPT_INFO_REQUEST(Any* p0);
 
 ## Parameters
 * **p0**:
-
-
-

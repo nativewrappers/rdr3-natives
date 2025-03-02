@@ -13,6 +13,3 @@ void _SET_SOCIAL_MATCHMAKING_ALLOWED(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

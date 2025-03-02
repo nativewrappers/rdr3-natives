@@ -16,6 +16,3 @@ motivationState: see _SET_PED_MOTIVATION
 * **ped**:
 * **motivationState**:
 * **enabled**:
-
-
-

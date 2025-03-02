@@ -14,4 +14,3 @@ BOOL _IS_AMMO_SILENT(Hash ammoHash);
 * **ammoHash**:
 
 ## Return value
-

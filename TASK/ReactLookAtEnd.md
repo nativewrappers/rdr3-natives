@@ -15,6 +15,3 @@ void REACT_LOOK_AT_END(Ped ped,int exitAnimation,BOOL p2);
 * **ped**:
 * **exitAnimation**:
 * **p2**:
-
-
-

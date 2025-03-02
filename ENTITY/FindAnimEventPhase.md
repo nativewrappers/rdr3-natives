@@ -18,4 +18,3 @@ BOOL FIND_ANIM_EVENT_PHASE(const char* animDictionary,const char* animName,const
 * **p4**:
 
 ## Return value
-

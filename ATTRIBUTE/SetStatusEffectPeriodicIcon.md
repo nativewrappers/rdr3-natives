@@ -15,6 +15,3 @@ statusEffectType: see 0xA4D3A1C008F250DF
 
 ## Parameters
 * **statusEffectType**:
-
-
-

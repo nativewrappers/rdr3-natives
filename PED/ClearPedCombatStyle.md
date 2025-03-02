@@ -15,6 +15,3 @@ Params: p1 = 1 in R* Scripts
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

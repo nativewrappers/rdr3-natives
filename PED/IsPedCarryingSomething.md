@@ -15,4 +15,3 @@ Any IS_PED_CARRYING_SOMETHING(Ped ped);
 * **ped**:
 
 ## Return value
-

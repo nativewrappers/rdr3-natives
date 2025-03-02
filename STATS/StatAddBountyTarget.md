@@ -14,6 +14,3 @@ void STAT_ADD_BOUNTY_TARGET(Hash unlockHash,Ped ped);
 ## Parameters
 * **unlockHash**:
 * **ped**:
-
-
-

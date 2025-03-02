@@ -15,4 +15,3 @@ Any NETWORK_IS_GANG_LEADER(Player player);
 * **player**:
 
 ## Return value
-

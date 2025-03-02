@@ -19,6 +19,3 @@ void TASK_LOOK_AT_COORD(Ped ped,float x,float y,float z,int duration,int flags,i
 * **flags**:
 * **p6**:
 * **p7**:
-
-
-

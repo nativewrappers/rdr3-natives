@@ -16,4 +16,3 @@ Vector3 DATADICT_GET_VECTOR(Any* objectData,const char* key);
 * **key**:
 
 ## Return value
-

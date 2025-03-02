@@ -18,6 +18,3 @@ Old name: _SET_PED_OUTFIT_PRESET
 * **ped**:
 * **presetId**:
 * **p2**:
-
-
-

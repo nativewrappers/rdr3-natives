@@ -17,4 +17,3 @@ Falls back to WEAPON_UNARMED if the ped doesn't have a valid model info pointer,
 * **ped**:
 
 ## Return value
-

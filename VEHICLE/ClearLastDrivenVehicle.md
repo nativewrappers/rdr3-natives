@@ -8,8 +8,3 @@ apiset: client
 // 0x0EFC5DC62E67609B
 void CLEAR_LAST_DRIVEN_VEHICLE();
 ```
-
-
-
-
-

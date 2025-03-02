@@ -16,4 +16,3 @@ Hash _COLLECTABLE_CATEGORY_GET_TOAST_TEXTURE_NAME(Hash collectableCategory,Hash 
 * **collectableSubcategory**:
 
 ## Return value
-

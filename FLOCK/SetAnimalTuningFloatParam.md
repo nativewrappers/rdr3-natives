@@ -14,6 +14,3 @@ void SET_ANIMAL_TUNING_FLOAT_PARAM(Ped animal,int index,float value);
 * **animal**:
 * **index**:
 * **value**:
-
-
-

@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_MASH_MODE(Prompt prompt,int mashes);
 ## Parameters
 * **prompt**:
 * **mashes**:
-
-
-

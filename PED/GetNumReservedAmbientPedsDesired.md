@@ -13,4 +13,3 @@ int _GET_NUM_RESERVED_AMBIENT_PEDS_DESIRED();
 
 
 ## Return value
-

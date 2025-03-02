@@ -15,4 +15,3 @@ BOOL IS_ENTITY_IN_AIR(Entity entity,Any p1);
 * **p1**:
 
 ## Return value
-

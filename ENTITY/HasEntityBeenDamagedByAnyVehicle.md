@@ -14,4 +14,3 @@ BOOL HAS_ENTITY_BEEN_DAMAGED_BY_ANY_VEHICLE(Entity entity);
 * **entity**:
 
 ## Return value
-

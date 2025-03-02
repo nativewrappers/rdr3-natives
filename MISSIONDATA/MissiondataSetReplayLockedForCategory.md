@@ -13,6 +13,3 @@ void MISSIONDATA_SET_REPLAY_LOCKED_FOR_CATEGORY(Hash category,BOOL locked);
 ## Parameters
 * **category**:
 * **locked**:
-
-
-

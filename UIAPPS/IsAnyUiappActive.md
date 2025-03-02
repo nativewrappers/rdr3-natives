@@ -13,4 +13,3 @@ Any IS_ANY_UIAPP_ACTIVE();
 
 
 ## Return value
-

@@ -16,4 +16,3 @@ float GET_ITEM_INTERACTION_PROMPT_PROGRESS(Ped ped,Hash inputContext);
 * **inputContext**:
 
 ## Return value
-

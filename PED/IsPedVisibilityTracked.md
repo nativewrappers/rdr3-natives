@@ -15,4 +15,3 @@ Any _IS_PED_VISIBILITY_TRACKED(Ped ped);
 * **ped**:
 
 ## Return value
-

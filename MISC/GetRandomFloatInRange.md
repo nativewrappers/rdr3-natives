@@ -15,4 +15,3 @@ float GET_RANDOM_FLOAT_IN_RANGE(float startRange,float endRange);
 * **endRange**:
 
 ## Return value
-

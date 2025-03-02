@@ -25,6 +25,3 @@ Maximum: 1000
 ## Parameters
 * **vehicle**:
 * **health**:
-
-
-

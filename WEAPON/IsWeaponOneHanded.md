@@ -15,4 +15,3 @@ Any _IS_WEAPON_ONE_HANDED(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

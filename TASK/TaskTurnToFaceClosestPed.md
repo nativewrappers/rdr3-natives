@@ -15,6 +15,3 @@ void TASK_TURN_TO_FACE_CLOSEST_PED(Ped ped,float p1,float p2,int p3);
 * **p1**:
 * **p2**:
 * **p3**:
-
-
-

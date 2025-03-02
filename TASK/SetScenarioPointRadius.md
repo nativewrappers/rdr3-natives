@@ -14,6 +14,3 @@ void _SET_SCENARIO_POINT_RADIUS(int scenario,float radius);
 ## Parameters
 * **scenario**:
 * **radius**:
-
-
-

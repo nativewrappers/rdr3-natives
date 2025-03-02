@@ -17,4 +17,3 @@ this native checks if player has shot a specific ped for the duration passed p2 
 * **duration**:
 
 ## Return value
-

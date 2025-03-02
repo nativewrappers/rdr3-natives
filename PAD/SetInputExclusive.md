@@ -13,6 +13,3 @@ void SET_INPUT_EXCLUSIVE(int control,Hash action);
 ## Parameters
 * **control**:
 * **action**:
-
-
-

@@ -8,8 +8,3 @@ apiset: client
 // 0x001FF43843028E0C
 void REQUEST_PTFX_ASSET();
 ```
-
-
-
-
-

@@ -21,6 +21,3 @@ void SET_IK_TARGET(Ped ped,int ikIndex,Entity entityLookAt,int boneLookAt,float 
 * **p7**:
 * **blendInDuration**:
 * **blendOutDuration**:
-
-
-

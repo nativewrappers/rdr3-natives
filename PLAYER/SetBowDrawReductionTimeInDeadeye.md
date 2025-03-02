@@ -14,6 +14,3 @@ void _SET_BOW_DRAW_REDUCTION_TIME_IN_DEADEYE(Player player,float drawReductionTi
 ## Parameters
 * **player**:
 * **drawReductionTime**:
-
-
-

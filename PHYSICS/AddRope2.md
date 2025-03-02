@@ -25,4 +25,3 @@ int _ADD_ROPE_2(float x,float y,float z,float rotX,float rotY,float rotZ,float l
 * **p10**:
 
 ## Return value
-

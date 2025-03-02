@@ -12,6 +12,3 @@ void REQUEST_VEHICLE_HIGH_DETAIL_MODEL(Vehicle vehicle);
 
 ## Parameters
 * **vehicle**:
-
-
-

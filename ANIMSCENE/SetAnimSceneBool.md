@@ -15,6 +15,3 @@ void SET_ANIM_SCENE_BOOL(AnimScene animScene,const char* name,BOOL value,BOOL p3
 * **name**:
 * **value**:
 * **p3**:
-
-
-

@@ -14,4 +14,3 @@ BOOL NETWORK_REQUEST_CONTROL_OF_PICKUP_PLACEMENT(Any p0);
 * **p0**:
 
 ## Return value
-

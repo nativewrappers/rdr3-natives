@@ -15,4 +15,3 @@ int GET_BOUNTY(Player player);
 * **player**:
 
 ## Return value
-

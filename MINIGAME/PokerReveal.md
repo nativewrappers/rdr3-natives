@@ -14,4 +14,3 @@ Any _POKER_REVEAL(Any p0);
 * **p0**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void _DATABINDING_WRITE_DATA_POSSE_ID(Any p0,const char* p1,Any posseId);
 * **p0**:
 * **p1**:
 * **posseId**:
-
-
-

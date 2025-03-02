@@ -15,6 +15,3 @@ nullsub, doesn't do anything (GTA5 leftover, there is no phone in RDR3)
 ## Parameters
 * **p0**:
 * **photoRotation**:
-
-
-

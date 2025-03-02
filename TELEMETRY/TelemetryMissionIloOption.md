@@ -14,6 +14,3 @@ void _TELEMETRY_MISSION_ILO_OPTION(Any p0,Any p1);
 ## Parameters
 * **p0**:
 * **p1**:
-
-
-

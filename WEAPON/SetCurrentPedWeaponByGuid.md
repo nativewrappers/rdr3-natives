@@ -19,6 +19,3 @@ Equips a weapon from a weaponItem, similar to GIVE_WEAPON_TO_PED
 * **p3**:
 * **p4**:
 * **p5**:
-
-
-

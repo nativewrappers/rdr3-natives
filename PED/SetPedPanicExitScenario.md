@@ -17,4 +17,3 @@ Any SET_PED_PANIC_EXIT_SCENARIO(Ped ped,float x,float y,float z);
 * **z**:
 
 ## Return value
-

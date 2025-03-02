@@ -16,4 +16,3 @@ Any _IS_INTERIOR_ENTITY_SET_VALID(Interior interior,const char* entitySetName);
 * **entitySetName**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_BEAT_MODE(Prompt prompt,BOOL toggle);
 ## Parameters
 * **prompt**:
 * **toggle**:
-
-
-

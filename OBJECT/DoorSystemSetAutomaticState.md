@@ -15,6 +15,3 @@ _ALLOW_* - _ATTACH_*
 ## Parameters
 * **doorHash**:
 * **disable**:
-
-
-

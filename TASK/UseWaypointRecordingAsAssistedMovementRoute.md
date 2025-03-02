@@ -16,6 +16,3 @@ void USE_WAYPOINT_RECORDING_AS_ASSISTED_MOVEMENT_ROUTE(const char* waypointRecor
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

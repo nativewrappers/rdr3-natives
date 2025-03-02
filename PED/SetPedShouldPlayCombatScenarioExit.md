@@ -20,4 +20,3 @@ lookIntensity: see SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT
 * **lookIntensity**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ Returns train car, use GET_TRAIN_CARRIAGE when trailerNumber is bigger than 0
 * **train**:
 
 ## Return value
-

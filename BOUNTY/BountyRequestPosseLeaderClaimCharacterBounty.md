@@ -17,4 +17,3 @@ Any _BOUNTY_REQUEST_POSSE_LEADER_CLAIM_CHARACTER_BOUNTY(Any* outRpcGuid,int p1,A
 * **p2**:
 
 ## Return value
-

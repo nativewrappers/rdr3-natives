@@ -12,4 +12,3 @@ BOOL NETWORK_IS_SIGNED_ONLINE();
 
 
 ## Return value
-

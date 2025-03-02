@@ -11,7 +11,3 @@ void CLEAR_SERVICE_EVENT_ARGUMENTS();
 ```
 
 Old name: _CLEAR_LAUNCH_PARAMS
-
-
-
-

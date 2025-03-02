@@ -14,4 +14,3 @@ BOOL IS_CAM_INTERPOLATING(Cam cam);
 * **cam**:
 
 ## Return value
-

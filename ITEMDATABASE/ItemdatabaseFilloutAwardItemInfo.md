@@ -17,4 +17,3 @@ Any _ITEMDATABASE_FILLOUT_AWARD_ITEM_INFO(Hash award,int index,Hash* outData);
 * **outData**:
 
 ## Return value
-

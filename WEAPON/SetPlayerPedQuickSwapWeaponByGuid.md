@@ -14,6 +14,3 @@ void SET_PLAYER_PED_QUICK_SWAP_WEAPON_BY_GUID(Ped ped,Any* guidPrimary,Any* guid
 * **ped**:
 * **guidPrimary**:
 * **guidSecondary**:
-
-
-

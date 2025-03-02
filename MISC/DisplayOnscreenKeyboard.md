@@ -31,6 +31,3 @@ enum eOnscreenKeyboardTextType
 * **defaultConcat2**:
 * **defaultConcat3**:
 * **maxInputLength**:
-
-
-

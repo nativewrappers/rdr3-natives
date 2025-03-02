@@ -15,4 +15,3 @@ Any _IS_DOOR_REGISTERED_WITH_NETWORK(Hash doorHash);
 * **doorHash**:
 
 ## Return value
-

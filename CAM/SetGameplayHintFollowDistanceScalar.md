@@ -13,6 +13,3 @@ void SET_GAMEPLAY_HINT_FOLLOW_DISTANCE_SCALAR(float p0);
 
 ## Parameters
 * **p0**:
-
-
-

@@ -18,6 +18,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_RESET_FLAGS
 * **ped**:
 * **flagId**:
 * **doReset**:
-
-
-

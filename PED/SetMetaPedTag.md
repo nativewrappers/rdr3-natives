@@ -23,6 +23,3 @@ Replaces asset, alternatively you can remove assets using REMOVE_TAG_FROM_META_P
 * **tint0**:
 * **tint1**:
 * **tint2**:
-
-
-

@@ -24,6 +24,3 @@ void TASK_PUT_PED_DIRECTLY_INTO_COVER(Ped ped,float x,float y,float z,int timeou
 * **p10**:
 * **p11**:
 * **p12**:
-
-
-

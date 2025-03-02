@@ -14,4 +14,3 @@ BOOL IS_CAM_RENDERING(Cam cam);
 * **cam**:
 
 ## Return value
-

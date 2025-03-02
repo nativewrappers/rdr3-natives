@@ -15,4 +15,3 @@ int DECOR_GET_INT(Entity entity,const char* propertyName);
 * **propertyName**:
 
 ## Return value
-

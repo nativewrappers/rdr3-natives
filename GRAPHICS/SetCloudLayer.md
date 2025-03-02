@@ -15,6 +15,3 @@ void _SET_CLOUD_LAYER(float x,float y,int p2);
 * **x**:
 * **y**:
 * **p2**:
-
-
-

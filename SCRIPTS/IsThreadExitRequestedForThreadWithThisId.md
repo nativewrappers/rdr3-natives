@@ -15,4 +15,3 @@ Any _IS_THREAD_EXIT_REQUESTED_FOR_THREAD_WITH_THIS_ID(int threadId);
 * **threadId**:
 
 ## Return value
-

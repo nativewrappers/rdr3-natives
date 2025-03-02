@@ -14,6 +14,3 @@ void _DATABINDING_WRITE_DATA_HASH_STRING_FROM_PARENT(Any p0,const char* p1,Hash 
 * **p0**:
 * **p1**:
 * **p2**:
-
-
-

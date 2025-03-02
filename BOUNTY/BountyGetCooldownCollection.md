@@ -15,4 +15,3 @@ Any BOUNTY_GET_COOLDOWN_COLLECTION(Any* p0);
 * **p0**:
 
 ## Return value
-

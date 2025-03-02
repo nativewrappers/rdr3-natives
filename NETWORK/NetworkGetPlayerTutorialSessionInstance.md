@@ -14,4 +14,3 @@ int NETWORK_GET_PLAYER_TUTORIAL_SESSION_INSTANCE(Player player);
 * **player**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any DOES_PROP_SET_EXIST(PropSet propSet);
 * **propSet**:
 
 ## Return value
-

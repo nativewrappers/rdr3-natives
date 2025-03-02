@@ -22,6 +22,3 @@ Change explosionFx (Visual Effect) for specified explosionType
 * **isAudible**:
 * **isInvisible**:
 * **cameraShake**:
-
-
-

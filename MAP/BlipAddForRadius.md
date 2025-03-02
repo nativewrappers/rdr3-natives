@@ -19,4 +19,3 @@ Blip BLIP_ADD_FOR_RADIUS(Hash blipHash,float x,float y,float z,float radius);
 * **radius**:
 
 ## Return value
-

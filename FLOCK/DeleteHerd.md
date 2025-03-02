@@ -13,6 +13,3 @@ Delete and invalidate the herd.
 
 ## Parameters
 * **herd**:
-
-
-

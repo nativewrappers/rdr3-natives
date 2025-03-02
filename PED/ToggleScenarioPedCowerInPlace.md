@@ -18,6 +18,3 @@ Old name: _SET_PED_SCARED_WHEN_USING_SCENARIO
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

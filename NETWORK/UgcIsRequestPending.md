@@ -15,4 +15,3 @@ Any UGC_IS_REQUEST_PENDING(int ugcRequestId);
 * **ugcRequestId**:
 
 ## Return value
-

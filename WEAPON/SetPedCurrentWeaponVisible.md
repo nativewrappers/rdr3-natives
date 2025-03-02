@@ -16,6 +16,3 @@ void SET_PED_CURRENT_WEAPON_VISIBLE(Ped ped,BOOL visible,BOOL deselectWeapon,BOO
 * **deselectWeapon**:
 * **p3**:
 * **p4**:
-
-
-

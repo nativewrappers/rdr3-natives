@@ -13,6 +13,3 @@ Resets the value for the last vehicle driven by the Ped.
 
 ## Parameters
 * **ped**:
-
-
-

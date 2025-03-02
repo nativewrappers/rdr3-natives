@@ -16,4 +16,3 @@ Any IS_PED_GROUP_LEADER(Ped ped,int groupId);
 * **groupId**:
 
 ## Return value
-

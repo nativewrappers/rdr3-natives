@@ -17,6 +17,3 @@ Params: p2 and p3 are always 0
 * **componentHash**:
 * **p2**:
 * **p3**:
-
-
-

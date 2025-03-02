@@ -13,6 +13,3 @@ void TASK_JUMP(Ped ped,BOOL unused);
 ## Parameters
 * **ped**:
 * **unused**:
-
-
-

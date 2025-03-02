@@ -12,4 +12,3 @@ BOOL _SPACTIONPROXY_MANAGER_IS_FAILED();
 
 
 ## Return value
-

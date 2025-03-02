@@ -17,4 +17,3 @@ Vehicle _GET_ANIM_SCENE_VEHICLE(AnimScene animScene,const char* name,BOOL isNetw
 * **isNetwork**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Any _ITEMDATABASE_IS_SHOP_KEY_VALID(Hash shopType);
 * **shopType**:
 
 ## Return value
-

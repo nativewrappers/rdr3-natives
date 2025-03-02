@@ -16,4 +16,3 @@ Any ITEMDATABASE_FILLOUT_ITEM_EFFECT_ID_INFO(Hash key,Any* outData);
 * **outData**:
 
 ## Return value
-

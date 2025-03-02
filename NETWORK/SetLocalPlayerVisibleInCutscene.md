@@ -14,6 +14,3 @@ void SET_LOCAL_PLAYER_VISIBLE_IN_CUTSCENE(BOOL local,BOOL remote,int instanceId)
 * **local**:
 * **remote**:
 * **instanceId**:
-
-
-

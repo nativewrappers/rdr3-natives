@@ -14,6 +14,3 @@ void ENABLE_CONTROL_ACTION(int control,Hash action,BOOL enableRelatedActions);
 * **control**:
 * **action**:
 * **enableRelatedActions**:
-
-
-

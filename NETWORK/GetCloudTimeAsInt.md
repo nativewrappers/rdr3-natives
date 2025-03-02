@@ -12,4 +12,3 @@ int GET_CLOUD_TIME_AS_INT();
 
 
 ## Return value
-

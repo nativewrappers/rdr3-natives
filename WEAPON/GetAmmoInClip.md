@@ -16,4 +16,3 @@ BOOL GET_AMMO_IN_CLIP(Ped ped,int* ammo,Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

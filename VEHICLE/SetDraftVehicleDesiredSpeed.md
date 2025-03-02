@@ -14,6 +14,3 @@ void _SET_DRAFT_VEHICLE_DESIRED_SPEED(Vehicle vehicle,float speed);
 ## Parameters
 * **vehicle**:
 * **speed**:
-
-
-

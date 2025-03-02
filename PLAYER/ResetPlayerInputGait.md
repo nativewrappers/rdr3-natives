@@ -12,6 +12,3 @@ void RESET_PLAYER_INPUT_GAIT(Player player);
 
 ## Parameters
 * **player**:
-
-
-

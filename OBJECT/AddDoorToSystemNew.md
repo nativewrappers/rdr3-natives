@@ -20,6 +20,3 @@ Registers a door, hashes: https://github.com/femga/rdr3_discoveries/tree/master/
 * **threadId**:
 * **p5**:
 * **p6**:
-
-
-

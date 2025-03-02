@@ -19,4 +19,3 @@ Returns textureDownloadId
 * **p3**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ BOOL IS_PED_GROUP_MEMBER(Ped ped,int groupId,BOOL p2);
 * **p2**:
 
 ## Return value
-

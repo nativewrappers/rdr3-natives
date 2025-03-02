@@ -14,4 +14,3 @@ BOOL IS_INTERIOR_READY(Interior interior);
 * **interior**:
 
 ## Return value
-

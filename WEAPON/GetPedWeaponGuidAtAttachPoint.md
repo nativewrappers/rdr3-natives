@@ -17,4 +17,3 @@ Any GET_PED_WEAPON_GUID_AT_ATTACH_POINT(Ped ped,int attachPoint,Any* weaponGuid)
 * **weaponGuid**:
 
 ## Return value
-

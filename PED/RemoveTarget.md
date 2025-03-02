@@ -14,6 +14,3 @@ void _REMOVE_TARGET(Ped ped,Ped targetPed);
 ## Parameters
 * **ped**:
 * **targetPed**:
-
-
-

@@ -27,4 +27,3 @@ BOOL SET_PED_TO_RAGDOLL_WITH_FALL(Ped ped,int timeMin,int timeMax,int ragdollTyp
 * **p13**:
 
 ## Return value
-

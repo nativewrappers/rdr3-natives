@@ -18,6 +18,3 @@ void _TASK_ANIMAL_BLEED_OUT(Ped ped,Ped killer,BOOL p2,Hash weaponHash,int p4,in
 * **weaponHash**:
 * **p4**:
 * **p5**:
-
-
-

@@ -15,4 +15,3 @@ Vector3 _GET_TRAIN_POSITION_ON_TRACK(int trackIndex);
 * **trackIndex**:
 
 ## Return value
-

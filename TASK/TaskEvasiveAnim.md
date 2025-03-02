@@ -15,6 +15,3 @@ Params: p2 is returned by BUILTIN::SHIFT_LEFT
 * **ped1**:
 * **ped2**:
 * **p2**:
-
-
-

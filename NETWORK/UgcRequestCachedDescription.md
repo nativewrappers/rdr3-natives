@@ -14,4 +14,3 @@ int UGC_REQUEST_CACHED_DESCRIPTION(Hash description);
 * **description**:
 
 ## Return value
-

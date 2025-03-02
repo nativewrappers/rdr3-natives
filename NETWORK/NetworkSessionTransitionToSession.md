@@ -15,4 +15,3 @@ Any _NETWORK_SESSION_TRANSITION_TO_SESSION(Any* sessionRequestId);
 * **sessionRequestId**:
 
 ## Return value
-

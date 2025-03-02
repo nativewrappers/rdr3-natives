@@ -13,6 +13,3 @@ void TASK_COMBAT_HATED_TARGETS(Ped ped,float radius);
 ## Parameters
 * **ped**:
 * **radius**:
-
-
-

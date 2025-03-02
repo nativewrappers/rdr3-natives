@@ -15,4 +15,3 @@ Any _IS_PED_USING_ACTION_MODE_2(Ped ped);
 * **ped**:
 
 ## Return value
-

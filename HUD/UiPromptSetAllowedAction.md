@@ -14,6 +14,3 @@ void _UI_PROMPT_SET_ALLOWED_ACTION(Prompt prompt,Hash action);
 ## Parameters
 * **prompt**:
 * **action**:
-
-
-

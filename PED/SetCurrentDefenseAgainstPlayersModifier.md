@@ -14,6 +14,3 @@ void _SET_CURRENT_DEFENSE_AGAINST_PLAYERS_MODIFIER(Ped horse,float modifier);
 ## Parameters
 * **horse**:
 * **modifier**:
-
-
-

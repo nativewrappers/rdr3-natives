@@ -13,6 +13,3 @@ This is an alias of SET_ENTITY_AS_NO_LONGER_NEEDED.
 
 ## Parameters
 * **object**:
-
-
-

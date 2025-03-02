@@ -15,4 +15,3 @@ Any _HAS_SOUND_ID_FINISHED(int soundId);
 * **soundId**:
 
 ## Return value
-

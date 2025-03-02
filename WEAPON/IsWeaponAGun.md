@@ -16,4 +16,3 @@ Returns true if CWeaponInfoFlags::Flags::Gun is set.
 * **weaponHash**:
 
 ## Return value
-

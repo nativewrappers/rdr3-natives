@@ -15,4 +15,3 @@ Any _IS_WEAPON_LASSO(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

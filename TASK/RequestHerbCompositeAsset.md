@@ -16,4 +16,3 @@ https://github.com/femga/rdr3_discoveries/tree/master/objects/composites
 * **asset**:
 
 ## Return value
-

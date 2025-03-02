@@ -20,6 +20,3 @@ void TASK_FOLLOW_ENTITY_ALONG_WAYPOINT_RECORDING_AT_OFFSET(Ped ped0,Ped ped1,con
 * **p6**:
 * **p7**:
 * **p8**:
-
-
-

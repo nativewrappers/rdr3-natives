@@ -15,4 +15,3 @@ float _GET_PED_HEIGHT(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -14,4 +14,3 @@ float SIN(float value);
 * **value**:
 
 ## Return value
-

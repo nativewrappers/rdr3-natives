@@ -12,6 +12,3 @@ void _VIRTUAL_COLLECTION_RESET(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

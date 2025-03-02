@@ -12,6 +12,3 @@ void STOP_STREAM(int streamId);
 
 ## Parameters
 * **streamId**:
-
-
-

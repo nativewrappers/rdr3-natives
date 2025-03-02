@@ -14,4 +14,3 @@ Returns whether the signed-in user has valid Rockstar Online Services (ROS) cred
 
 
 ## Return value
-

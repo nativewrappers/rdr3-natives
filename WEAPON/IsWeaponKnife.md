@@ -15,4 +15,3 @@ Any _IS_WEAPON_KNIFE(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

@@ -16,4 +16,3 @@ BOOL DECOR_SET_FLOAT(Entity entity,const char* propertyName,float value);
 * **value**:
 
 ## Return value
-

@@ -17,4 +17,3 @@ Any ADD_FORMATION_LOCATION(int groupId,float p1,float p2,float p3);
 * **p3**:
 
 ## Return value
-

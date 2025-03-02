@@ -15,4 +15,3 @@ BOOL IS_BIT_SET(int address,int offset);
 * **offset**:
 
 ## Return value
-

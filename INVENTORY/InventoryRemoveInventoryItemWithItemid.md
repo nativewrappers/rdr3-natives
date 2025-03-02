@@ -18,4 +18,3 @@ Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID(int inventoryId,Hash item,int q
 * **removeReason**:
 
 ## Return value
-

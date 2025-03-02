@@ -12,6 +12,3 @@ void SET_CREATE_RANDOM_COPS(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

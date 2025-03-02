@@ -13,6 +13,3 @@ void UPDATE_WANTED_POSITION_THIS_FRAME(Player player);
 
 ## Parameters
 * **player**:
-
-
-

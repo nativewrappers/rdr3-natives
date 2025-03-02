@@ -13,6 +13,3 @@ void FORCE_CLEANUP_FOR_THREAD_WITH_THIS_ID(int id,int cleanupFlags);
 ## Parameters
 * **id**:
 * **cleanupFlags**:
-
-
-

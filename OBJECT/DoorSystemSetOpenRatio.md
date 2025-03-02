@@ -16,6 +16,3 @@ Ranges from -1.0 to 1.0, and 0.0 is closed / default.
 * **doorHash**:
 * **ajar**:
 * **forceUpdate**:
-
-
-

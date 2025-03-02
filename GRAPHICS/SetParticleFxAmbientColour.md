@@ -19,6 +19,3 @@ p1: AMB_BONFIRE_MP, AMB_CAMPFIRE_LRG_MP
 * **r**:
 * **g**:
 * **b**:
-
-
-

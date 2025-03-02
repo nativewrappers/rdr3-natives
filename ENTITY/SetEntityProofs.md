@@ -16,6 +16,3 @@ BOOL p2: handles an additional special proofs flag, so it simply indicates wheth
 * **entity**:
 * **proofsBitset**:
 * **specialFlag**:
-
-
-

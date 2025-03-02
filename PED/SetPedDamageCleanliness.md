@@ -15,6 +15,3 @@ damageCleanliness: see _GET_PED_DAMAGE_CLEANLINESS
 ## Parameters
 * **ped**:
 * **damageCleanliness**:
-
-
-

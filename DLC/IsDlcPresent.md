@@ -14,4 +14,3 @@ BOOL IS_DLC_PRESENT(Hash dlcHash);
 * **dlcHash**:
 
 ## Return value
-

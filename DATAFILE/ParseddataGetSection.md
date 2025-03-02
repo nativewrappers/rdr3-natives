@@ -17,4 +17,3 @@ Any _PARSEDDATA_GET_SECTION(Any* p0,Any* p1,Hash section);
 * **section**:
 
 ## Return value
-

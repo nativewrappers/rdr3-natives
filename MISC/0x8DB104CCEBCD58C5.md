@@ -15,4 +15,3 @@ Any _0x8DB104CCEBCD58C5(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

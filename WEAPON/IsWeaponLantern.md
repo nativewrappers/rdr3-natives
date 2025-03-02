@@ -15,4 +15,3 @@ Any _IS_WEAPON_LANTERN(Hash weaponHash);
 * **weaponHash**:
 
 ## Return value
-

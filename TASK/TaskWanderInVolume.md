@@ -16,6 +16,3 @@ void TASK_WANDER_IN_VOLUME(Ped ped,Volume volume,float p2,float p3,int p4);
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

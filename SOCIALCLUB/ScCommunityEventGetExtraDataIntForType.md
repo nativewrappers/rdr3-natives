@@ -17,4 +17,3 @@ Any SC_COMMUNITY_EVENT_GET_EXTRA_DATA_INT_FOR_TYPE(const char* p0,int* p1,const 
 * **p2**:
 
 ## Return value
-

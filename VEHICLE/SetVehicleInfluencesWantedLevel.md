@@ -14,6 +14,3 @@ void SET_VEHICLE_INFLUENCES_WANTED_LEVEL(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

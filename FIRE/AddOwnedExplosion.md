@@ -21,6 +21,3 @@ explosionType: see ADD_EXPLOSION
 * **isAudible**:
 * **isInvisible**:
 * **cameraShake**:
-
-
-

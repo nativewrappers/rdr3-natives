@@ -16,4 +16,3 @@ int _UGC_QUERY_GET_POSIX_UPDATED_DATE(Any p0,Any p1);
 * **p1**:
 
 ## Return value
-

@@ -15,4 +15,3 @@ Hash _GET_VEHICLE_PROP_SET_HASH(Vehicle vehicle);
 * **vehicle**:
 
 ## Return value
-

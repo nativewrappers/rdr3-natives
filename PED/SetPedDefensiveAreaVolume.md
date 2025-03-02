@@ -17,6 +17,3 @@ void SET_PED_DEFENSIVE_AREA_VOLUME(Ped ped,Volume volume,BOOL p2,BOOL p3,BOOL p4
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

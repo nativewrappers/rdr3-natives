@@ -14,4 +14,3 @@ BOOL DOES_POP_MULTIPLIER_AREA_EXIST(int id);
 * **id**:
 
 ## Return value
-

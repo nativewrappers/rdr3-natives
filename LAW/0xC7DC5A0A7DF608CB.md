@@ -15,4 +15,3 @@ _GET_DISPATCH_*
 * **flag**:
 
 ## Return value
-

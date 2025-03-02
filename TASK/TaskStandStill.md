@@ -14,6 +14,3 @@ Makes the specified ped stand still for (time) milliseconds.
 ## Parameters
 * **ped**:
 * **time**:
-
-
-

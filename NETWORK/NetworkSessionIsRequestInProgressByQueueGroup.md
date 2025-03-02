@@ -15,4 +15,3 @@ Any _NETWORK_SESSION_IS_REQUEST_IN_PROGRESS_BY_QUEUE_GROUP(int queueGroup);
 * **queueGroup**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void TASK_PICK_UP_WEAPON(Ped ped,Any p1);
 ## Parameters
 * **ped**:
 * **p1**:
-
-
-

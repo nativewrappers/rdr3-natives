@@ -14,6 +14,3 @@ void TASK_KNOCKED_OUT(Ped ped,float p1,BOOL permanently);
 * **ped**:
 * **p1**:
 * **permanently**:
-
-
-

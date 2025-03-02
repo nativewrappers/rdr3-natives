@@ -26,6 +26,3 @@ void TASK_GO_TO_COORD_WHILE_AIMING_AT_ENTITY(Ped ped1,float x,float y,float z,Pe
 * **firingPattern**:
 * **p13**:
 * **p14**:
-
-
-

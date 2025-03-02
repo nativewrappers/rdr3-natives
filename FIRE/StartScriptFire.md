@@ -27,4 +27,3 @@ isGasFire: Whether or not the fire is powered by gasoline.
 * **p8**:
 
 ## Return value
-

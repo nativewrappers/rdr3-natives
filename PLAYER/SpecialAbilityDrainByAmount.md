@@ -16,6 +16,3 @@ Drains Deadeye by given amount.
 * **player**:
 * **amount**:
 * **p2**:
-
-
-

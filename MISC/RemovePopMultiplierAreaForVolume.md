@@ -14,6 +14,3 @@ void _REMOVE_POP_MULTIPLIER_AREA_FOR_VOLUME(Volume volume,int p1);
 ## Parameters
 * **volume**:
 * **p1**:
-
-
-

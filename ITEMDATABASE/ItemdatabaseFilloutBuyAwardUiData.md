@@ -15,4 +15,3 @@ BOOL _ITEMDATABASE_FILLOUT_BUY_AWARD_UI_DATA(Hash award,Any* outData);
 * **outData**:
 
 ## Return value
-

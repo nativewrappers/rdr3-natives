@@ -13,6 +13,3 @@ Clear the herd.
 
 ## Parameters
 * **herd**:
-
-
-

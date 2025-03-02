@@ -15,4 +15,3 @@ Any _ARE_WITNESSES_PENDING(Player player);
 * **player**:
 
 ## Return value
-

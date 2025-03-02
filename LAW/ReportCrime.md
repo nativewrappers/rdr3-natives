@@ -79,6 +79,3 @@ enum eCrimeType : Hash
 * **bounty**:
 * **entity**:
 * **isKnownSuspect**:
-
-
-

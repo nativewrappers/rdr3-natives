@@ -16,4 +16,3 @@ attributeIndex: see SET_ATTRIBUTE_BASE_RANK
 * **coreIndex**:
 
 ## Return value
-

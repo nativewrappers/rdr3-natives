@@ -13,6 +13,3 @@ void _REQUEST_THREAD_EXIT(int threadId);
 
 ## Parameters
 * **threadId**:
-
-
-

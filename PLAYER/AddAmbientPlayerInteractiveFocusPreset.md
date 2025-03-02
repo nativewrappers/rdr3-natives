@@ -21,6 +21,3 @@ To access all available presets, refer to the file located at: `/update_1.rpf/co
 * **z**:
 * **targetEntity**:
 * **name**:
-
-
-

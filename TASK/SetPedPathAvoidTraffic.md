@@ -13,6 +13,3 @@ void _SET_PED_PATH_AVOID_TRAFFIC(Ped ped,BOOL avoidTraffic);
 ## Parameters
 * **ped**:
 * **avoidTraffic**:
-
-
-

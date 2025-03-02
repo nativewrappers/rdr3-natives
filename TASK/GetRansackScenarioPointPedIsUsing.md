@@ -15,4 +15,3 @@ Any GET_RANSACK_SCENARIO_POINT_PED_IS_USING(Ped ped);
 * **ped**:
 
 ## Return value
-

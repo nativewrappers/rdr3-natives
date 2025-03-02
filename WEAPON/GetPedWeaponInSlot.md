@@ -17,4 +17,3 @@ slotHash is usually just the weaponHash name, but WEAPON_* is replaced with SLOT
 * **slotHash**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void SET_BLIP_COORDS(Blip blip,float posX,float posY,float posZ);
 * **posX**:
 * **posY**:
 * **posZ**:
-
-
-

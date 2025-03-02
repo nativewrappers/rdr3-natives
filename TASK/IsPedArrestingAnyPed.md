@@ -15,4 +15,3 @@ Any _IS_PED_ARRESTING_ANY_PED(Ped ped);
 * **ped**:
 
 ## Return value
-

@@ -25,4 +25,3 @@ BOOL START_PARTICLE_FX_NON_LOOPED_ON_ENTITY(const char* effectName,Entity entity
 * **axisZ**:
 
 ## Return value
-

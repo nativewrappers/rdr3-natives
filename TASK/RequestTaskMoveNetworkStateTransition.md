@@ -13,6 +13,3 @@ void REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION(Ped ped,const char* name);
 ## Parameters
 * **ped**:
 * **name**:
-
-
-

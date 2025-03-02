@@ -13,4 +13,3 @@ int NETWORK_SESSION_GET_SESSION_FLAGS();
 
 
 ## Return value
-

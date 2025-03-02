@@ -13,6 +13,3 @@ void SET_ACTIVATE_OBJECT_PHYSICS_AS_SOON_AS_IT_IS_UNFROZEN(Object object,BOOL to
 ## Parameters
 * **object**:
 * **toggle**:
-
-
-

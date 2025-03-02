@@ -17,4 +17,3 @@ _IS_WEAPON_M* - _IS_WEAPON_P*
 * **weaponHash**:
 
 ## Return value
-

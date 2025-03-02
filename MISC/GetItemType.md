@@ -29,4 +29,3 @@ int _GET_ITEM_TYPE(ScrHandle handle);
 * **handle**:
 
 ## Return value
-

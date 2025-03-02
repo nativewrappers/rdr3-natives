@@ -13,6 +13,3 @@ void SET_AMBIENT_VOICE_NAME(Ped ped,const char* name);
 ## Parameters
 * **ped**:
 * **name**:
-
-
-

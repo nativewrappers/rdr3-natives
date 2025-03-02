@@ -14,4 +14,3 @@ Any COMPENDIUM_ANIMAL_GET_SAMPLE_INVENTORY_ITEM(int compendiumEntry);
 * **compendiumEntry**:
 
 ## Return value
-

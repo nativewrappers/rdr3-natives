@@ -14,6 +14,3 @@ void SET_DISABLE_DISTURBANCE_CRIMES(Player player,BOOL p1);
 ## Parameters
 * **player**:
 * **p1**:
-
-
-

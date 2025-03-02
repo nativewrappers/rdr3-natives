@@ -15,4 +15,3 @@ float _GET_WEAPON_SCALE(Object weaponObject);
 * **weaponObject**:
 
 ## Return value
-

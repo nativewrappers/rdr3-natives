@@ -17,4 +17,3 @@ Any _INVENTORY_SET_INVENTORY_ITEM_INSPECTION_ENABLED(int inventoryId,Any* p1,BOO
 * **enabled**:
 
 ## Return value
-

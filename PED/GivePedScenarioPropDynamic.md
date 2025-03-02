@@ -20,4 +20,3 @@ Only used in SP R* Script rcm_jack2
 * **p4**:
 
 ## Return value
-

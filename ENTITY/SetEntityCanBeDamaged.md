@@ -13,6 +13,3 @@ void SET_ENTITY_CAN_BE_DAMAGED(Entity entity,BOOL toggle);
 ## Parameters
 * **entity**:
 * **toggle**:
-
-
-

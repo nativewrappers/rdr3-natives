@@ -15,6 +15,3 @@ void _ADD_WITNESS_RESPONSE(Player player,Hash crimeType,Ped pedGroup);
 * **player**:
 * **crimeType**:
 * **pedGroup**:
-
-
-

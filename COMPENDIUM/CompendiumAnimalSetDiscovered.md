@@ -12,6 +12,3 @@ void COMPENDIUM_ANIMAL_SET_DISCOVERED(int compendiumEntry);
 
 ## Parameters
 * **compendiumEntry**:
-
-
-

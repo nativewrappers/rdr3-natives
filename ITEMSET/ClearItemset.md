@@ -13,6 +13,3 @@ void _CLEAR_ITEMSET(ItemSet itemset);
 
 ## Parameters
 * **itemset**:
-
-
-

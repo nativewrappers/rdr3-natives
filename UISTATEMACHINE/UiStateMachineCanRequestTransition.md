@@ -15,4 +15,3 @@ Any UI_STATE_MACHINE_CAN_REQUEST_TRANSITION(Any p0);
 * **p0**:
 
 ## Return value
-

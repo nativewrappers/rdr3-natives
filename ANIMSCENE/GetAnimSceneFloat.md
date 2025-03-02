@@ -16,4 +16,3 @@ float GET_ANIM_SCENE_FLOAT(AnimScene animScene,const char* name);
 * **name**:
 
 ## Return value
-

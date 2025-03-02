@@ -20,4 +20,3 @@ BOOL IS_PROJECTILE_TYPE_WITHIN_DISTANCE(float p0,float p1,float p2,Any p3,float 
 * **p5**:
 
 ## Return value
-

@@ -14,6 +14,3 @@ void SET_VEHICLE_CAN_EJECT_PASSENGERS_IF_LOCKED(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

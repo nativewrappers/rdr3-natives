@@ -16,4 +16,3 @@ Old name: _IS_IMAP_ACTIVE_2
 * **iplHash**:
 
 ## Return value
-

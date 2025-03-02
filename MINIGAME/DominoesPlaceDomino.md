@@ -16,4 +16,3 @@ Hardcoded to return zero/false.
 * **p1**:
 
 ## Return value
-

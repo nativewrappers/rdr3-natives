@@ -15,6 +15,3 @@ void TASK_COWER(Ped ped,int duration,Ped pedToCowerFrom,const char* p3);
 * **duration**:
 * **pedToCowerFrom**:
 * **p3**:
-
-
-

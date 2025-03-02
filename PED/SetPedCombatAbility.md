@@ -20,6 +20,3 @@ enum eCombatAbilityLevel
 ## Parameters
 * **ped**:
 * **abilityLevel**:
-
-
-

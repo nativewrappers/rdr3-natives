@@ -16,6 +16,3 @@ Old name: _SET_BOAT_FROZEN_WHEN_ANCHORED
 * **vehicle**:
 * **p1**:
 * **p2**:
-
-
-

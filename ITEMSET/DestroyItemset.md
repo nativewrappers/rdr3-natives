@@ -12,6 +12,3 @@ void DESTROY_ITEMSET(ItemSet itemset);
 
 ## Parameters
 * **itemset**:
-
-
-

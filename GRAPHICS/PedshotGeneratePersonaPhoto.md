@@ -17,4 +17,3 @@ BOOL _PEDSHOT_GENERATE_PERSONA_PHOTO(const char* texture,Ped ped,int playerSlot)
 * **playerSlot**:
 
 ## Return value
-

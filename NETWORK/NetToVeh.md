@@ -14,4 +14,3 @@ Vehicle NET_TO_VEH(int netHandle);
 * **netHandle**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ void _REQUEST_METADATA_AT_COORD(float x,float y,float z);
 * **x**:
 * **y**:
 * **z**:
-
-
-

@@ -15,4 +15,3 @@ ScrHandle _ADD_SCRIPTED_COVER_POINT(Any* data);
 * **data**:
 
 ## Return value
-

@@ -15,6 +15,3 @@ _SET_PLAYER_A* - _SET_PLAYER_C*
 ## Parameters
 * **player**:
 * **damage**:
-
-
-

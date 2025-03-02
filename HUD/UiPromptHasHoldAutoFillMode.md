@@ -15,4 +15,3 @@ BOOL _UI_PROMPT_HAS_HOLD_AUTO_FILL_MODE(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

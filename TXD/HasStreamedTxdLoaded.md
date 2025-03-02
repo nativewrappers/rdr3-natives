@@ -15,4 +15,3 @@ Any HAS_STREAMED_TXD_LOADED(Hash txdHash);
 * **txdHash**:
 
 ## Return value
-

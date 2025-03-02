@@ -14,6 +14,3 @@ void SET_INSTANTLY_EQUIP_WEAPON_PICKUPS(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

@@ -14,6 +14,3 @@ void SET_PAUSE_PED_WRITHE_BLEEDOUT(Ped ped,BOOL toggle);
 ## Parameters
 * **ped**:
 * **toggle**:
-
-
-

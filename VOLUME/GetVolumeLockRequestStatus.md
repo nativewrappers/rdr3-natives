@@ -23,4 +23,3 @@ enum eVolumeLockRequestStatus
 * **volLockRequestId**:
 
 ## Return value
-

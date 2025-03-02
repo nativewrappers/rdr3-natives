@@ -16,4 +16,3 @@ void _CLOSE_UIAPP_BY_HASH(Hash appNameHash);
 
 
 [object Object]
-

@@ -14,6 +14,3 @@ void SET_MISSION_NAME_FOR_UGC_MISSION(BOOL p0,const char* name);
 ## Parameters
 * **p0**:
 * **name**:
-
-
-

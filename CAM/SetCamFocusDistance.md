@@ -14,6 +14,3 @@ void _SET_CAM_FOCUS_DISTANCE(Cam cam,float distance);
 ## Parameters
 * **cam**:
 * **distance**:
-
-
-

@@ -16,4 +16,3 @@ Use in conjunction with IS_CONTROL_JUST_RELEASED(0, 'INPUT_OPEN_WHEEL_MENU') to 
 
 
 ## Return value
-

@@ -15,6 +15,3 @@ every other level will have the max value of (brokeLevel - threshold)
 ## Parameters
 * **weaponObject**:
 * **threshold**:
-
-
-

@@ -16,4 +16,3 @@ Any _DATABINDING_ADD_DATA_INT(Any p0,const char* p1,Hash p2);
 * **p2**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void NETWORK_SET_RECENT_GAMERS_ENABLED(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

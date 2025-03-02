@@ -23,6 +23,3 @@ First BOOL does not give any visual explosion, the vehicle just falls apart comp
 * **isInvisible**:
 * **p3**:
 * **p4**:
-
-
-

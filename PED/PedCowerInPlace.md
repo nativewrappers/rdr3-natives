@@ -13,6 +13,3 @@ void PED_COWER_IN_PLACE(Ped ped,Ped ped2);
 ## Parameters
 * **ped**:
 * **ped2**:
-
-
-

@@ -15,6 +15,3 @@ void _ENABLE_EAGLEEYE(Player player,BOOL enable);
 ## Parameters
 * **player**:
 * **enable**:
-
-
-

@@ -15,4 +15,3 @@ Any _NETWORK_IS_IN_MY_GANG(Player player);
 * **player**:
 
 ## Return value
-

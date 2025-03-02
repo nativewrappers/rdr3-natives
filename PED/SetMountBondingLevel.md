@@ -14,6 +14,3 @@ void _SET_MOUNT_BONDING_LEVEL(Ped ped,int bondingLevel);
 ## Parameters
 * **ped**:
 * **bondingLevel**:
-
-
-

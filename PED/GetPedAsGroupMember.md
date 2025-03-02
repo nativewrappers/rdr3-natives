@@ -15,4 +15,3 @@ Ped GET_PED_AS_GROUP_MEMBER(int groupID,int memberNumber);
 * **memberNumber**:
 
 ## Return value
-

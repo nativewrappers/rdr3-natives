@@ -13,4 +13,3 @@ int GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO();
 
 
 ## Return value
-

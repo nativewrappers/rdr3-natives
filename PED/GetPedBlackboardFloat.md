@@ -17,4 +17,3 @@ Can be used to get a peds foliage raw height: variableName = FoliageHeight
 * **variableName**:
 
 ## Return value
-

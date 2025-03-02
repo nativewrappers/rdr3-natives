@@ -15,6 +15,3 @@ Returns BOOL in ida
 * **ped**:
 * **p1**:
 * **p2**:
-
-
-

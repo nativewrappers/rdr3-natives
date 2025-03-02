@@ -14,4 +14,3 @@ BOOL _ADD_ENTRY_VOLUME_LOCK(Any* args);
 * **args**:
 
 ## Return value
-

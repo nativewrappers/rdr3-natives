@@ -16,4 +16,3 @@ Returns boneIndex
 * **boneId**:
 
 ## Return value
-

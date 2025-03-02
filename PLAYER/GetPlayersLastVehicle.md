@@ -12,4 +12,3 @@ Vehicle GET_PLAYERS_LAST_VEHICLE();
 
 
 ## Return value
-

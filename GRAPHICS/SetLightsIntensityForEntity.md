@@ -14,6 +14,3 @@ void _SET_LIGHTS_INTENSITY_FOR_ENTITY(Entity entity,float intensity);
 ## Parameters
 * **entity**:
 * **intensity**:
-
-
-

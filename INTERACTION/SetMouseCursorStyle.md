@@ -18,6 +18,3 @@ Old name: _SET_MOUSE_CURSOR_SPRITE
 
 ## Parameters
 * **spriteId**:
-
-
-

@@ -13,6 +13,3 @@ combined with PED::SET_PED_WETNESS_HEIGHT(), this native makes the ped drenched 
 
 ## Parameters
 * **ped**:
-
-
-

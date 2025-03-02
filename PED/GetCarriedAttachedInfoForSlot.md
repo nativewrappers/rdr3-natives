@@ -18,4 +18,3 @@ Any GET_CARRIED_ATTACHED_INFO_FOR_SLOT(Any p0,Any p1,Any p2,Any p3);
 * **p3**:
 
 ## Return value
-

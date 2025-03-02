@@ -14,6 +14,3 @@ nullsub, doesn't do anything
 
 ## Parameters
 * **control**:
-
-
-

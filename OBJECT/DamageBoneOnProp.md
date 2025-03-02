@@ -14,6 +14,3 @@ void _DAMAGE_BONE_ON_PROP(Object object,int bone);
 ## Parameters
 * **object**:
 * **bone**:
-
-
-

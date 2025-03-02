@@ -13,6 +13,3 @@ void _REMOVE_PROP_FROM_MINIMAP(Hash minimapProp);
 
 ## Parameters
 * **minimapProp**:
-
-
-

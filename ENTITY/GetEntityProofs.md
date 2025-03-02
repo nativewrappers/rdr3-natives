@@ -17,4 +17,3 @@ Old name: _GET_ENTITY_PROOFS
 * **entity**:
 
 ## Return value
-

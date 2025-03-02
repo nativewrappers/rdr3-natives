@@ -15,4 +15,3 @@ Any IS_TRAIN_WAITING_AT_STATION(Vehicle train);
 * **train**:
 
 ## Return value
-

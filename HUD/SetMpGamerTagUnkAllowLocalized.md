@@ -15,6 +15,3 @@ nullsub, doesn't do anything
 ## Parameters
 * **gamerTagId**:
 * **allow**:
-
-
-

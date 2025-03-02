@@ -15,4 +15,3 @@ Any IS_PED_ENTERING_ANY_TRANSPORT(Ped ped);
 * **ped**:
 
 ## Return value
-

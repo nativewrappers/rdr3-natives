@@ -13,6 +13,3 @@ void SET_SCENARIO_GROUP_ENABLED(const char* scenarioGroup,BOOL toggle);
 ## Parameters
 * **scenarioGroup**:
 * **toggle**:
-
-
-

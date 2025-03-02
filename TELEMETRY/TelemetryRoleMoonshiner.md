@@ -13,6 +13,3 @@ void _TELEMETRY_ROLE_MOONSHINER(Any p0,Any transactionId);
 ## Parameters
 * **p0**:
 * **transactionId**:
-
-
-

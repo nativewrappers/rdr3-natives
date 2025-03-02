@@ -19,4 +19,3 @@ _RESET_VEHICLE_* (?)
 
 ## Return value
 [object Object]
-

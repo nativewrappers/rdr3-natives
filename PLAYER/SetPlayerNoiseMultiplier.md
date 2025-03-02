@@ -13,6 +13,3 @@ void SET_PLAYER_NOISE_MULTIPLIER(Player player,float multiplier);
 ## Parameters
 * **player**:
 * **multiplier**:
-
-
-

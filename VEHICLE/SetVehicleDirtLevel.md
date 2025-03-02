@@ -13,6 +13,3 @@ void SET_VEHICLE_DIRT_LEVEL(Vehicle vehicle,float dirtLevel);
 ## Parameters
 * **vehicle**:
 * **dirtLevel**:
-
-
-

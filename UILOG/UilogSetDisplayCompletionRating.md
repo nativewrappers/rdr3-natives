@@ -15,6 +15,3 @@ void _UILOG_SET_DISPLAY_COMPLETION_RATING(int logEntryType,Hash p1,BOOL p2);
 * **logEntryType**:
 * **p1**:
 * **p2**:
-
-
-

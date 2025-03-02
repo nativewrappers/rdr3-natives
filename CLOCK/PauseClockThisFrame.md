@@ -12,6 +12,3 @@ void _PAUSE_CLOCK_THIS_FRAME(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

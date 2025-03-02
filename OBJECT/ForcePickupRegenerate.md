@@ -12,6 +12,3 @@ void FORCE_PICKUP_REGENERATE(Any p0);
 
 ## Parameters
 * **p0**:
-
-
-

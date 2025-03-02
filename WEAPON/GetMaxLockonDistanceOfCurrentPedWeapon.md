@@ -15,4 +15,3 @@ float _GET_MAX_LOCKON_DISTANCE_OF_CURRENT_PED_WEAPON(Ped ped);
 * **ped**:
 
 ## Return value
-

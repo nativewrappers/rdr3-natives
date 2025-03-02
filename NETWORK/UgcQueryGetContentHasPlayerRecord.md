@@ -16,4 +16,3 @@ Any UGC_QUERY_GET_CONTENT_HAS_PLAYER_RECORD(Any p0,int index);
 * **index**:
 
 ## Return value
-

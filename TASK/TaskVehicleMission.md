@@ -20,6 +20,3 @@ void TASK_VEHICLE_MISSION(Ped driver,Vehicle vehicle,Vehicle vehicleTarget,int m
 * **p6**:
 * **p7**:
 * **DriveAgainstTraffic**:
-
-
-

@@ -12,6 +12,3 @@ void RESERVE_NETWORK_MISSION_VEHICLES(int amount);
 
 ## Parameters
 * **amount**:
-
-
-

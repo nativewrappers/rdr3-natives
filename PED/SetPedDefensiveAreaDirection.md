@@ -16,6 +16,3 @@ void SET_PED_DEFENSIVE_AREA_DIRECTION(Ped ped,float p1,float p2,float p3,BOOL p4
 * **p2**:
 * **p3**:
 * **p4**:
-
-
-

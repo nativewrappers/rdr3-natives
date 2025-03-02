@@ -15,4 +15,3 @@ Requires a visibility tracker on the vehicle (TRACK_VEHICLE_VISIBILITY)
 * **vehicle**:
 
 ## Return value
-

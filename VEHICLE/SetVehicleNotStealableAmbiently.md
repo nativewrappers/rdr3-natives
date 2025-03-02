@@ -14,6 +14,3 @@ void SET_VEHICLE_NOT_STEALABLE_AMBIENTLY(Vehicle vehicle,BOOL p1);
 ## Parameters
 * **vehicle**:
 * **p1**:
-
-
-

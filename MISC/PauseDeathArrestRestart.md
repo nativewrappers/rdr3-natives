@@ -12,6 +12,3 @@ void PAUSE_DEATH_ARREST_RESTART(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

@@ -22,4 +22,3 @@ Returns:
 * **p3**:
 
 ## Return value
-

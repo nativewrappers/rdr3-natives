@@ -15,4 +15,3 @@ float _UI_PROMPT_GET_MASH_MODE_PROGRESS(Prompt prompt);
 * **prompt**:
 
 ## Return value
-

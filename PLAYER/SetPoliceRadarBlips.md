@@ -17,6 +17,3 @@ If toggle is set to true:
 
 ## Parameters
 * **toggle**:
-
-
-

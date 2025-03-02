@@ -14,4 +14,3 @@ int SC_PROFANITY_GET_STRING_STATUS(int token);
 * **token**:
 
 ## Return value
-

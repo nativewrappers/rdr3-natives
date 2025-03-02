@@ -13,6 +13,3 @@ void UGC_CLEAR_QUERY_RESULTS(int ugcRequestId);
 
 ## Parameters
 * **ugcRequestId**:
-
-
-

@@ -16,4 +16,3 @@ Returns a value thats being subtracted from GET_GAME_TIMER
 * **player**:
 
 ## Return value
-

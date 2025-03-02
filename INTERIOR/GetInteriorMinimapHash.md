@@ -15,4 +15,3 @@ Hash _GET_INTERIOR_MINIMAP_HASH(Interior interior);
 * **interior**:
 
 ## Return value
-

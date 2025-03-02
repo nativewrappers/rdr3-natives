@@ -12,4 +12,3 @@ float GET_FRAME_TIME();
 
 
 ## Return value
-

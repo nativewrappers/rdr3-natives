@@ -34,4 +34,3 @@ _POSSE_* - _REGISTER_HATED*
 * **p4**:
 
 ## Return value
-

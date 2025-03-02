@@ -12,6 +12,3 @@ void CLEAR_PED_SECONDARY_TASK(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

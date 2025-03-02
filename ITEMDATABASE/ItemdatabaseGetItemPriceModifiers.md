@@ -16,4 +16,3 @@ Any _ITEMDATABASE_GET_ITEM_PRICE_MODIFIERS(Hash key,Any* outData);
 * **outData**:
 
 ## Return value
-

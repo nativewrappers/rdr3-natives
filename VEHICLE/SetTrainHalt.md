@@ -13,6 +13,3 @@ void _SET_TRAIN_HALT(Vehicle train);
 
 ## Parameters
 * **train**:
-
-
-

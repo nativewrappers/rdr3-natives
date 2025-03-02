@@ -13,6 +13,3 @@ void _RESERVE_AMBIENT_PEDS_TOTAL(int numPeds);
 
 ## Parameters
 * **numPeds**:
-
-
-

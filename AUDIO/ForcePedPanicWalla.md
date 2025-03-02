@@ -9,8 +9,3 @@ apiset: client
 // 0x062D5EAD4DA2FA6A
 void FORCE_PED_PANIC_WALLA();
 ```
-
-
-
-
-

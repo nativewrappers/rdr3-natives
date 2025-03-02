@@ -13,6 +13,3 @@ void _REVEAL_MINIMAP_FOW(Hash hash);
 
 ## Parameters
 * **hash**:
-
-
-

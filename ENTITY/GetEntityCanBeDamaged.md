@@ -16,4 +16,3 @@ Old name: _GET_ENTITY_CAN_BE_DAMAGED
 * **entity**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ Activates the special ability for the specified player.
 
 ## Parameters
 * **player**:
-
-
-

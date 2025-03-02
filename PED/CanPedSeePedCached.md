@@ -17,4 +17,3 @@ int CAN_PED_SEE_PED_CACHED(Ped ped,Ped targetPed,BOOL p2);
 * **p2**:
 
 ## Return value
-

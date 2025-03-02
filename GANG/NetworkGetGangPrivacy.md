@@ -13,4 +13,3 @@ int _NETWORK_GET_GANG_PRIVACY();
 
 
 ## Return value
-

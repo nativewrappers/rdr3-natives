@@ -14,6 +14,3 @@ void SET_PED_PATH_PREFER_TO_AVOID_WATER(Ped ped,BOOL avoidWater,float p2);
 * **ped**:
 * **avoidWater**:
 * **p2**:
-
-
-

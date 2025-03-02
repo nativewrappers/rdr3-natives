@@ -16,4 +16,3 @@ Any _HAS_PED_BEEN_SHOVED_RECENTLY(Ped ped,int ms);
 * **ms**:
 
 ## Return value
-

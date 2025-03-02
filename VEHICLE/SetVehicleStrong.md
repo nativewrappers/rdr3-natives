@@ -14,6 +14,3 @@ If set to true, vehicle will not take crash damage, but is still susceptible to 
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

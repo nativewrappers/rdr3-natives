@@ -16,4 +16,3 @@ int _ITEMDATABASE_GET_ITEM_PATHSET(Hash key,Hash defaultPathset);
 * **defaultPathset**:
 
 ## Return value
-

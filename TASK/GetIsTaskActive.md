@@ -15,4 +15,3 @@ BOOL GET_IS_TASK_ACTIVE(Ped ped,int taskIndex);
 * **taskIndex**:
 
 ## Return value
-

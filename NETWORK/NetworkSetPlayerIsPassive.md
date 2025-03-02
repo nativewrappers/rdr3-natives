@@ -14,6 +14,3 @@ Old name: _NETWORK_SET_PASSIVE_MODE_OPTION
 
 ## Parameters
 * **toggle**:
-
-
-

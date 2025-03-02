@@ -14,6 +14,3 @@ void _SET_WEAPON_SCALE(Object weaponObject,float scale);
 ## Parameters
 * **weaponObject**:
 * **scale**:
-
-
-

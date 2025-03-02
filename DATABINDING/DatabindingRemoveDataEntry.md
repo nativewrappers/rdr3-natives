@@ -12,6 +12,3 @@ void _DATABINDING_REMOVE_DATA_ENTRY(Hash entryId);
 
 ## Parameters
 * **entryId**:
-
-
-

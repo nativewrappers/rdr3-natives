@@ -12,6 +12,3 @@ void IGNORE_NEXT_RESTART(BOOL toggle);
 
 ## Parameters
 * **toggle**:
-
-
-

@@ -16,4 +16,3 @@ Calculation: (value / 1000) / 60 % 60
 * **value**:
 
 ## Return value
-

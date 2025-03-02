@@ -17,4 +17,3 @@ Any _ITEMDATABASE_GET_ACQUIRE_COST(Hash key,int index,Any* outData);
 * **outData**:
 
 ## Return value
-

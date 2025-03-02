@@ -15,6 +15,3 @@ void _DATABINDING_WRITE_DATA_GANG_ID(Any p0,const char* p1,Any gangId);
 * **p0**:
 * **p1**:
 * **gangId**:
-
-
-

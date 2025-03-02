@@ -14,4 +14,3 @@ BOOL HAS_SCRIPT_WITH_NAME_HASH_LOADED(Hash scriptHash);
 * **scriptHash**:
 
 ## Return value
-

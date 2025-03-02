@@ -13,6 +13,3 @@ void _TEXT_BLOCK_DELETE(const char* textBlock);
 
 ## Parameters
 * **textBlock**:
-
-
-

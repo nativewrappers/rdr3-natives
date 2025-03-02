@@ -15,4 +15,3 @@ Any NETWORK_AUTO_SESSION_CAN_SPLIT_SESSION(int* p0);
 * **p0**:
 
 ## Return value
-

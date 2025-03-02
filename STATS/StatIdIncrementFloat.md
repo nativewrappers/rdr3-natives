@@ -15,6 +15,3 @@ statId: see STAT_ID_IS_VALID
 ## Parameters
 * **statId**:
 * **value**:
-
-
-

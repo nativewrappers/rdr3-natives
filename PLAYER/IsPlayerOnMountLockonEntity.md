@@ -15,4 +15,3 @@ This native is used to determine if the player has an active lockon an entity wh
 * **player**:
 
 ## Return value
-

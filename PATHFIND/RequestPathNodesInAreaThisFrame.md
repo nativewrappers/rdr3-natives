@@ -19,4 +19,3 @@ Old name: REQUEST_PATHS_PREFER_ACCURATE_BOUNDINGSTRUCT
 * **y2**:
 
 ## Return value
-

@@ -12,4 +12,3 @@ BOOL IS_GAMEPLAY_CAM_RENDERING();
 
 
 ## Return value
-

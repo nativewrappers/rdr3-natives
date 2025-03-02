@@ -16,4 +16,3 @@ Any HAS_MOTION_TYPE_ASSET_LOADED(Hash nameHash,Ped ped);
 * **ped**:
 
 ## Return value
-

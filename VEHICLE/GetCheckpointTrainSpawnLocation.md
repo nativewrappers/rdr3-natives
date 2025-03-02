@@ -20,4 +20,3 @@ Vector3 _GET_CHECKPOINT_TRAIN_SPAWN_LOCATION(int trackIndex,float x,float y,floa
 * **direction**:
 
 ## Return value
-

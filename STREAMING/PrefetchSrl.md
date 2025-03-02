@@ -12,6 +12,3 @@ void PREFETCH_SRL(const char* srl);
 
 ## Parameters
 * **srl**:
-
-
-

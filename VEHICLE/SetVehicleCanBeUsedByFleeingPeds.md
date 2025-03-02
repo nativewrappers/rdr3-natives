@@ -13,6 +13,3 @@ void SET_VEHICLE_CAN_BE_USED_BY_FLEEING_PEDS(Vehicle vehicle,BOOL toggle);
 ## Parameters
 * **vehicle**:
 * **toggle**:
-
-
-

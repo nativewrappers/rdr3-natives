@@ -13,4 +13,3 @@ Hash _GAME_FRAMEWORK_MANAGER_GET_MODE();
 
 
 ## Return value
-

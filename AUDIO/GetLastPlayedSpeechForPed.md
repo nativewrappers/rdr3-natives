@@ -15,4 +15,3 @@ Gets the hash for the last played speech line.
 * **ped**:
 
 ## Return value
-

@@ -13,6 +13,3 @@ void TASK_FOLLOW_PAVEMENT_TO_COORD(Ped ped,Any* args);
 ## Parameters
 * **ped**:
 * **args**:
-
-
-

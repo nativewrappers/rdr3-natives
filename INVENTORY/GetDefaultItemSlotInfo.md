@@ -18,4 +18,3 @@ Returns slot hash
 * **p1**:
 
 ## Return value
-

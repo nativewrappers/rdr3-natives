@@ -12,6 +12,3 @@ void RESET_PED_IN_VEHICLE_CONTEXT(Ped ped);
 
 ## Parameters
 * **ped**:
-
-
-

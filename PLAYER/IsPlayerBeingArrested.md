@@ -20,4 +20,3 @@ If atArresting is set to 0, this function will return 1 only when the busted scr
 * **atArresting**:
 
 ## Return value
-

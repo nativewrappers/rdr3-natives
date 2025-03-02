@@ -16,6 +16,3 @@ type hashes: https://pastebin.com/C1WvQjCy
 ## Parameters
 * **entity**:
 * **type**:
-
-
-

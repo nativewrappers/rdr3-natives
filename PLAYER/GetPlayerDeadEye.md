@@ -15,4 +15,3 @@ float _GET_PLAYER_DEAD_EYE(Player player);
 * **player**:
 
 ## Return value
-

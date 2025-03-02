@@ -15,6 +15,3 @@ void _SET_PED_GRAPPLE_FLAG(Ped ped,int flag,BOOL enable);
 * **ped**:
 * **flag**:
 * **enable**:
-
-
-

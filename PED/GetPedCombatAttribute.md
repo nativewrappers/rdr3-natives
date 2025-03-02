@@ -16,4 +16,3 @@ Any _GET_PED_COMBAT_ATTRIBUTE(Ped ped,int attributeIndex);
 * **attributeIndex**:
 
 ## Return value
-

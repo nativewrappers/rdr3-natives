@@ -16,4 +16,3 @@ _COLLECTABLE_C* - _COLLECTABLE_G*
 * **collectableItem**:
 
 ## Return value
-

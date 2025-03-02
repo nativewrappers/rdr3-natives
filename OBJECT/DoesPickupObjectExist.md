@@ -14,4 +14,3 @@ BOOL DOES_PICKUP_OBJECT_EXIST(Object pickupObject);
 * **pickupObject**:
 
 ## Return value
-
