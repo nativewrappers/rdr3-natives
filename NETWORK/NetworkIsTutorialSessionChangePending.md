@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_IS_TUTORIAL_SESSION_CHANGE_PENDING
+
+```c
+// 0x35F0B98A8387274D
+BOOL NETWORK_IS_TUTORIAL_SESSION_CHANGE_PENDING();
+```
+
+
+
+## Return value
+

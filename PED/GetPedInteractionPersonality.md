@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0xD7AD3C7EBAF88C92"]
+apiset: client
+---
+## _GET_PED_INTERACTION_PERSONALITY
+
+```c
+// 0xD7AD3C7EBAF88C92
+Hash _GET_PED_INTERACTION_PERSONALITY(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+## Return value
+

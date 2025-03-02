@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+apiset: client
+---
+## GET_PLAYER_PED_SCRIPT_INDEX
+
+```c
+// 0x5C880F9056D784C8
+Ped GET_PLAYER_PED_SCRIPT_INDEX(Player player);
+```
+
+Does the same like PLAYER::GET_PLAYER_PED
+
+## Parameters
+* **player**:
+
+## Return value
+

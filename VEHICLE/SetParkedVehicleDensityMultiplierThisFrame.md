@@ -1,0 +1,17 @@
+---
+ns: VEHICLE
+apiset: client
+---
+## SET_PARKED_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME
+
+```c
+// 0xFEDFA97638D61D4A
+void SET_PARKED_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
+```
+
+
+## Parameters
+* **multiplier**:
+
+
+

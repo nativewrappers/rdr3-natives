@@ -1,0 +1,16 @@
+---
+ns: GRAPHICS
+aliases: ["0x4A3DA74C3CCB1725"]
+apiset: client
+---
+## GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO
+
+```c
+// 0x4A3DA74C3CCB1725
+int GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: SCRIPTS
+aliases: ["0xDE544B7EC0C187CC"]
+apiset: client
+---
+## _CLEAR_ALL_PLAYER_BITS
+
+```c
+// 0xDE544B7EC0C187CC
+void _CLEAR_ALL_PLAYER_BITS(Any* value);
+```
+
+
+## Parameters
+* **value**:
+
+
+

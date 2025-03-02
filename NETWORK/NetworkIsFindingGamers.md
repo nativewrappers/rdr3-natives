@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_IS_FINDING_GAMERS
+
+```c
+// 0xDDDF64C91BFCF0AA
+BOOL NETWORK_IS_FINDING_GAMERS();
+```
+
+
+
+## Return value
+

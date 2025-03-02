@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+aliases: ["0x49E40483948AF062"]
+apiset: client
+---
+## _IS_WEAPON_KIT_2
+
+```c
+// 0x49E40483948AF062
+Any _IS_WEAPON_KIT_2(Hash weaponHash);
+```
+
+Returns true when the weapon passed is either the fishingrod, a lasso, the camera or the binoculars
+_IS_WEAPON_M* - _IS_WEAPON_P*
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

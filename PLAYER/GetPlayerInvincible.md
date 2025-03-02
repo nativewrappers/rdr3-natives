@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+apiset: client
+---
+## GET_PLAYER_INVINCIBLE
+
+```c
+// 0x0CBBCB2CCFA7DC4E
+BOOL GET_PLAYER_INVINCIBLE(Player player);
+```
+
+Returns the player's invincibility status.
+
+## Parameters
+* **player**:
+
+## Return value
+

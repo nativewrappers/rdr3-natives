@@ -1,0 +1,36 @@
+---
+ns: PLAYER
+aliases: ["0xAC22AA6DF4D1C1DE"]
+apiset: client
+---
+## _ADD_PLAYER_AS_FOLLOW_TARGET
+
+```c
+// 0xAC22AA6DF4D1C1DE
+void _ADD_PLAYER_AS_FOLLOW_TARGET(Player player,Ped ped,float p2,float p3,int followMode,int followPriority,BOOL p6);
+```
+
+Used in script function: NET_AUTO_FOLLOW_UPDATE_LEADER_VALUES
+followMode:
+HORSEFOLLOWMODE_AUTO = 0,
+HORSEFOLLOWMODE_SIDE_ONLY,
+HORSEFOLLOWMODE_BEHIND_ONLY,
+HORSEFOLLOWMODE_BEHIND_AND_SIDE,
+HORSEFOLLOWMODE_BEHIND_CLOSE
+followPriority:
+HORSEFOLLOWPRIORITY_STEER_ASSIST = 0,
+HORSEFOLLOWPRIORITY_AMBIENT,
+HORSEFOLLOWPRIORITY_NORMAL,
+HORSEFOLLOWPRIORITY_HIGH
+
+## Parameters
+* **player**:
+* **ped**:
+* **p2**:
+* **p3**:
+* **followMode**:
+* **followPriority**:
+* **p6**:
+
+
+

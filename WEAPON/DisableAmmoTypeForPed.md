@@ -1,0 +1,19 @@
+---
+ns: WEAPON
+aliases: ["0xAA5A52204E077883"]
+apiset: client
+---
+## _DISABLE_AMMO_TYPE_FOR_PED
+
+```c
+// 0xAA5A52204E077883
+void _DISABLE_AMMO_TYPE_FOR_PED(Ped ped,Hash ammoHash);
+```
+
+
+## Parameters
+* **ped**:
+* **ammoHash**:
+
+
+

@@ -1,0 +1,19 @@
+---
+ns: ENTITY
+apiset: client
+---
+## SET_ENTITY_INVINCIBLE
+
+```c
+// 0xA5C38736C426FCB8
+void SET_ENTITY_INVINCIBLE(Entity entity,BOOL toggle);
+```
+
+Sets a ped or an object totally invincible. It doesn't take any kind of damage. Peds will not ragdoll on explosions.
+
+## Parameters
+* **entity**:
+* **toggle**:
+
+
+

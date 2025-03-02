@@ -1,0 +1,16 @@
+---
+ns: HUD
+aliases: ["0x66F35DD9D2B58579"]
+apiset: client
+---
+## IS_RADAR_HIDDEN_BY_SCRIPT
+
+```c
+// 0x66F35DD9D2B58579
+Any IS_RADAR_HIDDEN_BY_SCRIPT();
+```
+
+
+
+## Return value
+

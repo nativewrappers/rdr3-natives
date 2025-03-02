@@ -1,0 +1,16 @@
+---
+ns: PED
+aliases: ["0xFEE4A5459472A9F8"]
+apiset: client
+---
+## SPAWNPOINTS_CANCEL_SEARCH
+
+```c
+// 0xFEE4A5459472A9F8
+void SPAWNPOINTS_CANCEL_SEARCH();
+```
+
+
+
+
+

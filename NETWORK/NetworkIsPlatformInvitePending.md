@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xFC4165C9165C166F"]
+apiset: client
+---
+## NETWORK_IS_PLATFORM_INVITE_PENDING
+
+```c
+// 0xFC4165C9165C166F
+Any NETWORK_IS_PLATFORM_INVITE_PENDING();
+```
+
+
+
+## Return value
+

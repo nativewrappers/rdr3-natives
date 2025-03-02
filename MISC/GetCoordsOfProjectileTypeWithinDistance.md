@@ -1,0 +1,23 @@
+---
+ns: MISC
+aliases: ["_GET_PROJECTILE_NEAR_PED_COORDS"]
+apiset: client
+---
+## GET_COORDS_OF_PROJECTILE_TYPE_WITHIN_DISTANCE
+
+```c
+// 0xD73C960A681052DF
+BOOL GET_COORDS_OF_PROJECTILE_TYPE_WITHIN_DISTANCE(Ped ped,Hash weaponHash,float distance,Vector3* outCoords,BOOL p4,BOOL mustBeOwnedByThisPed);
+```
+
+
+## Parameters
+* **ped**:
+* **weaponHash**:
+* **distance**:
+* **outCoords**:
+* **p4**:
+* **mustBeOwnedByThisPed**:
+
+## Return value
+

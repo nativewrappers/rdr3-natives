@@ -1,0 +1,19 @@
+---
+ns: FLOCK
+aliases: ["0xAEB97D84CDF3C00B"]
+apiset: client
+---
+## _SET_ANIMAL_IS_WILD
+
+```c
+// 0xAEB97D84CDF3C00B
+void _SET_ANIMAL_IS_WILD(Ped ped,BOOL toggle);
+```
+
+
+## Parameters
+* **ped**:
+* **toggle**:
+
+
+

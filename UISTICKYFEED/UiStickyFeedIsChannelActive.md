@@ -1,0 +1,19 @@
+---
+ns: UISTICKYFEED
+aliases: ["0xC5C395C60B542A3C"]
+apiset: client
+---
+## _UI_STICKY_FEED_IS_CHANNEL_ACTIVE
+
+```c
+// 0xC5C395C60B542A3C
+Any _UI_STICKY_FEED_IS_CHANNEL_ACTIVE(int stickyFeedChannel);
+```
+
+stickyFeedChannel: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eUIStickyFeedChannel
+
+## Parameters
+* **stickyFeedChannel**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: CAM
+aliases: ["0x8910C24B7E0046EC"]
+apiset: client
+---
+## _DISABLE_CINEMATIC_MODE_THIS_FRAME
+
+```c
+// 0x8910C24B7E0046EC
+void _DISABLE_CINEMATIC_MODE_THIS_FRAME();
+```
+
+
+
+
+

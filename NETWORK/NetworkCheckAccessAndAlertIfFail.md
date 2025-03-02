@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x2A8112A974DE1EF6"]
+apiset: client
+---
+## NETWORK_CHECK_ACCESS_AND_ALERT_IF_FAIL
+
+```c
+// 0x2A8112A974DE1EF6
+Any NETWORK_CHECK_ACCESS_AND_ALERT_IF_FAIL();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,19 @@
+---
+ns: PLAYER
+aliases: ["0xDFC85C5199045026"]
+apiset: client
+---
+## _EAGLE_EYE_SET_TRACKING_UPGRADE
+
+```c
+// 0xDFC85C5199045026
+void _EAGLE_EYE_SET_TRACKING_UPGRADE(Player player,float p1);
+```
+
+
+## Parameters
+* **player**:
+* **p1**:
+
+
+

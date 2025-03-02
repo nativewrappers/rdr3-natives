@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+aliases: ["0xCC9C4393523833E2"]
+apiset: client
+---
+## _SET_AMMO_TYPE_FOR_PED_WEAPON
+
+```c
+// 0xCC9C4393523833E2
+void _SET_AMMO_TYPE_FOR_PED_WEAPON(Ped ped,Hash weaponHash,Hash ammoHash);
+```
+
+
+## Parameters
+* **ped**:
+* **weaponHash**:
+* **ammoHash**:
+
+
+

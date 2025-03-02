@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_GET_PLAYER_INDEX
+
+```c
+// 0x24FB80D107371267
+int NETWORK_GET_PLAYER_INDEX(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+## Return value
+

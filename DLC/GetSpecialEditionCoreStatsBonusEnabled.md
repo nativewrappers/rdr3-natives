@@ -1,0 +1,16 @@
+---
+ns: DLC
+aliases: ["0xA16B4FBA7887D7BA"]
+apiset: client
+---
+## _GET_SPECIAL_EDITION_CORE_STATS_BONUS_ENABLED
+
+```c
+// 0xA16B4FBA7887D7BA
+Any _GET_SPECIAL_EDITION_CORE_STATS_BONUS_ENABLED();
+```
+
+
+
+## Return value
+

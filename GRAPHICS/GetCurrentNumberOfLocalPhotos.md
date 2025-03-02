@@ -1,0 +1,16 @@
+---
+ns: GRAPHICS
+aliases: ["0x78C56B8A7B1D000C"]
+apiset: client
+---
+## _GET_CURRENT_NUMBER_OF_LOCAL_PHOTOS
+
+```c
+// 0x78C56B8A7B1D000C
+int _GET_CURRENT_NUMBER_OF_LOCAL_PHOTOS();
+```
+
+
+
+## Return value
+

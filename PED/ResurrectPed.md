@@ -1,0 +1,22 @@
+---
+ns: PED
+apiset: client
+---
+## RESURRECT_PED
+
+```c
+// 0x71BC8E838B9C6035
+void RESURRECT_PED(Ped ped);
+```
+
+This function will simply bring the dead ped back to life.
+
+Before calling this function, you may want to declare the position, where your Resurrected ped to be spawn at because theres a chance the ped will fall through the map
+
+Also, disabling any assigned task immediately helped in the number of scenarios, where If you want peds to perform certain decided tasks.
+
+## Parameters
+* **ped**:
+
+
+

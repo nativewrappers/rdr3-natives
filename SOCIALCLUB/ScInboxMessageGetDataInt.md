@@ -1,0 +1,19 @@
+---
+ns: SOCIALCLUB
+apiset: client
+---
+## SC_INBOX_MESSAGE_GET_DATA_INT
+
+```c
+// 0x95BB39C4DA99F348
+BOOL SC_INBOX_MESSAGE_GET_DATA_INT(int p0,const char* context,int* out);
+```
+
+
+## Parameters
+* **p0**:
+* **context**:
+* **out**:
+
+## Return value
+

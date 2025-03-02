@@ -1,0 +1,15 @@
+---
+ns: MAP
+apiset: client
+---
+## SET_RADAR_AS_EXTERIOR_THIS_FRAME
+
+```c
+// 0xA8EBBAE986FB5457
+void SET_RADAR_AS_EXTERIOR_THIS_FRAME();
+```
+
+
+
+
+

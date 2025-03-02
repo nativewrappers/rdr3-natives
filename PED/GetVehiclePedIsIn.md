@@ -1,0 +1,21 @@
+---
+ns: PED
+apiset: client
+---
+## GET_VEHICLE_PED_IS_IN
+
+```c
+// 0x9A9112A0FE9A4713
+Vehicle GET_VEHICLE_PED_IS_IN(Ped ped,BOOL lastVehicle);
+```
+
+Gets the vehicle the specified Ped is in.
+
+If the Ped is not in a vehicle and includeLastVehicle is true, the vehicle they were last in is returned.
+
+## Parameters
+* **ped**:
+* **lastVehicle**:
+
+## Return value
+

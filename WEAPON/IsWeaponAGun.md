@@ -1,0 +1,19 @@
+---
+ns: WEAPON
+aliases: ["0x705BE297EEBDB95D"]
+apiset: client
+---
+## IS_WEAPON_A_GUN
+
+```c
+// 0x705BE297EEBDB95D
+Any IS_WEAPON_A_GUN(Hash weaponHash);
+```
+
+Returns true if CWeaponInfoFlags::Flags::Gun is set.
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

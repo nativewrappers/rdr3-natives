@@ -1,0 +1,17 @@
+---
+ns: TASK
+apiset: client
+---
+## IS_TASK_MOVE_NETWORK_READY_FOR_TRANSITION
+
+```c
+// 0x30ED88D5E0C56A37
+BOOL IS_TASK_MOVE_NETWORK_READY_FOR_TRANSITION(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+## Return value
+

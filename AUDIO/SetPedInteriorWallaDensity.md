@@ -1,0 +1,19 @@
+---
+ns: AUDIO
+aliases: ["0x8BF907833BE275DE"]
+apiset: client
+---
+## SET_PED_INTERIOR_WALLA_DENSITY
+
+```c
+// 0x8BF907833BE275DE
+void SET_PED_INTERIOR_WALLA_DENSITY(float p0,float p1);
+```
+
+
+## Parameters
+* **p0**:
+* **p1**:
+
+
+

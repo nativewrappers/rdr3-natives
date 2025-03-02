@@ -1,0 +1,16 @@
+---
+ns: MISC
+aliases: ["_RESET_SCRIPT_TIME_WITHIN_FRAME"]
+apiset: client
+---
+## RESET_SCRIPT_TIME_WITHIN_FRAME
+
+```c
+// 0x1411A7CBC3A6EB7B
+void RESET_SCRIPT_TIME_WITHIN_FRAME();
+```
+
+
+
+
+

@@ -1,0 +1,16 @@
+---
+ns: TELEMETRY
+aliases: ["0x3180E991D4B8F248"]
+apiset: client
+---
+## ANALYTICS_PLAYTIME_FREEMODE_END
+
+```c
+// 0x3180E991D4B8F248
+void ANALYTICS_PLAYTIME_FREEMODE_END();
+```
+
+
+
+
+

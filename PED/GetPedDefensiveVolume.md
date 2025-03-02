@@ -1,0 +1,19 @@
+---
+ns: PED
+aliases: ["0xEF2E6F870783369B"]
+apiset: client
+---
+## _GET_PED_DEFENSIVE_VOLUME
+
+```c
+// 0xEF2E6F870783369B
+Volume _GET_PED_DEFENSIVE_VOLUME(Ped ped,Any p1);
+```
+
+
+## Parameters
+* **ped**:
+* **p1**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xBAFFDE5F953720D9"]
+apiset: client
+---
+## NETWORK_SESSION_IS_ANY_REQUEST_IN_PROGRESS
+
+```c
+// 0xBAFFDE5F953720D9
+Any NETWORK_SESSION_IS_ANY_REQUEST_IN_PROGRESS();
+```
+
+
+
+## Return value
+

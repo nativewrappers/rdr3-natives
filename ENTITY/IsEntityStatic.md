@@ -1,0 +1,17 @@
+---
+ns: ENTITY
+apiset: client
+---
+## IS_ENTITY_STATIC
+
+```c
+// 0x86468ADFA0F6B861
+BOOL IS_ENTITY_STATIC(Entity entity);
+```
+
+
+## Parameters
+* **entity**:
+
+## Return value
+

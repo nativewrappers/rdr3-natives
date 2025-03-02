@@ -1,0 +1,15 @@
+---
+ns: HUD
+apiset: client
+---
+## HIDE_LOADING_ON_FADE_THIS_FRAME
+
+```c
+// 0xEA600AABAF4B9084
+void HIDE_LOADING_ON_FADE_THIS_FRAME();
+```
+
+
+
+
+

@@ -1,0 +1,26 @@
+---
+ns: TASK
+aliases: ["0x94B745CE41DB58A1"]
+apiset: client
+---
+## CREATE_SCENARIO_POINT_HASH
+
+```c
+// 0x94B745CE41DB58A1
+int CREATE_SCENARIO_POINT_HASH(Hash scenarioHash,float x,float y,float z,float heading,Any p5,Any p6,BOOL p7);
+```
+
+Returns scenario
+
+## Parameters
+* **scenarioHash**:
+* **x**:
+* **y**:
+* **z**:
+* **heading**:
+* **p5**:
+* **p6**:
+* **p7**:
+
+## Return value
+

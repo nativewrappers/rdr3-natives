@@ -1,0 +1,18 @@
+---
+ns: GRAPHICS
+aliases: ["0x2A1625858887D4E6"]
+apiset: client
+---
+## SET_PARTICLE_FX_FOOT_LODRANGE_SCALE
+
+```c
+// 0x2A1625858887D4E6
+void SET_PARTICLE_FX_FOOT_LODRANGE_SCALE(float p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

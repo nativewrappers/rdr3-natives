@@ -1,0 +1,21 @@
+---
+ns: PLAYER
+aliases: ["0x497A6539BB0E8787"]
+apiset: client
+---
+## _SET_PLAYER_DEFENSE_MODIFIER
+
+```c
+// 0x497A6539BB0E8787
+void _SET_PLAYER_DEFENSE_MODIFIER(Player player,float weaponDefenseMod,float meleeDefenseMod);
+```
+
+Sets stamina core drains peed using ranged damage scale and melee damage scale
+
+## Parameters
+* **player**:
+* **weaponDefenseMod**:
+* **meleeDefenseMod**:
+
+
+

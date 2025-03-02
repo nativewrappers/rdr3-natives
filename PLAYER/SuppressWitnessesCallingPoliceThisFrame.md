@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+aliases: ["0x96722257E5381E00"]
+apiset: client
+---
+## SUPPRESS_WITNESSES_CALLING_POLICE_THIS_FRAME
+
+```c
+// 0x96722257E5381E00
+void SUPPRESS_WITNESSES_CALLING_POLICE_THIS_FRAME(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+
+

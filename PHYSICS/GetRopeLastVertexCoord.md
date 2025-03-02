@@ -1,0 +1,17 @@
+---
+ns: PHYSICS
+apiset: client
+---
+## GET_ROPE_LAST_VERTEX_COORD
+
+```c
+// 0x21BB0FBD3E217C2D
+Vector3 GET_ROPE_LAST_VERTEX_COORD(int ropeId);
+```
+
+
+## Parameters
+* **ropeId**:
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: ITEMDATABASE
+aliases: ["0x12DF9C58201DD19A","_ITEMDATABASE_GET_AWARD_ACQUIRE_COST_TYPE"]
+apiset: client
+---
+## _ITEMDATABASE_GET_AWARD_ACQUIRE_COST_COUNT
+
+```c
+// 0x12DF9C58201DD19A
+int _ITEMDATABASE_GET_AWARD_ACQUIRE_COST_COUNT(Hash key);
+```
+
+
+## Parameters
+* **key**:
+
+## Return value
+

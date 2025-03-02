@@ -1,0 +1,17 @@
+---
+ns: PLAYER
+apiset: client
+---
+## HAS_PLAYER_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED
+
+```c
+// 0x16C8D205DD5A2E90
+BOOL HAS_PLAYER_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+## Return value
+

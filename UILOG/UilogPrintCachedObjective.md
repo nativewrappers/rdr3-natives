@@ -1,0 +1,16 @@
+---
+ns: UILOG
+aliases: ["_LOG_PRINT_CACHED_OBJECTIVE"]
+apiset: client
+---
+## _UILOG_PRINT_CACHED_OBJECTIVE
+
+```c
+// 0xE9990552DEC71600
+void _UILOG_PRINT_CACHED_OBJECTIVE();
+```
+
+
+
+
+

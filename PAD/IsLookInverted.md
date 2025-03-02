@@ -1,0 +1,15 @@
+---
+ns: PAD
+apiset: client
+---
+## IS_LOOK_INVERTED
+
+```c
+// 0x77B612531280010D
+BOOL IS_LOOK_INVERTED();
+```
+
+
+
+## Return value
+

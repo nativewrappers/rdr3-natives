@@ -1,0 +1,38 @@
+---
+ns: ENTITY
+apiset: client
+---
+## ATTACH_ENTITY_TO_ENTITY_PHYSICALLY
+
+```c
+// 0xB629A43CA1643481
+void ATTACH_ENTITY_TO_ENTITY_PHYSICALLY(Entity entity1,Entity entity2,int p2,int boneIndex,float offsetX,float offsetY,float offsetZ,float p7,float p8,float p9,float p10,float p11,float p12,float p13,BOOL p14,BOOL p15,BOOL p16,BOOL p17,int p18,BOOL p19,float p20,float p21);
+```
+
+
+## Parameters
+* **entity1**:
+* **entity2**:
+* **p2**:
+* **boneIndex**:
+* **offsetX**:
+* **offsetY**:
+* **offsetZ**:
+* **p7**:
+* **p8**:
+* **p9**:
+* **p10**:
+* **p11**:
+* **p12**:
+* **p13**:
+* **p14**:
+* **p15**:
+* **p16**:
+* **p17**:
+* **p18**:
+* **p19**:
+* **p20**:
+* **p21**:
+
+
+

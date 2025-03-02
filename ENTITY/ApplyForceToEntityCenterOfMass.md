@@ -1,0 +1,27 @@
+---
+ns: ENTITY
+apiset: client
+---
+## APPLY_FORCE_TO_ENTITY_CENTER_OF_MASS
+
+```c
+// 0x31DA7CEC5334DB37
+void APPLY_FORCE_TO_ENTITY_CENTER_OF_MASS(Entity entity,int forceType,float x,float y,float z,int component,BOOL isDirectionRel,BOOL isForceRel,BOOL p8);
+```
+
+p6/relative - makes the xyz force not relative to world coords, but to something else
+p7/highForce - setting false will make the force really low
+
+## Parameters
+* **entity**:
+* **forceType**:
+* **x**:
+* **y**:
+* **z**:
+* **component**:
+* **isDirectionRel**:
+* **isForceRel**:
+* **p8**:
+
+
+

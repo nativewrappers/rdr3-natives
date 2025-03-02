@@ -1,0 +1,15 @@
+---
+ns: NETSHOPPING
+apiset: client
+---
+## _CASHINVENTORY_IS_SESSION_READY
+
+```c
+// 0xFCC24220FDDAC929
+BOOL _CASHINVENTORY_IS_SESSION_READY();
+```
+
+
+
+## Return value
+

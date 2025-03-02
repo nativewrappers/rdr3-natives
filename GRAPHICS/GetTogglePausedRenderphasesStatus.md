@@ -1,0 +1,15 @@
+---
+ns: GRAPHICS
+apiset: client
+---
+## GET_TOGGLE_PAUSED_RENDERPHASES_STATUS
+
+```c
+// 0x86ED21BDB2791CE8
+BOOL GET_TOGGLE_PAUSED_RENDERPHASES_STATUS();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x2302C0264EA58D31"]
+apiset: client
+---
+## NETWORK_PREVENT_SCRIPT_HOST_MIGRATION
+
+```c
+// 0x2302C0264EA58D31
+void NETWORK_PREVENT_SCRIPT_HOST_MIGRATION();
+```
+
+
+
+
+

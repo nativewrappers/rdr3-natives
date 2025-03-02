@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_IS_CLOCK_TIME_OVERRIDDEN
+
+```c
+// 0xD7C95D322FF57522
+BOOL NETWORK_IS_CLOCK_TIME_OVERRIDDEN();
+```
+
+
+
+## Return value
+

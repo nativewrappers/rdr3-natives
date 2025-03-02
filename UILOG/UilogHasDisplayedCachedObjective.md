@@ -1,0 +1,16 @@
+---
+ns: UILOG
+aliases: ["_LOG_HAS_DISPLAYED_CACHED_OBJECTIVE"]
+apiset: client
+---
+## _UILOG_HAS_DISPLAYED_CACHED_OBJECTIVE
+
+```c
+// 0xCC48FFBB45B54F71
+Any _UILOG_HAS_DISPLAYED_CACHED_OBJECTIVE();
+```
+
+
+
+## Return value
+

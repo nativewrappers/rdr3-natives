@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["_NETWORK_SESSION_LEAVE"]
+apiset: client
+---
+## NETWORK_SESSION_LEAVE_SESSION
+
+```c
+// 0x17C21B7319A05047
+BOOL NETWORK_SESSION_LEAVE_SESSION();
+```
+
+
+
+## Return value
+

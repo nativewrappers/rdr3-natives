@@ -1,0 +1,18 @@
+---
+ns: MAP
+apiset: client
+---
+## GET_BLIP_FROM_ENTITY
+
+```c
+// 0x6D2C41A8BD6D6FD0
+Blip GET_BLIP_FROM_ENTITY(Entity entity);
+```
+
+Returns the Blip handle of given Entity.
+
+## Parameters
+* **entity**:
+
+## Return value
+

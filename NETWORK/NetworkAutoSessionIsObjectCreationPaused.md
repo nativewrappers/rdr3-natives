@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x0E2C3AEE6CE603B7"]
+apiset: client
+---
+## NETWORK_AUTO_SESSION_IS_OBJECT_CREATION_PAUSED
+
+```c
+// 0x0E2C3AEE6CE603B7
+Any NETWORK_AUTO_SESSION_IS_OBJECT_CREATION_PAUSED();
+```
+
+
+
+## Return value
+

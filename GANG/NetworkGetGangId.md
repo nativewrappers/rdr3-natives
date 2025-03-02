@@ -1,0 +1,18 @@
+---
+ns: GANG
+aliases: ["0x901E0DC25080C8B9"]
+apiset: client
+---
+## NETWORK_GET_GANG_ID
+
+```c
+// 0x901E0DC25080C8B9
+Any NETWORK_GET_GANG_ID(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+## Return value
+

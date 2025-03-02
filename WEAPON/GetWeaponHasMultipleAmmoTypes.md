@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+apiset: client
+---
+## _GET_WEAPON_HAS_MULTIPLE_AMMO_TYPES
+
+```c
+// 0x58425FCA3D3A2D15
+Any _GET_WEAPON_HAS_MULTIPLE_AMMO_TYPES(Hash weaponHash);
+```
+
+Returns whether the weapon has multiple ammo types or not.
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

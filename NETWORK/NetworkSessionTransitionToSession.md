@@ -1,0 +1,18 @@
+---
+ns: NETWORK
+aliases: ["0xF20B18A330E6DB5C"]
+apiset: client
+---
+## _NETWORK_SESSION_TRANSITION_TO_SESSION
+
+```c
+// 0xF20B18A330E6DB5C
+Any _NETWORK_SESSION_TRANSITION_TO_SESSION(Any* sessionRequestId);
+```
+
+
+## Parameters
+* **sessionRequestId**:
+
+## Return value
+

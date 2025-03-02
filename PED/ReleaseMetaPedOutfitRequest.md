@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0x4592B8B9B0EF5F48","_RELEASE_METAPED_OUTFIT_REQUEST"]
+apiset: client
+---
+## _RELEASE_META_PED_OUTFIT_REQUEST
+
+```c
+// 0x4592B8B9B0EF5F48
+void _RELEASE_META_PED_OUTFIT_REQUEST(int requestId);
+```
+
+
+## Parameters
+* **requestId**:
+
+
+

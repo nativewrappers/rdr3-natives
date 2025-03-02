@@ -1,0 +1,19 @@
+---
+ns: WEAPON
+aliases: ["0xF29A186ED428B552"]
+apiset: client
+---
+## IS_PED_CARRYING_WEAPON
+
+```c
+// 0xF29A186ED428B552
+Any IS_PED_CARRYING_WEAPON(Ped ped,Hash weaponHash);
+```
+
+
+## Parameters
+* **ped**:
+* **weaponHash**:
+
+## Return value
+

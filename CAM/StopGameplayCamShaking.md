@@ -1,0 +1,17 @@
+---
+ns: CAM
+apiset: client
+---
+## STOP_GAMEPLAY_CAM_SHAKING
+
+```c
+// 0xE0DE43D290FB65F9
+void STOP_GAMEPLAY_CAM_SHAKING(BOOL p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

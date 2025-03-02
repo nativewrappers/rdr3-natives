@@ -1,0 +1,19 @@
+---
+ns: VEHICLE
+aliases: ["0xFF5791B7639C2A46"]
+apiset: client
+---
+## _GET_VEHICLE_TURRET_SEAT
+
+```c
+// 0xFF5791B7639C2A46
+Any _GET_VEHICLE_TURRET_SEAT(Vehicle vehicle,int* seatIndex);
+```
+
+
+## Parameters
+* **vehicle**:
+* **seatIndex**:
+
+## Return value
+

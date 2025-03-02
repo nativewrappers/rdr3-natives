@@ -1,0 +1,15 @@
+---
+ns: VEHICLE
+apiset: client
+---
+## SET_ALL_VEHICLE_GENERATORS_ACTIVE
+
+```c
+// 0x3D596E6E88A02C24
+void SET_ALL_VEHICLE_GENERATORS_ACTIVE();
+```
+
+
+
+
+

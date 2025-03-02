@@ -1,0 +1,17 @@
+---
+ns: LOCALIZATION
+aliases: ["_LOCALIZATION_GET_SYSTEM_LANGUAGE"]
+apiset: client
+---
+## LOCALIZATION_GET_SYSTEM_LANGUAGE
+
+```c
+// 0x3C1A05F86AE6ACB5
+int LOCALIZATION_GET_SYSTEM_LANGUAGE();
+```
+
+Same return values as GET_CURRENT_LANGUAGE
+
+
+## Return value
+

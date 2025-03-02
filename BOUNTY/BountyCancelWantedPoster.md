@@ -1,0 +1,16 @@
+---
+ns: BOUNTY
+aliases: ["0x6A9DF0FCD0C87FF9"]
+apiset: client
+---
+## _BOUNTY_CANCEL_WANTED_POSTER
+
+```c
+// 0x6A9DF0FCD0C87FF9
+void _BOUNTY_CANCEL_WANTED_POSTER();
+```
+
+
+
+
+

@@ -1,0 +1,15 @@
+---
+ns: GRAPHICS
+apiset: client
+---
+## RESET_PAUSED_RENDERPHASES
+
+```c
+// 0xCCD9AAD85E1B559E
+void RESET_PAUSED_RENDERPHASES();
+```
+
+
+
+
+

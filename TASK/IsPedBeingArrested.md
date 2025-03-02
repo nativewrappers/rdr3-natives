@@ -1,0 +1,18 @@
+---
+ns: TASK
+apiset: client
+---
+## IS_PED_BEING_ARRESTED
+
+```c
+// 0x90A09F3A45FED688
+BOOL IS_PED_BEING_ARRESTED(Ped ped);
+```
+
+This function is hard-coded to always return false.
+
+## Parameters
+* **ped**:
+
+## Return value
+

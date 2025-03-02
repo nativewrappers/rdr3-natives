@@ -1,0 +1,17 @@
+---
+ns: TASK
+apiset: client
+---
+## GET_IS_WAYPOINT_RECORDING_LOADED
+
+```c
+// 0xCB4E8BE8A0063C5D
+BOOL GET_IS_WAYPOINT_RECORDING_LOADED(const char* waypointRecording);
+```
+
+
+## Parameters
+* **waypointRecording**:
+
+## Return value
+

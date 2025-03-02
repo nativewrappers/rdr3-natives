@@ -1,0 +1,20 @@
+---
+ns: PATHFIND
+aliases: ["0x430F8319AE56C8A9"]
+apiset: client
+---
+## _NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX
+
+```c
+// 0x430F8319AE56C8A9
+Vector3 _NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX(int path,int waypointIndex);
+```
+
+Returns a vector3 waypoint at the specified index for a path. Use _NAVMESH_REQUESTED_PATH_NUM_WAYPOINTS to get available indexes.
+
+## Parameters
+* **path**:
+* **waypointIndex**:
+
+## Return value
+

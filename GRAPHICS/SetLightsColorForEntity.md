@@ -1,0 +1,22 @@
+---
+ns: GRAPHICS
+aliases: ["0x6EC2A67962296F49"]
+apiset: client
+---
+## _SET_LIGHTS_COLOR_FOR_ENTITY
+
+```c
+// 0x6EC2A67962296F49
+void _SET_LIGHTS_COLOR_FOR_ENTITY(Entity entity,int red,int green,int blue);
+```
+
+https://gfycat.com/meagerfaireyra
+
+## Parameters
+* **entity**:
+* **red**:
+* **green**:
+* **blue**:
+
+
+

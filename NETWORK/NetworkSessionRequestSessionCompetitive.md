@@ -1,0 +1,32 @@
+---
+ns: NETWORK
+aliases: ["0x309BBEBEA8A3986C"]
+apiset: client
+---
+## NETWORK_SESSION_REQUEST_SESSION_COMPETITIVE
+
+```c
+// 0x309BBEBEA8A3986C
+Any NETWORK_SESSION_REQUEST_SESSION_COMPETITIVE(int flags,int matchType,int userHash,int p3,Any* sessionRequestId);
+```
+
+matchType:
+enum eMatchType
+{
+	MATCHTYPE_DEPRECATED,
+	MATCHTYPE_UGCPLAYLIST,
+	MATCHTYPE_UGCMISSION,
+	MATCHTYPE_MINIGAME,
+	MATCHTYPE_SEAMLESS,
+	MATCHTYPE_PRIVATE_DO_NOT_USE
+};
+
+## Parameters
+* **flags**:
+* **matchType**:
+* **userHash**:
+* **p3**:
+* **sessionRequestId**:
+
+## Return value
+

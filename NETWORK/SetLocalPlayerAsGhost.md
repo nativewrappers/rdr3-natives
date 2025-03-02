@@ -1,0 +1,19 @@
+---
+ns: NETWORK
+aliases: ["USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR"]
+apiset: client
+---
+## SET_LOCAL_PLAYER_AS_GHOST
+
+```c
+// 0x5FFE9B4144F9712F
+void SET_LOCAL_PLAYER_AS_GHOST(BOOL toggle);
+```
+
+Old name: _SET_LOCAL_PLAYER_AS_GHOST
+
+## Parameters
+* **toggle**:
+
+
+

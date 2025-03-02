@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x959383DCD42040DA"]
+apiset: client
+---
+## IS_WEAPON_MELEE_WEAPON
+
+```c
+// 0x959383DCD42040DA
+Any IS_WEAPON_MELEE_WEAPON(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

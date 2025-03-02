@@ -1,0 +1,17 @@
+---
+ns: GRAPHICS
+aliases: ["0x25CA89B2A39DCC69"]
+apiset: client
+---
+## _GET_MODIFIED_VISIBILITY_DISTANCE
+
+```c
+// 0x25CA89B2A39DCC69
+float _GET_MODIFIED_VISIBILITY_DISTANCE();
+```
+
+_GET_C* - _GET_E*
+
+
+## Return value
+

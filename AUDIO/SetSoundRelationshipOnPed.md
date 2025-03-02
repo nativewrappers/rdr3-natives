@@ -1,0 +1,22 @@
+---
+ns: AUDIO
+aliases: ["0x2E31ACA7477CF00F"]
+apiset: client
+---
+## _SET_SOUND_RELATIONSHIP_ON_PED
+
+```c
+// 0x2E31ACA7477CF00F
+void _SET_SOUND_RELATIONSHIP_ON_PED(Ped ped,const char* p1,const char* p2);
+```
+
+p1: Entity.Relationship
+p2: Player, Enemy, Teammate, Neutral
+
+## Parameters
+* **ped**:
+* **p1**:
+* **p2**:
+
+
+

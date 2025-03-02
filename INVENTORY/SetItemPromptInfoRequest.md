@@ -1,0 +1,18 @@
+---
+ns: INVENTORY
+aliases: ["0xFD41D1D4350F6413","_INVENTORY_HANDLE_ITEM_PROMPT_INFO_REQUEST"]
+apiset: client
+---
+## _SET_ITEM_PROMPT_INFO_REQUEST
+
+```c
+// 0xFD41D1D4350F6413
+void _SET_ITEM_PROMPT_INFO_REQUEST(Any* p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

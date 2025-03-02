@@ -1,0 +1,19 @@
+---
+ns: PED
+aliases: ["0xDE1B1907A83A1550"]
+apiset: client
+---
+## _SET_HEALTH_RECHARGE_MULTIPLIER
+
+```c
+// 0xDE1B1907A83A1550
+void _SET_HEALTH_RECHARGE_MULTIPLIER(Ped ped,int multiplier);
+```
+
+
+## Parameters
+* **ped**:
+* **multiplier**:
+
+
+

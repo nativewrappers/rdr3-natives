@@ -1,0 +1,15 @@
+---
+ns: SCRIPTS
+apiset: client
+---
+## SHUTDOWN_LOADING_SCREEN
+
+```c
+// 0xFC179D7E8886DADF
+void SHUTDOWN_LOADING_SCREEN();
+```
+
+
+
+
+

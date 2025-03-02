@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+apiset: client
+---
+## GET_AMMO_IN_PED_WEAPON
+
+```c
+// 0x015A522136D7F951
+int GET_AMMO_IN_PED_WEAPON(Ped ped,Hash weaponHash);
+```
+
+
+## Parameters
+* **ped**:
+* **weaponHash**:
+
+## Return value
+

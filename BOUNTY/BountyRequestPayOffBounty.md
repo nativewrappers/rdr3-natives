@@ -1,0 +1,18 @@
+---
+ns: BOUNTY
+aliases: ["0x537CE992BD2D7BCB"]
+apiset: client
+---
+## _BOUNTY_REQUEST_PAY_OFF_BOUNTY
+
+```c
+// 0x537CE992BD2D7BCB
+Any _BOUNTY_REQUEST_PAY_OFF_BOUNTY(Any* outRpcGuid);
+```
+
+
+## Parameters
+* **outRpcGuid**:
+
+## Return value
+

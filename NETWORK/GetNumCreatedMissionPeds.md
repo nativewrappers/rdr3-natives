@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+apiset: client
+---
+## GET_NUM_CREATED_MISSION_PEDS
+
+```c
+// 0xCB215C4B56A7FAE7
+int GET_NUM_CREATED_MISSION_PEDS(BOOL p0);
+```
+
+
+## Parameters
+* **p0**:
+
+## Return value
+

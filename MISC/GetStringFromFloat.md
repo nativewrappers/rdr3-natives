@@ -1,0 +1,19 @@
+---
+ns: MISC
+aliases: ["0x2B6846401D68E563"]
+apiset: client
+---
+## _GET_STRING_FROM_FLOAT
+
+```c
+// 0x2B6846401D68E563
+char* _GET_STRING_FROM_FLOAT(float value,int digits);
+```
+
+
+## Parameters
+* **value**:
+* **digits**:
+
+## Return value
+

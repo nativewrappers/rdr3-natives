@@ -1,0 +1,18 @@
+---
+ns: NETWORK
+aliases: ["0x9C725D149622BFDE"]
+apiset: client
+---
+## NETWORK_IS_FEATURE_SUPPORTED
+
+```c
+// 0x9C725D149622BFDE
+Any NETWORK_IS_FEATURE_SUPPORTED(int featureId);
+```
+
+
+## Parameters
+* **featureId**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: CAM
+aliases: ["0x43AB9D5A7D415478"]
+apiset: client
+---
+## IS_INTERPOLATING_TO_SCRIPT_CAMS
+
+```c
+// 0x43AB9D5A7D415478
+BOOL IS_INTERPOLATING_TO_SCRIPT_CAMS();
+```
+
+
+
+## Return value
+

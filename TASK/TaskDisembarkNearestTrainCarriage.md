@@ -1,0 +1,21 @@
+---
+ns: TASK
+aliases: ["_TASK_DISEMBARK_VEHICLE_2"]
+apiset: client
+---
+## TASK_DISEMBARK_NEAREST_TRAIN_CARRIAGE
+
+```c
+// 0x0A11F3BDEC03ED5F
+void TASK_DISEMBARK_NEAREST_TRAIN_CARRIAGE(Ped ped,float p1,int flags);
+```
+
+flags: See TASK_ENTER_VEHICLE
+
+## Parameters
+* **ped**:
+* **p1**:
+* **flags**:
+
+
+

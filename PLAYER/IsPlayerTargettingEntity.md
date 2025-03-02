@@ -1,0 +1,19 @@
+---
+ns: PLAYER
+apiset: client
+---
+## IS_PLAYER_TARGETTING_ENTITY
+
+```c
+// 0x27F89FDC16688A7A
+BOOL IS_PLAYER_TARGETTING_ENTITY(Player player,Entity entity,BOOL p2);
+```
+
+
+## Parameters
+* **player**:
+* **entity**:
+* **p2**:
+
+## Return value
+

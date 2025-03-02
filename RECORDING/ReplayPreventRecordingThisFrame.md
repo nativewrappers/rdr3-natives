@@ -1,0 +1,19 @@
+---
+ns: RECORDING
+aliases: ["_STOP_RECORDING_THIS_FRAME"]
+apiset: client
+---
+## REPLAY_PREVENT_RECORDING_THIS_FRAME
+
+```c
+// 0xA8C44C13419634F2
+void REPLAY_PREVENT_RECORDING_THIS_FRAME();
+```
+
+nullsub, doesn't do anything
+
+Old name: _STOP_RECORDING_THIS_FRAME
+
+
+
+

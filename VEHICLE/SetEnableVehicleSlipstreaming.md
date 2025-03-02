@@ -1,0 +1,18 @@
+---
+ns: VEHICLE
+aliases: ["0x73F1E4F6DF26FE30"]
+apiset: client
+---
+## SET_ENABLE_VEHICLE_SLIPSTREAMING
+
+```c
+// 0x73F1E4F6DF26FE30
+void SET_ENABLE_VEHICLE_SLIPSTREAMING(BOOL p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

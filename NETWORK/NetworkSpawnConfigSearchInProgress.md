@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x89EC2FC89ECB1005"]
+apiset: client
+---
+## _NETWORK_SPAWN_CONFIG_SEARCH_IN_PROGRESS
+
+```c
+// 0x89EC2FC89ECB1005
+Any _NETWORK_SPAWN_CONFIG_SEARCH_IN_PROGRESS();
+```
+
+
+
+## Return value
+

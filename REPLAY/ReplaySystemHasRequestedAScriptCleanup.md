@@ -1,0 +1,19 @@
+---
+ns: REPLAY
+aliases: ["_IS_INTERIOR_RENDERING_DISABLED"]
+apiset: client
+---
+## REPLAY_SYSTEM_HAS_REQUESTED_A_SCRIPT_CLEANUP
+
+```c
+// 0x0F838D47DE58EDB2
+BOOL REPLAY_SYSTEM_HAS_REQUESTED_A_SCRIPT_CLEANUP();
+```
+
+Hardcoded to return false.
+
+Old name: _IS_INTERIOR_RENDERING_DISABLED
+
+
+## Return value
+

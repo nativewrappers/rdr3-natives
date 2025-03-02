@@ -1,0 +1,18 @@
+---
+ns: SOCIALCLUB
+aliases: ["_SC_INBOX_MESSAGE_INIT"]
+apiset: client
+---
+## SC_INBOX_GET_MESSAGE_TYPE_AT_INDEX
+
+```c
+// 0xFF92537C4DDC1241
+Hash SC_INBOX_GET_MESSAGE_TYPE_AT_INDEX(int msgIndex);
+```
+
+
+## Parameters
+* **msgIndex**:
+
+## Return value
+

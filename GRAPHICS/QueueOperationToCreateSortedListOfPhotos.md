@@ -1,0 +1,16 @@
+---
+ns: GRAPHICS
+aliases: ["0xA42EDF1E88734A7E"]
+apiset: client
+---
+## QUEUE_OPERATION_TO_CREATE_SORTED_LIST_OF_PHOTOS
+
+```c
+// 0xA42EDF1E88734A7E
+Any QUEUE_OPERATION_TO_CREATE_SORTED_LIST_OF_PHOTOS();
+```
+
+
+
+## Return value
+

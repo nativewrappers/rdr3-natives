@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0x226CF9B159E38F42"]
+apiset: client
+---
+## _IS_PED_DRAGGING
+
+```c
+// 0x226CF9B159E38F42
+Any _IS_PED_DRAGGING(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+## Return value
+

@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_GET_THIS_SCRIPT_IS_NETWORK_SCRIPT
+
+```c
+// 0x2910669969E9535E
+BOOL NETWORK_GET_THIS_SCRIPT_IS_NETWORK_SCRIPT();
+```
+
+
+
+## Return value
+

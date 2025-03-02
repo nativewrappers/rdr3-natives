@@ -1,0 +1,28 @@
+---
+ns: MAP
+aliases: ["0x1392105DA88BBFFB"]
+apiset: client
+---
+## _ADD_PROP_TO_MINIMAP
+
+```c
+// 0x1392105DA88BBFFB
+void _ADD_PROP_TO_MINIMAP(Hash minimapProp,float x,float y,float rotation,int variation);
+```
+
+list of minimap props: https://github.com/femga/rdr3_discoveries/tree/master/graphics/minimap/minimapObjects
+variations parameter are the interior locations you see on the map like these bellow
+variation 0 https://i.imgur.com/jkLhn3Z.png
+variation 2  https://i.imgur.com/eKV0Tcm.png
+variation 4 https://i.imgur.com/rjwOgEH.png
+there are more and you can find them in the decompiles
+
+## Parameters
+* **minimapProp**:
+* **x**:
+* **y**:
+* **rotation**:
+* **variation**:
+
+
+

@@ -1,0 +1,22 @@
+---
+ns: PED
+apiset: client
+---
+## SET_COMBAT_FLOAT
+
+```c
+// 0xFF41B4B141ED981C
+void SET_COMBAT_FLOAT(Ped ped,int combatType,float newValue);
+```
+
+combatType can be between 0-14. See GET_COMBAT_FLOAT below for a list of possible parameters.
+https://github.com/femga/rdr3_discoveries/tree/master/AI/COMBAT_FLOATS 
+https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eCombatAttributeFloats
+
+## Parameters
+* **ped**:
+* **combatType**:
+* **newValue**:
+
+
+

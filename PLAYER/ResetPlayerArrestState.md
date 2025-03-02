@@ -1,0 +1,17 @@
+---
+ns: PLAYER
+apiset: client
+---
+## RESET_PLAYER_ARREST_STATE
+
+```c
+// 0x12917931C31F1750
+void RESET_PLAYER_ARREST_STATE(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+
+

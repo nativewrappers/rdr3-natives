@@ -1,0 +1,21 @@
+---
+ns: MISC
+apiset: client
+---
+## _STRING_SPLIT_AND_COUNT_SEGMENTS
+
+```c
+// 0x94E8CA3DEE952789
+Any _STRING_SPLIT_AND_COUNT_SEGMENTS(const char* inputString,const char* delimiters);
+```
+
+Not officially named 
+, Counts the number of segments in a string that are separated by specified delimiter characters, ignoring consecutive delimiters.
+
+## Parameters
+* **inputString**:
+* **delimiters**:
+
+## Return value
+[object Object]
+

@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+aliases: ["0xA21E3BAD0A42D199"]
+apiset: client
+---
+## _NETWORK_IS_PREVIOUS_UPLOAD_PENDING
+
+```c
+// 0xA21E3BAD0A42D199
+Any _NETWORK_IS_PREVIOUS_UPLOAD_PENDING();
+```
+
+_NETWORK_IS_T* - _NETWORK_RE*
+
+
+## Return value
+

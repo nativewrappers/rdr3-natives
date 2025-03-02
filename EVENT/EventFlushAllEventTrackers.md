@@ -1,0 +1,18 @@
+---
+ns: EVENT
+aliases: ["0xAD8F2424C6E1E3A8"]
+apiset: client
+---
+## _EVENT_FLUSH_ALL_EVENT_TRACKERS
+
+```c
+// 0xAD8F2424C6E1E3A8
+void _EVENT_FLUSH_ALL_EVENT_TRACKERS(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+
+

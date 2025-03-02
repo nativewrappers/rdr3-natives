@@ -1,0 +1,16 @@
+---
+ns: GRAPHICS
+aliases: ["0x55285F885F662169"]
+apiset: client
+---
+## _PEDSHOT_INIT_CLEANUP_DATA
+
+```c
+// 0x55285F885F662169
+void _PEDSHOT_INIT_CLEANUP_DATA();
+```
+
+
+
+
+

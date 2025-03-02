@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+aliases: ["0xD4071EFC83794B2F"]
+apiset: client
+---
+## _SET_WEAPON_LEVEL_THRESHOLD
+
+```c
+// 0xD4071EFC83794B2F
+void _SET_WEAPON_LEVEL_THRESHOLD(Object weaponObject,float threshold);
+```
+
+every other level will have the max value of (brokeLevel - threshold)
+
+## Parameters
+* **weaponObject**:
+* **threshold**:
+
+
+

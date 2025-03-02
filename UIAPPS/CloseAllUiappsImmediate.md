@@ -1,0 +1,16 @@
+---
+ns: UIAPPS
+aliases: ["0x12769EEB8DBD7A7B"]
+apiset: client
+---
+## _CLOSE_ALL_UIAPPS_IMMEDIATE
+
+```c
+// 0x12769EEB8DBD7A7B
+void _CLOSE_ALL_UIAPPS_IMMEDIATE();
+```
+
+
+
+
+

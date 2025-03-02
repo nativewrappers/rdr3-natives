@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xDD73C9838CE7181D"]
+apiset: client
+---
+## _NETWORK_HAS_COMPLETED_MP_INTRO_FLOW_ON_CURRENT_SLOT
+
+```c
+// 0xDD73C9838CE7181D
+Any _NETWORK_HAS_COMPLETED_MP_INTRO_FLOW_ON_CURRENT_SLOT();
+```
+
+
+
+## Return value
+

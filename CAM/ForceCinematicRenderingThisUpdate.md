@@ -1,0 +1,18 @@
+---
+ns: CAM
+aliases: ["0x702B75DC9D3EDE56"]
+apiset: client
+---
+## FORCE_CINEMATIC_RENDERING_THIS_UPDATE
+
+```c
+// 0x702B75DC9D3EDE56
+void FORCE_CINEMATIC_RENDERING_THIS_UPDATE(BOOL p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

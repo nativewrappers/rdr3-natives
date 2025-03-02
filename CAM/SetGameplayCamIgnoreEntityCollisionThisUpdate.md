@@ -1,0 +1,19 @@
+---
+ns: CAM
+aliases: ["0xD904F75DBD7AB865"]
+apiset: client
+---
+## SET_GAMEPLAY_CAM_IGNORE_ENTITY_COLLISION_THIS_UPDATE
+
+```c
+// 0xD904F75DBD7AB865
+void SET_GAMEPLAY_CAM_IGNORE_ENTITY_COLLISION_THIS_UPDATE(Entity entity);
+```
+
+Old name: _DISABLE_CAM_COLLISION_FOR_ENTITY
+
+## Parameters
+* **entity**:
+
+
+

@@ -1,0 +1,18 @@
+---
+ns: ITEMDATABASE
+aliases: ["_ITEM_DATABASE_GET_SHOP_INVENTORIES_ITEMS_COUNT"]
+apiset: client
+---
+## _ITEMDATABASE_GET_SHOP_INVENTORIES_ITEMS_COUNT
+
+```c
+// 0xC568B1A0F17C7025
+int _ITEMDATABASE_GET_SHOP_INVENTORIES_ITEMS_COUNT(Hash shopType);
+```
+
+
+## Parameters
+* **shopType**:
+
+## Return value
+

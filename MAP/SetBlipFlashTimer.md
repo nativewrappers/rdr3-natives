@@ -1,0 +1,19 @@
+---
+ns: MAP
+apiset: client
+---
+## SET_BLIP_FLASH_TIMER
+
+```c
+// 0x02FF4CF43B7209D1
+void SET_BLIP_FLASH_TIMER(Blip blip,int blipType,Hash blipHash);
+```
+
+
+## Parameters
+* **blip**:
+* **blipType**:
+* **blipHash**:
+
+
+

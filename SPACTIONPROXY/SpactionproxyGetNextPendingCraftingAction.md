@@ -1,0 +1,17 @@
+---
+ns: SPACTIONPROXY
+apiset: client
+---
+## _SPACTIONPROXY_GET_NEXT_PENDING_CRAFTING_ACTION
+
+```c
+// 0x1F471B79ACC97BEF
+BOOL _SPACTIONPROXY_GET_NEXT_PENDING_CRAFTING_ACTION(Any* data);
+```
+
+
+## Parameters
+* **data**:
+
+## Return value
+

@@ -1,0 +1,15 @@
+---
+ns: HUD
+apiset: client
+---
+## IS_HUD_HIDDEN
+
+```c
+// 0x71B72B478F8189DC
+BOOL IS_HUD_HIDDEN();
+```
+
+
+
+## Return value
+

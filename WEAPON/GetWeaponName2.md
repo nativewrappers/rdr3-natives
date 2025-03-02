@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x6D3AC61694A791C5"]
+apiset: client
+---
+## _GET_WEAPON_NAME_2
+
+```c
+// 0x6D3AC61694A791C5
+char* _GET_WEAPON_NAME_2(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

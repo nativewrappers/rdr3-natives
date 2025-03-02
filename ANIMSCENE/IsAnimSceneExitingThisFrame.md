@@ -1,0 +1,18 @@
+---
+ns: ANIMSCENE
+aliases: ["0xCDC5512A407CF08D"]
+apiset: client
+---
+## IS_ANIM_SCENE_EXITING_THIS_FRAME
+
+```c
+// 0xCDC5512A407CF08D
+Any IS_ANIM_SCENE_EXITING_THIS_FRAME(AnimScene animScene);
+```
+
+
+## Parameters
+* **animScene**:
+
+## Return value
+

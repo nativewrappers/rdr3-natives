@@ -1,0 +1,18 @@
+---
+ns: NETWORK
+aliases: ["0xE348D1404BD80146"]
+apiset: client
+---
+## _NETWORK_IS_FRIEND_HANDLE_ONLINE
+
+```c
+// 0xE348D1404BD80146
+BOOL _NETWORK_IS_FRIEND_HANDLE_ONLINE(Any* gamerHandle);
+```
+
+
+## Parameters
+* **gamerHandle**:
+
+## Return value
+

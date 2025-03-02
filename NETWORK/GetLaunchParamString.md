@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xC59AB6A04333C502"]
+apiset: client
+---
+## _GET_LAUNCH_PARAM_STRING
+
+```c
+// 0xC59AB6A04333C502
+char* _GET_LAUNCH_PARAM_STRING();
+```
+
+
+
+## Return value
+

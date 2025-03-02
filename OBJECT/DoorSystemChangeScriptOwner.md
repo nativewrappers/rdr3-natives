@@ -1,0 +1,18 @@
+---
+ns: OBJECT
+aliases: ["0x985767F5FA45BC44"]
+apiset: client
+---
+## _DOOR_SYSTEM_CHANGE_SCRIPT_OWNER
+
+```c
+// 0x985767F5FA45BC44
+void _DOOR_SYSTEM_CHANGE_SCRIPT_OWNER(Hash doorHash);
+```
+
+
+## Parameters
+* **doorHash**:
+
+
+

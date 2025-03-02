@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x68103E2247887242"]
+apiset: client
+---
+## UGC_RELEASE_ALL_CACHED_DESCRIPTIONS
+
+```c
+// 0x68103E2247887242
+void UGC_RELEASE_ALL_CACHED_DESCRIPTIONS();
+```
+
+
+
+
+

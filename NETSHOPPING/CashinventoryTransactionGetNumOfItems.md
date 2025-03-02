@@ -1,0 +1,17 @@
+---
+ns: NETSHOPPING
+apiset: client
+---
+## _CASHINVENTORY_TRANSACTION_GET_NUM_OF_ITEMS
+
+```c
+// 0xCF2D04D076847478
+int _CASHINVENTORY_TRANSACTION_GET_NUM_OF_ITEMS(int id);
+```
+
+
+## Parameters
+* **id**:
+
+## Return value
+

@@ -1,0 +1,46 @@
+---
+ns: ATTRIBUTE
+apiset: client
+---
+## SET_ATTRIBUTE_BASE_RANK
+
+```c
+// 0x5DA12E025D47D4E5
+void SET_ATTRIBUTE_BASE_RANK(Ped ped,int attributeIndex,int newValue);
+```
+
+attributeIndex:
+enum ePedAttribute
+{
+	PA_HEALTH,
+	PA_STAMINA,
+	PA_SPECIALABILITY,
+	PA_COURAGE,
+	PA_AGILITY,
+	PA_SPEED,
+	PA_ACCELERATION,
+	PA_BONDING,
+	SA_HUNGER,
+	SA_FATIGUED,
+	SA_INEBRIATED,
+	SA_POISONED,
+	SA_BODYHEAT,
+	SA_BODYWEIGHT,
+	SA_OVERFED,
+	SA_SICKNESS,
+	SA_DIRTINESS,
+	SA_DIRTINESSHAT,
+	MTR_STRENGTH,
+	MTR_GRIT,
+	MTR_INSTINCT,
+	PA_UNRULINESS,
+	SA_DIRTINESSSKIN
+};
+
+## Parameters
+* **ped**:
+* **attributeIndex**:
+* **newValue**:
+
+
+

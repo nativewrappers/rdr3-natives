@@ -1,0 +1,19 @@
+---
+ns: INTERACTION
+aliases: ["0x0546B117BB17548B"]
+apiset: client
+---
+## _SET_ALLOW_FIRST_PERSON_MOUSE_CAMERA_MOVEMENT
+
+```c
+// 0x0546B117BB17548B
+void _SET_ALLOW_FIRST_PERSON_MOUSE_CAMERA_MOVEMENT();
+```
+
+Allows camera to be moved if middle mouse button is held while in first person
+Must be called every frame
+_SET*
+
+
+
+

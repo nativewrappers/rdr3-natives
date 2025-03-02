@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_REQUEST_CONTROL_OF_PICKUP_PLACEMENT
+
+```c
+// 0x56ED2C48558DAB78
+BOOL NETWORK_REQUEST_CONTROL_OF_PICKUP_PLACEMENT(Any p0);
+```
+
+
+## Parameters
+* **p0**:
+
+## Return value
+

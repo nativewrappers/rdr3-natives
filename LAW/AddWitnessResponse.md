@@ -1,0 +1,20 @@
+---
+ns: LAW
+aliases: ["0x10827B5A0AAC56A7"]
+apiset: client
+---
+## _ADD_WITNESS_RESPONSE
+
+```c
+// 0x10827B5A0AAC56A7
+void _ADD_WITNESS_RESPONSE(Player player,Hash crimeType,Ped pedGroup);
+```
+
+
+## Parameters
+* **player**:
+* **crimeType**:
+* **pedGroup**:
+
+
+

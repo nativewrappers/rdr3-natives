@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+aliases: ["0xF4601C1203B1A78D"]
+apiset: client
+---
+## _GET_WEAPON_GUN_SPINNING_WEAPON_EMOTE_TRICK_TYPE_HASH
+
+```c
+// 0xF4601C1203B1A78D
+Hash _GET_WEAPON_GUN_SPINNING_WEAPON_EMOTE_TRICK_TYPE_HASH(Hash emote,int weaponEmoteTrickType);
+```
+
+Returns iSpinHash
+
+## Parameters
+* **emote**:
+* **weaponEmoteTrickType**:
+
+## Return value
+

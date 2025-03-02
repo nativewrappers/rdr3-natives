@@ -1,0 +1,21 @@
+---
+ns: INVENTORY
+aliases: ["0xB4158C8C9A3B5DCE"]
+apiset: client
+---
+## _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID
+
+```c
+// 0xB4158C8C9A3B5DCE
+Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID(int inventoryId,Hash item,int quantity,Hash removeReason);
+```
+
+
+## Parameters
+* **inventoryId**:
+* **item**:
+* **quantity**:
+* **removeReason**:
+
+## Return value
+

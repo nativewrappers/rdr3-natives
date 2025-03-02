@@ -1,0 +1,24 @@
+---
+ns: VOLUME
+aliases: ["0x397769175A7DBB30"]
+apiset: client
+---
+## DOES_VOLUME_COLLIDE_WITH_ANY_VOLUME_LOCK
+
+```c
+// 0x397769175A7DBB30
+Any DOES_VOLUME_COLLIDE_WITH_ANY_VOLUME_LOCK(float x,float y,float z,float radius,BOOL p4,int p5,int p6);
+```
+
+
+## Parameters
+* **x**:
+* **y**:
+* **z**:
+* **radius**:
+* **p4**:
+* **p5**:
+* **p6**:
+
+## Return value
+

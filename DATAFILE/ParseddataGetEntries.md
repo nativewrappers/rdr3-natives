@@ -1,0 +1,19 @@
+---
+ns: DATAFILE
+aliases: ["0xED4413CEE1BF142C"]
+apiset: client
+---
+## _PARSEDDATA_GET_ENTRIES
+
+```c
+// 0xED4413CEE1BF142C
+Any _PARSEDDATA_GET_ENTRIES(Any* p0);
+```
+
+Returns false when there are no entries.
+
+## Parameters
+* **p0**:
+
+## Return value
+

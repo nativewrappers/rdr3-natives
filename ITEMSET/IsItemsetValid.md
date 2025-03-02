@@ -1,0 +1,17 @@
+---
+ns: ITEMSET
+apiset: client
+---
+## IS_ITEMSET_VALID
+
+```c
+// 0xD30765D153EF5C76
+BOOL IS_ITEMSET_VALID(ItemSet itemset);
+```
+
+
+## Parameters
+* **itemset**:
+
+## Return value
+

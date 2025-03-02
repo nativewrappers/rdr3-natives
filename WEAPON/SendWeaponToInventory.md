@@ -1,0 +1,21 @@
+---
+ns: WEAPON
+aliases: ["0xE9BD19F8121ADE3E"]
+apiset: client
+---
+## _SEND_WEAPON_TO_INVENTORY
+
+```c
+// 0xE9BD19F8121ADE3E
+void _SEND_WEAPON_TO_INVENTORY(Ped ped,Hash weaponHash);
+```
+
+Appears to just send specified weapon to your horse holster without having to be close
+However, the weapon is not visible on the horse holster, but you can reach the weapon on the weapon wheel
+
+## Parameters
+* **ped**:
+* **weaponHash**:
+
+
+

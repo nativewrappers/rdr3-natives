@@ -1,0 +1,15 @@
+---
+ns: NETSHOPPING
+apiset: client
+---
+## _CASHINVENTORY_INIT_SESSION_IS_FAULTED
+
+```c
+// 0xD1CE92D1D9BE170A
+BOOL _CASHINVENTORY_INIT_SESSION_IS_FAULTED();
+```
+
+
+
+## Return value
+

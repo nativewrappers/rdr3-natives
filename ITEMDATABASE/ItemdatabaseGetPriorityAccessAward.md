@@ -1,0 +1,19 @@
+---
+ns: ITEMDATABASE
+aliases: ["0xEF254F1A4C08B7E6"]
+apiset: client
+---
+## _ITEMDATABASE_GET_PRIORITY_ACCESS_AWARD
+
+```c
+// 0xEF254F1A4C08B7E6
+Any _ITEMDATABASE_GET_PRIORITY_ACCESS_AWARD(Hash award);
+```
+
+_ITEMDATABASE_GET_* - _ITEMDATABASE_IS_*
+
+## Parameters
+* **award**:
+
+## Return value
+

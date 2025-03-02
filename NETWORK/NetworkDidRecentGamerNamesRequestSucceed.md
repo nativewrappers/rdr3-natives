@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x12AEB56B489415C5"]
+apiset: client
+---
+## _NETWORK_DID_RECENT_GAMER_NAMES_REQUEST_SUCCEED
+
+```c
+// 0x12AEB56B489415C5
+Any _NETWORK_DID_RECENT_GAMER_NAMES_REQUEST_SUCCEED();
+```
+
+
+
+## Return value
+

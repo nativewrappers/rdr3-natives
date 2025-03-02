@@ -1,0 +1,17 @@
+---
+ns: CAM
+aliases: ["0x77D65669A05D1A1A"]
+apiset: client
+---
+## DISABLE_FIRST_PERSON_FLASH_EFFECT_THIS_UPDATE
+
+```c
+// 0x77D65669A05D1A1A
+void DISABLE_FIRST_PERSON_FLASH_EFFECT_THIS_UPDATE();
+```
+
+nullsub, doesn't do anything
+
+
+
+

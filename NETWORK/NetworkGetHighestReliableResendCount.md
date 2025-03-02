@@ -1,0 +1,19 @@
+---
+ns: NETWORK
+aliases: ["_NETWORK_GET_OLDEST_RESEND_COUNT_FOR_PLAYER"]
+apiset: client
+---
+## NETWORK_GET_HIGHEST_RELIABLE_RESEND_COUNT
+
+```c
+// 0x52C1EADAF7B10302
+int NETWORK_GET_HIGHEST_RELIABLE_RESEND_COUNT(Player player);
+```
+
+Old name: _NETWORK_GET_OLDEST_RESEND_COUNT_FOR_PLAYER
+
+## Parameters
+* **player**:
+
+## Return value
+

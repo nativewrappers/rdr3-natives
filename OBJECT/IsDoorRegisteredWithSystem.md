@@ -1,0 +1,17 @@
+---
+ns: OBJECT
+apiset: client
+---
+## IS_DOOR_REGISTERED_WITH_SYSTEM
+
+```c
+// 0xC153C43EA202C8C1
+BOOL IS_DOOR_REGISTERED_WITH_SYSTEM(Hash doorHash);
+```
+
+
+## Parameters
+* **doorHash**:
+
+## Return value
+

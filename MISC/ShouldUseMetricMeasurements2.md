@@ -1,0 +1,16 @@
+---
+ns: MISC
+apiset: client
+---
+## _SHOULD_USE_METRIC_MEASUREMENTS_2
+
+```c
+// 0x58BCDC75BA52110A
+BOOL _SHOULD_USE_METRIC_MEASUREMENTS_2();
+```
+
+Same as SHOULD_USE_METRIC_MEASUREMENTS
+
+
+## Return value
+

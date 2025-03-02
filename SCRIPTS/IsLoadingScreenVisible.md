@@ -1,0 +1,17 @@
+---
+ns: SCRIPTS
+aliases: ["_IS_LOADING_SCREEN_ACTIVE"]
+apiset: client
+---
+## IS_LOADING_SCREEN_VISIBLE
+
+```c
+// 0xB54ADBE65D528FCB
+BOOL IS_LOADING_SCREEN_VISIBLE();
+```
+
+Same as GET_IS_LOADING_SCREEN_ACTIVE
+
+
+## Return value
+

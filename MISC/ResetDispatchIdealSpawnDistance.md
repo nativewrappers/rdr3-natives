@@ -1,0 +1,15 @@
+---
+ns: MISC
+apiset: client
+---
+## RESET_DISPATCH_IDEAL_SPAWN_DISTANCE
+
+```c
+// 0xC7817264BC4B6377
+void RESET_DISPATCH_IDEAL_SPAWN_DISTANCE();
+```
+
+
+
+
+

@@ -1,0 +1,22 @@
+---
+ns: TASK
+apiset: client
+---
+## TASK_MOVE_NETWORK_BY_NAME
+
+```c
+// 0x2D537BA194896636
+void TASK_MOVE_NETWORK_BY_NAME(Ped ped,const char* task,float multiplier,BOOL p3,const char* animDict,int flags);
+```
+
+
+## Parameters
+* **ped**:
+* **task**:
+* **multiplier**:
+* **p3**:
+* **animDict**:
+* **flags**:
+
+
+

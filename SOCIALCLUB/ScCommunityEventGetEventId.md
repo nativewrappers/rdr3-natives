@@ -1,0 +1,16 @@
+---
+ns: SOCIALCLUB
+aliases: ["0xD635DF6BAA5A6017"]
+apiset: client
+---
+## SC_COMMUNITY_EVENT_GET_EVENT_ID
+
+```c
+// 0xD635DF6BAA5A6017
+int SC_COMMUNITY_EVENT_GET_EVENT_ID();
+```
+
+
+
+## Return value
+

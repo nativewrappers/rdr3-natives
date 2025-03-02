@@ -1,0 +1,23 @@
+---
+ns: SHAPETEST
+aliases: ["_START_SHAPE_TEST_SURROUNDING_COORDS"]
+apiset: client
+---
+## START_SHAPE_TEST_MOUSE_CURSOR_LOS_PROBE
+
+```c
+// 0x9839013D8B6014F1
+ScrHandle START_SHAPE_TEST_MOUSE_CURSOR_LOS_PROBE(Vector3* pVec1,Vector3* pVec2,int flag,Entity entity,int flag2);
+```
+
+Old name: _START_SHAPE_TEST_SURROUNDING_COORDS
+
+## Parameters
+* **pVec1**:
+* **pVec2**:
+* **flag**:
+* **entity**:
+* **flag2**:
+
+## Return value
+

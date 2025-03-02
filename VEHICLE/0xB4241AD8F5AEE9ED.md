@@ -1,0 +1,17 @@
+---
+ns: VEHICLE
+apiset: client
+---
+## _0xB4241AD8F5AEE9ED
+
+```c
+// 0xB4241AD8F5AEE9ED
+BOOL _0xB4241AD8F5AEE9ED(int trackIndex);
+```
+
+
+## Parameters
+* **trackIndex**:
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: PERSISTENCE
+aliases: ["0x8245C1F3262F4AC2"]
+apiset: client
+---
+## PERSISTENCE_ADD_SCENARIO_LOOTED
+
+```c
+// 0x8245C1F3262F4AC2
+void PERSISTENCE_ADD_SCENARIO_LOOTED(int scenario);
+```
+
+
+## Parameters
+* **scenario**:
+
+
+

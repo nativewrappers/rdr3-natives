@@ -1,0 +1,35 @@
+---
+ns: NETWORK
+aliases: ["0x04019AE4956D4393"]
+apiset: client
+---
+## NETWORK_REQUEST_SESSION_SEAMLESS
+
+```c
+// 0x04019AE4956D4393
+Any NETWORK_REQUEST_SESSION_SEAMLESS(int flags,int seamlessType,Any* sessionRequestId);
+```
+
+flags:
+enum eSessionRequestOptionFlags
+{
+	SESSION_REQUEST_OPTION_FLAG_INCLUDE_GANG_MEMBERS = (1 << 1),
+	SESSION_REQUEST_OPTION_FLAG_LEADER_KEEPS_GANG = (1 << 7),
+};
+
+seamlessType:
+enum eSeamlessType
+{
+	SEAMLESS_TYPE_NORMAL,
+	SEAMLESS_TYPE_PVE,
+	SEAMLESS_TYPE_DEV,
+	SEAMLESS_TYPE_NO_SEAMLESS
+};
+
+## Parameters
+* **flags**:
+* **seamlessType**:
+* **sessionRequestId**:
+
+## Return value
+

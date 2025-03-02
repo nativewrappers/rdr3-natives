@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x277865A734918AE6"]
+apiset: client
+---
+## _NETWORK_AUTO_SESSION_IS_INSTANCED_SESSION
+
+```c
+// 0x277865A734918AE6
+Any _NETWORK_AUTO_SESSION_IS_INSTANCED_SESSION();
+```
+
+
+
+## Return value
+

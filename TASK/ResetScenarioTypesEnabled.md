@@ -1,0 +1,15 @@
+---
+ns: TASK
+apiset: client
+---
+## RESET_SCENARIO_TYPES_ENABLED
+
+```c
+// 0x0D40EE2A7F2B2D6D
+void RESET_SCENARIO_TYPES_ENABLED();
+```
+
+
+
+
+

@@ -1,0 +1,28 @@
+---
+ns: PLAYER
+apiset: client
+---
+## _ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET_AT_COORDS
+
+```c
+// 0xD48227263E3D06AE
+void _ADD_AMBIENT_PLAYER_INTERACTIVE_FOCUS_PRESET_AT_COORDS(Player player,Vector3* p1,const char* preset,float x,float y,float z,Entity targetEntity,const char* name);
+```
+
+Adds an interactive focus mode preset between a player and a specific set of coordinates with a target entity.
+To access all available presets, refer to the file located at:update_1.rpf.common.data.interactive_focus_mode_presets.meta
+
+
+## Parameters
+* **player**:
+* **p1**:
+* **preset**:
+* **x**:
+* **y**:
+* **z**:
+* **targetEntity**:
+* **name**:
+
+
+[object Object]
+

@@ -1,0 +1,16 @@
+---
+ns: PED
+aliases: ["0x4759CC730F947C81"]
+apiset: client
+---
+## INSTANTLY_FILL_PED_POPULATION
+
+```c
+// 0x4759CC730F947C81
+void INSTANTLY_FILL_PED_POPULATION();
+```
+
+
+
+
+

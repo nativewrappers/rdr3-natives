@@ -1,0 +1,19 @@
+---
+ns: GRAPHICS
+aliases: ["0x13430D3D5A45F14B"]
+apiset: client
+---
+## GET_STATUS_OF_CREATE_LOW_QUALITY_COPY_OF_PHOTO
+
+```c
+// 0x13430D3D5A45F14B
+int GET_STATUS_OF_CREATE_LOW_QUALITY_COPY_OF_PHOTO(Any p0);
+```
+
+Old name: _GET_STATUS_OF_DRAW_LOW_QUALITY_PHOTO
+
+## Parameters
+* **p0**:
+
+## Return value
+

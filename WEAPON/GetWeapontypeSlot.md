@@ -1,0 +1,19 @@
+---
+ns: WEAPON
+aliases: ["0x46F032B8DDF46CDE"]
+apiset: client
+---
+## _GET_WEAPONTYPE_SLOT
+
+```c
+// 0x46F032B8DDF46CDE
+Hash _GET_WEAPONTYPE_SLOT(Hash weaponHash);
+```
+
+Returns hash where WEAPON_ is replaced with SLOT_
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

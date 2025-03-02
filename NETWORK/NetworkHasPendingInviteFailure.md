@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xD0498AD30E16B6BD"]
+apiset: client
+---
+## NETWORK_HAS_PENDING_INVITE_FAILURE
+
+```c
+// 0xD0498AD30E16B6BD
+Any NETWORK_HAS_PENDING_INVITE_FAILURE();
+```
+
+
+
+## Return value
+

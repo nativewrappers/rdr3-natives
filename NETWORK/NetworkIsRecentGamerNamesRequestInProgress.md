@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x4664D213A0CCAF40"]
+apiset: client
+---
+## _NETWORK_IS_RECENT_GAMER_NAMES_REQUEST_IN_PROGRESS
+
+```c
+// 0x4664D213A0CCAF40
+Any _NETWORK_IS_RECENT_GAMER_NAMES_REQUEST_IN_PROGRESS();
+```
+
+
+
+## Return value
+

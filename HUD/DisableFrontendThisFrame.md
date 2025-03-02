@@ -1,0 +1,15 @@
+---
+ns: HUD
+apiset: client
+---
+## DISABLE_FRONTEND_THIS_FRAME
+
+```c
+// 0x56CE42A528156A67
+void DISABLE_FRONTEND_THIS_FRAME();
+```
+
+
+
+
+

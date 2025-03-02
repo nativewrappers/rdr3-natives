@@ -1,0 +1,18 @@
+---
+ns: PED
+apiset: client
+---
+## IS_PED_IN_COMBAT
+
+```c
+// 0x4859F1FC66A6278E
+BOOL IS_PED_IN_COMBAT(Ped ped,Ped target);
+```
+
+
+## Parameters
+* **ped**:
+* **target**:
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: NETWORK
+aliases: ["0x3A3D5568AF297CD5"]
+apiset: client
+---
+## CLOUD_DID_REQUEST_SUCCEED
+
+```c
+// 0x3A3D5568AF297CD5
+BOOL CLOUD_DID_REQUEST_SUCCEED(int id);
+```
+
+
+## Parameters
+* **id**:
+
+## Return value
+

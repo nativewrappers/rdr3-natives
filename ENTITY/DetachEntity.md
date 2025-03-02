@@ -1,0 +1,19 @@
+---
+ns: ENTITY
+apiset: client
+---
+## DETACH_ENTITY
+
+```c
+// 0x64CDE9D6BF8ECAD3
+void DETACH_ENTITY(Entity entity,BOOL p1,BOOL collision);
+```
+
+
+## Parameters
+* **entity**:
+* **p1**:
+* **collision**:
+
+
+

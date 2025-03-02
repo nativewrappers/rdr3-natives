@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x2C83212A7AA51D3D"]
+apiset: client
+---
+## SHOULD_WEAPON_BE_DISCARDED_WHEN_SWAPPED
+
+```c
+// 0x2C83212A7AA51D3D
+Any SHOULD_WEAPON_BE_DISCARDED_WHEN_SWAPPED(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

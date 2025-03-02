@@ -1,0 +1,20 @@
+---
+ns: AUDIO
+aliases: ["0x2703EFB583F0949A"]
+apiset: client
+---
+## _SET_VOFX_PED_VOICE
+
+```c
+// 0x2703EFB583F0949A
+void _SET_VOFX_PED_VOICE(Ped ped,Hash voice);
+```
+
+Hashes: VOFX_PLAYER_MALE01, VOFX_PLAYER_MALE02, VOFX_PLAYER_MALE03, VOFX_PLAYER_FEMALE01, VOFX_PLAYER_FEMALE02, VOFX_PLAYER_FEMALE03
+
+## Parameters
+* **ped**:
+* **voice**:
+
+
+

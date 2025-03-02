@@ -1,0 +1,16 @@
+---
+ns: GRAPHICS
+aliases: ["0x98A7CD5EA379A854"]
+apiset: client
+---
+## DISABLE_HDTEX_THIS_FRAME
+
+```c
+// 0x98A7CD5EA379A854
+void DISABLE_HDTEX_THIS_FRAME();
+```
+
+
+
+
+

@@ -1,0 +1,19 @@
+---
+ns: MAP
+apiset: client
+---
+## SET_BLIP_SPRITE
+
+```c
+// 0x74F74D3207ED525C
+void SET_BLIP_SPRITE(Blip blip,Hash hash,BOOL p2);
+```
+
+
+## Parameters
+* **blip**:
+* **hash**:
+* **p2**:
+
+
+

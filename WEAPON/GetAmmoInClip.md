@@ -1,0 +1,19 @@
+---
+ns: WEAPON
+apiset: client
+---
+## GET_AMMO_IN_CLIP
+
+```c
+// 0x2E1202248937775C
+BOOL GET_AMMO_IN_CLIP(Ped ped,int* ammo,Hash weaponHash);
+```
+
+
+## Parameters
+* **ped**:
+* **ammo**:
+* **weaponHash**:
+
+## Return value
+

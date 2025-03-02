@@ -1,0 +1,20 @@
+---
+ns: ATTRIBUTE
+aliases: ["0x3FC4C027FD0936F4"]
+apiset: client
+---
+## _STOP_STATUS_EFFECT_PERIODIC_ICON
+
+```c
+// 0x3FC4C027FD0936F4
+void _STOP_STATUS_EFFECT_PERIODIC_ICON(int statusEffectType);
+```
+
+Stops periodic icon.
+statusEffectType: see 0xA4D3A1C008F250DF
+
+## Parameters
+* **statusEffectType**:
+
+
+

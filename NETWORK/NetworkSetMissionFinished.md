@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_SET_MISSION_FINISHED
+
+```c
+// 0x3B3D11CD9FFCDFC9
+void NETWORK_SET_MISSION_FINISHED();
+```
+
+
+
+
+

@@ -1,0 +1,16 @@
+---
+ns: PED
+aliases: ["0x0EE3F0D7FECCC54F"]
+apiset: client
+---
+## IS_INSTANTLY_FILL_PED_POPULATION_FINISHED
+
+```c
+// 0x0EE3F0D7FECCC54F
+Any IS_INSTANTLY_FILL_PED_POPULATION_FINISHED();
+```
+
+
+
+## Return value
+

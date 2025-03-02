@@ -1,0 +1,21 @@
+---
+ns: PED
+aliases: ["0xBD75500141E4725C"]
+apiset: client
+---
+## _SET_PED_COMBAT_ATTRIBUTE_HASH
+
+```c
+// 0xBD75500141E4725C
+void _SET_PED_COMBAT_ATTRIBUTE_HASH(Ped ped,Hash p1);
+```
+
+Hashes: GUARD, COMBAT_ANIMAL, LAW, LAW_SHERIFF
+_SET_PED_COMBAT_A* - _SET_PED_COMBAT_M*
+
+## Parameters
+* **ped**:
+* **p1**:
+
+
+

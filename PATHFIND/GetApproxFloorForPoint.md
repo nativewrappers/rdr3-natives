@@ -1,0 +1,20 @@
+---
+ns: PATHFIND
+aliases: ["_GET_HEIGHTMAP_BOTTOM_Z_FOR_POSITION"]
+apiset: client
+---
+## GET_APPROX_FLOOR_FOR_POINT
+
+```c
+// 0x336511A34F2E5185
+float GET_APPROX_FLOOR_FOR_POINT(float x,float y);
+```
+
+Returns CGameWorldHeightMap's minimum Z value at specified point (grid node).
+
+## Parameters
+* **x**:
+* **y**:
+
+## Return value
+

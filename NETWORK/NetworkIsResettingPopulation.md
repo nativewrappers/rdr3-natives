@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x1BB50CD340A996E6"]
+apiset: client
+---
+## NETWORK_IS_RESETTING_POPULATION
+
+```c
+// 0x1BB50CD340A996E6
+Any NETWORK_IS_RESETTING_POPULATION();
+```
+
+
+
+## Return value
+

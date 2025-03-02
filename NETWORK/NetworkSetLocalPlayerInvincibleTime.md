@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME
+
+```c
+// 0x2D95C7E2D7E07307
+void NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME(int time);
+```
+
+
+## Parameters
+* **time**:
+
+
+

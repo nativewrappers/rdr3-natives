@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x6D87BA8EF15226CD"]
+apiset: client
+---
+## _NETWORK_AUTO_SESSION_SPLIT_SESSION_SUCCESSFUL
+
+```c
+// 0x6D87BA8EF15226CD
+Any _NETWORK_AUTO_SESSION_SPLIT_SESSION_SUCCESSFUL();
+```
+
+
+
+## Return value
+

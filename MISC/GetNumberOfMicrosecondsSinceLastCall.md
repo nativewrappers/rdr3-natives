@@ -1,0 +1,16 @@
+---
+ns: MISC
+aliases: ["_GET_NUMBER_OF_MICROSECONDS_SINCE_LAST_CALL"]
+apiset: client
+---
+## GET_NUMBER_OF_MICROSECONDS_SINCE_LAST_CALL
+
+```c
+// 0xB0CE5E5ED8BB3581
+int GET_NUMBER_OF_MICROSECONDS_SINCE_LAST_CALL();
+```
+
+
+
+## Return value
+

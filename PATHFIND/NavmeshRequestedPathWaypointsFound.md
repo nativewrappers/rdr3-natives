@@ -1,0 +1,19 @@
+---
+ns: PATHFIND
+aliases: ["0x8800776E410EB669"]
+apiset: client
+---
+## _NAVMESH_REQUESTED_PATH_WAYPOINTS_FOUND
+
+```c
+// 0x8800776E410EB669
+BOOL _NAVMESH_REQUESTED_PATH_WAYPOINTS_FOUND(int path);
+```
+
+Returns true if a path of waypoints was found. Waypoints can be retrieved with _NAVMESH_REQUESTED_PATH_NUM_WAYPOINTS and _NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX
+
+## Parameters
+* **path**:
+
+## Return value
+

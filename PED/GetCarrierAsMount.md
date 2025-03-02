@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0xA033D7E4BBF9844D"]
+apiset: client
+---
+## _GET_CARRIER_AS_MOUNT
+
+```c
+// 0xA033D7E4BBF9844D
+Ped _GET_CARRIER_AS_MOUNT(Entity entity);
+```
+
+
+## Parameters
+* **entity**:
+
+## Return value
+

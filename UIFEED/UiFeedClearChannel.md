@@ -1,0 +1,21 @@
+---
+ns: UIFEED
+aliases: ["0xDD1232B332CBB9E7"]
+apiset: client
+---
+## UI_FEED_CLEAR_CHANNEL
+
+```c
+// 0xDD1232B332CBB9E7
+void UI_FEED_CLEAR_CHANNEL(int feedChannel,BOOL p1,BOOL p2);
+```
+
+feedChannel: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eUIFeedChannel
+
+## Parameters
+* **feedChannel**:
+* **p1**:
+* **p2**:
+
+
+

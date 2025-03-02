@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0x610438375E5D1801","_HAS_METAPED_OUTFIT_LOADED"]
+apiset: client
+---
+## _HAS_META_PED_OUTFIT_LOADED
+
+```c
+// 0x610438375E5D1801
+Any _HAS_META_PED_OUTFIT_LOADED(int requestId);
+```
+
+
+## Parameters
+* **requestId**:
+
+## Return value
+

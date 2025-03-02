@@ -1,0 +1,15 @@
+---
+ns: GRAPHICS
+apiset: client
+---
+## GET_TIMECYCLE_TRANSITION_MODIFIER_INDEX
+
+```c
+// 0x2DA67BA3C8A6755D
+int GET_TIMECYCLE_TRANSITION_MODIFIER_INDEX();
+```
+
+
+
+## Return value
+

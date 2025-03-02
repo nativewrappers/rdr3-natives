@@ -1,0 +1,19 @@
+---
+ns: CAM
+aliases: ["0x05BD5E4088B30A66"]
+apiset: client
+---
+## SET_FIRST_PERSON_AIM_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE
+
+```c
+// 0x05BD5E4088B30A66
+void SET_FIRST_PERSON_AIM_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE(float p0,float p1);
+```
+
+
+## Parameters
+* **p0**:
+* **p1**:
+
+
+

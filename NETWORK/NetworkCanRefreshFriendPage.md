@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x1AF5E28E64A76A9F"]
+apiset: client
+---
+## NETWORK_CAN_REFRESH_FRIEND_PAGE
+
+```c
+// 0x1AF5E28E64A76A9F
+Any NETWORK_CAN_REFRESH_FRIEND_PAGE();
+```
+
+
+
+## Return value
+

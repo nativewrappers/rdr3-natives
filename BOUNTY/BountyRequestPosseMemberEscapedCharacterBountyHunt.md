@@ -1,0 +1,18 @@
+---
+ns: BOUNTY
+aliases: ["0x8521C2E235558278"]
+apiset: client
+---
+## _BOUNTY_REQUEST_POSSE_MEMBER_ESCAPED_CHARACTER_BOUNTY_HUNT
+
+```c
+// 0x8521C2E235558278
+Any _BOUNTY_REQUEST_POSSE_MEMBER_ESCAPED_CHARACTER_BOUNTY_HUNT(Any* outRpcGuid);
+```
+
+
+## Parameters
+* **outRpcGuid**:
+
+## Return value
+

@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_IS_IN_TUTORIAL_SESSION
+
+```c
+// 0xADA24309FE08DACF
+BOOL NETWORK_IS_IN_TUTORIAL_SESSION();
+```
+
+
+
+## Return value
+

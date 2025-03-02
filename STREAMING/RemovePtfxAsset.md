@@ -1,0 +1,15 @@
+---
+ns: STREAMING
+apiset: client
+---
+## REMOVE_PTFX_ASSET
+
+```c
+// 0x042F9049EA419E86
+void REMOVE_PTFX_ASSET();
+```
+
+
+
+
+

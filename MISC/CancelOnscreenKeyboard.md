@@ -1,0 +1,17 @@
+---
+ns: MISC
+aliases: ["_CANCEL_ONSCREEN_KEYBOARD"]
+apiset: client
+---
+## CANCEL_ONSCREEN_KEYBOARD
+
+```c
+// 0x58A39BE597CE99CD
+void CANCEL_ONSCREEN_KEYBOARD();
+```
+
+Old name: _CANCEL_ONSCREEN_KEYBOARD
+
+
+
+

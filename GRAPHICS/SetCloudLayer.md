@@ -1,0 +1,20 @@
+---
+ns: GRAPHICS
+aliases: ["0xB8C984C0D47F4F07"]
+apiset: client
+---
+## _SET_CLOUD_LAYER
+
+```c
+// 0xB8C984C0D47F4F07
+void _SET_CLOUD_LAYER(float x,float y,int p2);
+```
+
+
+## Parameters
+* **x**:
+* **y**:
+* **p2**:
+
+
+

@@ -1,0 +1,15 @@
+---
+ns: STREAMING
+apiset: client
+---
+## IS_PLAYER_SWITCH_IN_PROGRESS
+
+```c
+// 0xED20CB1F5297791D
+BOOL IS_PLAYER_SWITCH_IN_PROGRESS();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: NETWORK
+aliases: ["0x2C5BD9A43987AA27"]
+apiset: client
+---
+## NETWORK_SET_COMPLETED_MP_INTRO_FLOW_ON_CURRENT_SLOT
+
+```c
+// 0x2C5BD9A43987AA27
+Any NETWORK_SET_COMPLETED_MP_INTRO_FLOW_ON_CURRENT_SLOT(BOOL completed);
+```
+
+
+## Parameters
+* **completed**:
+
+## Return value
+

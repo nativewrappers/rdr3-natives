@@ -1,0 +1,20 @@
+---
+ns: TASK
+aliases: ["0x5758B1EE0C3FD4AC"]
+apiset: client
+---
+## _DELETE_PATCH_OBJECTS_FROM_HERB_COMPOSITES
+
+```c
+// 0x5758B1EE0C3FD4AC
+void _DELETE_PATCH_OBJECTS_FROM_HERB_COMPOSITES(int compositeId,BOOL p1);
+```
+
+Params: p1 is always false except in script nb_egg_protector
+
+## Parameters
+* **compositeId**:
+* **p1**:
+
+
+

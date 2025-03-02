@@ -1,0 +1,26 @@
+---
+ns: LAW
+apiset: client
+---
+## _0xEDFC6C1FD1C964F5
+
+```c
+// 0xEDFC6C1FD1C964F5
+void _0xEDFC6C1FD1C964F5(Player player,Hash crimeType,int bounty,float p3,float p4,BOOL p5,float p6,float p7,Any p8);
+```
+
+_SET_C* - _SET_D*
+
+## Parameters
+* **player**:
+* **crimeType**:
+* **bounty**:
+* **p3**:
+* **p4**:
+* **p5**:
+* **p6**:
+* **p7**:
+* **p8**:
+
+
+

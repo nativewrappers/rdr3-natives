@@ -1,0 +1,15 @@
+---
+ns: PLAYER
+apiset: client
+---
+## GET_CAUSE_OF_MOST_RECENT_FORCE_CLEANUP
+
+```c
+// 0x84E8E29EBD4A46D2
+int GET_CAUSE_OF_MOST_RECENT_FORCE_CLEANUP();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: MAP
+aliases: ["0x3FBB838AEA30C1D8"]
+apiset: client
+---
+## _SHOW_ACTIVE_POINTS_OF_INTEREST
+
+```c
+// 0x3FBB838AEA30C1D8
+void _SHOW_ACTIVE_POINTS_OF_INTEREST();
+```
+
+
+
+
+

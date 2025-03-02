@@ -1,0 +1,18 @@
+---
+ns: CAM
+aliases: ["0x1DD95A8D6B24A0C9"]
+apiset: client
+---
+## SET_SCRIPTED_CAMERA_IS_FIRST_PERSON_THIS_FRAME
+
+```c
+// 0x1DD95A8D6B24A0C9
+void SET_SCRIPTED_CAMERA_IS_FIRST_PERSON_THIS_FRAME(BOOL p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x0556E9D2ECF39D01"]
+apiset: client
+---
+## _IS_WEAPON_TWO_HANDED
+
+```c
+// 0x0556E9D2ECF39D01
+Any _IS_WEAPON_TWO_HANDED(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

@@ -1,0 +1,27 @@
+---
+ns: MISC
+aliases: ["0xAB3D3F45436DB1D8"]
+apiset: client
+---
+## _CREATE_INCIDENT_WITH_ENTITIES
+
+```c
+// 0xAB3D3F45436DB1D8
+Any _CREATE_INCIDENT_WITH_ENTITIES(int dispatchService,float x,float y,float z,ItemSet itemSet,float radius,int* outIncidentID);
+```
+
+dispatchService: see ENABLE_DISPATCH_SERVICE
+
+The entities must be added to itemSet.
+
+## Parameters
+* **dispatchService**:
+* **x**:
+* **y**:
+* **z**:
+* **itemSet**:
+* **radius**:
+* **outIncidentID**:
+
+## Return value
+

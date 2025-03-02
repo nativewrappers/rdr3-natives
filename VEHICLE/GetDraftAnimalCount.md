@@ -1,0 +1,20 @@
+---
+ns: VEHICLE
+aliases: ["0xA19447D83294E29F"]
+apiset: client
+---
+## GET_DRAFT_ANIMAL_COUNT
+
+```c
+// 0xA19447D83294E29F
+Any GET_DRAFT_ANIMAL_COUNT(Vehicle vehicle,int* expected,int* actual);
+```
+
+
+## Parameters
+* **vehicle**:
+* **expected**:
+* **actual**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: DLC
+aliases: ["0x1DB9D61E505AE3FC"]
+apiset: client
+---
+## _GET_SPECIAL_EDITION_CASH_CAMP_BONUS_ENABLED
+
+```c
+// 0x1DB9D61E505AE3FC
+Any _GET_SPECIAL_EDITION_CASH_CAMP_BONUS_ENABLED();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: GRAPHICS
+aliases: ["0xC2B8164C3BE871A4"]
+apiset: client
+---
+## _PEDSHOT_FINISH_CLEANUP_DATA
+
+```c
+// 0xC2B8164C3BE871A4
+void _PEDSHOT_FINISH_CLEANUP_DATA();
+```
+
+
+
+
+

@@ -1,0 +1,20 @@
+---
+ns: NETWORK
+aliases: ["0x267C78C60E806B9A"]
+apiset: client
+---
+## NETWORK_ALLOW_REMOTE_ATTACHMENT_MODIFICATION
+
+```c
+// 0x267C78C60E806B9A
+void NETWORK_ALLOW_REMOTE_ATTACHMENT_MODIFICATION(Entity entity,BOOL toggle);
+```
+
+Old name: _NETWORK_ALLOW_LOCAL_ENTITY_ATTACHMENT
+
+## Parameters
+* **entity**:
+* **toggle**:
+
+
+

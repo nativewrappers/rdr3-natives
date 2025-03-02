@@ -1,0 +1,18 @@
+---
+ns: ENTITY
+aliases: ["0x4735E2A4BB83D9DA"]
+apiset: client
+---
+## _GET_PINNED_MAP_ENTITY
+
+```c
+// 0x4735E2A4BB83D9DA
+Entity _GET_PINNED_MAP_ENTITY(Any p0);
+```
+
+
+## Parameters
+* **p0**:
+
+## Return value
+

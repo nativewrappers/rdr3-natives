@@ -1,0 +1,18 @@
+---
+ns: INTERIOR
+apiset: client
+---
+## GET_KEY_FOR_ENTITY_IN_ROOM
+
+```c
+// 0x27D7B6F79E1F4603
+Hash GET_KEY_FOR_ENTITY_IN_ROOM(Entity entity);
+```
+
+Seems to do the exact same as INTERIOR::GET_ROOM_KEY_FROM_ENTITY
+
+## Parameters
+* **entity**:
+
+## Return value
+

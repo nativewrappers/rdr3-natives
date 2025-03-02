@@ -1,0 +1,18 @@
+---
+ns: GRAPHICS
+aliases: ["0x8DCCC98DC0DBF9E4"]
+apiset: client
+---
+## SET_PARTICLE_FX_BULLET_IMPACT_LODRANGE_SCALE
+
+```c
+// 0x8DCCC98DC0DBF9E4
+void SET_PARTICLE_FX_BULLET_IMPACT_LODRANGE_SCALE(float p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

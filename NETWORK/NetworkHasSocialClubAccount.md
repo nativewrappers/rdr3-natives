@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_HAS_SOCIAL_CLUB_ACCOUNT
+
+```c
+// 0x67A5589628E0CFF6
+BOOL NETWORK_HAS_SOCIAL_CLUB_ACCOUNT();
+```
+
+
+
+## Return value
+

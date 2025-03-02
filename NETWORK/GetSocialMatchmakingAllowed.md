@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xD0541EF28E9C4783"]
+apiset: client
+---
+## _GET_SOCIAL_MATCHMAKING_ALLOWED
+
+```c
+// 0xD0541EF28E9C4783
+Any _GET_SOCIAL_MATCHMAKING_ALLOWED();
+```
+
+
+
+## Return value
+

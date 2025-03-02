@@ -1,0 +1,19 @@
+---
+ns: CAM
+aliases: ["_SET_GAMEPLAY_HINT_ANIM_OFFSETY"]
+apiset: client
+---
+## SET_GAMEPLAY_HINT_CAMERA_RELATIVE_VERTICAL_OFFSET
+
+```c
+// 0x29E74F819150CC32
+void SET_GAMEPLAY_HINT_CAMERA_RELATIVE_VERTICAL_OFFSET(float p0);
+```
+
+Old name: _SET_GAMEPLAY_HINT_ANIM_OFFSETY
+
+## Parameters
+* **p0**:
+
+
+

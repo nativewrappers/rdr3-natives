@@ -1,0 +1,16 @@
+---
+ns: MISSIONDATA
+aliases: ["0x7E8F86A4FA33033C"]
+apiset: client
+---
+## _MISSIONDATA_TIMECYCLE_BOX_EXISTS
+
+```c
+// 0x7E8F86A4FA33033C
+Any _MISSIONDATA_TIMECYCLE_BOX_EXISTS();
+```
+
+
+
+## Return value
+

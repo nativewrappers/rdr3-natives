@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x865F36299079FB75"]
+apiset: client
+---
+## _GET_WEAPON_UNLOCK
+
+```c
+// 0x865F36299079FB75
+Hash _GET_WEAPON_UNLOCK(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

@@ -1,0 +1,17 @@
+---
+ns: MISC
+apiset: client
+---
+## DOES_POP_MULTIPLIER_AREA_EXIST
+
+```c
+// 0x03BA619C81A646B3
+BOOL DOES_POP_MULTIPLIER_AREA_EXIST(int id);
+```
+
+
+## Parameters
+* **id**:
+
+## Return value
+

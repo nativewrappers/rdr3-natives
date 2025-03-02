@@ -1,0 +1,17 @@
+---
+ns: NETSHOPPING
+apiset: client
+---
+## _CASHINVENTORY_TRANSACTION_GET_BASKET_IS_VALID
+
+```c
+// 0x52A226ADF4A270D2
+BOOL _CASHINVENTORY_TRANSACTION_GET_BASKET_IS_VALID(int id);
+```
+
+
+## Parameters
+* **id**:
+
+## Return value
+

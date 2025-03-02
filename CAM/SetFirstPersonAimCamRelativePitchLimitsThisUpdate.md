@@ -1,0 +1,20 @@
+---
+ns: CAM
+aliases: ["_SET_FIRST_PERSON_CAM_PITCH_RANGE"]
+apiset: client
+---
+## SET_FIRST_PERSON_AIM_CAM_RELATIVE_PITCH_LIMITS_THIS_UPDATE
+
+```c
+// 0x715B7F5E8BED32A2
+void SET_FIRST_PERSON_AIM_CAM_RELATIVE_PITCH_LIMITS_THIS_UPDATE(float p0,float p1);
+```
+
+Old name: _SET_FIRST_PERSON_CAM_PITCH_RANGE
+
+## Parameters
+* **p0**:
+* **p1**:
+
+
+

@@ -1,0 +1,17 @@
+---
+ns: PED
+apiset: client
+---
+## REQUEST_PED_VISIBILITY_TRACKING
+
+```c
+// 0x7D7A2E43E74E2EB8
+void REQUEST_PED_VISIBILITY_TRACKING(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+
+

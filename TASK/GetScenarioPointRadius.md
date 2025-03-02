@@ -1,0 +1,18 @@
+---
+ns: TASK
+aliases: ["0x6718F40313A2B5A6"]
+apiset: client
+---
+## _GET_SCENARIO_POINT_RADIUS
+
+```c
+// 0x6718F40313A2B5A6
+float _GET_SCENARIO_POINT_RADIUS(int scenario);
+```
+
+
+## Parameters
+* **scenario**:
+
+## Return value
+

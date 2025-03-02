@@ -1,0 +1,20 @@
+---
+ns: ENTITY
+aliases: ["_GET_ENTITY_PROOFS"]
+apiset: client
+---
+## GET_ENTITY_PROOFS
+
+```c
+// 0x6CF0DAD7FA1088EA
+int GET_ENTITY_PROOFS(Entity entity);
+```
+
+Note: this native was removed in 1232 but added back in 1311
+Old name: _GET_ENTITY_PROOFS
+
+## Parameters
+* **entity**:
+
+## Return value
+

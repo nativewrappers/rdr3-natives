@@ -1,0 +1,20 @@
+---
+ns: NETWORK
+aliases: ["_NETWORK_SET_VEHICLE_WHEELS_DESTRUCTIBLE"]
+apiset: client
+---
+## NETWORK_TRIGGER_DAMAGE_EVENT_FOR_ZERO_DAMAGE
+
+```c
+// 0x0C8BC052AE87D744
+void NETWORK_TRIGGER_DAMAGE_EVENT_FOR_ZERO_DAMAGE(Entity entity,BOOL p1);
+```
+
+Old name: _NETWORK_SET_VEHICLE_WHEELS_DESTRUCTIBLE
+
+## Parameters
+* **entity**:
+* **p1**:
+
+
+

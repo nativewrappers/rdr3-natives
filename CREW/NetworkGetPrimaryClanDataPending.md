@@ -1,0 +1,15 @@
+---
+ns: CREW
+apiset: client
+---
+## NETWORK_GET_PRIMARY_CLAN_DATA_PENDING
+
+```c
+// 0xB5074DB804E28CE7
+Any NETWORK_GET_PRIMARY_CLAN_DATA_PENDING();
+```
+
+
+
+## Return value
+

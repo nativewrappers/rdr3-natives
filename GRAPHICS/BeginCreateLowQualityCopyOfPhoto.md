@@ -1,0 +1,19 @@
+---
+ns: GRAPHICS
+aliases: ["0x494A9874F17A7D50"]
+apiset: client
+---
+## BEGIN_CREATE_LOW_QUALITY_COPY_OF_PHOTO
+
+```c
+// 0x494A9874F17A7D50
+BOOL BEGIN_CREATE_LOW_QUALITY_COPY_OF_PHOTO(int p0);
+```
+
+Called together with FREE_MEMORY_FOR_LOW_QUALITY_PHOTO
+
+## Parameters
+* **p0**:
+
+## Return value
+

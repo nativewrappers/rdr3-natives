@@ -1,0 +1,18 @@
+---
+ns: CAM
+aliases: ["0x8459B3E64257B21D"]
+apiset: client
+---
+## SET_GAMEPLAY_CAM_MAX_MOTION_BLUR_STRENGTH_THIS_UPDATE
+
+```c
+// 0x8459B3E64257B21D
+void SET_GAMEPLAY_CAM_MAX_MOTION_BLUR_STRENGTH_THIS_UPDATE(float p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

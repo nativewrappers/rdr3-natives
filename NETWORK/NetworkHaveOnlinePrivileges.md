@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_HAVE_ONLINE_PRIVILEGES
+
+```c
+// 0x25CB5A9F37BFD063
+BOOL NETWORK_HAVE_ONLINE_PRIVILEGES();
+```
+
+
+
+## Return value
+

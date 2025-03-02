@@ -1,0 +1,18 @@
+---
+ns: OBJECT
+aliases: ["0xE2B3B852B537C398"]
+apiset: client
+---
+## ALLOW_DAMAGE_EVENTS_FOR_NON_NETWORKED_OBJECTS
+
+```c
+// 0xE2B3B852B537C398
+void ALLOW_DAMAGE_EVENTS_FOR_NON_NETWORKED_OBJECTS(BOOL enabled);
+```
+
+
+## Parameters
+* **enabled**:
+
+
+

@@ -1,0 +1,18 @@
+---
+ns: ITEMDATABASE
+aliases: ["_ITEM_DATABASE_GET_FITS_SLOT_COUNT"]
+apiset: client
+---
+## _ITEMDATABASE_GET_FITS_SLOT_COUNT
+
+```c
+// 0x2970D1D6BFCF9B46
+int _ITEMDATABASE_GET_FITS_SLOT_COUNT(Hash category);
+```
+
+
+## Parameters
+* **category**:
+
+## Return value
+

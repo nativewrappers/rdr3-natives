@@ -1,0 +1,19 @@
+---
+ns: SOCIALCLUB
+aliases: ["0x9F6DCD0C939C71E9"]
+apiset: client
+---
+## SC_COMMUNITY_EVENT_GET_EXTRA_DATA_STRING
+
+```c
+// 0x9F6DCD0C939C71E9
+Any SC_COMMUNITY_EVENT_GET_EXTRA_DATA_STRING(const char* p0,char* p1);
+```
+
+
+## Parameters
+* **p0**:
+* **p1**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: HUD
+aliases: ["0xF1622CE88A1946FB"]
+apiset: client
+---
+## _UI_PROMPT_DISABLE_PROMPTS_THIS_FRAME
+
+```c
+// 0xF1622CE88A1946FB
+void _UI_PROMPT_DISABLE_PROMPTS_THIS_FRAME();
+```
+
+
+
+
+

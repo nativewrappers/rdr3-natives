@@ -1,0 +1,23 @@
+---
+ns: VEHICLE
+aliases: ["_SET_VEHICLE_DOOR_CAN_BREAK"]
+apiset: client
+---
+## SET_DOOR_ALLOWED_TO_BE_BROKEN_OFF
+
+```c
+// 0x081FB9D6422F804C
+void SET_DOOR_ALLOWED_TO_BE_BROKEN_OFF(Vehicle vehicle,int doorId,BOOL isBreakable);
+```
+
+doorId: see SET_VEHICLE_DOOR_SHUT
+
+Old name: _SET_VEHICLE_DOOR_CAN_BREAK
+
+## Parameters
+* **vehicle**:
+* **doorId**:
+* **isBreakable**:
+
+
+

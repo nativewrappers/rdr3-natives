@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x1F51F367B710A832"]
+apiset: client
+---
+## NETWORK_REFRESH_CURRENT_FRIEND_PAGE
+
+```c
+// 0x1F51F367B710A832
+Any NETWORK_REFRESH_CURRENT_FRIEND_PAGE();
+```
+
+
+
+## Return value
+

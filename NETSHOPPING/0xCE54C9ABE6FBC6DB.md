@@ -1,0 +1,17 @@
+---
+ns: NETSHOPPING
+apiset: client
+---
+## _0xCE54C9ABE6FBC6DB
+
+```c
+// 0xCE54C9ABE6FBC6DB
+BOOL _0xCE54C9ABE6FBC6DB(Hash p0);
+```
+
+
+## Parameters
+* **p0**:
+
+## Return value
+

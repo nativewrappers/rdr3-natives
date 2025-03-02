@@ -1,0 +1,17 @@
+---
+ns: PED
+apiset: client
+---
+## _UPDATE_ANIMAL_DAMAGE_MODIFIER
+
+```c
+// 0x0F9E754EBE8FDBFA
+void _UPDATE_ANIMAL_DAMAGE_MODIFIER(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+
+

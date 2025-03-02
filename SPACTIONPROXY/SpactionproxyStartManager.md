@@ -1,0 +1,15 @@
+---
+ns: SPACTIONPROXY
+apiset: client
+---
+## _SPACTIONPROXY_START_MANAGER
+
+```c
+// 0x1F471B79ACC91BEE
+BOOL _SPACTIONPROXY_START_MANAGER();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,24 @@
+---
+ns: TASK
+aliases: ["_TASK_MOVE_IN_TRAFFIC_4"]
+apiset: client
+---
+## TASK_MOVE_FOLLOW_ROAD_USING_NAVMESH
+
+```c
+// 0x79482C12482A860D
+void TASK_MOVE_FOLLOW_ROAD_USING_NAVMESH(Ped ped,float moveBlendRatio,float x,float y,float z,Any p5);
+```
+
+Params: moveBlendRatio commonly 1.25f, p5 is always 0 in R* Scripts
+
+## Parameters
+* **ped**:
+* **moveBlendRatio**:
+* **x**:
+* **y**:
+* **z**:
+* **p5**:
+
+
+

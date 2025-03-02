@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xF0C0C94B404206FA"]
+apiset: client
+---
+## NETWORK_SESSION_GET_SESSION_TYPE
+
+```c
+// 0xF0C0C94B404206FA
+int NETWORK_SESSION_GET_SESSION_TYPE();
+```
+
+
+
+## Return value
+

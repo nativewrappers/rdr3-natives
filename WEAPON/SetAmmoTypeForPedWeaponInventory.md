@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+aliases: ["0xEBE46B501BC3FBCF"]
+apiset: client
+---
+## _SET_AMMO_TYPE_FOR_PED_WEAPON_INVENTORY
+
+```c
+// 0xEBE46B501BC3FBCF
+void _SET_AMMO_TYPE_FOR_PED_WEAPON_INVENTORY(Ped ped,Any* weaponInventoryUid,Hash ammoHash);
+```
+
+
+## Parameters
+* **ped**:
+* **weaponInventoryUid**:
+* **ammoHash**:
+
+
+

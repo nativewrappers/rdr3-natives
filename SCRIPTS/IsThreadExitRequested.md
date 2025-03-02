@@ -1,0 +1,16 @@
+---
+ns: SCRIPTS
+aliases: ["0x9E4EF615E307FBBE"]
+apiset: client
+---
+## IS_THREAD_EXIT_REQUESTED
+
+```c
+// 0x9E4EF615E307FBBE
+Any IS_THREAD_EXIT_REQUESTED();
+```
+
+
+
+## Return value
+

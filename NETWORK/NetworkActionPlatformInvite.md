@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x3B82ACC3F4B6240C"]
+apiset: client
+---
+## NETWORK_ACTION_PLATFORM_INVITE
+
+```c
+// 0x3B82ACC3F4B6240C
+Any NETWORK_ACTION_PLATFORM_INVITE();
+```
+
+
+
+## Return value
+

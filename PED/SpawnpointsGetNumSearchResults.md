@@ -1,0 +1,16 @@
+---
+ns: PED
+aliases: ["0xA635C11B8C44AFC2"]
+apiset: client
+---
+## SPAWNPOINTS_GET_NUM_SEARCH_RESULTS
+
+```c
+// 0xA635C11B8C44AFC2
+int SPAWNPOINTS_GET_NUM_SEARCH_RESULTS();
+```
+
+
+
+## Return value
+

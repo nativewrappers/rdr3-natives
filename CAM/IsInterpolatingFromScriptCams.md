@@ -1,0 +1,16 @@
+---
+ns: CAM
+aliases: ["0x251241CAEC707106"]
+apiset: client
+---
+## IS_INTERPOLATING_FROM_SCRIPT_CAMS
+
+```c
+// 0x251241CAEC707106
+BOOL IS_INTERPOLATING_FROM_SCRIPT_CAMS();
+```
+
+
+
+## Return value
+

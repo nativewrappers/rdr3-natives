@@ -1,0 +1,16 @@
+---
+ns: CAM
+aliases: ["0x18FC740FFDCD7454"]
+apiset: client
+---
+## _GET_PHOTO_MODE_FOCUS_DISTANCE
+
+```c
+// 0x18FC740FFDCD7454
+float _GET_PHOTO_MODE_FOCUS_DISTANCE();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,31 @@
+---
+ns: TASK
+aliases: ["0xE7FA07624574B79A"]
+apiset: client
+---
+## REACT_LOOK_AT
+
+```c
+// 0xE7FA07624574B79A
+void REACT_LOOK_AT(Ped ped,Ped targetPed,int lookIntensity,int exitAnimation,float duration,int p5,Ped targetPed2,Any p7,Any p8);
+```
+
+lookIntensity: see SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT
+
+exitAnimation: LOOK_RETURN_GENERIC = 1,
+LOOK_RETURN_DISMISSIVE = 2,
+LOOK_RETURN_RELIEVED = 3
+
+## Parameters
+* **ped**:
+* **targetPed**:
+* **lookIntensity**:
+* **exitAnimation**:
+* **duration**:
+* **p5**:
+* **targetPed2**:
+* **p7**:
+* **p8**:
+
+
+

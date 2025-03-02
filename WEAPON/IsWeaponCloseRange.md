@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+apiset: client
+---
+## _IS_WEAPON_CLOSE_RANGE
+
+```c
+// 0xEA522F991E120D45
+Any _IS_WEAPON_CLOSE_RANGE(Hash weaponHash);
+```
+
+_IS_WEAPON_CLOSE_RANGE?
+returns true when it's lassos , melee, thrown weapons (matchetes and unarmed return false)
+all guns ,bows and animal weapons return false
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

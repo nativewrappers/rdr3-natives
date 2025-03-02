@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["_NETWORK_HAS_PLAYER_BEEN_BANNED"]
+apiset: client
+---
+## NETWORK_HAVE_ROS_BANNED_PRIV
+
+```c
+// 0x8020A73847E0CA7D
+BOOL NETWORK_HAVE_ROS_BANNED_PRIV();
+```
+
+
+
+## Return value
+

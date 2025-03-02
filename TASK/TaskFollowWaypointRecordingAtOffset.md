@@ -1,0 +1,23 @@
+---
+ns: TASK
+apiset: client
+---
+## TASK_FOLLOW_WAYPOINT_RECORDING_AT_OFFSET
+
+```c
+// 0xBE9B0520BD7C445B
+void TASK_FOLLOW_WAYPOINT_RECORDING_AT_OFFSET(Ped ped,const char* waypointRecording,float p2,int p3,int p4,int p5,BOOL p6);
+```
+
+
+## Parameters
+* **ped**:
+* **waypointRecording**:
+* **p2**:
+* **p3**:
+* **p4**:
+* **p5**:
+* **p6**:
+
+
+

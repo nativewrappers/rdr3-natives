@@ -1,0 +1,18 @@
+---
+ns: VEHICLE
+aliases: ["0x201B8ED4FF7FE9F5"]
+apiset: client
+---
+## _HIDE_HORSE_REINS
+
+```c
+// 0x201B8ED4FF7FE9F5
+void _HIDE_HORSE_REINS(Vehicle vehicle);
+```
+
+
+## Parameters
+* **vehicle**:
+
+
+

@@ -1,0 +1,18 @@
+---
+ns: ENTITY
+apiset: client
+---
+## GET_ENTITY_ROTATION
+
+```c
+// 0xE09CAF86C32CB48F
+Vector3 GET_ENTITY_ROTATION(Entity entity,int rotationOrder);
+```
+
+
+## Parameters
+* **entity**:
+* **rotationOrder**:
+
+## Return value
+

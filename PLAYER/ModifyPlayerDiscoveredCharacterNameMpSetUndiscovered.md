@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+aliases: ["0xFB0E622B401884D3"]
+apiset: client
+---
+## _MODIFY_PLAYER_DISCOVERED_CHARACTER_NAME_MP_SET_UNDISCOVERED
+
+```c
+// 0xFB0E622B401884D3
+void _MODIFY_PLAYER_DISCOVERED_CHARACTER_NAME_MP_SET_UNDISCOVERED(Hash discoveryHash);
+```
+
+
+## Parameters
+* **discoveryHash**:
+
+
+

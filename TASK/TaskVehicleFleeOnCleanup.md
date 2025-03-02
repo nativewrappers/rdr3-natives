@@ -1,0 +1,27 @@
+---
+ns: TASK
+aliases: ["0x55CD5FDDD4335C1E"]
+apiset: client
+---
+## _TASK_VEHICLE_FLEE_ON_CLEANUP
+
+```c
+// 0x55CD5FDDD4335C1E
+void _TASK_VEHICLE_FLEE_ON_CLEANUP(Vehicle vehicle,float p1,float p2,float p3,float speed,Hash type);
+```
+
+Vehicle Auto Drive (?)
+p1/p2/p3: usually 1f, 1f, 0f or 0f, 0f, 0f
+Speed: usually 8f
+Types: 1148979456 (task with flee), 1148979587 (dismissing the vehicle)
+
+## Parameters
+* **vehicle**:
+* **p1**:
+* **p2**:
+* **p3**:
+* **speed**:
+* **type**:
+
+
+

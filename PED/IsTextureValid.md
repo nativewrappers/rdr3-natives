@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0x31DC8D3F216D8509"]
+apiset: client
+---
+## _IS_TEXTURE_VALID
+
+```c
+// 0x31DC8D3F216D8509
+Any _IS_TEXTURE_VALID(int textureId);
+```
+
+
+## Parameters
+* **textureId**:
+
+## Return value
+

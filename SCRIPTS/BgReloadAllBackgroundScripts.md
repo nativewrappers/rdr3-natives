@@ -1,0 +1,16 @@
+---
+ns: SCRIPTS
+aliases: ["0xBE7D814CFA181B56"]
+apiset: client
+---
+## _BG_RELOAD_ALL_BACKGROUND_SCRIPTS
+
+```c
+// 0xBE7D814CFA181B56
+void _BG_RELOAD_ALL_BACKGROUND_SCRIPTS();
+```
+
+
+
+
+

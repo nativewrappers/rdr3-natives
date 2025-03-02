@@ -1,0 +1,16 @@
+---
+ns: PED
+aliases: ["0x5E420FF293EE5472"]
+apiset: client
+---
+## _ARE_ALL_AMBIENT_PED_RESERVATIONS_READY
+
+```c
+// 0x5E420FF293EE5472
+Any _ARE_ALL_AMBIENT_PED_RESERVATIONS_READY();
+```
+
+
+
+## Return value
+

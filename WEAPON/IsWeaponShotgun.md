@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0xC75386174ECE95D5"]
+apiset: client
+---
+## IS_WEAPON_SHOTGUN
+
+```c
+// 0xC75386174ECE95D5
+Any IS_WEAPON_SHOTGUN(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+apiset: client
+---
+## _SPECIAL_ABILITY_SET_ACTIVATE
+
+```c
+// 0xBBA140062B15A8AC
+void _SPECIAL_ABILITY_SET_ACTIVATE(Player player);
+```
+
+Activates the special ability for the specified player.
+
+## Parameters
+* **player**:
+
+
+

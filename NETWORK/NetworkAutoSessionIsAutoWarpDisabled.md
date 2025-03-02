@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xE258570E0C116A66"]
+apiset: client
+---
+## _NETWORK_AUTO_SESSION_IS_AUTO_WARP_DISABLED
+
+```c
+// 0xE258570E0C116A66
+Any _NETWORK_AUTO_SESSION_IS_AUTO_WARP_DISABLED();
+```
+
+
+
+## Return value
+

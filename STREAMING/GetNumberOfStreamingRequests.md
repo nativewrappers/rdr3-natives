@@ -1,0 +1,15 @@
+---
+ns: STREAMING
+apiset: client
+---
+## GET_NUMBER_OF_STREAMING_REQUESTS
+
+```c
+// 0x30CCCC4D88E654CA
+int GET_NUMBER_OF_STREAMING_REQUESTS();
+```
+
+
+
+## Return value
+

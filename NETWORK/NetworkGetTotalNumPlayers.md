@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_GET_TOTAL_NUM_PLAYERS
+
+```c
+// 0xCF61D4B4702EE9EB
+int NETWORK_GET_TOTAL_NUM_PLAYERS();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,15 @@
+---
+ns: SCRIPTS
+apiset: client
+---
+## TERMINATE_THIS_THREAD
+
+```c
+// 0x5E8B6D17FF91CD59
+void TERMINATE_THIS_THREAD();
+```
+
+
+
+
+

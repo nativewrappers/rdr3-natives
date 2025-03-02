@@ -1,0 +1,19 @@
+---
+ns: WATER
+apiset: client
+---
+## _0x09A1C7DFDCE54FBC
+
+```c
+// 0x09A1C7DFDCE54FBC
+void _0x09A1C7DFDCE54FBC(int p0);
+```
+
+Called together with REMOVE_EXTRA_CALMING_QUAD in rcm_crackpot1 R* Script: p0 = 0
+_REMOVE_*
+
+## Parameters
+* **p0**:
+
+
+

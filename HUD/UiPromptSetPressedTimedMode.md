@@ -1,0 +1,19 @@
+---
+ns: HUD
+aliases: ["_PROMPT_SET_PRESSED_TIMED_MODE"]
+apiset: client
+---
+## _UI_PROMPT_SET_PRESSED_TIMED_MODE
+
+```c
+// 0x1473D3AF51D54276
+void _UI_PROMPT_SET_PRESSED_TIMED_MODE(Prompt prompt,int depletionTimeMs);
+```
+
+
+## Parameters
+* **prompt**:
+* **depletionTimeMs**:
+
+
+

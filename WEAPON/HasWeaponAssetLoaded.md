@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0xFF07CF465F48B830"]
+apiset: client
+---
+## _HAS_WEAPON_ASSET_LOADED
+
+```c
+// 0xFF07CF465F48B830
+Any _HAS_WEAPON_ASSET_LOADED(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

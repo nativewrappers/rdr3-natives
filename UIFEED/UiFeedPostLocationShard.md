@@ -1,0 +1,22 @@
+---
+ns: UIFEED
+aliases: ["0xD05590C1AB38F068"]
+apiset: client
+---
+## _UI_FEED_POST_LOCATION_SHARD
+
+```c
+// 0xD05590C1AB38F068
+int _UI_FEED_POST_LOCATION_SHARD(Any* duration,Any* data,BOOL p2,BOOL p3);
+```
+
+Example : https://pastebin.com/h1YzycuR
+
+## Parameters
+* **duration**:
+* **data**:
+* **p2**:
+* **p3**:
+
+## Return value
+

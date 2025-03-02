@@ -1,0 +1,29 @@
+---
+ns: OBJECT
+apiset: client
+---
+## CREATE_PICKUP
+
+```c
+// 0xFBA08C503DD5FA58
+Pickup CREATE_PICKUP(Hash pickupHash,float x,float y,float z,int flags,int p5,BOOL p6,Hash modelHash,int p8,float p9,Any p10);
+```
+
+https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/Placement%20Flags
+https://github.com/femga/rdr3_discoveries/blob/master/objects/pickup_list.lua
+
+## Parameters
+* **pickupHash**:
+* **x**:
+* **y**:
+* **z**:
+* **flags**:
+* **p5**:
+* **p6**:
+* **modelHash**:
+* **p8**:
+* **p9**:
+* **p10**:
+
+## Return value
+

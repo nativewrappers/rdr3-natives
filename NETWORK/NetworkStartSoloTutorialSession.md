@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_START_SOLO_TUTORIAL_SESSION
+
+```c
+// 0x17E0198B3882C2CB
+void NETWORK_START_SOLO_TUTORIAL_SESSION();
+```
+
+
+
+
+

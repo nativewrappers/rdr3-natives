@@ -1,0 +1,17 @@
+---
+ns: SCRIPTS
+apiset: client
+---
+## SET_SCRIPT_WITH_NAME_HASH_AS_NO_LONGER_NEEDED
+
+```c
+// 0x50723A1567C8361E
+void SET_SCRIPT_WITH_NAME_HASH_AS_NO_LONGER_NEEDED(Hash scriptHash);
+```
+
+
+## Parameters
+* **scriptHash**:
+
+
+

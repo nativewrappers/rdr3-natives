@@ -1,0 +1,15 @@
+---
+ns: CREW
+apiset: client
+---
+## NETWORK_CLAN_GET_LOCAL_MEMBERSHIPS_COUNT
+
+```c
+// 0x1F471B79ACC90BEF
+int NETWORK_CLAN_GET_LOCAL_MEMBERSHIPS_COUNT();
+```
+
+
+
+## Return value
+

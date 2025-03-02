@@ -1,0 +1,18 @@
+---
+ns: MISC
+aliases: ["0x5CB71EAA1429A358"]
+apiset: client
+---
+## NEXT_ONSCREEN_KEYBOARD_RESULT_WILL_DISPLAY_USING_THESE_FONTS
+
+```c
+// 0x5CB71EAA1429A358
+void NEXT_ONSCREEN_KEYBOARD_RESULT_WILL_DISPLAY_USING_THESE_FONTS(int fontBitField);
+```
+
+
+## Parameters
+* **fontBitField**:
+
+
+

@@ -1,0 +1,19 @@
+---
+ns: WEAPON
+apiset: client
+---
+## _SET_ACTIVE_GUN_SPINNING_EQUIP_KIT_EMOTE_TWIRL
+
+```c
+// 0xCBCFFF805F1B4596
+void _SET_ACTIVE_GUN_SPINNING_EQUIP_KIT_EMOTE_TWIRL(Ped ped,Hash emote);
+```
+
+emote hashes: KIT_EMOTE_TWIRL_GUN, KIT_EMOTE_TWIRL_GUN_LEFT_HOLSTER, KIT_EMOTE_TWIRL_GUN_DUAL, 0 (to unequip)
+
+## Parameters
+* **ped**:
+* **emote**:
+
+
+

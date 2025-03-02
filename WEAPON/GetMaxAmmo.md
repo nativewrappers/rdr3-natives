@@ -1,0 +1,19 @@
+---
+ns: WEAPON
+apiset: client
+---
+## GET_MAX_AMMO
+
+```c
+// 0xDC16122C7A20C933
+BOOL GET_MAX_AMMO(Ped ped,int* ammo,Hash weaponHash);
+```
+
+
+## Parameters
+* **ped**:
+* **ammo**:
+* **weaponHash**:
+
+## Return value
+

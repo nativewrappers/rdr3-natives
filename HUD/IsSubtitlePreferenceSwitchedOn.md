@@ -1,0 +1,15 @@
+---
+ns: HUD
+apiset: client
+---
+## IS_SUBTITLE_PREFERENCE_SWITCHED_ON
+
+```c
+// 0x7C4AC9573587F2DF
+BOOL IS_SUBTITLE_PREFERENCE_SWITCHED_ON();
+```
+
+
+
+## Return value
+

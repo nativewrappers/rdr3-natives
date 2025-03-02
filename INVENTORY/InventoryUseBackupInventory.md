@@ -1,0 +1,18 @@
+---
+ns: INVENTORY
+apiset: client
+---
+## _INVENTORY_USE_BACKUP_INVENTORY
+
+```c
+// 0xE36D4A38D28D9CFB
+void _INVENTORY_USE_BACKUP_INVENTORY(BOOL p0);
+```
+
+Only used in R* SP Scripts
+
+## Parameters
+* **p0**:
+
+
+

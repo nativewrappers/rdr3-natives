@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_SET_LOCAL_PLAYER_SYNC_LOOK_AT
+
+```c
+// 0x524FF0AEFF9C3973
+void NETWORK_SET_LOCAL_PLAYER_SYNC_LOOK_AT(BOOL toggle);
+```
+
+
+## Parameters
+* **toggle**:
+
+
+

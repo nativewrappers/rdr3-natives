@@ -1,0 +1,16 @@
+---
+ns: GRAPHICS
+aliases: ["0x614682E715ADBAAC"]
+apiset: client
+---
+## FREE_MEMORY_FOR_LOW_QUALITY_PHOTO
+
+```c
+// 0x614682E715ADBAAC
+void FREE_MEMORY_FOR_LOW_QUALITY_PHOTO();
+```
+
+
+
+
+

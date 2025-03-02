@@ -1,0 +1,31 @@
+---
+ns: TASK
+apiset: client
+---
+## TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD
+
+```c
+// 0xA55547801EB331FC
+void TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD(Ped ped,float goToLocationX,float goToLocationY,float goToLocationZ,float focusLocationX,float focusLocationY,float focusLocationZ,float speed,BOOL shootAtEnemies,float distanceToStopAt,float noRoadsDistance,BOOL unkTrue,int unkFlag,int aimingFlag,Hash firingPattern);
+```
+
+
+## Parameters
+* **ped**:
+* **goToLocationX**:
+* **goToLocationY**:
+* **goToLocationZ**:
+* **focusLocationX**:
+* **focusLocationY**:
+* **focusLocationZ**:
+* **speed**:
+* **shootAtEnemies**:
+* **distanceToStopAt**:
+* **noRoadsDistance**:
+* **unkTrue**:
+* **unkFlag**:
+* **aimingFlag**:
+* **firingPattern**:
+
+
+

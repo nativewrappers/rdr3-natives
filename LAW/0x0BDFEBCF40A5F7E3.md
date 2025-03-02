@@ -1,0 +1,18 @@
+---
+ns: LAW
+apiset: client
+---
+## _0x0BDFEBCF40A5F7E3
+
+```c
+// 0x0BDFEBCF40A5F7E3
+int _0x0BDFEBCF40A5F7E3(Hash crimeType);
+```
+
+Only used in net_fetch R* Script
+
+## Parameters
+* **crimeType**:
+
+## Return value
+

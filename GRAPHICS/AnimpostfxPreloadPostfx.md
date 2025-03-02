@@ -1,0 +1,18 @@
+---
+ns: GRAPHICS
+aliases: ["0x5199405EABFBD7F0"]
+apiset: client
+---
+## _ANIMPOSTFX_PRELOAD_POSTFX
+
+```c
+// 0x5199405EABFBD7F0
+void _ANIMPOSTFX_PRELOAD_POSTFX(const char* effectName);
+```
+
+
+## Parameters
+* **effectName**:
+
+
+

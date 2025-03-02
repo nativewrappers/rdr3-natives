@@ -1,0 +1,16 @@
+---
+ns: MISSIONDATA
+aliases: ["0x7F89E15A8FB8DE97"]
+apiset: client
+---
+## _MISSIONDATA_TIMECYCLE_BOX_DELETE
+
+```c
+// 0x7F89E15A8FB8DE97
+void _MISSIONDATA_TIMECYCLE_BOX_DELETE();
+```
+
+
+
+
+

@@ -1,0 +1,25 @@
+---
+ns: PED
+aliases: ["0xAAB050DA48B57978"]
+apiset: client
+---
+## _PED_EMOTIONAL_PRESET_LOCO_MOTION
+
+```c
+// 0xAAB050DA48B57978
+void _PED_EMOTIONAL_PRESET_LOCO_MOTION(Ped ped,const char* presetName,Ped targetPed,int duration,int flag);
+```
+
+target: 0 affects everyone
+duration: -1 indefinite
+flag: always 4 in R* Scripts
+
+## Parameters
+* **ped**:
+* **presetName**:
+* **targetPed**:
+* **duration**:
+* **flag**:
+
+
+

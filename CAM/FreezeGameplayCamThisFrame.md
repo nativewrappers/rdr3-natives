@@ -1,0 +1,16 @@
+---
+ns: CAM
+aliases: ["0x027CAB2C3AF27010"]
+apiset: client
+---
+## _FREEZE_GAMEPLAY_CAM_THIS_FRAME
+
+```c
+// 0x027CAB2C3AF27010
+void _FREEZE_GAMEPLAY_CAM_THIS_FRAME();
+```
+
+
+
+
+

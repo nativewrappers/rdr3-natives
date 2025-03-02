@@ -1,0 +1,16 @@
+---
+ns: UISTICKYFEED
+aliases: ["0xF8806EC3FF840FDC"]
+apiset: client
+---
+## _UI_STICKY_FEED_IS_ALERT_SCREEN_ACTIVE
+
+```c
+// 0xF8806EC3FF840FDC
+Any _UI_STICKY_FEED_IS_ALERT_SCREEN_ACTIVE();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: GRAPHICS
+apiset: client
+---
+## START_PETROL_TRAIL_DECALS
+
+```c
+// 0x46F246D6504F0031
+void START_PETROL_TRAIL_DECALS(Any p0,Any p1);
+```
+
+
+## Parameters
+* **p0**:
+* **p1**:
+
+
+

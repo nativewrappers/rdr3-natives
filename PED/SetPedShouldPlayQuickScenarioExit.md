@@ -1,0 +1,24 @@
+---
+ns: PED
+aliases: ["0x463803429297117C"]
+apiset: client
+---
+## SET_PED_SHOULD_PLAY_QUICK_SCENARIO_EXIT
+
+```c
+// 0x463803429297117C
+Any SET_PED_SHOULD_PLAY_QUICK_SCENARIO_EXIT(Ped ped,float x,float y,float z,int lookIntensity,BOOL p5);
+```
+
+lookIntensity: see SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT
+
+## Parameters
+* **ped**:
+* **x**:
+* **y**:
+* **z**:
+* **lookIntensity**:
+* **p5**:
+
+## Return value
+

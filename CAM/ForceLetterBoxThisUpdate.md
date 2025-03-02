@@ -1,0 +1,16 @@
+---
+ns: CAM
+aliases: ["0xC64ABC0676AF262B"]
+apiset: client
+---
+## _FORCE_LETTER_BOX_THIS_UPDATE
+
+```c
+// 0xC64ABC0676AF262B
+void _FORCE_LETTER_BOX_THIS_UPDATE();
+```
+
+
+
+
+

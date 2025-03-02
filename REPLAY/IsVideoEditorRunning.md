@@ -1,0 +1,17 @@
+---
+ns: REPLAY
+aliases: ["0x9EEB007317FA3B9C"]
+apiset: client
+---
+## IS_VIDEO_EDITOR_RUNNING
+
+```c
+// 0x9EEB007317FA3B9C
+Any IS_VIDEO_EDITOR_RUNNING();
+```
+
+Hardcoded to return false.
+
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x51F33DBC1A41CBFD"]
+apiset: client
+---
+## NETWORK_SESSION_GET_SESSION_FLAGS
+
+```c
+// 0x51F33DBC1A41CBFD
+int NETWORK_SESSION_GET_SESSION_FLAGS();
+```
+
+
+
+## Return value
+

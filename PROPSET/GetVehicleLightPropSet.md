@@ -1,0 +1,19 @@
+---
+ns: PROPSET
+aliases: ["0xA079300AF757FB1A"]
+apiset: client
+---
+## _GET_VEHICLE_LIGHT_PROP_SET
+
+```c
+// 0xA079300AF757FB1A
+PropSet _GET_VEHICLE_LIGHT_PROP_SET(Vehicle vehicle);
+```
+
+Returns PropSet handle to be used with _GET_PROP_SET_MODEL
+
+## Parameters
+* **vehicle**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xF9B83B77929D8863"]
+apiset: client
+---
+## NETWORK_DID_FIND_GAMERS_SUCCEED
+
+```c
+// 0xF9B83B77929D8863
+Any NETWORK_DID_FIND_GAMERS_SUCCEED();
+```
+
+
+
+## Return value
+

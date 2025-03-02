@@ -1,0 +1,19 @@
+---
+ns: PED
+aliases: ["0xCC2B20596E29E4E3"]
+apiset: client
+---
+## _GET_PED_COMBAT_ATTRIBUTE
+
+```c
+// 0xCC2B20596E29E4E3
+Any _GET_PED_COMBAT_ATTRIBUTE(Ped ped,int attributeIndex);
+```
+
+
+## Parameters
+* **ped**:
+* **attributeIndex**:
+
+## Return value
+

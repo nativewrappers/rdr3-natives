@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xAADED99A6B268A27"]
+apiset: client
+---
+## NETWORK_AUTO_SESSION_IS_ALLOWED_TO_MERGE
+
+```c
+// 0xAADED99A6B268A27
+Any NETWORK_AUTO_SESSION_IS_ALLOWED_TO_MERGE();
+```
+
+
+
+## Return value
+

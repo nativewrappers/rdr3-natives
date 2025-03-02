@@ -1,0 +1,15 @@
+---
+ns: CLOCK
+apiset: client
+---
+## GET_MILLISECONDS_PER_GAME_MINUTE
+
+```c
+// 0xE4CB8D126501EC52
+int GET_MILLISECONDS_PER_GAME_MINUTE();
+```
+
+
+
+## Return value
+

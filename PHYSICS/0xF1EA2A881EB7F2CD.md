@@ -1,0 +1,18 @@
+---
+ns: PHYSICS
+apiset: client
+---
+## _0xF1EA2A881EB7F2CD
+
+```c
+// 0xF1EA2A881EB7F2CD
+void _0xF1EA2A881EB7F2CD(int ropeId,BOOL p1);
+```
+
+
+## Parameters
+* **ropeId**:
+* **p1**:
+
+
+

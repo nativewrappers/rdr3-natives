@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x0A82317B7EBFC420"]
+apiset: client
+---
+## IS_WEAPON_RIFLE
+
+```c
+// 0x0A82317B7EBFC420
+Any IS_WEAPON_RIFLE(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

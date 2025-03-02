@@ -1,0 +1,16 @@
+---
+ns: VEHICLE
+aliases: ["0x138398153824E332"]
+apiset: client
+---
+## _SET_ALL_JUNCTIONS_CLEARED
+
+```c
+// 0x138398153824E332
+void _SET_ALL_JUNCTIONS_CLEARED();
+```
+
+
+
+
+

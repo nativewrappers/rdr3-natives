@@ -1,0 +1,17 @@
+---
+ns: PATHFIND
+apiset: client
+---
+## SIMULATED_ROUTE_IS_LOADED
+
+```c
+// 0x240915043CB799D7
+Any SIMULATED_ROUTE_IS_LOADED(Any p0);
+```
+
+
+## Parameters
+* **p0**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0xF2CBC969C4F090C7"]
+apiset: client
+---
+## NETWORK_SESSION_IS_TRANSITIONING
+
+```c
+// 0xF2CBC969C4F090C7
+Any NETWORK_SESSION_IS_TRANSITIONING();
+```
+
+
+
+## Return value
+

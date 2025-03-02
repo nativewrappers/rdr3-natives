@@ -1,0 +1,19 @@
+---
+ns: AITRANSPORT
+aliases: ["0x2E2E06023D07631E"]
+apiset: client
+---
+## _IS_TRANSPORT_SEAT_OCCUPIED
+
+```c
+// 0x2E2E06023D07631E
+Any _IS_TRANSPORT_SEAT_OCCUPIED(Entity transportEntity,int seatIndex);
+```
+
+
+## Parameters
+* **transportEntity**:
+* **seatIndex**:
+
+## Return value
+

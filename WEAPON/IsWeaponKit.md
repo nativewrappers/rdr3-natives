@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+aliases: ["0x6ABAD7B0A854F8FB"]
+apiset: client
+---
+## _IS_WEAPON_KIT
+
+```c
+// 0x6ABAD7B0A854F8FB
+Any _IS_WEAPON_KIT(Hash weaponHash);
+```
+
+Returns true when the weapon passed is either a lasso, the camera or the binoculars
+_IS_WEAPON_M* - _IS_WEAPON_P*
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x5D10B3795F3FC886"]
+apiset: client
+---
+## NETWORK_HAS_RECEIVED_HOST_BROADCAST_DATA
+
+```c
+// 0x5D10B3795F3FC886
+BOOL NETWORK_HAS_RECEIVED_HOST_BROADCAST_DATA();
+```
+
+
+
+## Return value
+

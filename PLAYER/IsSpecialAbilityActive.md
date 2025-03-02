@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+aliases: ["0xB16223CB7DA965F0"]
+apiset: client
+---
+## _IS_SPECIAL_ABILITY_ACTIVE
+
+```c
+// 0xB16223CB7DA965F0
+Any _IS_SPECIAL_ABILITY_ACTIVE(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+## Return value
+

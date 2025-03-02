@@ -1,0 +1,15 @@
+---
+ns: GOOGLE_ANALYTICS
+apiset: client
+---
+## _GOOGLE_ANALYTICS_END_EVENT
+
+```c
+// 0x87BBCC4360A9BDE3
+BOOL _GOOGLE_ANALYTICS_END_EVENT();
+```
+
+
+
+## Return value
+

@@ -1,0 +1,17 @@
+---
+ns: INTERIOR
+apiset: client
+---
+## IS_VALID_INTERIOR
+
+```c
+// 0x017C1B3159F79F6C
+BOOL IS_VALID_INTERIOR(Interior interior);
+```
+
+
+## Parameters
+* **interior**:
+
+## Return value
+

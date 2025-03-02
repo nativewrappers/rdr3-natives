@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0xC853230E76A152DF"]
+apiset: client
+---
+## _IS_WEAPON_BINOCULARS
+
+```c
+// 0xC853230E76A152DF
+Any _IS_WEAPON_BINOCULARS(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

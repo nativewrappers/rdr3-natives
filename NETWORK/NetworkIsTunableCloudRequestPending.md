@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_IS_TUNABLE_CLOUD_REQUEST_PENDING
+
+```c
+// 0x0467C11ED88B7D28
+BOOL NETWORK_IS_TUNABLE_CLOUD_REQUEST_PENDING();
+```
+
+
+
+## Return value
+

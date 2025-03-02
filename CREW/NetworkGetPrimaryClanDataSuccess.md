@@ -1,0 +1,15 @@
+---
+ns: CREW
+apiset: client
+---
+## NETWORK_GET_PRIMARY_CLAN_DATA_SUCCESS
+
+```c
+// 0x5B4F04F19376A0BA
+Any NETWORK_GET_PRIMARY_CLAN_DATA_SUCCESS();
+```
+
+
+
+## Return value
+

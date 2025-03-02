@@ -1,0 +1,16 @@
+---
+ns: MISC
+aliases: ["0xF9E7DBB39080640B"]
+apiset: client
+---
+## IS_GAME_SESSION_STATE_MACHINE_IDLE
+
+```c
+// 0xF9E7DBB39080640B
+Any IS_GAME_SESSION_STATE_MACHINE_IDLE();
+```
+
+
+
+## Return value
+

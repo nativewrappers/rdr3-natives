@@ -1,0 +1,21 @@
+---
+ns: PAD
+aliases: ["_IS_INPUT_DISABLED"]
+apiset: client
+---
+## IS_USING_KEYBOARD_AND_MOUSE
+
+```c
+// 0xA571D46727E2B718
+BOOL IS_USING_KEYBOARD_AND_MOUSE(int control);
+```
+
+padIndex is not used
+
+Old name: _IS_USING_KEYBOARD
+
+## Parameters
+* **control**:
+
+## Return value
+

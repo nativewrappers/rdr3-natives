@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+apiset: client
+---
+## _EAGLE_EYE_SET_RANGE
+
+```c
+// 0x22C8B10802301381
+void _EAGLE_EYE_SET_RANGE(Player player,float range);
+```
+
+
+## Parameters
+* **player**:
+* **range**:
+
+
+

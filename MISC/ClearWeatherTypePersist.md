@@ -1,0 +1,15 @@
+---
+ns: MISC
+apiset: client
+---
+## CLEAR_WEATHER_TYPE_PERSIST
+
+```c
+// 0xD85DFE5C131E4AE9
+void CLEAR_WEATHER_TYPE_PERSIST();
+```
+
+
+
+
+

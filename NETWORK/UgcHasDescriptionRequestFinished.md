@@ -1,0 +1,18 @@
+---
+ns: NETWORK
+aliases: ["0xEBFA8D50ADDC54C4"]
+apiset: client
+---
+## UGC_HAS_DESCRIPTION_REQUEST_FINISHED
+
+```c
+// 0xEBFA8D50ADDC54C4
+BOOL UGC_HAS_DESCRIPTION_REQUEST_FINISHED(Hash description);
+```
+
+
+## Parameters
+* **description**:
+
+## Return value
+

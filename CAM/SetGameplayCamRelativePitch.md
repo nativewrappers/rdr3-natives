@@ -1,0 +1,23 @@
+---
+ns: CAM
+apiset: client
+---
+## SET_GAMEPLAY_CAM_RELATIVE_PITCH
+
+```c
+// 0xFB760AF4F537B8BF
+void SET_GAMEPLAY_CAM_RELATIVE_PITCH(float x,float Value2);
+```
+
+Sets the camera pitch.
+
+Parameters:
+x = pitches the camera on the x axis.
+Value2 = always seems to be hex 0x3F800000 (1.000000 float).
+
+## Parameters
+* **x**:
+* **Value2**:
+
+
+

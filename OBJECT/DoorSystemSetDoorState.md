@@ -1,0 +1,28 @@
+---
+ns: OBJECT
+apiset: client
+---
+## DOOR_SYSTEM_SET_DOOR_STATE
+
+```c
+// 0x6BAB9442830C7F53
+void DOOR_SYSTEM_SET_DOOR_STATE(Hash doorHash,int state);
+```
+
+Door lock states:
+enum eDoorState
+{
+	DOORSTATE_INVALID = -1,
+	DOORSTATE_UNLOCKED,
+	DOORSTATE_LOCKED_UNBREAKABLE,
+	DOORSTATE_LOCKED_BREAKABLE,
+	DOORSTATE_HOLD_OPEN_POSITIVE,
+	DOORSTATE_HOLD_OPEN_NEGATIVE
+};
+
+## Parameters
+* **doorHash**:
+* **state**:
+
+
+

@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+aliases: ["0x45AB66D02B601FA7"]
+apiset: client
+---
+## _IS_SECONDARY_SPECIAL_ABILITY_ACTIVE
+
+```c
+// 0x45AB66D02B601FA7
+Any _IS_SECONDARY_SPECIAL_ABILITY_ACTIVE(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+## Return value
+

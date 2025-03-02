@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0x825F6DD559A0895B"]
+apiset: client
+---
+## _GET_STAMINA_DEPLETION_MULTIPLIER
+
+```c
+// 0x825F6DD559A0895B
+float _GET_STAMINA_DEPLETION_MULTIPLIER(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: HUD
+aliases: ["_PROMPT_SET_FAVOURED_PED_FOR_CONFLICT_RESOLUTION"]
+apiset: client
+---
+## _UI_PROMPT_SET_PROMPT_PRIORITY_PREFERENCE
+
+```c
+// 0x530A428705BE5DEF
+void _UI_PROMPT_SET_PROMPT_PRIORITY_PREFERENCE(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+
+

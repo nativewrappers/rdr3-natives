@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_GET_TUNABLE_CLOUD_CRC
+
+```c
+// 0x10BD227A753B0D84
+int NETWORK_GET_TUNABLE_CLOUD_CRC();
+```
+
+
+
+## Return value
+

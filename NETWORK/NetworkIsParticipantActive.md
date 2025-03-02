@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_IS_PARTICIPANT_ACTIVE
+
+```c
+// 0x6FF8FF40B6357D45
+BOOL NETWORK_IS_PARTICIPANT_ACTIVE(int p0);
+```
+
+
+## Parameters
+* **p0**:
+
+## Return value
+

@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0xD955FEE4B87AFA07"]
+apiset: client
+---
+## _IS_WEAPON_ONE_HANDED
+
+```c
+// 0xD955FEE4B87AFA07
+Any _IS_WEAPON_ONE_HANDED(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

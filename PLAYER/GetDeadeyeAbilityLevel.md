@@ -1,0 +1,18 @@
+---
+ns: PLAYER
+aliases: ["0xCCE7C695C164C35F"]
+apiset: client
+---
+## _GET_DEADEYE_ABILITY_LEVEL
+
+```c
+// 0xCCE7C695C164C35F
+int _GET_DEADEYE_ABILITY_LEVEL(Player player);
+```
+
+
+## Parameters
+* **player**:
+
+## Return value
+

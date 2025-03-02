@@ -1,0 +1,16 @@
+---
+ns: LAW
+aliases: ["0x956510F8C36B5C64"]
+apiset: client
+---
+## _FORCE_LAW_ON_LOCAL_PLAYER_IMMEDIATELY
+
+```c
+// 0x956510F8C36B5C64
+void _FORCE_LAW_ON_LOCAL_PLAYER_IMMEDIATELY();
+```
+
+
+
+
+

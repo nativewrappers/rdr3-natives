@@ -1,0 +1,18 @@
+---
+ns: TASK
+apiset: client
+---
+## SET_ENABLE_SPEED_RESTRAIN_FOR_WAYPOINT_RECORDING_LEADER
+
+```c
+// 0x295F03DC97BEEBC1
+void SET_ENABLE_SPEED_RESTRAIN_FOR_WAYPOINT_RECORDING_LEADER(Any p0,Any p1);
+```
+
+
+## Parameters
+* **p0**:
+* **p1**:
+
+
+

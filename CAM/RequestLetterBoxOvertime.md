@@ -1,0 +1,23 @@
+---
+ns: CAM
+aliases: ["0xE296208C273BD7F0"]
+apiset: client
+---
+## _REQUEST_LETTER_BOX_OVERTIME
+
+```c
+// 0xE296208C273BD7F0
+void _REQUEST_LETTER_BOX_OVERTIME(int p0,int p1,BOOL p2,int p3,BOOL p4,BOOL p5);
+```
+
+
+## Parameters
+* **p0**:
+* **p1**:
+* **p2**:
+* **p3**:
+* **p4**:
+* **p5**:
+
+
+

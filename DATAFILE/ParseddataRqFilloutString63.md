@@ -1,0 +1,20 @@
+---
+ns: DATAFILE
+aliases: ["_DATAFILE_GET_STRING"]
+apiset: client
+---
+## _PARSEDDATA_RQ_FILLOUT_STRING_63
+
+```c
+// 0x08EAF8E9F2EB7B2E
+Any _PARSEDDATA_RQ_FILLOUT_STRING_63(char* p0,Any* p1);
+```
+
+Old name: _DATAFILE_GET_STRING
+
+## Parameters
+* **p0**:
+* **p1**:
+
+## Return value
+

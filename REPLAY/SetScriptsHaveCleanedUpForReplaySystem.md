@@ -1,0 +1,17 @@
+---
+ns: REPLAY
+aliases: ["0x57C6525034E76EB0"]
+apiset: client
+---
+## SET_SCRIPTS_HAVE_CLEANED_UP_FOR_REPLAY_SYSTEM
+
+```c
+// 0x57C6525034E76EB0
+void SET_SCRIPTS_HAVE_CLEANED_UP_FOR_REPLAY_SYSTEM();
+```
+
+nullsub, doesn't do anything
+
+
+
+

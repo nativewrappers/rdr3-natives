@@ -1,0 +1,16 @@
+---
+ns: CAM
+aliases: ["0x139EFB0A71DD9011"]
+apiset: client
+---
+## IS_DEATH_FAIL_CAMERA_RUNNING
+
+```c
+// 0x139EFB0A71DD9011
+Any IS_DEATH_FAIL_CAMERA_RUNNING();
+```
+
+
+
+## Return value
+

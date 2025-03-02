@@ -1,0 +1,19 @@
+---
+ns: OBJECT
+aliases: ["_GET_PICKUP_HASH"]
+apiset: client
+---
+## CONVERT_OLD_PICKUP_TYPE_TO_NEW
+
+```c
+// 0x5EAAD83F8CFB4575
+Hash CONVERT_OLD_PICKUP_TYPE_TO_NEW(Hash pickupHash);
+```
+
+Old name: _GET_PICKUP_HASH
+
+## Parameters
+* **pickupHash**:
+
+## Return value
+

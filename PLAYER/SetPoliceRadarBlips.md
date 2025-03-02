@@ -1,0 +1,22 @@
+---
+ns: PLAYER
+apiset: client
+---
+## SET_POLICE_RADAR_BLIPS
+
+```c
+// 0x6FD7DD6B63F2820E
+void SET_POLICE_RADAR_BLIPS(BOOL toggle);
+```
+
+If toggle is set to false:
+ The police won't be shown on the (mini)map
+
+If toggle is set to true:
+ The police will be shown on the (mini)map
+
+## Parameters
+* **toggle**:
+
+
+

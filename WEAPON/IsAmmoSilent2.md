@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x7EFACC589B98C488"]
+apiset: client
+---
+## _IS_AMMO_SILENT_2
+
+```c
+// 0x7EFACC589B98C488
+Any _IS_AMMO_SILENT_2(Hash ammoHash);
+```
+
+
+## Parameters
+* **ammoHash**:
+
+## Return value
+

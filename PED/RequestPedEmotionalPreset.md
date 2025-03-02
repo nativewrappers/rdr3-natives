@@ -1,0 +1,20 @@
+---
+ns: PED
+aliases: ["0x5C3C55EAAD19915F"]
+apiset: client
+---
+## _REQUEST_PED_EMOTIONAL_PRESET
+
+```c
+// 0x5C3C55EAAD19915F
+void _REQUEST_PED_EMOTIONAL_PRESET(Ped ped,const char* name);
+```
+
+For more information, see common:/data/emotional_presets.meta
+
+## Parameters
+* **ped**:
+* **name**:
+
+
+

@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+apiset: client
+---
+## NETWORK_SET_FRIENDLY_FIRE_OPTION
+
+```c
+// 0xF808475FA571D823
+void NETWORK_SET_FRIENDLY_FIRE_OPTION(BOOL toggle);
+```
+
+
+## Parameters
+* **toggle**:
+
+
+

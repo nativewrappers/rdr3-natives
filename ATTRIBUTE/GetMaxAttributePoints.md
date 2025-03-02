@@ -1,0 +1,19 @@
+---
+ns: ATTRIBUTE
+apiset: client
+---
+## GET_MAX_ATTRIBUTE_POINTS
+
+```c
+// 0x223BF310F854871C
+int GET_MAX_ATTRIBUTE_POINTS(Ped ped,int attributeIndex);
+```
+
+attributeIndex: see SET_ATTRIBUTE_BASE_RANK
+
+## Parameters
+* **ped**:
+* **attributeIndex**:
+
+## Return value
+

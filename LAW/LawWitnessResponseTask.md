@@ -1,0 +1,24 @@
+---
+ns: LAW
+aliases: ["0xF0B67BAD53C35BD9"]
+apiset: client
+---
+## _LAW_WITNESS_RESPONSE_TASK
+
+```c
+// 0xF0B67BAD53C35BD9
+Any _LAW_WITNESS_RESPONSE_TASK(Ped pedGroup1,Ped ped,Ped pedGroup2,float x,float y,float z,Hash crimeType);
+```
+
+
+## Parameters
+* **pedGroup1**:
+* **ped**:
+* **pedGroup2**:
+* **x**:
+* **y**:
+* **z**:
+* **crimeType**:
+
+## Return value
+

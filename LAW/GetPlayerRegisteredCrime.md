@@ -1,0 +1,20 @@
+---
+ns: LAW
+aliases: ["0x532C5FDDB986EE5C"]
+apiset: client
+---
+## GET_PLAYER_REGISTERED_CRIME
+
+```c
+// 0x532C5FDDB986EE5C
+Any GET_PLAYER_REGISTERED_CRIME(Player player,int p1,Hash* crimeType);
+```
+
+
+## Parameters
+* **player**:
+* **p1**:
+* **crimeType**:
+
+## Return value
+

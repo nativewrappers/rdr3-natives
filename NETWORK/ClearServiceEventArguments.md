@@ -1,0 +1,17 @@
+---
+ns: NETWORK
+aliases: ["0x966DD84FB6A46017"]
+apiset: client
+---
+## CLEAR_SERVICE_EVENT_ARGUMENTS
+
+```c
+// 0x966DD84FB6A46017
+void CLEAR_SERVICE_EVENT_ARGUMENTS();
+```
+
+Old name: _CLEAR_LAUNCH_PARAMS
+
+
+
+

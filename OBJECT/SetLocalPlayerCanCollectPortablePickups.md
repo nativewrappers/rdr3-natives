@@ -1,0 +1,18 @@
+---
+ns: OBJECT
+aliases: ["0x78857FC65CADB909"]
+apiset: client
+---
+## SET_LOCAL_PLAYER_CAN_COLLECT_PORTABLE_PICKUPS
+
+```c
+// 0x78857FC65CADB909
+void SET_LOCAL_PLAYER_CAN_COLLECT_PORTABLE_PICKUPS(BOOL toggle);
+```
+
+
+## Parameters
+* **toggle**:
+
+
+

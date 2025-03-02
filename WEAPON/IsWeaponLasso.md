@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x6E4E1A82081EABED"]
+apiset: client
+---
+## _IS_WEAPON_LASSO
+
+```c
+// 0x6E4E1A82081EABED
+Any _IS_WEAPON_LASSO(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

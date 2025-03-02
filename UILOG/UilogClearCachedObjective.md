@@ -1,0 +1,16 @@
+---
+ns: UILOG
+aliases: ["_LOG_CLEAR_CACHED_OBJECTIVE"]
+apiset: client
+---
+## _UILOG_CLEAR_CACHED_OBJECTIVE
+
+```c
+// 0xDFF0D417277B41F8
+void _UILOG_CLEAR_CACHED_OBJECTIVE();
+```
+
+
+
+
+

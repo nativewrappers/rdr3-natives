@@ -1,0 +1,19 @@
+---
+ns: ITEMDATABASE
+apiset: client
+---
+## _0xDBEADA0DF5F9AB9F
+
+```c
+// 0xDBEADA0DF5F9AB9F
+BOOL _0xDBEADA0DF5F9AB9F(Hash layout,int index,int* outMenuKey);
+```
+
+
+## Parameters
+* **layout**:
+* **index**:
+* **outMenuKey**:
+
+## Return value
+

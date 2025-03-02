@@ -1,0 +1,25 @@
+---
+ns: INVENTORY
+aliases: ["0x6D2F987736A42D4C"]
+apiset: client
+---
+## _INVENTORY_SET_INVENTORY_ITEM_WEATHER_EFFECTIVENESS
+
+```c
+// 0x6D2F987736A42D4C
+void _INVENTORY_SET_INVENTORY_ITEM_WEATHER_EFFECTIVENESS(int inventoryId,Any* guid,int weatherEffectiveness);
+```
+
+OWE_INVALID = -1,
+OWE_GOOD_IN_HOT
+OWE_GOOD_IN_NONE
+OWE_GOOD_IN_COLD
+OWE_GOOD_IN_ALL
+
+## Parameters
+* **inventoryId**:
+* **guid**:
+* **weatherEffectiveness**:
+
+
+

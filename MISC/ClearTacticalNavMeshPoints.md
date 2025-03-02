@@ -1,0 +1,16 @@
+---
+ns: MISC
+aliases: ["_CLEAR_TACTICAL_ANALYSIS_POINTS"]
+apiset: client
+---
+## CLEAR_TACTICAL_NAV_MESH_POINTS
+
+```c
+// 0xD93B6516C6878267
+void CLEAR_TACTICAL_NAV_MESH_POINTS();
+```
+
+
+
+
+

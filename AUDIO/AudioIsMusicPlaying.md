@@ -1,0 +1,17 @@
+---
+ns: AUDIO
+aliases: ["AUDIO_IS_SCRIPTED_MUSIC_PLAYING"]
+apiset: client
+---
+## AUDIO_IS_MUSIC_PLAYING
+
+```c
+// 0x845FFC3A4FEEFA3E
+BOOL AUDIO_IS_MUSIC_PLAYING();
+```
+
+Old name: AUDIO_IS_SCRIPTED_MUSIC_PLAYING
+
+
+## Return value
+

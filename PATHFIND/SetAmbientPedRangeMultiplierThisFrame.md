@@ -1,0 +1,17 @@
+---
+ns: PATHFIND
+apiset: client
+---
+## SET_AMBIENT_PED_RANGE_MULTIPLIER_THIS_FRAME
+
+```c
+// 0x0B919E1FB47CC4E0
+void SET_AMBIENT_PED_RANGE_MULTIPLIER_THIS_FRAME(float multiplier);
+```
+
+
+## Parameters
+* **multiplier**:
+
+
+

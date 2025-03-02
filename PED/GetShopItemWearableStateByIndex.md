@@ -1,0 +1,24 @@
+---
+ns: PED
+aliases: ["0x6243635AF2F1B826"]
+apiset: client
+---
+## _GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX
+
+```c
+// 0x6243635AF2F1B826
+Hash _GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX(Hash componentHash,int wearableStateIndex,BOOL isMpFemale,BOOL p3);
+```
+
+Gets an available wearable state by index for a shop item / component - it does not retreive what the current state is. p3 seems to be true in scripts.
+
+Use 0xFFCC2DB2D9953401 (_GET_SHOP_ITEM_NUM_WEARABLE_STATES) to get the number of available wearable states
+
+## Parameters
+* **componentHash**:
+* **wearableStateIndex**:
+* **isMpFemale**:
+* **p3**:
+
+## Return value
+

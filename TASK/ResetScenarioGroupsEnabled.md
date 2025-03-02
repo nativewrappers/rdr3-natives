@@ -1,0 +1,15 @@
+---
+ns: TASK
+apiset: client
+---
+## RESET_SCENARIO_GROUPS_ENABLED
+
+```c
+// 0xDD902D0349AFAD3A
+void RESET_SCENARIO_GROUPS_ENABLED();
+```
+
+
+
+
+

@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x25189F9908E9CD65"]
+apiset: client
+---
+## _NETWORK_HAS_CURRENT_GET_GAMER_STATUS_STARTED
+
+```c
+// 0x25189F9908E9CD65
+Any _NETWORK_HAS_CURRENT_GET_GAMER_STATUS_STARTED();
+```
+
+
+
+## Return value
+

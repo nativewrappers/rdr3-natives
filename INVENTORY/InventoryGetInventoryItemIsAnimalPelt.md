@@ -1,0 +1,18 @@
+---
+ns: INVENTORY
+aliases: ["0x4AEF1FB5B9011D75"]
+apiset: client
+---
+## _INVENTORY_GET_INVENTORY_ITEM_IS_ANIMAL_PELT
+
+```c
+// 0x4AEF1FB5B9011D75
+Any _INVENTORY_GET_INVENTORY_ITEM_IS_ANIMAL_PELT(Hash item);
+```
+
+
+## Parameters
+* **item**:
+
+## Return value
+

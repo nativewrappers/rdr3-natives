@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0x792E3EF76C911959"]
+apiset: client
+---
+## _IS_WEAPON_KNIFE
+
+```c
+// 0x792E3EF76C911959
+Any _IS_WEAPON_KNIFE(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

@@ -1,0 +1,21 @@
+---
+ns: DATAFILE
+aliases: ["0x790EC421078F5C4E"]
+apiset: client
+---
+## DATAFILE_UGC_SELECT_DATA
+
+```c
+// 0x790EC421078F5C4E
+Any DATAFILE_UGC_SELECT_DATA(Any ugcRequestId,int index,Any p2);
+```
+
+Reloops value returned by UGC_QUERY_GET_CONTENT_NUM
+
+## Parameters
+* **ugcRequestId**:
+* **index**:
+* **p2**:
+
+## Return value
+

@@ -1,0 +1,17 @@
+---
+ns: NETSHOPPING
+apiset: client
+---
+## _CASHINVENTORY_TRANSACTION_CHECKOUT
+
+```c
+// 0x592BC00BF6629BE7
+BOOL _CASHINVENTORY_TRANSACTION_CHECKOUT(int id);
+```
+
+
+## Parameters
+* **id**:
+
+## Return value
+

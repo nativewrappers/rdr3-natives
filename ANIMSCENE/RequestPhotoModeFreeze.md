@@ -1,0 +1,16 @@
+---
+ns: ANIMSCENE
+aliases: ["0x7C709C01D43D94CD"]
+apiset: client
+---
+## _REQUEST_PHOTO_MODE_FREEZE
+
+```c
+// 0x7C709C01D43D94CD
+void _REQUEST_PHOTO_MODE_FREEZE();
+```
+
+
+
+
+

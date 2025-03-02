@@ -1,0 +1,18 @@
+---
+ns: ITEMDATABASE
+aliases: ["_ITEM_DATABASE_GET_NUMBER_OF_MODIFIED_PRICES"]
+apiset: client
+---
+## _ITEMDATABASE_GET_NUMBER_OF_MODIFIED_PRICES
+
+```c
+// 0x5AAAF40E9B224F5E
+int _ITEMDATABASE_GET_NUMBER_OF_MODIFIED_PRICES(Hash key);
+```
+
+
+## Parameters
+* **key**:
+
+## Return value
+

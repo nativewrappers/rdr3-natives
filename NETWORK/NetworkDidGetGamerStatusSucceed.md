@@ -1,0 +1,16 @@
+---
+ns: NETWORK
+aliases: ["0x5AE17C6B0134B7F1"]
+apiset: client
+---
+## NETWORK_DID_GET_GAMER_STATUS_SUCCEED
+
+```c
+// 0x5AE17C6B0134B7F1
+Any NETWORK_DID_GET_GAMER_STATUS_SUCCEED();
+```
+
+
+
+## Return value
+

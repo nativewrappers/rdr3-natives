@@ -1,0 +1,21 @@
+---
+ns: INVENTORY
+apiset: client
+---
+## _INVENTORY_REMOVE_INVENTORY_ITEMS
+
+```c
+// 0x5D6182F3BCE1333B
+BOOL _INVENTORY_REMOVE_INVENTORY_ITEMS(int inventoryId,Hash removeReason);
+```
+
+removeReason: REMOVE_REASON_DEFAULT (eRemoveItemReason)
+Example: INVENTORY::_0x5D6182F3BCE1333B(1, joaat("REMOVE_REASON_DEFAULT")); -> clears weapon wheel
+Only used in R* SP Scripts
+
+## Parameters
+* **inventoryId**:
+* **removeReason**:
+
+## Return value
+

@@ -1,0 +1,22 @@
+---
+ns: AITRANSPORT
+aliases: ["0xB7079F4C72896756"]
+apiset: client
+---
+## _SET_PED_USE_TRANSPORT_SEAT_PREFERENCE
+
+```c
+// 0xB7079F4C72896756
+void _SET_PED_USE_TRANSPORT_SEAT_PREFERENCE(Ped ped,Entity transportEntity,int preferenceSlot,int p3,int seatIndex);
+```
+
+
+## Parameters
+* **ped**:
+* **transportEntity**:
+* **preferenceSlot**:
+* **p3**:
+* **seatIndex**:
+
+
+

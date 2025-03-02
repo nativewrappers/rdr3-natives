@@ -1,0 +1,16 @@
+---
+ns: HUD
+aliases: ["_JORUNAL_CLEAR_ALL_PROGRESS"]
+apiset: client
+---
+## _JOURNAL_CLEAR_ALL_PROGRESS
+
+```c
+// 0xF402978DE6F88D6E
+void _JOURNAL_CLEAR_ALL_PROGRESS();
+```
+
+
+
+
+

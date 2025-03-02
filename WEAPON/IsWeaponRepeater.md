@@ -1,0 +1,18 @@
+---
+ns: WEAPON
+aliases: ["0xDDB2578E95EF7138"]
+apiset: client
+---
+## IS_WEAPON_REPEATER
+
+```c
+// 0xDDB2578E95EF7138
+Any IS_WEAPON_REPEATER(Hash weaponHash);
+```
+
+
+## Parameters
+* **weaponHash**:
+
+## Return value
+

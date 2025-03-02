@@ -1,0 +1,19 @@
+---
+ns: PED
+aliases: ["0x9C54041BB66BCF9E"]
+apiset: client
+---
+## IS_PED_USING_THIS_SCENARIO
+
+```c
+// 0x9C54041BB66BCF9E
+Any IS_PED_USING_THIS_SCENARIO(Ped ped,int scenario);
+```
+
+
+## Parameters
+* **ped**:
+* **scenario**:
+
+## Return value
+

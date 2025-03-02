@@ -1,0 +1,18 @@
+---
+ns: HUD
+aliases: ["_PROMPT_DISABLE_PROMPT_TYPE_THIS_FRAME"]
+apiset: client
+---
+## _UI_PROMPT_DISABLE_PROMPT_TYPE_THIS_FRAME
+
+```c
+// 0xFC094EF26DD153FA
+void _UI_PROMPT_DISABLE_PROMPT_TYPE_THIS_FRAME(int p0);
+```
+
+
+## Parameters
+* **p0**:
+
+
+

@@ -1,0 +1,18 @@
+---
+ns: PED
+aliases: ["0x3088634CF8C819CF"]
+apiset: client
+---
+## RELEASE_PED_VISIBILITY_TRACKING
+
+```c
+// 0x3088634CF8C819CF
+void RELEASE_PED_VISIBILITY_TRACKING(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+
+

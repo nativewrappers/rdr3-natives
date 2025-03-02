@@ -1,0 +1,15 @@
+---
+ns: MISC
+apiset: client
+---
+## _SHOULD_USE_METRIC_TEMPERATURE
+
+```c
+// 0xFF4AAF3275BAAB4F
+BOOL _SHOULD_USE_METRIC_TEMPERATURE();
+```
+
+
+
+## Return value
+

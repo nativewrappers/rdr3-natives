@@ -1,0 +1,18 @@
+---
+ns: COMPENDIUM
+apiset: client
+---
+## COMPENDIUM_HORSE_WILD_BROKEN
+
+```c
+// 0x725852D21A2E9E50
+void COMPENDIUM_HORSE_WILD_BROKEN(Ped ped);
+```
+
+NET_PLAYER_HORSE_PROCESS_EVENT_HORSE_BREAKING
+
+## Parameters
+* **ped**:
+
+
+

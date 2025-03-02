@@ -1,0 +1,22 @@
+---
+ns: MAP
+aliases: ["0x73348402566ECB6E"]
+apiset: client
+---
+## SET_MINIMAP_FOW_REVEAL_COORDINATE
+
+```c
+// 0x73348402566ECB6E
+void SET_MINIMAP_FOW_REVEAL_COORDINATE(float x,float y,float z,Hash p3);
+```
+
+Up to eight coordinates may be revealed per frame
+
+## Parameters
+* **x**:
+* **y**:
+* **z**:
+* **p3**:
+
+
+

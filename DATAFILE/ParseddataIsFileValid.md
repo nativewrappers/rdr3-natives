@@ -1,0 +1,18 @@
+---
+ns: DATAFILE
+aliases: ["0x7907969497EA92F5"]
+apiset: client
+---
+## PARSEDDATA_IS_FILE_VALID
+
+```c
+// 0x7907969497EA92F5
+Any PARSEDDATA_IS_FILE_VALID(int fileHandle);
+```
+
+
+## Parameters
+* **fileHandle**:
+
+## Return value
+

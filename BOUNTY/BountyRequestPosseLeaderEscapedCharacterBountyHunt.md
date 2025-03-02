@@ -1,0 +1,18 @@
+---
+ns: BOUNTY
+aliases: ["0x2D874BA20E8E1F20"]
+apiset: client
+---
+## _BOUNTY_REQUEST_POSSE_LEADER_ESCAPED_CHARACTER_BOUNTY_HUNT
+
+```c
+// 0x2D874BA20E8E1F20
+Any _BOUNTY_REQUEST_POSSE_LEADER_ESCAPED_CHARACTER_BOUNTY_HUNT(Any* outRpcGuid);
+```
+
+
+## Parameters
+* **outRpcGuid**:
+
+## Return value
+

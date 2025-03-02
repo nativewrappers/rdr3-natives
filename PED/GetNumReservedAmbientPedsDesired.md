@@ -1,0 +1,16 @@
+---
+ns: PED
+aliases: ["0x62DE46F061CAA468"]
+apiset: client
+---
+## _GET_NUM_RESERVED_AMBIENT_PEDS_DESIRED
+
+```c
+// 0x62DE46F061CAA468
+int _GET_NUM_RESERVED_AMBIENT_PEDS_DESIRED();
+```
+
+
+
+## Return value
+

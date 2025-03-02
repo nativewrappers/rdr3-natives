@@ -1,0 +1,16 @@
+---
+ns: AUDIO
+aliases: ["0x33D51F801CB16E4F"]
+apiset: client
+---
+## CLEAR_CONVERSATION_HISTORY
+
+```c
+// 0x33D51F801CB16E4F
+void CLEAR_CONVERSATION_HISTORY();
+```
+
+
+
+
+

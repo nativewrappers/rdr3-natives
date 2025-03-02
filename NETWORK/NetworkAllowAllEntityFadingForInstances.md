@@ -1,0 +1,18 @@
+---
+ns: NETWORK
+aliases: ["0x4B05B97BA46F419D"]
+apiset: client
+---
+## NETWORK_ALLOW_ALL_ENTITY_FADING_FOR_INSTANCES
+
+```c
+// 0x4B05B97BA46F419D
+void NETWORK_ALLOW_ALL_ENTITY_FADING_FOR_INSTANCES(BOOL toggle);
+```
+
+
+## Parameters
+* **toggle**:
+
+
+

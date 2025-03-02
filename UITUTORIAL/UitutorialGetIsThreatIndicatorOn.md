@@ -1,0 +1,16 @@
+---
+ns: UITUTORIAL
+aliases: ["_GET_IS_THREAT_INDICATOR_ON"]
+apiset: client
+---
+## _UITUTORIAL_GET_IS_THREAT_INDICATOR_ON
+
+```c
+// 0xFC2E0A5E9ED4E1B4
+Any _UITUTORIAL_GET_IS_THREAT_INDICATOR_ON();
+```
+
+
+
+## Return value
+

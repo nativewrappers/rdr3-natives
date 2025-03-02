@@ -1,0 +1,21 @@
+---
+ns: GRAPHICS
+aliases: ["_SET_FAR_SHADOWS_SUPPRESSED"]
+apiset: client
+---
+## CASCADE_SHADOWS_ENABLE_ENTITY_TRACKER
+
+```c
+// 0x8FBFD2AEB196B369
+void CASCADE_SHADOWS_ENABLE_ENTITY_TRACKER(BOOL toggle);
+```
+
+When this is set to ON, shadows only draw as you get nearer.
+
+When OFF, they draw from a further distance.
+
+## Parameters
+* **toggle**:
+
+
+

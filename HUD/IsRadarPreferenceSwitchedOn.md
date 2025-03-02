@@ -1,0 +1,15 @@
+---
+ns: HUD
+apiset: client
+---
+## IS_RADAR_PREFERENCE_SWITCHED_ON
+
+```c
+// 0x81E47F0EE1F2B21E
+BOOL IS_RADAR_PREFERENCE_SWITCHED_ON();
+```
+
+
+
+## Return value
+

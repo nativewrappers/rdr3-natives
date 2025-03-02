@@ -1,0 +1,19 @@
+---
+ns: ATTRIBUTE
+aliases: ["0x4C9F782180712742"]
+apiset: client
+---
+## _GET_ATTRIBUTE_OVERPOWER_SECONDS_LEFT
+
+```c
+// 0x4C9F782180712742
+float _GET_ATTRIBUTE_OVERPOWER_SECONDS_LEFT(Ped ped,int attributeIndex);
+```
+
+
+## Parameters
+* **ped**:
+* **attributeIndex**:
+
+## Return value
+

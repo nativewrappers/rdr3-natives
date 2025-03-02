@@ -1,0 +1,15 @@
+---
+ns: MISC
+apiset: client
+---
+## NETWORK_SET_SCRIPT_IS_SAFE_FOR_NETWORK_GAME
+
+```c
+// 0x3D0EAC6385DD6100
+void NETWORK_SET_SCRIPT_IS_SAFE_FOR_NETWORK_GAME();
+```
+
+
+
+
+

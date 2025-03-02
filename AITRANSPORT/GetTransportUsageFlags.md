@@ -1,0 +1,20 @@
+---
+ns: AITRANSPORT
+aliases: ["0xE195C5A82156321D"]
+apiset: client
+---
+## _GET_TRANSPORT_USAGE_FLAGS
+
+```c
+// 0xE195C5A82156321D
+Any _GET_TRANSPORT_USAGE_FLAGS(Entity transportEntity,int* flags);
+```
+
+See _SET_TRANSPORT_USAGE_FLAGS
+
+## Parameters
+* **transportEntity**:
+* **flags**:
+
+## Return value
+

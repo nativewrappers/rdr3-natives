@@ -1,0 +1,20 @@
+---
+ns: MAP
+apiset: client
+---
+## _GET_WAYPOINT_POSITION
+
+```c
+// 0xF08E42BFA46BDFF8
+Any _GET_WAYPOINT_POSITION(float* x,float* y);
+```
+
+Unlike `GET_WAYPOINT_COORDS - 0x29B30D07C3F7873B`, which returns a single value, this native returns the x and y coordinates of the waypoint separately as floats from pointer. To retrieve each coordinate, `Citizen.PointerValueFloat()` must be used with this function.
+
+## Parameters
+* **x**:
+* **y**:
+
+## Return value
+[object Object]
+

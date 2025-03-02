@@ -1,0 +1,19 @@
+---
+ns: VEHICLE
+aliases: ["0x86FA6D8B48667D75"]
+apiset: client
+---
+## GET_CURRENT_STATION_FOR_TRAIN
+
+```c
+// 0x86FA6D8B48667D75
+int GET_CURRENT_STATION_FOR_TRAIN(Vehicle train);
+```
+
+Returns p1 for 0xBA958F68031DDBFC (stationIndex)
+
+## Parameters
+* **train**:
+
+## Return value
+

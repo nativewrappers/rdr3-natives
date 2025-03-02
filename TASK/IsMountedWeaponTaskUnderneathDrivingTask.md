@@ -1,0 +1,17 @@
+---
+ns: TASK
+apiset: client
+---
+## IS_MOUNTED_WEAPON_TASK_UNDERNEATH_DRIVING_TASK
+
+```c
+// 0xA320EF046186FA3B
+BOOL IS_MOUNTED_WEAPON_TASK_UNDERNEATH_DRIVING_TASK(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+## Return value
+

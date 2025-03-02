@@ -1,0 +1,18 @@
+---
+ns: OBJECT
+apiset: client
+---
+## DOOR_SYSTEM_SET_AUTOMATIC_RATE
+
+```c
+// 0x03C27E13B42A0E82
+void DOOR_SYSTEM_SET_AUTOMATIC_RATE(Hash doorHash,float rate);
+```
+
+
+## Parameters
+* **doorHash**:
+* **rate**:
+
+
+

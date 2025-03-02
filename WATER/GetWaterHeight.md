@@ -1,0 +1,21 @@
+---
+ns: WATER
+apiset: client
+---
+## GET_WATER_HEIGHT
+
+```c
+// 0xFCA8B23F28813F69
+BOOL GET_WATER_HEIGHT(float x,float y,float z,float* height);
+```
+
+Checks against a global variable that is set by _SET_WORLD_WATER_TYPE. If that is set to one it will fail. Likely not the only issue but part of it.
+
+## Parameters
+* **x**:
+* **y**:
+* **z**:
+* **height**:
+
+## Return value
+

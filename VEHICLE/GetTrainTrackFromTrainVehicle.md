@@ -1,0 +1,19 @@
+---
+ns: VEHICLE
+aliases: ["0x45853F4E17D847D5"]
+apiset: client
+---
+## _GET_TRAIN_TRACK_FROM_TRAIN_VEHICLE
+
+```c
+// 0x45853F4E17D847D5
+int _GET_TRAIN_TRACK_FROM_TRAIN_VEHICLE(Vehicle train);
+```
+
+Returns trackIndex
+
+## Parameters
+* **train**:
+
+## Return value
+

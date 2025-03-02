@@ -1,0 +1,21 @@
+---
+ns: HUD
+apiset: client
+---
+## GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION
+
+```c
+// 0xB39C81628EF10B42
+BOOL GET_HUD_SCREEN_POSITION_FROM_WORLD_POSITION(float worldX,float worldY,float worldZ,float* screenX,float* screenY);
+```
+
+
+## Parameters
+* **worldX**:
+* **worldY**:
+* **worldZ**:
+* **screenX**:
+* **screenY**:
+
+## Return value
+

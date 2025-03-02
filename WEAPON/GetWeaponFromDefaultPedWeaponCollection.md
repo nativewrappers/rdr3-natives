@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+apiset: client
+---
+## _GET_WEAPON_FROM_DEFAULT_PED_WEAPON_COLLECTION
+
+```c
+// 0x9EEFD670F10656D7
+Hash _GET_WEAPON_FROM_DEFAULT_PED_WEAPON_COLLECTION(int weaponCollection,Hash weaponGroup);
+```
+
+this native gets the weapon hash from the default ped weapon collection (see GetDefaultPedWeaponCollection for more info) will randomly return one of it's weapons
+
+## Parameters
+* **weaponCollection**:
+* **weaponGroup**:
+
+## Return value
+[object Object]
+
