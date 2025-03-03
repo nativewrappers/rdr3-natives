@@ -129,7 +129,7 @@ ${native_data.results !== "void" ? "## Return value" : ""}
 ${native_data.examples?.length > 0 ? examples_converted : ""}
 `.trimEnd()
 				const name = get_name_for_file(native_data.name ?? native_hash);
-				file_promises.push(fs.writeFile(`${NAMESPACE_PATH}/${name}.md`, native_gen, 'utf8'));
+				file_promises.push(fs.writeFile(`${NAMESPACE_PATH}/${name}.mdx`, native_gen, 'utf8'));
 
 		}
 	}
