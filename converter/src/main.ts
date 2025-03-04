@@ -45,7 +45,9 @@ const get_name_for_file = (v: string) => {
 		file_name = file_name.slice(1);
 	}
 	if (file_name.startsWith("0x")) {
-		return file_name;
+		// add N_ to front of the file name for codegen
+		// also make the name lowercase (since this is how its done in fivem codegen, not sure if its actually relevant)
+		return `N_${file_name.toLowerCase()}`;
 	}
 
 	return camelcase(file_name, { pascalCase: true });
@@ -114,7 +116,7 @@ setImmediate(async () => {
 				return `${return_type} ${v.name}`
 			}).join(", ");
 			const converted_param_markdown = native_data.params.map((v) => `* **${v.name}**:`).join("\n");
-			const examples_converted = native_data.examples.map((v) => `${v}\n`).join("\n");
+			const examples_converted = `## Examples\n\n${native_data.examples.map((v) => `${v}\n`).join("\n")}`;
 			const native_gen = `---
 ns: ${namespace}${converted_aliases !== undefined ? `\naliases: [${converted_aliases}]` : ""}
 apiset: client
