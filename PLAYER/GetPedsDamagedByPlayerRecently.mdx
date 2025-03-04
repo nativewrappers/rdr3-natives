@@ -23,4 +23,10 @@ you need dataview
 
 ## Examples
 
-[object Object]
+```lua
+Citizen.InvokeNative(0x1A6E84F13C952094, PlayerId(), 10000, dataView:Buffer())
+local entity = dataView:GetInt32(8 * 1)
+local entity2 = dataView:GetInt32(8 * 2)
+local entity3 = dataView:GetInt32(8 * 3)
+print(entity, entity2, entity3)
+```

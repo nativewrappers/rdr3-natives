@@ -20,4 +20,16 @@ Activates the Surrender prompt for the specified player in the current frame.
 
 ## Examples
 
-[object Object]
+```lua
+// Calm targetPed
+Citizen.InvokeNative(0x3A2A2071DF5CC569,targetPed,PlayerPedId(),2)
+//Register lockon prompt to targetPed
+Citizen.InvokeNative(0x870708A6E147A9AD,targetPed,"",10.1,10.1, 0, 0.0, 0.0, 0, false, -1)
+
+// Activate the surrender prompt for the current player towards the targetPed
+while true do 
+  Wait(0)
+  Citizen.InvokeNative(0xCBB54CC7FFFFAB86,PlayerId(),targetPed,1, false)
+  //_SET_PLAYER_SURRENDER_PROMPT_THIS_FRAME(PlayerId(), targetPed, 1, false);
+end
+```

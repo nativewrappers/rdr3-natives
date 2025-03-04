@@ -17,11 +17,16 @@ type CfxRdrNatives = {
 	params: Params[],
 	results: string,
 	description: string,
-	examples: never[]
+	examples: string[]
 	hash: string,
 	ns: string,
 	aliases: string[],
 	manualHash: true
+}
+
+type Rdr3Examples = {
+	lang: "lua" | "js" | "cs" | "c#",
+	code: string
 }
 
 type Rdr3Natives = {
@@ -29,7 +34,7 @@ type Rdr3Natives = {
 	params: Params[],
 	return_type: string,
 	comment: string,
-	examples: never[]
+	examples: Rdr3Examples[]
 	hash: string,
 	aliases: string[] | undefined,
 	build: string,
@@ -57,6 +62,14 @@ setImmediate(async () => {
 	const cfx_rdr_typed = cfx_rdr as unknown as RdrNamespace<CfxRdrNatives>;
 	const rdr3_natives_typed = rdr3_rdr as unknown as RdrNamespace<Rdr3Natives>;
 
+	const convert_native_examples = (ex: Rdr3Examples[]) : string[] => {
+		return ex.map((v) => {
+						return `\`\`\`${v.lang}
+${v.code}
+\`\`\``
+		})
+	}
+
 	for (const [namespace, namespace_data] of Object.entries(rdr3_natives_typed)) {
 		for (const [native_hash, native_data] of Object.entries(namespace_data)) {
 			const cfx_version = cfx_rdr_typed[namespace]?.[native_hash];
@@ -69,7 +82,7 @@ setImmediate(async () => {
 					params: native_data.params,
 					results: native_data.return_type,
 					description: native_data.comment,
-					examples: native_data.examples,
+					examples: convert_native_examples(native_data.examples),
 					hash: native_hash,
 					ns: namespace,
 					aliases: [],
@@ -80,7 +93,7 @@ setImmediate(async () => {
 				// always take rdr3 over ours
 				cfx_version.params = native_data.params;
 				cfx_version.description = native_data.comment;
-				cfx_version.examples = native_data.examples;
+				cfx_version.examples = convert_native_examples(native_data.examples);
 				cfx_version.aliases = cfx_version.aliases ?? [];
 
 				if (cfx_version.name === native_data.name) { continue; }

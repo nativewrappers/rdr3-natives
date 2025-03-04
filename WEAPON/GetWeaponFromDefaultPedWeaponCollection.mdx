@@ -19,4 +19,12 @@ this native gets the weapon hash from the default ped weapon collection (see Get
 
 ## Examples
 
-[object Object]
+```lua
+local pedWeaponCollectionHash = GetDefaultPedWeaponCollection(joaat("mp_u_m_m_interrogator_01"))
+local hash = Citizen.InvokeNative(0x9EEFD670F10656D7, pedWeaponCollectionHash, joaat("GROUP_REVOLVER"))
+if hash and IsWeaponValid(hash) then
+local name = GetWeaponName(hash)
+local label = GetLabelText_2(name)
+print(name, label)
+end
+```
