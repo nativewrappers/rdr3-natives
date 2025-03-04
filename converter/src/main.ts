@@ -75,16 +75,19 @@ setImmediate(async () => {
 				}
 				continue;
 			} else {
-				cfx_version.aliases = cfx_version.aliases ?? [];
-				// if our names don't match take rdr3 native db over ours
-				if (cfx_version.name !== native_data.name) {
-					cfx_version.aliases.push(cfx_version.name);
-					cfx_version.name = native_data.name;
-				}
 				// always take rdr3 over ours
 				cfx_version.params = native_data.params;
 				cfx_version.description = native_data.comment;
 				cfx_version.examples = native_data.examples;
+				cfx_version.aliases = cfx_version.aliases ?? [];
+
+				if (cfx_version.name === native_data.name) { continue; }
+				if (cfx_version.name && cfx_version.name[0] !== "_" && native_data.name[0] === "_") { continue; }
+
+				// if our names don't match take rdr3 native db over ours
+				// don't import name changes for confirmed names, not sure why rdr3natives did this.
+				cfx_version.aliases.push(cfx_version.name);
+				cfx_version.name = native_data.name;
 			}
 		}
 	}
@@ -125,7 +128,7 @@ ${native_data.results} ${native_data.name}(${converted_params});
 
 ${native_data.description ? `${native_data.description}\n` : ""}
 ${native_data.params.length > 0 ? `## Parameters\n${converted_param_markdown}\n` : ""}
-${native_data.results !== "void" ? "## Return value" : ""}
+${native_data.results !== "void" ? "## Return value\n" : ""}
 ${native_data.examples?.length > 0 ? examples_converted : ""}
 `.trimEnd()
 				const name = get_name_for_file(native_data.name ?? native_hash);
