@@ -102,7 +102,7 @@ ${v.code}
 				// if our names don't match take rdr3 native db over ours
 				// don't import name changes for confirmed names, not sure why rdr3natives did this.
 				cfx_version.aliases.push(cfx_version.name);
-				cfx_version.name = native_data.name;
+				cfx_version.name = native_data.name ?? `_${native_hash}`;
 			}
 		}
 	}
@@ -128,6 +128,10 @@ ${v.code}
 				}
 				return `${return_type} ${v.name}`
 			}).join(", ");
+
+			// some cfx natives don't have a name, and don't exist in the rdr3natives db
+			native_data.name = native_data.name ?? `_${native_hash}`;
+
 			const converted_param_markdown = native_data.params.map((v) => `* **${v.name}**:`).join("\n");
 			const examples_converted = `## Examples\n\n${native_data.examples.map((v) => `${v}\n`).join("\n")}`;
 			const native_gen = `---
