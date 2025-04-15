@@ -7,8 +7,9 @@ apiset: client
 
 ```c
 // 0xFA925AC00EB830B9
-long VAR_STRING(int flags,  ...);
+long VAR_STRING(int flags);
 ```
+TODO: Variadic support in codegen
 
 Note: The first bit in 'flags' must not be set.
 It is also required to pass at least one extra argument (this must be a text label string or hash).
