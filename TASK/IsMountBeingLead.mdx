@@ -1,0 +1,24 @@
+---
+ns: TASK
+apiset: client
+---
+## _IS_MOUNT_BEING_LEAD
+
+```c
+// 0xAC5045AB7F1A34FD
+BOOL _IS_MOUNT_BEING_LEAD(Ped ped);
+```
+
+
+## Parameters
+* **ped**:
+
+## Return value
+Returns `true` if the specified mount is currently being lead by a player, `false` otherwise.
+
+## Examples
+```js
+const horse = GetActiveHorseForPlayer(PlayerId());
+const is_leading = IsMountBeingLead(horse);
+console.log(`${horse} current lead state is ${is_leading}`);
+```
