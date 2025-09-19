@@ -6,19 +6,15 @@ apiset: client
 
 ```c
 // 0x5AE661ECD18524C9
-BOOL IS_EXPLOSION_IN_ANGLED_AREA(int explosionType, float x1, float y1, float z1, float x2, float y2, float z2, float angle);
+BOOL IS_EXPLOSION_IN_ANGLED_AREA(int explosionType, Vector3 pos1, Vector3 pos2, float angle);
 ```
 
 explosionType: see ADD_EXPLOSION
 
 ## Parameters
 * **explosionType**:
-* **x1**:
-* **y1**:
-* **z1**:
-* **x2**:
-* **y2**:
-* **z2**:
+* **pos1**:
+* **pos2**:
 * **angle**:
 
 ## Return value

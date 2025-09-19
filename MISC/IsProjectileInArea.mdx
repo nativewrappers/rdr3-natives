@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x05B0061EFDFC8941
-BOOL IS_PROJECTILE_IN_AREA(float x1, float y1, float z1, float x2, float y2, float z2, BOOL ownedByPlayer);
+BOOL IS_PROJECTILE_IN_AREA(Vector3 pos1, Vector3 pos2, BOOL ownedByPlayer);
 ```
 
 Determines whether there is a projectile within the specified coordinates. The coordinates form a rectangle.
@@ -14,12 +14,8 @@ Determines whether there is a projectile within the specified coordinates. The c
 ownedByPlayer = only projectiles fired by the player will be detected.
 
 ## Parameters
-* **x1**:
-* **y1**:
-* **z1**:
-* **x2**:
-* **y2**:
-* **z2**:
+* **pos1**:
+* **pos2**:
 * **ownedByPlayer**:
 
 ## Return value

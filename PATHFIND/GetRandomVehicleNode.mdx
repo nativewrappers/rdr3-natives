@@ -6,14 +6,12 @@ apiset: client
 
 ```c
 // 0x93E0DB8440B73A7D
-BOOL GET_RANDOM_VEHICLE_NODE(float x, float y, float z, float radius, int minLanes, BOOL avoidDeadEnds, BOOL avoidHighways, Vector3* outPosition, int* nodeId);
+BOOL GET_RANDOM_VEHICLE_NODE(Vector3 pos, float radius, int minLanes, BOOL avoidDeadEnds, BOOL avoidHighways, Vector3* outPosition, int* nodeId);
 ```
 
 
 ## Parameters
-* **x**:
-* **y**:
-* **z**:
+* **pos**:
 * **radius**:
 * **minLanes**:
 * **avoidDeadEnds**:

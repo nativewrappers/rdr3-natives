@@ -7,7 +7,7 @@ apiset: client
 
 ```c
 // 0x5BA7A68A346A5A91
-Hash _GET_WATER_MAP_ZONE_AT_COORDS(float x, float y, float z);
+Hash _GET_WATER_MAP_ZONE_AT_COORDS(Vector3 pos);
 ```
 
 Returns the zone's name hash if its type matches one of the following:
@@ -21,8 +21,6 @@ Returns the zone's name hash if its type matches one of the following:
 - GLACIER
 
 ## Parameters
-* **x**:
-* **y**:
-* **z**:
+* **pos**:
 
 ## Return value

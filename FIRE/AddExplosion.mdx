@@ -6,7 +6,7 @@ apiset: client
 
 ```c
 // 0x7D6F58F69DA92530
-void ADD_EXPLOSION(float x, float y, float z, int explosionType, float damageScale, BOOL isAudible, BOOL isInvisible, float cameraShake);
+void ADD_EXPLOSION(Vector3 pos, int explosionType, float damageScale, BOOL isAudible, BOOL isInvisible, float cameraShake);
 ```
 
 https://github.com/femga/rdr3_discoveries/tree/master/graphics/explosions
@@ -54,9 +54,7 @@ enum eExplosionTag
 };
 
 ## Parameters
-* **x**:
-* **y**:
-* **z**:
+* **pos**:
 * **explosionType**:
 * **damageScale**:
 * **isAudible**:

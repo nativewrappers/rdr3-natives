@@ -6,20 +6,16 @@ apiset: client
 
 ```c
 // 0xFE466162C4401D18
-ScrHandle START_SHAPE_TEST_BOX(float posX, float posY, float posZ, float dimensionsX, float dimensionsY, float dimensionsZ, float rotX, float rotY, float rotZ, int rotationOrder, int flags, Entity entityToIgnore, int options);
+ScrHandle START_SHAPE_TEST_BOX(Vector3 pos, float dimensionsX, float dimensionsY, float dimensionsZ, Vector3 rot, int rotationOrder, int flags, Entity entityToIgnore, int options);
 ```
 
 
 ## Parameters
-* **posX**:
-* **posY**:
-* **posZ**:
+* **pos**:
 * **dimensionsX**:
 * **dimensionsY**:
 * **dimensionsZ**:
-* **rotX**:
-* **rotY**:
-* **rotZ**:
+* **rot**:
 * **rotationOrder**:
 * **flags**:
 * **entityToIgnore**:
