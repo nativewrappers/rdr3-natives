@@ -2,6 +2,7 @@
 ns: ENTITY
 aliases: ["0x808077647856DE62"]
 apiset: client
+related_natives: ["_SET_ENTITY_CARRYING_FLAG"]
 ---
 ## _GET_ENTITY_CARRYING_FLAG
 
@@ -10,10 +11,8 @@ apiset: client
 Any _GET_ENTITY_CARRYING_FLAG(Entity entity, int flagId);
 ```
 
-flagId: see _SET_ENTITY_CARRYING_FLAG
-
 ## Parameters
 * **entity**:
-* **flagId**:
+* **flagId**: Refer to <EmbeddedEnum type="CCarryingFlags__Flags" />
 
 ## Return value

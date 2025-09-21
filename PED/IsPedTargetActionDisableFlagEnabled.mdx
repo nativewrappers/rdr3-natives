@@ -2,6 +2,7 @@
 ns: PED
 aliases: ["0x02AA2096FE00F3E1"]
 apiset: client
+related_natives: ["_CLEAR_PED_TARGET_ACTION_DISABLE_FLAG", "_SET_PED_TARGET_ACTION_DISABLE_FLAG"]
 ---
 ## _IS_PED_TARGET_ACTION_DISABLE_FLAG_ENABLED
 
@@ -13,6 +14,7 @@ Any _IS_PED_TARGET_ACTION_DISABLE_FLAG_ENABLED(Ped ped, int actionDisableFlag);
 
 ## Parameters
 * **ped**:
-* **actionDisableFlag**:
+* **actionDisableFlag**: Refer to <EmbeddedEnum type="CActionFlags__DisableFlag" />
 
 ## Return value
+Returns `true` if the target action disable flag is set

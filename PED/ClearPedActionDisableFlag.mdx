@@ -2,6 +2,7 @@
 ns: PED
 aliases: ["0x949B2F9ED2917F5D"]
 apiset: client
+related_natives: ["_SET_PED_ACTION_DISABLE_FLAG", "_IS_PED_ACTION_DISABLE_FLAG_ENABLED"]
 ---
 ## _CLEAR_PED_ACTION_DISABLE_FLAG
 
@@ -13,4 +14,4 @@ void _CLEAR_PED_ACTION_DISABLE_FLAG(Ped ped, int actionDisableFlag);
 
 ## Parameters
 * **ped**:
-* **actionDisableFlag**:
+* **actionDisableFlag**: Refer to <EmbeddedEnum type="CActionFlags__DisableFlag" />
