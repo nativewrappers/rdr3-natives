@@ -1,6 +1,7 @@
 ---
 ns: STREAMING
 apiset: client
+related_natives: ["HAS_MODEL_LOADED"]
 ---
 ## REQUEST_MODEL
 
@@ -9,8 +10,13 @@ apiset: client
 void REQUEST_MODEL(Hash model, BOOL p1);
 ```
 
-Request a model to be loaded into memory.
+Request a model to be loaded into streaming memory.
+
+You should make sure to check that the model exists with <Native name="IS_MODEL_IN_CDIMAGE" />
 
 ## Parameters
-* **model**:
+* **model**: The model to request
 * **p1**:
+
+## Examples
+<SharedExamples name="CreatePed" />

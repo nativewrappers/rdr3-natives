@@ -1,0 +1,28 @@
+```lua
+CreateThread(function()
+  local model = `a_c_cat_01`
+
+  -- if we don't have the model in the cd image
+  -- then it doesn't exist so we bail
+  if not IsModelInCdimage(model) then
+    return
+  end
+  
+  if not HasModelLoaded(model) then
+    RequestModel(model)
+  end
+
+  while not HasModelLoaded(model) do
+    Wait(0)
+  end
+
+  local ped = CreatePed(model, vector3(3264.68, 1459.67, 65.81), 120.0, false, true)
+
+  -- the ped doesn't exist!
+  if ped == 0 then
+    return
+  end
+
+  SetPedRandomComponentVariation(ped, 0)
+end)
+```

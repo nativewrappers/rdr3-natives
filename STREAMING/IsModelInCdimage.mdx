@@ -1,6 +1,7 @@
 ---
 ns: STREAMING
 apiset: client
+related_natives: ["REQUEST_MODEL", "HAS_MODEL_LOADED"]
 ---
 ## IS_MODEL_IN_CDIMAGE
 
@@ -9,9 +10,12 @@ apiset: client
 BOOL IS_MODEL_IN_CDIMAGE(Hash model);
 ```
 
-Returns whether the specified model exists in the game.
 
 ## Parameters
-* **model**:
+* **model**: The model to check
 
 ## Return value
+Returns whether the specified model exists in the game.
+
+## Examples
+<SharedExamples name="CreatePed" />
