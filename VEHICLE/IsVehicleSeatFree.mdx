@@ -9,11 +9,11 @@ apiset: client
 BOOL IS_VEHICLE_SEAT_FREE(Vehicle vehicle, int seatIndex);
 ```
 
-seatIndex: see CREATE_PED_INSIDE_VEHICLE
-Use GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle) - 1 for last seat index.
+Use <Native name="GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS"/> - 1 for last seat index.
 
 ## Parameters
 * **vehicle**:
-* **seatIndex**:
+* **seatIndex**: Refer to <EmbeddedEnum name="eVehicleSeat" />
 
 ## Return value
+Returns `true` if the vehicle seat is free (has no ped in it)

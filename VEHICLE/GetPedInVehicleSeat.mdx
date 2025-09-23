@@ -9,10 +9,10 @@ apiset: client
 Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
-seatIndex: see CREATE_PED_INSIDE_VEHICLE
 
 ## Parameters
 * **vehicle**:
-* **seatIndex**:
+* **seatIndex**: Refer to <EmbeddedEnum name="eVehicleSeat" />
 
 ## Return value
+Returns the ped in the specified vehicle seat, or `0` if there wasn't a ped.
