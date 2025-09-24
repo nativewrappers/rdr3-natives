@@ -6,16 +6,19 @@ apiset: client
 
 ```c
 // 0x391073B9D3CCE2BA
-void _TASK_VEHICLE_DRIVE_TO_DESTINATION_2(Vehicle vehicle, Vector3 pos, float speed, int p5, int p6, float p7, float p8);
+void _TASK_VEHICLE_DRIVE_TO_DESTINATION_2(Vehicle vehicle, Vector3 pos, float speed, int drivingFlags, int p6, float stoppingRange1, float stoppingRange2);
 ```
 
-Tasks vehicle towards owner
+Works exactly like <Native name="TASK_VEHICLE_DRIVE_TO_DESTINATION" game="rdr3" /> except that it take a ped parameter (it doesn't give its driver a task), and it removes `p10`.
 
 ## Parameters
 * **vehicle**:
 * **pos**:
 * **speed**:
-* **p5**:
+* **drivingFlags**:
 * **p6**:
-* **p7**:
-* **p8**:
+* **stoppingRange1**:
+* **stoppingRange2**:
+
+## Examples
+<SharedExamples name="DrivingTask" />

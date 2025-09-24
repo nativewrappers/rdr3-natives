@@ -6,15 +6,14 @@ apiset: client
 
 ```c
 // 0x648B75D44930D6BD
-Any _TASK_INTIMIDATED(Any p0, Ped ped, Any p2, Any p3, Any p4);
+BOOL _TASK_INTIMIDATED(Ped victim, Ped attacker, BOOL p2);
 ```
 
 
 ## Parameters
-* **p0**:
-* **ped**:
+* **victim**:
+* **attacker**:
 * **p2**:
-* **p3**:
-* **p4**:
 
 ## Return value
+Returns `true` on success, or `false` if `attacker` doesn't exist, or is dead.

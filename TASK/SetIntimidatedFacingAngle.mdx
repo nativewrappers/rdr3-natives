@@ -1,0 +1,20 @@
+---
+ns: TASK
+apiset: client
+---
+## _SET_INTIMIDATED_FACING_ANGLE
+
+```c
+// 0x0FE797DD9F70DFA6
+void _SET_INTIMIDATED_FACING_ANGLE(Ped ped, BOOL useLimits, float minAngle, float maxAngle);
+```
+
+
+## Parameters
+* **ped**: The ped to set the intimidated angles on
+* **useLimits**: If `true` the ped's viewing angle will be limited to the angle range given for `minAngle` and `maxAngle`, when set to `false` the player always fully faces the player
+* **minAngle**: The minimum viewing angle, requires `useLimits` to be `true`.
+* **maxAngle**: The maximum viewing angle, reuqeres `useLimits` to be `true`.
+
+## Examples
+<SharedExamples name="Intimidated" />

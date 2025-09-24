@@ -1,0 +1,17 @@
+---
+ns: TASK
+apiset: client
+---
+## _GET_PED_BREAK_FREE_PROGRESS
+
+```c
+// 0x03D741CB4052E26C
+float _GET_PED_BREAK_FREE_PROGRESS(Ped ped);
+```
+
+## Parameters
+* **ped**:
+
+## Return value
+Returns the current progress of the "Break Free" prompt when the specified ped is hogtied or knocked out, by default it returns -1.0.
+The value increases as the player spams the prompt key until it reaches 1.0, at which point the ped breaks free.

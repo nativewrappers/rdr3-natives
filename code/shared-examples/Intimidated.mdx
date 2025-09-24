@@ -1,0 +1,13 @@
+```lua
+-- Set ped interaction personality to scripted timid robbery
+SetPedInteractionPersonality(ped, `SCRIPTEDTIMIDROB`)
+
+-- Start intimidated task with the player
+TaskIntimidated2(ped, PlayerPedId(), 1, 0, 0, 0, 0, 0, 83968)
+
+-- Make the ped face within the range 0.0 to -360.0 degrees
+SetIntimidatedFacingAngle(ped, 1, 0.0, -360.0)
+
+-- Force the ped to always face the player
+SetIntimidatedFacingAngle(ped, 0)
+```
