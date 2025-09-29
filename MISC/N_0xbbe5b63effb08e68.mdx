@@ -6,17 +6,19 @@ apiset: client
 
 ```c
 // 0xBBE5B63EFFB08E68
-Any _0xBBE5B63EFFB08E68(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5, Any p6);
+BOOL _GET_GROUND_Z_AND_MATERIAL_FOR_3D_COORD(float x, float y, float z, int p3, float* groundZ, Hash* material, int* flags);
 ```
 
+Outputs the ground Z axis, its material and flags.
+p1 is 17, 129 or 3423 in R* scripts (maybe flags)
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **x**:
+* **y**:
+* **z**:
 * **p3**:
-* **p4**:
-* **p5**:
-* **p6**:
+* **groundZ**:
+* **material**:
+* **flags**:
 
 ## Return value
