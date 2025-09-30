@@ -6,17 +6,17 @@ apiset: client
 
 ```c
 // 0xBBE5B63EFFB08E68
-BOOL _GET_GROUND_Z_AND_MATERIAL_FOR_3D_COORD(Vector3 coords, int p3, float* groundZ, Hash* material, int* flags);
+BOOL _GET_GROUND_Z_AND_MATERIAL_FOR_3D_COORD(Vector3 coords, int flags, float* groundZ, Hash* material, int* outFlags);
 ```
 
 Outputs the ground Z axis, its material and flags.
-p1 is 17, 129 or 3423 in R* scripts (maybe flags)
+Input flags are 17, 129 or 3423 in R* scripts. Surely similar to flags of shapes test.
 
 ## Parameters
 * **coords**:
-* **p3**:
+* **flags**:
 * **groundZ**:
 * **material**:
-* **flags**:
+* **outFlags**:
 
 ## Return value
