@@ -1,6 +1,7 @@
 ---
 ns: TASK
 apiset: client
+related_natives: ["TASK_PLAY_ANIM"]
 ---
 ## TASK_PLAY_ANIM_ADVANCED
 
@@ -8,9 +9,6 @@ apiset: client
 // 0x83CDB10EA29B370B
 void TASK_PLAY_ANIM_ADVANCED(Ped ped, char* animDict, char* animName, Vector3 pos, Vector3 rot, float speed, float speedMultiplier, int duration, int flags, float p13, int p14, int p15, int p16);
 ```
-
-flags: see TASK_PLAY_ANIM
-ikFlags: see TASK_PLAY_ANIM
 
 ## Parameters
 * **ped**:
@@ -21,8 +19,8 @@ ikFlags: see TASK_PLAY_ANIM
 * **speed**:
 * **speedMultiplier**:
 * **duration**:
-* **flags**:
+* **flags**: Refer to <Enum name="eScriptedAnimFlags" />
 * **p13**:
-* **p14**:
+* **p14**: Refer to <Enum name="eIkControlFlags" />
 * **p15**:
 * **p16**:

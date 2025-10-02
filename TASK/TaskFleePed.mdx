@@ -2,6 +2,7 @@
 ns: TASK
 aliases: ["_TASK_SMART_FLEE_STYLE_PED"]
 apiset: client
+related_natives: ["TASK_FLEE_COORD"]
 ---
 ## TASK_FLEE_PED
 
@@ -11,12 +12,11 @@ void TASK_FLEE_PED(Ped ped, Ped fleeFromTarget, int fleeStyle, int flag, float p
 ```
 
 Params: p4 = -1.0f, p5 = -1, p6 = 0 in R* Scripts
-fleeStyle: see TASK_FLEE_COORD
 
 ## Parameters
 * **ped**:
 * **fleeFromTarget**:
-* **fleeStyle**:
+* **fleeStyle**: Refer to <Enum name="eFleeStyle" />
 * **flag**:
 * **p4**:
 * **p5**:
