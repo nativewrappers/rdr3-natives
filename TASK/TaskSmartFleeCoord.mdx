@@ -1,6 +1,7 @@
 ---
 ns: TASK
 apiset: client
+related_natives: ["TASK_FLEE_COORD"]
 ---
 ## TASK_SMART_FLEE_COORD
 
@@ -10,12 +11,11 @@ void TASK_SMART_FLEE_COORD(Ped ped, Vector3 pos, float distance, int time, int f
 ```
 
 Makes the specified ped flee the specified distance from the specified position.
-fleeType: see TASK_FLEE_COORD
 
 ## Parameters
 * **ped**:
 * **pos**:
 * **distance**:
 * **time**:
-* **fleeType**:
+* **fleeType**: Refer to <Enum name="eFleeStyle" />
 * **fleeSpeed**:

@@ -1,6 +1,7 @@
 ---
 ns: TASK
 apiset: client
+related_natives: ["TASK_ENTER_VEHICLE"]
 ---
 ## TASK_LEAVE_VEHICLE
 
@@ -9,10 +10,8 @@ apiset: client
 void TASK_LEAVE_VEHICLE(Ped ped, Vehicle vehicle, int flags, Ped unkPed);
 ```
 
-flags: See TASK_ENTER_VEHICLE
-
 ## Parameters
 * **ped**:
 * **vehicle**:
-* **flags**:
+* **flags**: Refer to <Enum name="eEnterExitVehicleFlags" />
 * **unkPed**:

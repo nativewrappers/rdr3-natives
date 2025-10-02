@@ -1,6 +1,7 @@
 ---
 ns: TASK
 apiset: client
+related_natives: ["TASK_ENTER_VEHICLE"]
 ---
 ## TASK_DISMOUNT_ANIMAL
 
@@ -10,11 +11,10 @@ void TASK_DISMOUNT_ANIMAL(Ped rider, int taskFlag, Any p2, Any p3, Any p4, Ped t
 ```
 
 Dismounts the ped from the animal it's mounted on. taskFlag affects what side the rider gets off. p2-p5 are almost always 0.
-flags: See TASK_ENTER_VEHICLE
 
 ## Parameters
 * **rider**:
-* **taskFlag**:
+* **taskFlag**: Refer to <Enum name="eEnterExitVehicleFlags" />
 * **p2**:
 * **p3**:
 * **p4**:
