@@ -2,6 +2,7 @@
 ns: MISC
 aliases: ["0xAB3D3F45436DB1D8"]
 apiset: client
+related_natives: ["ENABLE_DISPATCH_SERVICE"]
 ---
 ## _CREATE_INCIDENT_WITH_ENTITIES
 
@@ -10,12 +11,10 @@ apiset: client
 Any _CREATE_INCIDENT_WITH_ENTITIES(int dispatchService, Vector3 pos, ItemSet itemSet, float radius, int* outIncidentID);
 ```
 
-dispatchService: see ENABLE_DISPATCH_SERVICE
-
 The entities must be added to itemSet.
 
 ## Parameters
-* **dispatchService**:
+* **dispatchService**: Refer to <EmbeddedEnum name="eDispatchService" />
 * **pos**:
 * **itemSet**:
 * **radius**:
