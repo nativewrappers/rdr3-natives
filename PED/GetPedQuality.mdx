@@ -2,6 +2,7 @@
 ns: PED
 aliases: ["0x7BCC6087D130312A"]
 apiset: client
+related_natives: ["_SET_PED_QUALITY"]
 ---
 ## _GET_PED_QUALITY
 
@@ -12,16 +13,8 @@ int _GET_PED_QUALITY(Ped ped);
 
 Returns Ped Quality to be used to calculate Skinning Quality
 
-enum ePedQuality
-{
-	PQ_INVALID = -1,
-	PQ_LOW,
-	PQ_MEDIUM,
-	PQ_HIGH,
-	PQ_MAX
-};
 
 ## Parameters
-* **ped**:
+* **ped**: Refer to <Enum name="ePedQuality" />
 
 ## Return value

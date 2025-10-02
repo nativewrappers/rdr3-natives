@@ -2,6 +2,7 @@
 ns: PED
 aliases: ["0x802092B07E3B1EEA"]
 apiset: client
+related_natives: ["SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT"]
 ---
 ## SET_PED_SHOULD_PLAY_COMBAT_SCENARIO_EXIT
 
@@ -10,11 +11,10 @@ apiset: client
 Any SET_PED_SHOULD_PLAY_COMBAT_SCENARIO_EXIT(Ped ped, Vector3 pos, int lookIntensity);
 ```
 
-lookIntensity: see SET_PED_SHOULD_PLAY_FLEE_SCENARIO_EXIT
 
 ## Parameters
 * **ped**:
 * **pos**:
-* **lookIntensity**:
+* **lookIntensity**: Refer to <Enum name="eLookIntensity" />
 
 ## Return value

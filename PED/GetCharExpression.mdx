@@ -2,6 +2,7 @@
 ns: PED
 aliases: ["0xFD1BA1EEF7985BB8","_GET_PED_FACE_FEATURE"]
 apiset: client
+related_natives: ["_SET_CHAR_EXPRESSION"]
 ---
 ## _GET_CHAR_EXPRESSION
 
@@ -12,12 +13,10 @@ float _GET_CHAR_EXPRESSION(Ped ped, int index);
 
 Gets MetaPedExpression at index specified
 
-For index, see: _SET_CHAR_EXPRESSION
-
 Old name: _GET_PED_FACE_FEATURE
 
 ## Parameters
 * **ped**:
-* **index**:
+* **index**: Refer to <Enum name="eMetaPedExpressions" />
 
 ## Return value
