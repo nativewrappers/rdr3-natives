@@ -2,6 +2,7 @@
 ns: INVENTORY
 aliases: ["0x2E1CDC1FF3B8473E"]
 apiset: client
+related_natives: ["_INVENTORY_GET_IS_INVENTORY_ITEM_SOUND_VALID", "_IS_SCRIPTED_AUDIO_CUSTOM", "_PLAY_SOUND_FROM_ITEM"]
 ---
 ## _INVENTORY_GET_INVENTORY_ITEM_SOUND
 
@@ -10,11 +11,10 @@ apiset: client
 Hash _INVENTORY_GET_INVENTORY_ITEM_SOUND(Hash item, int soundType);
 ```
 
-soundType: see 0x2BAE4880DCDD560B
 Returns item Hash to be used with _IS_SCRIPTED_AUDIO_CUSTOM and _PLAY_SOUND_FROM_ITEM (p0)
 
 ## Parameters
 * **item**:
-* **soundType**:
+* **soundType**: Refer to <EmbeddedEnum name="CItemInfoSoundsInterface__sSoundsInfo__eSoundType" />
 
 ## Return value
