@@ -2,6 +2,7 @@
 ns: UIFEED
 aliases: ["0xC17F69E1418CD11F"]
 apiset: client
+related_natives: ["UI_FEED_CLEAR_CHANNEL"]
 ---
 ## UI_FEED_GET_CURRENT_MESSAGE
 
@@ -10,10 +11,9 @@ apiset: client
 int UI_FEED_GET_CURRENT_MESSAGE(int feedChannel);
 ```
 
-feedChannel: see UI_FEED_CLEAR_CHANNEL
 Returns feedMessage
 
 ## Parameters
-* **feedChannel**:
+* **feedChannel**: Refer to <Enum name="eUIFeedChannel" />
 
 ## Return value
