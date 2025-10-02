@@ -2,6 +2,7 @@
 ns: PED
 aliases: ["0x6243635AF2F1B826"]
 apiset: client
+related_natives: ["_GET_SHOP_ITEM_NUM_WEARABLE_STATES"]
 ---
 ## _GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX
 
@@ -12,7 +13,7 @@ Hash _GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX(Hash componentHash, int wearableStat
 
 Gets an available wearable state by index for a shop item / component - it does not retreive what the current state is. p3 seems to be true in scripts.
 
-Use 0xFFCC2DB2D9953401 (_GET_SHOP_ITEM_NUM_WEARABLE_STATES) to get the number of available wearable states
+Use <Native name="_GET_SHOP_ITEM_NUM_WEARABLE_STATES" /> to get the number of available wearable states
 
 ## Parameters
 * **componentHash**:

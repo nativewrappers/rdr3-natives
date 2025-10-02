@@ -2,6 +2,7 @@
 ns: PED
 aliases: ["0x88EFFED5FE8B0B4A"]
 apiset: client
+related_natives: ["_SET_PED_DAMAGE_CLEANLINESS"]
 ---
 ## _GET_PED_DAMAGE_CLEANLINESS
 
@@ -10,14 +11,8 @@ apiset: client
 int _GET_PED_DAMAGE_CLEANLINESS(Ped ped);
 ```
 
-enum ePedDamageCleanliness
-{
-	PED_DAMAGE_CLEANLINESS_POOR,
-	PED_DAMAGE_CLEANLINESS_GOOD,
-	PED_DAMAGE_CLEANLINESS_PERFECT
-};
-
 ## Parameters
 * **ped**:
 
 ## Return value
+Refer to <Enum name="ePedDamageCleanliness" />
