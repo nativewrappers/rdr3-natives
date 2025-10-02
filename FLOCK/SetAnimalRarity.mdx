@@ -2,6 +2,7 @@
 ns: FLOCK
 aliases: ["0x8B6F0F59B1B99801"]
 apiset: client
+related_natives: ["_GET_ANIMAL_RARITY"]
 ---
 ## _SET_ANIMAL_RARITY
 
@@ -10,8 +11,6 @@ apiset: client
 void _SET_ANIMAL_RARITY(Ped ped, int rarityLevel);
 ```
 
-rarityLevel: see _GET_ANIMAL_RARITY
-
 ## Parameters
 * **ped**:
-* **rarityLevel**:
+* **rarityLevel**: Refer to <EmbeddedEnum name="eAnimalRarityLevel" />
