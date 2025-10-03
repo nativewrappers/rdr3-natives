@@ -1,0 +1,18 @@
+---
+ns: PED
+apiset: client
+---
+## _CAN_PED_HEAR_TARGET_PED
+
+```c
+// 0x0EA9EACBA3B01601
+BOOL _CAN_PED_HEAR_TARGET_PED(Ped target, Ped ped, BOOL flag);
+```
+
+## Parameters
+* **target**:
+* **ped**:
+* **flag**: Usually flag is set to false when ped is in stealth mode
+
+## Return value
+Return `true` if the ped is heard by the target ped.

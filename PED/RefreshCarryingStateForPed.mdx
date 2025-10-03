@@ -1,0 +1,66 @@
+---
+ns: PED
+apiset: client
+---
+## _REFRESH_CARRYING_STATE_FOR_PED
+
+```c
+// 0x4642182A298187D0
+int _REFRESH_CARRYING_STATE_FOR_PED(Ped ped, int carryingType, Entity* ents, int p3, int filter);
+```
+
+
+You can also get the entity being carried and the entity it was taken from with a buffer on `ents`.
+
+Status:
+INVALID = 0,
+STARTING = 1,
+PROGRESSING = 2,
+FINISHING = 3
+
+CARRYING TYPES:
+UNK_0 = -1,
+UNK_1 = 0,
+UNK_2 = 1,
+UNK_3 = 2,
+UNK_4 = 3,
+CARRYING_FROM_GROUND = 4,
+CARRYING_FROM_MOUNT = 5,
+PUTTING_DOWN_GROUND = 6,
+PUTTING_DOWN_MOUNT = 7,
+UNK_9 = 8,
+UNK_10 = 9,
+UNK_11 = 10
+
+Filters:
+    ENTITY_ONLY = 0,
+    NOTHING = 1,
+    ENTITY_AND_TAKEN_FROM_ENTITY = 2
+
+## Parameters
+* **ped**:
+* **carryingType**:
+* **ents**:
+* **p3**: Usually 4.
+* **filter**:
+
+## Return value
+Return the status of the wanted carrying action of a ped. 
+
+## Examples
+```lua
+-- Print the entity being carried from ground
+local retval, entity = Citizen.InvokeNative(0x4642182A298187D0, PlayerPedId(), 1, Citizen.PointerValueInt(), 4, 0, Citizen.ResultAsInteger())
+if (retval ~= 0) then
+    print(entity)
+end
+
+-- Print the entity (and mount) being carried from a mount
+local struct = DataView.ArrayBuffer(2*8)
+local retval = Citizen.InvokeNative(0x4642182A298187D0, PlayerPedId(), 5, struct:Buffer(), 4, 2, Citizen.ResultAsInteger())
+if (retval ~= 0) then
+    local entity = struct:GetInt32(0*8)
+    local fromEntity = struct:GetInt32(1*8)
+    print(entity, fromEntity)
+end
+```

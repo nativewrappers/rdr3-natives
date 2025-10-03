@@ -1,0 +1,40 @@
+---
+ns: PED
+apiset: client
+---
+## _COMPUTE_LOOT_FOR_PED_CARCASS
+
+```c
+// 0xB29C553BA582D09E
+int _COMPUTE_LOOT_FOR_PED_CARCASS(Any* outLoot, Hash model, int damageCleanliness, int skinningQuality);
+```
+
+Used in Script Function SATCHEL_COUNT_BREAKDOWN_COMPONENTS
+
+The first index of the buffer is required, it's the max size of loot (always 15 in R* scripts)
+outLoot is an array of loot hash, its size is returned by the native (it starts at the index 1).
+
+## Parameters
+* **outLoot**:
+* **model**:
+* **damageCleanliness**:
+* **skinningQuality**:
+
+## Return value
+Return the number of loot items for a ped carcass of given model, damage cleanliness and skinning quality.
+
+## Examples
+```lua
+-- Request the loots for a cow with 0 as damage cleanliness and 2 as skinning quality
+local size = 15
+local struct = DataView.ArrayBuffer(size * 8)
+struct:SetInt32(0, size)
+
+local numLoot = Citizen.InvokeNative(0xB29C553BA582D09E, struct:Buffer(), `a_c_cow`, 0, 2, Citizen.ResultAsInteger())
+if (numLoot > 0) then
+    for i = 1, numLoot do
+        local hash = struct:GetInt32(i * 8)
+        print(("i: %d: loot: %d"):format(i, hash))
+    end
+end
+```
