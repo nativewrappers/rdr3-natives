@@ -2,7 +2,6 @@
 ns: PED
 aliases: ["0x5653AB26C82938CF","_SET_PED_FACE_FEATURE"]
 apiset: client
-related_natives: ["UPDATE_PED_VARIATION"]
 ---
 ## _SET_CHAR_EXPRESSION
 
@@ -13,7 +12,7 @@ void _SET_CHAR_EXPRESSION(Ped ped, int index, float value);
 
 Sets MetaPedExpression at index specified. Morphs components, such as changing body size or facial features.
 
-Note: You have to update the ped's variation (using <Native name="UPDATE_PED_VARIATION" />) after calling this native
+Note: You have to update the ped's variation (using <Native name="_UPDATE_PED_VARIATION" />) after calling this native
 
 value: -1.0 to 1.0 (values beyond this likely won't sync to other clients)
 
