@@ -1,0 +1,18 @@
+---
+ns: VEHICLE
+apiset: client
+aliases: ["0x785639D89F8451AB"]
+---
+## _GET_JUNCTION_COORDS_FOR_TRAIN_TRACK
+
+```c
+// 0x785639D89F8451AB
+Vector3 _GET_JUNCTION_COORDS_FOR_TRAIN_TRACK(Hash trackConfig, int junctionIndex);
+```
+
+## Parameters
+* **trackConfig**: Hash key of the train track configuration (e.g. "NB_TROLLEY_TRACK_CONFIG")
+* **junctionIndex**: The junction point index to query.
+
+## Return value
+Returns the world coordinate of the given train track configuration at the specified `junctionIndex`

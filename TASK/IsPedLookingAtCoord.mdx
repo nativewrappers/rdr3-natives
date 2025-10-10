@@ -1,0 +1,23 @@
+---
+ns: TASK
+apiset: client
+aliases: ["0x508F5053E3F6F0C4"]
+---
+## _IS_PED_LOOKING_AT_COORD
+
+```c
+// 0x508F5053E3F6F0C4
+bool _IS_PED_LOOKING_AT_COORD(Ped ped, Vector3 coord, float radius);
+```
+
+hecks if the ped camera is directed at the given coord within the specified radius.
+
+https://www.youtube.com/watch?v=iLHXrWVvq_c
+
+## Parameters
+* **ped**:
+* **coord**: The coord to check if they're looking at
+* **radius**: The radius of the frustum
+
+## Return value
+Returns `true` if the ped camera is within the range of the frustum, `false` otherwise

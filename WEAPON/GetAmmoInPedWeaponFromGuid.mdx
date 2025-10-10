@@ -1,0 +1,35 @@
+---
+ns: WEAPON
+apiset: client
+aliases: ["0x4823F13A21F51964"]
+---
+## _GET_AMMO_IN_PED_WEAPON_FROM_GUID
+
+```c
+// 0x4823F13A21F51964
+int _GET_AMMO_IN_PED_WEAPON_FROM_GUID(Ped ped, Any* guid);
+```
+
+## Parameters
+* **ped**:
+* **guid**:
+
+## Return value
+Returns the total ammo in the ped weapon from it's guid, or `0`.
+
+## Examples
+```lua
+
+-- Example:
+local ped = PlayerPedId()
+local weaponGuid = DataView.ArrayBuffer(16 * 8)
+
+for attachPoint = 0, 3 do
+    -- GET_PED_WEAPON_GUID_AT_ATTACH_POINT
+    if (Citizen.InvokeNative(0x6929E22158E52265, ped, attachPoint, weaponGuid:Buffer())) then 
+        -- This will return the total ammo of each of the player weapon slots
+        local ammo = Citizen.InvokeNative(0x4823F13A21F51964, ped, weaponGuid:Buffer(), Citizen.ResultAsInteger()) or 0
+        print(string.format("You have %s ammo in the weapon at attach point #%s", ammo, attachPoint))
+    end
+end
+```

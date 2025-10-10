@@ -1,0 +1,34 @@
+---
+ns: ENTITY
+apiset: client
+aliases: ["0x5E214112806591EA"]
+---
+## _GET_OFFSET_FROM_ENTITY_BONE
+
+```c
+// 0x5E214112806591EA
+Vector3 _GET_OFFSET_FROM_ENTITY_BONE(Entity entity, int boneIndex);
+```
+
+
+## Parameters
+* **entity**:
+* **boneIndex**:
+
+## Return value
+Returns the offset from the entity for the selected bone index.
+
+## Examples
+```lua
+  CreateThread(function()
+    while true do
+        local playerPed = PlayerPedId()
+        local boneOffset = Citizen.InvokeNative(0x5E214112806591EA, playerPed, GetEntityBoneIndexByName(playerPed, "skel_r_hand"), Citizen.ResultAsVector())
+        local coords = GetOffsetFromEntityInWorldCoords(playerPed, boneOffset)
+
+        DrawMarker(0x50638AB9, coords, 0, 0, 0, 0, 0, 0, 0.05, 0.05, 0.05, 250, 250, 100, 250, 0, 0, 2, 0, 0, 0, 0)
+        
+        Wait(0)
+    end
+end)
+```

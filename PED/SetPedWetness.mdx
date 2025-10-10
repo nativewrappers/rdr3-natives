@@ -11,8 +11,8 @@ aliases: ["0xF9CFF5BB70E8A2CB"]
 void _SET_PED_WETNESS(Ped ped, float amount);
 ```
 
-This only works if you call SET_PED_WETNESS_HEIGHT firs
+This only works if you call <Native name="SET_PED_WETNESS_HEIGHT" /> first, or if you set `amount` to `0.0` or it dries natually you will have to apply `SET_PED_WETNESS_HEIGHT` again
 
 ## Parameters
 * **ped**:
-* **amount**: How wet the ped should appear ranges from 0.0-1.0
+* **amount**: How wet the ped should appear ranges from `0.0`-`1.0`

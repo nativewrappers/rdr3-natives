@@ -1,16 +1,58 @@
 ---
 ns: TASK
 apiset: client
+needs_research: true
 ---
 ## _0x2C497BDEF897C6DF
 
 ```c
 // 0x2C497BDEF897C6DF
-Any _0x2C497BDEF897C6DF(Any p0);
+AnimScene _0x2C497BDEF897C6DF(Ped ped);
 ```
+
+`_GET_ANIM_SCENE_FROM_PED_*`
+
+But in a strange way, it also seems to work with the butcher's meat-cutting animscene.
+
+This does not return AnimScenes in general — it seems restricted to 
+SEARCH-related scenes (needs more research).
+
 
 
 ## Parameters
-* **p0**:
+* **ped**:
 
 ## Return value
+Returns the AnimScene handle currently associated with the given Ped, but only when the anim event "SEARCHSTART" has fired on that Ped.  
+
+## Examples
+```lua
+local on = false
+RegisterCommand("animscene_test",function (src,args,raw)
+    on = not on
+    while on do 
+        Wait(0) 
+        local animscene_test = Citizen.InvokeNative(0x2C497BDEF897C6DF,PlayerPedId())
+        if animscene_test then
+            print("animscene_test",animscene_test)
+            print("GetAnimSceneDict",GetAnimSceneDict(tonumber(animscene_test))) 
+            print("GetAnimSceneDuration",GetAnimSceneDuration(tonumber(animscene_test))) 
+            print("GetAnimSceneObject",GetAnimSceneObject(tonumber(animscene_test),"player")) 
+            print("GetAnimScenePed",GetAnimScenePed(tonumber(animscene_test),"player")) 
+            print("GetAnimScenePlaybackListPhaseAudioLoadStress",GetAnimScenePlaybackListPhaseAudioLoadStress(tonumber(animscene_test)))
+            print("GetAnimSceneRate",GetAnimSceneRate(tonumber(animscene_test))) 
+            print("GetAnimSceneTime",GetAnimSceneTime(tonumber(animscene_test))) 
+            print("GetAnimSceneVehicle",GetAnimSceneVehicle(tonumber(animscene_test))) 
+            print("GetAnimSceneBool",GetAnimSceneBool(tonumber(animscene_test),"player")) 
+            print("GetAnimSceneCurrentActiveCameraCount",GetAnimSceneCurrentActiveCameraCount(tonumber(animscene_test))) 
+            print("GetAnimSceneEntityLocationData",GetAnimSceneEntityLocationData(tonumber(animscene_test),"player"))
+            print("GetAnimSceneFloat",GetAnimSceneFloat(tonumber(animscene_test))) 
+            print("GetAnimSceneInt",GetAnimSceneInt(tonumber(animscene_test))) 
+            print("GetAnimSceneOrigin",GetAnimSceneOrigin(tonumber(animscene_test))) 
+            print("GetAnimScenePhase",GetAnimScenePhase(tonumber(animscene_test))) 
+            print("IsAnimSceneLoaded",IsAnimSceneLoaded(tonumber(animscene_test))) 
+        end    
+    end
+end)
+
+```

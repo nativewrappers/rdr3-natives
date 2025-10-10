@@ -7,11 +7,12 @@ apiset: client
 
 ```c
 // 0x5337B721C51883A9
-void _REMOVE_PED_FROM_MOUNT(Ped ped, BOOL p1, BOOL p2);
+void _REMOVE_PED_FROM_MOUNT(Ped ped, BOOL p1, BOOL unkFlag1);
 ```
 
+`p1` is reset to `false` if there is some unknown task (maybe primary task?) in decompiled code.
 
 ## Parameters
 * **ped**:
 * **p1**:
-* **p2**:
+* **unkFlag1**:

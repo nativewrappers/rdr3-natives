@@ -9,9 +9,19 @@ apiset: client
 BOOL DOES_ENTITY_EXIST(Entity entity);
 ```
 
-Checks if the Entity exists
-
 ## Parameters
-* **entity**:
+* **entity**: the entity to check that exists
 
 ## Return value
+Returns `true` if the entity exists
+
+## Examples
+```lua
+local ped = PlayerPedId()
+local mount = GetMount(ped)
+
+if DoesEntityExist(mount) then
+  RemovePedFromMount(ped, true, false)
+  TaskAnimalFlee(mount, ped, -1)
+end
+```
