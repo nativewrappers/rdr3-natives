@@ -1,0 +1,70 @@
+Data binding for fish meter.
+
+```lua
+RegisterCommand("ScoreAndFistingMeter", function()
+
+    uiFlowblock = Citizen.InvokeNative(0xC0081B34E395CE48, -119209833) 
+    
+    local temp = 0
+    while not UiflowblockIsLoaded(uiFlowblock) do 
+        temp = temp + 1
+        if temp > 10000 then 
+            print('Failed To Load Flowblock')
+            return 
+        end
+        Citizen.Wait(1) 
+    end
+    
+
+    while not Citizen.InvokeNative(0x10A93C057B6BD944, uiFlowblock) do
+        Wait(200)
+    end
+    
+    container =  DatabindingAddDataContainerFromPath("", "centralInfoDatastore")
+
+    containersecoundRoot = DatabindingAddDataContainer(container, "fistingMeter")
+    
+    
+    DatabindingAddDataString(containersecoundRoot, "setLeftMeterColor", "COLOR_YELLOW") 
+    DatabindingAddDataString(containersecoundRoot, "setRightMeterColor", "COLOR_RED") 
+    DatabindingAddDataInt(containersecoundRoot, "setLeftMeter", 70)
+    DatabindingAddDataInt(containersecoundRoot, "setRightMeter", 30)
+    DatabindingAddDataBool(containersecoundRoot, "isVisible", true)
+
+    DatabindingAddDataString(container, "timerMessageString", "Hello")
+    DatabindingAddDataString(container, "timerString", "") 
+
+    containersecoundRoot2 = DatabindingAddDataContainer(container, "score")
+    
+    
+    DatabindingAddDataBool(containersecoundRoot2, "leftScoreVisible", true)
+    DatabindingAddDataString(containersecoundRoot2, "leftScore", "25") 
+    DatabindingAddDataString(containersecoundRoot2, "leftScoreTextColor", "COLOR_RED") 
+    DatabindingAddDataString(containersecoundRoot2, "leftScoreColor", "COLOR_YELLOW") 
+
+
+    DatabindingAddDataBool(containersecoundRoot2, "rightScoreVisible", true)
+    DatabindingAddDataString(containersecoundRoot2, "rightScore", "25") 
+    DatabindingAddDataString(containersecoundRoot2, "rightScoreTextColor", "COLOR_YELLOW") 
+    DatabindingAddDataString(containersecoundRoot2, "rightScoreColor", "COLOR_RED") 
+
+    DatabindingAddDataBool(containersecoundRoot2, "isVisible", true)
+
+    DatabindingAddDataString(container, "timerMessageString", "Fight")
+    DatabindingAddDataString(container, "timerString", "") 
+
+
+    UiflowblockEnter(uiFlowblock, `cTimer_scores_and_fistingMeter`)
+    
+    if UiStateMachineExists(1546991729) == 0 then
+        stateMachine = UiStateMachineCreate(1546991729, uiFlowblock)
+    end 
+
+    Wait(3000)
+
+    UiStateMachineDestroy(1546991729) 
+end, false)
+```
+> credits to `AhmedBero`, see [original comment](https://discord.com/channels/192358910387159041/643437867044962304/1438625464498258020)
+
+![Fisting meter data binding](/img/fisting-meter.png "Fisting meter data binding")
