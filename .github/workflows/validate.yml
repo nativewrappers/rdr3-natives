@@ -1,0 +1,22 @@
+name: Validate Natives
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download nativegen
+        run: |
+          curl -L https://github.com/nativewrappers/NativeCodeGen/releases/latest/download/nativegen-linux-x64 -o nativegen
+          chmod +x nativegen
+
+      - name: Validate MDX files
+        run: ./nativegen validate -i . --strict
