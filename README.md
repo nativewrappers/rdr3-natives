@@ -24,7 +24,7 @@ rdr3-natives/
 
 Each native function is documented in an MDX file with the following structure:
 
-```mdx
+````mdx
 ---
 ns: NAMESPACE_NAME
 apiset: client
@@ -47,7 +47,7 @@ Description of what is returned.
 
 ## Examples
 <SharedExamples name="ExampleName" />
-```
+````
 
 ### Frontmatter
 
