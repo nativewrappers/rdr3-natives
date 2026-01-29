@@ -2,7 +2,7 @@
 set -e
 
 # Download nativegen
-curl -L https://github.com/nativewrappers/NativeCodeGen/releases/latest/download/nativegen-linux-x64 -o nativegen
+curl -L -H "Cache-Control: no-cache" "https://github.com/nativewrappers/NativeCodeGen/releases/latest/download/nativegen-linux-x64?$(date +%s)" -o nativegen
 chmod +x nativegen
 
 # Generate outputs
