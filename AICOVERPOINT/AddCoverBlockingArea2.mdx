@@ -1,0 +1,24 @@
+---
+ns: AICOVERPOINT
+apiset: client
+---
+## _ADD_COVER_BLOCKING_AREA_2
+
+```c
+// 0x733077295AB51304
+void _ADD_COVER_BLOCKING_AREA_2(Any* args);
+```
+
+```c
+@alignas(8)
+struct unk {
+  int m_volumeHandle;
+  bool m_unk;
+  // seems to be the same flags that are used in ADD_COVER_BLOCKING_AREA, the ordering
+  // is also the same, but has an extra flag it can use (2, 4, 8, 16) 
+  u32 m_unkFlag;
+}
+```
+
+## Parameters
+* **args**:
