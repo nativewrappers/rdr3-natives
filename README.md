@@ -2,6 +2,11 @@
 
 This repository contains documentation for Red Dead Redemption 3 native functions in MDX format, along with supporting enums and structs.
 
+## Credits
+- alloc8or & finaweg - The initial native generation came from [rdr3-nativedb-data](https://github.com/alloc8or/rdr3-nativedb-data/)
+- femga - A lot of research is used from their [rdr3 discoveries](https://github.com/femga/rdr3_discoveries/)
+- Halen84 - A lot of the enums here come from their [flags and enums project](https://github.com/Halen84/RDR3-Native-Flags-And-Enums)
+
 # Terminology
 
 ScRT -> Script Runtime
