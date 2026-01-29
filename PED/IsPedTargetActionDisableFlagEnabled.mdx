@@ -8,13 +8,13 @@ related_natives: ["_CLEAR_PED_TARGET_ACTION_DISABLE_FLAG", "_SET_PED_TARGET_ACTI
 
 ```c
 // 0x02AA2096FE00F3E1
-Any _IS_PED_TARGET_ACTION_DISABLE_FLAG_ENABLED(Ped ped, int actionDisableFlag);
+Any _IS_PED_TARGET_ACTION_DISABLE_FLAG_ENABLED(Ped ped, eActionDisableFlags actionDisableFlag);
 ```
 
 
 ## Parameters
 * **ped**:
-* **actionDisableFlag**: Refer to <EmbeddedEnum name="CActionFlags__DisableFlag" />
+* **actionDisableFlag**: Refer to [enum: eActionDisableFlags]
 
 ## Return value
 Returns `true` if the target action disable flag is set

@@ -8,11 +8,13 @@ related_natives: ["_SET_ENTITY_CARRYING_FLAG"]
 
 ```c
 // 0x808077647856DE62
-Any _GET_ENTITY_CARRYING_FLAG(Entity entity, int flagId);
+i8 _GET_ENTITY_CARRYING_FLAG(Entity entity, eCarryingFlags flagId);
 ```
+
+This native only works on `Ped` and `Object` entity types
 
 ## Parameters
 * **entity**:
-* **flagId**: Refer to <EmbeddedEnum name="CCarryingFlags__Flags" />
+* **flagId**: Refer to [enum: eCarryingFlags]
 
 ## Return value
