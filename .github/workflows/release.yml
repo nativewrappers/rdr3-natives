@@ -21,18 +21,18 @@ jobs:
 
       - name: Generate Lua wrappers
         run: |
-          ./nativegen generate -i . -o dist/lua-classes -f lua
-          cd dist && zip -r lua-classes.zip lua-classes
+          ./nativegen generate -i . -o dist/nativewrappers-lua-class -f lua
+          cd dist && zip -r nativewrappers-lua-class.zip nativewrappers-lua-class
 
       - name: Generate Lua raw single file
         run: |
-          ./nativegen generate -i . -o dist/lua-raw -f lua --raw --single-file
-          cd dist && zip -r lua-raw.zip lua-raw
+          ./nativegen generate -i . -o dist/nativewrappers-lua-raw -f lua --raw --single-file
+          cd dist && zip -r nativewrappers-lua-raw.zip nativewrappers-lua-raw
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            dist/lua-classes.zip
-            dist/lua-raw.zip
+            dist/nativewrappers-lua-class.zip
+            dist/nativewrappers-lua-raw.zip
           generate_release_notes: true
