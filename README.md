@@ -51,7 +51,7 @@ Description of what the native does.
 Description of what is returned.
 
 ## Examples
-<SharedExamples name="ExampleName" />
+[example: ExampleName]
 ````
 
 ### Frontmatter
@@ -310,12 +310,15 @@ Reusable code examples are stored in `code/shared-examples/` and referenced usin
 
 ```mdx
 ## Examples
-<SharedExamples name="ExampleName" />
+[example: ExampleName]
 ```
 
-It should be noted that even if you don't put the `SharedExamples` mdx component,
-CodeGen will internally note what natives are used in an example, and put them
-under related examples.
+CodeGen automatically detects which natives are used inside each example, so you
+don't need to manually reference examples in native files. Any native that appears
+in an example will automatically have that example listed under "related examples".
+
+Explicitly referencing an example with `[example: ...]` gives it higher priority
+in the ordering than auto-detected examples.
 
 Example file:
 
@@ -331,6 +334,42 @@ CreateThread(function()
 end)
 ```
 ````
+
+## Inline References
+
+Use bracket syntax to reference other definitions in descriptions:
+
+| Pattern | Description |
+|---------|-------------|
+| `[enum: Name]` | Link to enum definition |
+| `[struct: Name]` | Link to struct definition |
+| `[native: Name]` | Link to native in same game |
+| `[native: Name \| game]` | Link to native in another game (e.g., `gta5`) |
+| `[example: Name]` | Embed shared code example |
+
+Example:
+```
+This native uses [enum: eWeaponHash] for the weapon parameter.
+See also [native: GET_CURRENT_PED_WEAPON] or the GTA5 equivalent [native: GET_CURRENT_PED_WEAPON | gta5].
+```
+
+## Callouts
+
+Use callouts for important notes in descriptions:
+
+| Pattern | Description |
+|---------|-------------|
+| `[note: Description]` | General note |
+| `[note: Title \| Description]` | Note with title |
+| `[warning: ...]` | Warning about potential issues |
+| `[info: ...]` | Additional information |
+| `[danger: ...]` | Critical warning |
+
+Example:
+```
+[warning: This native may cause crashes if called on invalid entities]
+[note: Performance | This native is expensive, avoid calling every frame]
+```
 
 ## Contributing
 
