@@ -1,0 +1,38 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download nativegen
+        run: |
+          curl -L https://github.com/nativewrappers/NativeCodeGen/releases/latest/download/nativegen-linux-x64 -o nativegen
+          chmod +x nativegen
+
+      - name: Generate Lua wrappers
+        run: |
+          ./nativegen generate -i . -o dist/lua-classes -f lua
+          cd dist && zip -r lua-classes.zip lua-classes
+
+      - name: Generate Lua raw single file
+        run: |
+          ./nativegen generate -i . -o dist/lua-raw -f lua --raw --single-file
+          cd dist && zip -r lua-raw.zip lua-raw
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            dist/lua-classes.zip
+            dist/lua-raw.zip
+          generate_release_notes: true
