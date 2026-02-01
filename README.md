@@ -181,7 +181,7 @@ ReturnType NATIVE_NAME(@attribute Type paramName);
 | Attribute | Description |
 |-----------|-------------|
 | `@this` | When CodeGen generates class types, this tells codegen that this parameter is what we should use to generate the classes, not the first argument |
-| `@notnull` | Tells CodeGen that the specified string *cannot* be null |
+| `@nullable` | Tells CodeGen that this string value can be null. |
 | `@in` | Tells CodeGen that this pointer field needs to be an input value, and is expected to be initialized before called |
 
 #### `@this` Attribute
@@ -195,15 +195,15 @@ Marks a parameter as the instance receiver for class generation:
 BOOL SOME_WEIRD_NATIVE_THAT_TAKES_PED_FIRST(Ped ped, @this Entity entity);
 ```
 
-#### `@notnull` Attribute
+#### `@nullable` Attribute
 
-In this code base (unlike Cfx's) `char*` will be treated as `string | null` in
-typings, if a native *cannot* take a null string it should have the @notnull attribute
-be applied to the argument
+In this code base `char*` will be treated as a string, but there might be some
+natives that can take a `null` string, in this case you would apply the `nullable`
+attribute.
 
 ```c
 // Returns string instead of string|null
-char* GET_NAME(@notnull char* hash);
+char* GET_NAME(@nullable char* nullableValue);
 ```
 
 #### `@in` Attribute
