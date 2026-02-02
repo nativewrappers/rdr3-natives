@@ -7,12 +7,16 @@ apiset: client
 
 ```cpp
 // 0xAC2767ED8BDFAB15
-void SET_ENTITY_HEALTH(Entity entity, int healthAmount, Entity entityKilledBy);
+void SET_ENTITY_HEALTH(Entity entity, u16 healthAmount, Entity entityKilledBy = 0);
 ```
 
-Sets the entity's health. healthAmount sets the health value to that, and sets the maximum health core value. Setting healthAmount to 0 will kill the entity. entityKilledBy parameter can also be 0
+[note: On peds you cannot set the players health higher than their core value.]
+[note: If `entityKilledBy` is a vehicle, internally it will automatically attribute the kill to the driver]
+
+Sets the entity's health to the specified `healthAmount`, setting this to `0` will
+kill the entity (if it's killable).
 
 ## Parameters
-* **entity**:
-* **healthAmount**:
-* **entityKilledBy**:
+* **entity**: The entity to set the health of
+* **healthAmount**: The amount of health the entity should have
+* **entityKilledBy**: The entity that killed `entity` or `0` for none
