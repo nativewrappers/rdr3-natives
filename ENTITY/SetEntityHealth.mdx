@@ -6,7 +6,7 @@ apiset: client
 
 ```cpp
 // 0xAC2767ED8BDFAB15
-void SET_ENTITY_HEALTH(Entity entity, u16 healthAmount, Entity entityKilledBy = 0);
+void SET_ENTITY_HEALTH(Entity entity, u16 healthAmount, Entity entityKilledBy = nullptr);
 ```
 
 [note: Peds cannot have their health set higher than their core attribute allow.]
@@ -17,4 +17,4 @@ Sets the entity's health to the specified `healthAmount`, setting this to `0` wi
 ## Parameters
 * **entity**: The entity to set the health of
 * **healthAmount**: The amount of health the entity should have
-* **entityKilledBy**: The entity that killed `entity` or `0` for none
+* **entityKilledBy**: The entity that killed `entity` or `nullptr` for none
