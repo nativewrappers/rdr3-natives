@@ -9,9 +9,11 @@ apiset: client
 Hash GET_ENTITY_MODEL(Entity entity);
 ```
 
-Returns the model hash from the entity
 
 ## Parameters
 * **entity**:
 
 ## Return value
+[note: This will return `0` if the entity doesn't have model info, or if the entity doesn't exist.]
+
+Returns the model hash of the entity

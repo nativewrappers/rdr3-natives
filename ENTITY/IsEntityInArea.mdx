@@ -6,16 +6,19 @@ apiset: client
 
 ```cpp
 // 0x0C2634C40A16193E
-BOOL IS_ENTITY_IN_AREA(Entity entity, Vector3 pos1, Vector3 pos2, BOOL p7, BOOL p8, Any p9);
+BOOL IS_ENTITY_IN_AREA(Entity entity, Vector3 boundsMin, Vector3 boundsMax, BOOL addDebugMarker = false, BOOL checkZPos = false, int mountFlag = 0);
 ```
 
+[warning: You should *probably* use your own AABB testing as it might be faster]
 
 ## Parameters
 * **entity**:
-* **pos1**:
-* **pos2**:
-* **p7**:
-* **p8**:
-* **p9**:
+* **boundsMin**:
+* **boundsMax**:
+* **addDebugMarker**: Looks to be leftover debug code, this will still run and do extra `z` tests in order to draw debug markers, but the marker type is hard coded to `0`, you should leave this to `false` to avoid un-neede overhead
+* **checkZPos**: When set to `true` this will also check the `z` position of the entity, otherwise this will just check the `x` and `y` of the bounds.
+* **mountFlag**: When the value is `2` it will make this return `false` if the `entity` is a ped and is in a vehicle, when set to any other non-zero number it will it will return `false` if the `entity` is a ped and *isn't* on a vehicle.
 
 ## Return value
+Returns `true` if the `entity` is in the `boundsMin` and `boundsMax`.
+
