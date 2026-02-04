@@ -4,14 +4,13 @@ apiset: client
 ---
 ## VEH_TO_NET
 
-```c
+```cpp
 // 0xB4C94523F023419C
 int VEH_TO_NET(Vehicle vehicle);
 ```
-
-Returns the network ID of the given vehicle.
 
 ## Parameters
 * **vehicle**:
 
 ## Return value
+Returns the network id for the specified `vehicle`, or `0` if the vehicle isn't networked.

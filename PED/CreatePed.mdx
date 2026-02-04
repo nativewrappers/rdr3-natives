@@ -11,7 +11,7 @@ Ped CREATE_PED(Hash modelHash, Vector3 pos, float heading, BOOL isNetwork = fals
 
 
 ## Parameters
-* **modelHash**: The model to load, you must <Native name="REQUEST_MODEL" /> before calling this or it will fail.
+* **modelHash**: The model to load, you must [native: REQUEST_MODEL] before calling this or it will fail.
 * **pos**: The position to spawn the ped at
 * **heading**: The heading at which to spawn the ped
 * **isNetwork**: `true` if you want the ped to be networked, `false` if you want it to be a local ped
@@ -23,4 +23,4 @@ Ped CREATE_PED(Hash modelHash, Vector3 pos, float heading, BOOL isNetwork = fals
 Returns the ped handle for the ped, or `0` if the ped failed to spawn
 
 ## Examples
-<SharedExamples name="CreatePed" />
+[example: CreatePed]

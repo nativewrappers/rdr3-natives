@@ -5,18 +5,18 @@ related_natives: ["HAS_MODEL_LOADED", "IS_MODEL_IN_CDIMAGE"]
 ---
 ## REQUEST_MODEL
 
-```c
+```cpp
 // 0xFA28FE3A6246FC30
 void REQUEST_MODEL(Hash model, BOOL p1);
 ```
 
 Request a model to be loaded into streaming memory.
 
-You should make sure to check that the model exists with <Native name="IS_MODEL_IN_CDIMAGE" />
+You should make sure to check that the model exists with [native: IS_MODEL_IN_CDIMAGE]
 
 ## Parameters
 * **model**: The model to request
 * **p1**:
 
 ## Examples
-<SharedExamples name="CreatePed" />
+[example: CreatePed]

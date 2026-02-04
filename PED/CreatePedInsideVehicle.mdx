@@ -4,19 +4,19 @@ apiset: client
 ---
 ## CREATE_PED_INSIDE_VEHICLE
 
-```c
+```cpp
 // 0x7DD959874C1FD534
-Ped CREATE_PED_INSIDE_VEHICLE(Vehicle vehicle, Hash modelHash, int seatIndex, BOOL p3, BOOL p4, BOOL p5);
+Ped CREATE_PED_INSIDE_VEHICLE(Vehicle vehicle, Hash modelHash, eVehicleSeat seatIndex, BOOL p3, BOOL p4, BOOL p5);
 ```
 
-<Note description="The `p3`, `p4` and `p5` probably match the GTA counter part, testing is required." />
+[note: The `p3`, `p4` and `p5` probably match the GTA counter part, testing is required.]
 
-See <Native name="CREATE_PED_INSIDE_VEHICLE" game="gta5" />
+See [native: CREATE_PED_INSIDE_VEHICLE | gta5]
 
 ## Parameters
 * **vehicle**: The vehicle to create the ped inside of
-* **modelHash**: The hash of the ped to create, this must be <Native name="REQUEST_MODEL" />
-* **seatIndex**: Refer to <EmbeddedEnum name="eVehicleSeat" />
+* **modelHash**: The hash of the ped to create, this must be [native: REQUEST_MODEL]
+* **seatIndex**: Refer to [enum: eVehicleSeat]
 * **p3**:
 * **p4**:
 * **p5**:

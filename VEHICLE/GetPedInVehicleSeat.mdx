@@ -4,15 +4,15 @@ apiset: client
 ---
 ## GET_PED_IN_VEHICLE_SEAT
 
-```c
+```cpp
 // 0xBB40DD2270B65366
-Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
+Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, eVehicleSeat seatIndex);
 ```
 
 
 ## Parameters
 * **vehicle**:
-* **seatIndex**: Refer to <EmbeddedEnum name="eVehicleSeat" />
+* **seatIndex**: Refer to [enum: eVehicleSeat]
 
 ## Return value
 Returns the ped in the specified vehicle seat, or `0` if there wasn't a ped.

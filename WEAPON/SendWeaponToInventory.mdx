@@ -5,9 +5,9 @@ apiset: client
 ---
 ## _SEND_WEAPON_TO_INVENTORY
 
-```c
+```cpp
 // 0xE9BD19F8121ADE3E
-void _SEND_WEAPON_TO_INVENTORY(Ped ped, Hash weaponHash);
+void _SEND_WEAPON_TO_INVENTORY(Ped ped, eWeaponHash weaponHash);
 ```
 
 Appears to just send specified weapon to your horse holster without having to be close
@@ -15,4 +15,4 @@ However, the weapon is not visible on the horse holster, but you can reach the w
 
 ## Parameters
 * **ped**:
-* **weaponHash**: Refer to <EmbeddedEnum name="eWeaponHash" />
+* **weaponHash**: Refer to [enum: eWeaponHash]

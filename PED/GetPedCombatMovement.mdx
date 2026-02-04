@@ -5,9 +5,9 @@ related_natives: ["SET_PED_COMBAT_MOVEMENT"]
 ---
 ## GET_PED_COMBAT_MOVEMENT
 
-```c
+```cpp
 // 0xDEA92412FCAEB3F5
-int GET_PED_COMBAT_MOVEMENT(Ped ped);
+ePedCombatMovement GET_PED_COMBAT_MOVEMENT(Ped ped);
 ```
 
 
@@ -15,4 +15,4 @@ int GET_PED_COMBAT_MOVEMENT(Ped ped);
 * **ped**:
 
 ## Return value
-Returns the peds <EmbeddedEnum name="CCombatData__Movement" />
+Returns the peds [enum: ePedCombatMovement]

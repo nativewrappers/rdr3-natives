@@ -5,14 +5,14 @@ apiset: client
 ---
 ## IS_WEAPON_A_GUN
 
-```c
+```cpp
 // 0x705BE297EEBDB95D
-Any IS_WEAPON_A_GUN(Hash weaponHash);
+bool IS_WEAPON_A_GUN(eWeaponHash weaponHash);
 ```
 
 Returns true if CWeaponInfoFlags::Flags::Gun is set.
 
 ## Parameters
-* **weaponHash**: Refer to <EmbeddedEnum name="eWeaponHash" />
+* **weaponHash**: Refer to [enum: eWeaponHash]
 
 ## Return value

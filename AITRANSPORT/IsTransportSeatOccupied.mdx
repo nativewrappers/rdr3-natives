@@ -5,14 +5,14 @@ apiset: client
 ---
 ## _IS_TRANSPORT_SEAT_OCCUPIED
 
-```c
+```cpp
 // 0x2E2E06023D07631E
-Any _IS_TRANSPORT_SEAT_OCCUPIED(Entity transportEntity, int seatIndex);
+bool _IS_TRANSPORT_SEAT_OCCUPIED(Entity transportEntity, eVehicleSeat seatIndex);
 ```
 
 
 ## Parameters
 * **transportEntity**:
-* **seatIndex**: Refer to <EmbeddedEnum name="eVehicleSeat" />
+* **seatIndex**: Refer to [enum: eVehicleSeat]
 
 ## Return value

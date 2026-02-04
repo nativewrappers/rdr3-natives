@@ -5,13 +5,13 @@ apiset: client
 ---
 ## _ENABLE_AMMO_TYPE_FOR_PED_WEAPON
 
-```c
+```cpp
 // 0x23FB9FACA28779C1
-void _ENABLE_AMMO_TYPE_FOR_PED_WEAPON(Ped ped, Hash weaponHash, Hash ammoHash);
+void _ENABLE_AMMO_TYPE_FOR_PED_WEAPON(Ped ped, eWeaponHash weaponHash, eAmmoType ammoHash);
 ```
 
 
 ## Parameters
 * **ped**:
-* **weaponHash**: Refer to <EmbeddedEnum name="eWeaponHash" />
-* **ammoHash**: Refer to <EmbeddedEnum name="eAmmoType" />
+* **weaponHash**: Refer to [enum: eWeaponHash]
+* **ammoHash**: Refer to [enum: eAmmoType]

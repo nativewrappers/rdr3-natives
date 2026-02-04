@@ -1,18 +1,20 @@
 ---
 ns: ENTITY
-aliases: ["_SET_ENTITY_HEALTH"]
 apiset: client
 ---
 ## SET_ENTITY_HEALTH
 
-```c
+```cpp
 // 0xAC2767ED8BDFAB15
-void SET_ENTITY_HEALTH(Entity entity, int healthAmount, Entity entityKilledBy);
+void SET_ENTITY_HEALTH(Entity entity, u16 healthAmount, Entity entityKilledBy = nullptr);
 ```
 
-Sets the entity's health. healthAmount sets the health value to that, and sets the maximum health core value. Setting healthAmount to 0 will kill the entity. entityKilledBy parameter can also be 0
+[note: Peds cannot have their health set higher than their core attribute allow.]
+[note: If `entityKilledBy` is a vehicle, internally it will automatically attribute the kill to the driver]
+
+Sets the entity's health to the specified `healthAmount`, setting this to `0` will kill the entity (if it's killable).
 
 ## Parameters
-* **entity**:
-* **healthAmount**:
-* **entityKilledBy**:
+* **entity**: The entity to set the health of
+* **healthAmount**: The amount of health the entity should have
+* **entityKilledBy**: The entity that killed `entity` or `nullptr` for none

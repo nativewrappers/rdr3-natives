@@ -4,17 +4,17 @@ apiset: client
 ---
 ## SET_CURRENT_PED_WEAPON
 
-```c
+```cpp
 // 0xADF692B254977C0C
-void SET_CURRENT_PED_WEAPON(Ped ped, Hash weaponHash, BOOL equipNow, int attachPoint, BOOL p4, BOOL p5);
+void SET_CURRENT_PED_WEAPON(Ped ped, eWeaponHash weaponHash, BOOL equipNow, int attachPoint, BOOL p4, BOOL p5);
 ```
 
 attachPoint:
 
 ## Parameters
 * **ped**:
-* **weaponHash**: Refer to <EmbeddedEnum name="eWeaponHash" />
+* **weaponHash**: Refer to [enum: eWeaponHash]
 * **equipNow**:
-* **attachPoint**: Refer to <EmbeddedEnum name="eWeaponAttachPoint" />
+* **attachPoint**: Refer to [enum: eWeaponAttachPoint]
 * **p4**:
 * **p5**:

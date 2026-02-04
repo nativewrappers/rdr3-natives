@@ -5,15 +5,15 @@ apiset: client
 ---
 ## GET_OWNER_OF_EXPLOSION_IN_ANGLED_AREA
 
-```c
+```cpp
 // 0x8002DDAB58594D78
-Entity GET_OWNER_OF_EXPLOSION_IN_ANGLED_AREA(int explosionType, Vector3 pos1, Vector3 pos2, float radius);
+Entity GET_OWNER_OF_EXPLOSION_IN_ANGLED_AREA(eExplosionTag explosionType, Vector3 pos1, Vector3 pos2, float radius);
 ```
 
 explosionType: see ADD_EXPLOSION
 
 ## Parameters
-* **explosionType**: Refer to <EmbeddedEnum name="eExplosionTag" />
+* **explosionType**: Refer to [enum: eExplosionTag]
 * **pos1**:
 * **pos2**:
 * **radius**:

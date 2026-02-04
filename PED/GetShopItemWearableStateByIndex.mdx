@@ -6,14 +6,14 @@ related_natives: ["_GET_SHOP_ITEM_NUM_WEARABLE_STATES"]
 ---
 ## _GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX
 
-```c
+```cpp
 // 0x6243635AF2F1B826
 Hash _GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX(Hash componentHash, int wearableStateIndex, BOOL isMpFemale, BOOL p3);
 ```
 
 Gets an available wearable state by index for a shop item / component - it does not retreive what the current state is. p3 seems to be true in scripts.
 
-Use <Native name="_GET_SHOP_ITEM_NUM_WEARABLE_STATES" /> to get the number of available wearable states
+Use [native: _GET_SHOP_ITEM_NUM_WEARABLE_STATES] to get the number of available wearable states
 
 ## Parameters
 * **componentHash**:

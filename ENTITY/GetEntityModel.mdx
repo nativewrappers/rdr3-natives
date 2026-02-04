@@ -4,14 +4,16 @@ apiset: client
 ---
 ## GET_ENTITY_MODEL
 
-```c
+```cpp
 // 0xDA76A9F39210D365
 Hash GET_ENTITY_MODEL(Entity entity);
 ```
 
-Returns the model hash from the entity
 
 ## Parameters
 * **entity**:
 
 ## Return value
+[note: This will return `0` if the entity doesn't have model info, or if the entity doesn't exist.]
+
+Returns the model hash of the entity

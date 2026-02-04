@@ -5,14 +5,14 @@ apiset: client
 ---
 ## _REMOVE_AMMO_FROM_PED
 
-```c
+```cpp
 // 0xF4823C813CB8277D
-void _REMOVE_AMMO_FROM_PED(Ped ped, Hash weaponHash, int amount, Hash removeReason);
+void _REMOVE_AMMO_FROM_PED(Ped ped, eWeaponHash weaponHash, int amount, eRemoveItemReason removeReason);
 ```
 
 
 ## Parameters
 * **ped**:
-* **weaponHash**: Refer to <EmbeddedEnum name="eWeaponHash" />
+* **weaponHash**: Refer to [enum: eWeaponHash]
 * **amount**:
-* **removeReason**: Refer to <EmbeddedEnum name="eRemoveItemReason" />
+* **removeReason**: Refer to [enum: eRemoveItemReason]

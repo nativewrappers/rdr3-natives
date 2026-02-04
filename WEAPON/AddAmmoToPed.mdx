@@ -5,14 +5,14 @@ apiset: client
 ---
 ## _ADD_AMMO_TO_PED
 
-```c
+```cpp
 // 0xB190BCA3F4042F95
-void _ADD_AMMO_TO_PED(Ped ped, Hash weaponHash, int amount, Hash addReason);
+void _ADD_AMMO_TO_PED(Ped ped, eWeaponHash weaponHash, int amount, eAddItemReason addReason);
 ```
 
 
 ## Parameters
 * **ped**: The ped to give the ammo, this cannot be a remote player.
-* **weaponHash**: Refer to <EmbeddedEnum name="eWeaponHash" />
+* **weaponHash**: Refer to [enum: eWeaponHash]
 * **amount**: The amount of ped to add to the ammo
-* **addReason**: Refer to <EmbeddedEnum name="eAddItemReason" />
+* **addReason**: Refer to [enum: eAddItemReason]

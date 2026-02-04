@@ -5,9 +5,9 @@ apiset: client
 ---
 ## _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID
 
-```c
+```cpp
 // 0xB4158C8C9A3B5DCE
-Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID(int inventoryId, Hash item, int quantity, Hash removeReason);
+Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID(int inventoryId, Hash item, int quantity, eRemoveItemReason removeReason);
 ```
 
 
@@ -15,6 +15,6 @@ Any _INVENTORY_REMOVE_INVENTORY_ITEM_WITH_ITEMID(int inventoryId, Hash item, int
 * **inventoryId**:
 * **item**:
 * **quantity**:
-* **removeReason**: Refer to <EmbeddedEnum name="eRemoveItemReason" />
+* **removeReason**: Refer to [enum: eRemoveItemReason]
 
 ## Return value

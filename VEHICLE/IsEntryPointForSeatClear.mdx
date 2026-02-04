@@ -5,16 +5,16 @@ apiset: client
 ---
 ## IS_ENTRY_POINT_FOR_SEAT_CLEAR
 
-```c
+```cpp
 // 0x80DDCCB2F4A3EB57
-BOOL IS_ENTRY_POINT_FOR_SEAT_CLEAR(Ped ped, Vehicle vehicle, int seatIndex, BOOL side, BOOL onEnter);
+BOOL IS_ENTRY_POINT_FOR_SEAT_CLEAR(Ped ped, Vehicle vehicle, eVehicleSeat seatIndex, BOOL side, BOOL onEnter);
 ```
 
 
 ## Parameters
 * **ped**:
 * **vehicle**:
-* **seatIndex**: Refer to <EmbeddedEnum name="eVehicleSeat" />
+* **seatIndex**: Refer to [enum: eVehicleSeat]
 * **side**:
 * **onEnter**:
 

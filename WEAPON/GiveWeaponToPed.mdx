@@ -5,9 +5,9 @@ apiset: client
 ---
 ## GIVE_WEAPON_TO_PED
 
-```c
+```cpp
 // 0x5E3BDDBCB83F3D84
-Hash GIVE_WEAPON_TO_PED(Ped ped, Hash weaponHash, int ammoCount, BOOL bForceInHand, BOOL bForceInHolster, int attachPoint, BOOL bAllowMultipleCopies, float p7, float p8, Hash addReason, BOOL bIgnoreUnlocks, float permanentDegradation, BOOL p12);
+Hash GIVE_WEAPON_TO_PED(Ped ped, eWeaponHash weaponHash, int ammoCount, BOOL bForceInHand, BOOL bForceInHolster, int attachPoint, BOOL bAllowMultipleCopies, float p7, float p8, eAddItemReason addReason, BOOL bIgnoreUnlocks, float permanentDegradation, BOOL p12);
 ```
 
 Gives the ped the weapon.
@@ -18,15 +18,15 @@ permanentDegradation: default 0.5, any higher than 0 it will automatically make 
 
 ## Parameters
 * **ped**:
-* **weaponHash**: Refer to <EmbeddedEnum name="eWeaponHash" />
+* **weaponHash**: Refer to [enum: eWeaponHash]
 * **ammoCount**:
 * **bForceInHand**:
 * **bForceInHolster**:
-* **attachPoint**: Refer to <EmbeddedEnum name="eWeaponAttachPoint" />
+* **attachPoint**: Refer to [enum: eWeaponAttachPoint]
 * **bAllowMultipleCopies**:
 * **p7**:
 * **p8**:
-* **addReason**: Refer to <EmbeddedEnum name="eAddItemReason" />
+* **addReason**: Refer to [enum: eAddItemReason]
 * **bIgnoreUnlocks**:
 * **permanentDegradation**:
 * **p12**:

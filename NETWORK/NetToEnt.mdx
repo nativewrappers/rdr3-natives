@@ -4,14 +4,14 @@ apiset: client
 ---
 ## NET_TO_ENT
 
-```c
+```cpp
 // 0xBFFEAB45A9A9094A
 Entity NET_TO_ENT(int netHandle);
 ```
 
-gets the entity id of a network id
 
 ## Parameters
 * **netHandle**:
 
 ## Return value
+Returns the `entity` handle for the `netHandle` or `0` if the entity doesn't exist.

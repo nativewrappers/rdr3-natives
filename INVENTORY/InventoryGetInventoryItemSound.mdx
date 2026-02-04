@@ -6,15 +6,15 @@ related_natives: ["_INVENTORY_GET_IS_INVENTORY_ITEM_SOUND_VALID", "_IS_SCRIPTED_
 ---
 ## _INVENTORY_GET_INVENTORY_ITEM_SOUND
 
-```c
+```cpp
 // 0x2E1CDC1FF3B8473E
-Hash _INVENTORY_GET_INVENTORY_ITEM_SOUND(Hash item, int soundType);
+Hash _INVENTORY_GET_INVENTORY_ITEM_SOUND(Hash item, eInventoryItemSound soundType);
 ```
 
 Returns item Hash to be used with _IS_SCRIPTED_AUDIO_CUSTOM and _PLAY_SOUND_FROM_ITEM (p0)
 
 ## Parameters
 * **item**:
-* **soundType**: Refer to <EmbeddedEnum name="CItemInfoSoundsInterface__sSoundsInfo__eSoundType" />
+* **soundType**: Refer to [enum: eInventoryItemSound]
 
 ## Return value

@@ -5,9 +5,9 @@ related_natives: ["TASK_ENTER_VEHICLE"]
 ---
 ## TASK_MOUNT_ANIMAL
 
-```c
+```cpp
 // 0x92DB0739813C5186
-void TASK_MOUNT_ANIMAL(Ped ped, Ped mount, int timer, int seatIndex, float pedSpeed, int mountStyle, Any p6, Any p7);
+void TASK_MOUNT_ANIMAL(Ped ped, Ped mount, int timer, eVehicleSeat seatIndex, float pedSpeed, int mountStyle, Any p6, Any p7);
 ```
 
 timer: in ms, if it reaches 0 it will auto warp the ped on the horse
@@ -17,7 +17,7 @@ Flags will still apply to mountStyle
 * **ped**:
 * **mount**:
 * **timer**:
-* **seatIndex**: Refer to <EmbeddedEnum name="eVehicleSeat" />
+* **seatIndex**: Refer to [enum: eVehicleSeat]
 * **pedSpeed**:
 * **mountStyle**:
 * **p6**:

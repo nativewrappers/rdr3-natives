@@ -4,14 +4,15 @@ apiset: client
 ---
 ## _GET_CARRIED_PELT_SKINS
 
-```c
+```cpp
 // 0x6F43C351A5D51E2F
-Any _GET_CARRIED_PELT_SKINS(Ped mount, Any* outData);
+int _GET_CARRIED_PELT_SKINS(Ped mount, HorsePeltIn* outData);
 ```
 
 
 ## Parameters
-* **mount**:
-* **outData**:
+* **mount**: The ped to thet the pelts from
+* **outData**: A HorsePeltIn dtruct that wil have its data applied to
 
 ## Return value
+The number of pelts that are on the back of the ped.

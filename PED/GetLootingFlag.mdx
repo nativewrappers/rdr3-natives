@@ -6,13 +6,13 @@ related_natives: ["SET_LOOTING_FLAG"]
 ---
 ## _GET_LOOTING_FLAG
 
-```c
+```cpp
 // 0xE4C11F104620DDCE
-Any _GET_LOOTING_FLAG(Ped ped, int lootFlag);
+bool _GET_LOOTING_FLAG(Ped ped, eLootingFlags lootFlag);
 ```
 
 ## Parameters
 * **ped**:
-* **lootFlag**: Refer to <EmbeddedEnum name="CLootingFlags__Flags" />
+* **lootFlag**: Refer to [enum: eLootingFlags]
 
 ## Return value

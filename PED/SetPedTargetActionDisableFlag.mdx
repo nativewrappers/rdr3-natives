@@ -6,12 +6,12 @@ related_natives: ["_IS_PED_TARGET_ACTION_DISABLE_FLAG_ENABLED", "_CLEAR_PED_TARG
 ---
 ## _SET_PED_TARGET_ACTION_DISABLE_FLAG
 
-```c
+```cpp
 // 0xC163DAC52AC975D3
-void _SET_PED_TARGET_ACTION_DISABLE_FLAG(Ped ped, int actionDisableFlag);
+void _SET_PED_TARGET_ACTION_DISABLE_FLAG(Ped ped, eActionDisableFlags actionDisableFlag);
 ```
 
 
 ## Parameters
 * **ped**:
-* **actionDisableFlag**: Refer to <EmbeddedEnum name="CActionFlags__DisableFlag" />
+* **actionDisableFlag**: Refer to [enum: eActionDisableFlags]

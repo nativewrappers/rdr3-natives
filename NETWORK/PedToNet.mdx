@@ -4,14 +4,13 @@ apiset: client
 ---
 ## PED_TO_NET
 
-```c
+```cpp
 // 0x0EDEC3C276198689
 int PED_TO_NET(Ped ped);
 ```
-
-Returns the network ID of the given ped.
 
 ## Parameters
 * **ped**:
 
 ## Return value
+Returns the network id for the specified `ped` or `0` if the entity isn't networked.
