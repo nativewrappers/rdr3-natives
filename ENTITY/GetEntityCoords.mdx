@@ -6,18 +6,14 @@ apiset: client
 
 ```cpp
 // 0xA86D5F069399F44D
-Vector3 GET_ENTITY_COORDS(Entity entity, BOOL alive = false, BOOL realCoords = true);
+Vector3 GET_ENTITY_COORDS(Entity entity, BOOL alive = false, BOOL realCoords = false);
 ```
 
-Gets the current coordinates for a specified entity.
-`entity` = The entity to get the coordinates from.
-`alive` = Unused by the game, potentially used by debug builds in order to assert whether or not an entity was alive.
-
-If entity is a ped and it's in a vehicle or on a mount the coords of that entity are returned. Set 'realCoords' to true when you need the true ped coords.
 
 ## Parameters
-* **entity**:
-* **alive**:
-* **realCoords**:
+* **entity**: The entity to get the coords of
+* **alive**: Unused, likely a leftover debug flag.
+* **realCoords**: When the `entity` is a ped, setting this to `true` will return the ped's actual position instead of the mounts, when set to `false` it will return the mounts position.
 
 ## Return value
+The `entity`'s position, or `vector3(0, 0, 0)` if the `entity` was invalid.

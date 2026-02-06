@@ -6,14 +6,13 @@ apiset: client
 
 ```cpp
 // 0x886E37EC497200B6
-BOOL IS_ENTITY_IN_AIR(Entity entity, Any p1);
+BOOL IS_ENTITY_IN_AIR(Entity entity, bool debugFlag = false);
 ```
-
-[note: This doesn't seem to have a second parameter?]
 
 
 ## Parameters
-* **entity**:
-* **p1**:
+* **entity**: The entity to check
+* **debugFlag**: Unused, likely a leftover debug parameter
 
 ## Return value
+Returns `true` if the entity is currently airborn.
