@@ -6,17 +6,17 @@ apiset: client
 
 ```cpp
 // 0xAF35D0D2583051B0
-Vehicle CREATE_VEHICLE(Hash modelHash, Vector3 pos, float heading, BOOL isNetwork, BOOL bScriptHostVeh, BOOL bDontAutoCreateDraftAnimals, BOOL p8);
+Vehicle CREATE_VEHICLE(Hash modelHash, Vector3 pos, float heading, BOOL shouldNetwork, BOOL bScriptHostVeh, BOOL bDontAutoCreateDraftAnimals, BOOL p8);
 ```
 
 
 ## Parameters
-* **modelHash**:
-* **pos**:
-* **heading**:
-* **isNetwork**:
-* **bScriptHostVeh**:
+* **modelHash**: The hash of the vehicle to create, this needs to be loaded with [native: REQUEST_MODEL]
+* **pos**: The position to create the vehicle at
+* **heading**: The heading of the vehicle
+* **shouldNetwork**: If the vehicle should be registered to the network and sync'd to clients
+* **bScriptHostVeh**: If the vehicle should be registered to the script host
 * **bDontAutoCreateDraftAnimals**:
-* **p8**:
+* **p8**: 
 
 ## Return value
