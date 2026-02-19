@@ -1,0 +1,32 @@
+---
+ns: ENTITY
+apiset: client
+nativedb: 93ddb030
+---
+## _FORCE_TRAIN_WAGON_POPULATION
+
+```cpp
+// 0x119A5714578F4E05
+void _FORCE_TRAIN_WAGON_POPULATION(Any trainWagon, Any toggle);
+```
+
+Enable/disable automatic ambient passenger population on a train wagon (carriage).
+	- toggle=true: wagon is kept populated; removed/deleted passengers are replaced quickly.
+	- toggle=false: stop auto-filling; after removing passengers, no new peds spawn until re-enabled.
+
+Notes:
+	- Intended for train carriage entities (wagons) obtained from a train (e.g., VEHICLE::GET_TRAIN_CARRIAGE).
+	- Often used with passenger collection via VEHICLE::_GET_ALL_WAGON_PASSENGERS.
+
+Example (from scripts):
+	for (int i = 0; i < VEHICLE::_GET_NUM_CARS_FROM_TRAIN_CONFIG(trainConfig); ++i) {
+		Vehicle wagon = VEHICLE::GET_TRAIN_CARRIAGE(train, i);
+		if (ENTITY::DOES_ENTITY_EXIST(wagon) && !ENTITY::IS_ENTITY_DEAD(wagon)) {
+			ENTITY::_FORCE_TRAIN_WAGON_POPULATION(wagon, true);
+		}
+	}
+
+
+## Parameters
+* **trainWagon**:
+* **toggle**:

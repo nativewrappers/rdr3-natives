@@ -1,0 +1,21 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_LOCKON_RANGE_CURRENT_WEAPON
+
+```cpp
+// 0x3799EFCC3C8CD5E1
+Any _GET_LOCKON_RANGE_CURRENT_WEAPON(Any ped);
+```
+
+Returns the current weapon's lock-on/aim-assist range for this ped.
+Internally selects a different range when the ped is mounted or in a vehicle vs on foot. Returns -1.0 if the ped/weapon data is unavailable.
+Commonly used to derive a clamp for PLAYER::SET_PLAYER_LOCKON_RANGE_OVERRIDE (e.g., add a margin or cap to 18.0).
+
+
+## Parameters
+* **ped**:
+
+## Return value

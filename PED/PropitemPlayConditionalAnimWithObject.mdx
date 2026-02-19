@@ -1,0 +1,28 @@
+---
+ns: PED
+apiset: client
+nativedb: 93ddb030
+---
+## _PROPITEM_PLAY_CONDITIONAL_ANIM_WITH_OBJECT
+
+```cpp
+// 0xCE7A6C1D5CDE1F9D
+void _PROPITEM_PLAY_CONDITIONAL_ANIM_WITH_OBJECT(Ped ped, Object targetEntity, char* propItemId, char* conditionalAnimName);
+```
+
+Plays a conditional locomotion animation with a prop item (commonly used for carry/attach interactions like crates).
+
+Notes:
+- propItemId is a ConditionalAnims.propitem identifier (e.g. "P_CS_CRATETNT01X_PH_R_HAND").
+- conditionalAnimName is the conditional locomotion anim name/key (e.g. "LOCO_ATTACH_CRATE_TNT").
+- targetEntity is the linked/context entity (often the object being manipulated).
+- This primarily drives the conditional anim + propitem state; scripts often still attach/detach the physical entity manually.
+- Pair with _REMOVE_CONDITIONAL_ANIM_PROPITEM to stop/clear the state.
+- Example video: https://imgur.com/a/1H3xmbv
+
+
+## Parameters
+* **ped**:
+* **targetEntity**:
+* **propItemId**:
+* **conditionalAnimName**:

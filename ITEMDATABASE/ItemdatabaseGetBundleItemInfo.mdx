@@ -2,6 +2,7 @@
 ns: ITEMDATABASE
 aliases: ["_ITEM_DATABASE_GET_BUNDLE_ITEM_INFO"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _ITEMDATABASE_GET_BUNDLE_ITEM_INFO
 
@@ -9,6 +10,15 @@ apiset: client
 // 0x5D48A77E4B668B57
 Any _ITEMDATABASE_GET_BUNDLE_ITEM_INFO(int bundleId, Any* data, int index, Hash* outBundle);
 ```
+
+Outputs bundle item info.
+struct BundleItemInfo
+{
+	Hash item;
+	Hash slotId;
+	int unk2;
+	int unk3;
+};
 
 
 ## Parameters

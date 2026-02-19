@@ -2,16 +2,20 @@
 ns: VEHICLE
 apiset: client
 aliases: ["0x785639D89F8451AB"]
+nativedb: 93ddb030
 ---
 ## _GET_JUNCTION_COORDS_FOR_TRAIN_TRACK
 
 ```cpp
 // 0x785639D89F8451AB
-Vector3 _GET_JUNCTION_COORDS_FOR_TRAIN_TRACK(Hash trackConfig, int junctionIndex);
+Vector3 _GET_JUNCTION_COORDS_FOR_TRAIN_TRACK(Hash trainTrack, int junctionIndex);
 ```
 
+Returns the world coordinates of a junction node for the given train track configuration.
+trainTrack: see 0x09034479E6E3E269.
+
 ## Parameters
-* **trackConfig**: Hash key of the train track configuration (e.g. "NB_TROLLEY_TRACK_CONFIG")
+* **trainTrack**: Hash key of the train track configuration (e.g. "NB_TROLLEY_TRACK_CONFIG")
 * **junctionIndex**: The junction point index to query.
 
 ## Return value

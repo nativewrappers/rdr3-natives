@@ -1,0 +1,18 @@
+---
+ns: VEHICLE
+apiset: client
+nativedb: 93ddb030
+---
+## _SET_TRAIN_DESTRUCTION_ENABLED
+
+```cpp
+// 0x07E2E21E799080A0
+void _SET_TRAIN_DESTRUCTION_ENABLED(Any train, Any enabled);
+```
+
+Trains only. Enables/disables damage/explosion flags on the engine and all attached cars; typically set true before EXPLODE_VEHICLE.
+
+
+## Parameters
+* **train**:
+* **enabled**:

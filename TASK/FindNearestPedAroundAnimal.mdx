@@ -1,0 +1,23 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _FIND_NEAREST_PED_AROUND_ANIMAL
+
+```cpp
+// 0x244430C13BA5258E
+Any _FIND_NEAREST_PED_AROUND_ANIMAL(Any animalPed, Any aliveOnly, Any deadOnly, Any preferDeadPredators);
+```
+
+Animals only. Returns the nearest ped around `animalPed` matching the life-state filters (e.g., use (false,true,0) to find a nearby corpse for TASK_EAT).
+Last flag appears to bias predators/fish toward dead targets (uncertain).
+
+
+## Parameters
+* **animalPed**:
+* **aliveOnly**:
+* **deadOnly**:
+* **preferDeadPredators**:
+
+## Return value

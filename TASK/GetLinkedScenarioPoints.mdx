@@ -1,0 +1,28 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_LINKED_SCENARIO_POINTS
+
+```cpp
+// 0xE7BBC4E56B989449
+Any _GET_LINKED_SCENARIO_POINTS(Any scenarioPoint, Any outPoints, Any maxPoints);
+```
+
+Fills an output array with scenario points linked ("chained") to a given parent scenario point. Returns the number of linked points found. Writes up to maxPoints and zeroes remaining entries. Useful for flows like chained put-down scenarios.
+
+Params:
+- scenarioPoint: Parent scenario point handle.
+- outPoints: Pointer to an int array that receives the linked scenario point handles.
+- maxPoints: Capacity of outPoints.
+
+Returns: Count of linked scenario points written (0 if none).
+
+
+## Parameters
+* **scenarioPoint**:
+* **outPoints**:
+* **maxPoints**:
+
+## Return value

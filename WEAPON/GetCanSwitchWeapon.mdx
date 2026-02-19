@@ -1,0 +1,23 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_CAN_SWITCH_WEAPON
+
+```cpp
+// 0xBC9444F2FF94A9C0
+Any _GET_CAN_SWITCH_WEAPON(Any ped);
+```
+
+Returns whether the ped is currently allowed to switch weapons (weapon switching not locked by internal code/state).
+
+Script evidence: used as an additional gate in NPLOI__CAN_GUN_SPIN_PREVIEW; when it returns false scripts log "Prevented by Code" even if twirl-capable weapons exist in hand/holsters.
+
+Example video: https://imgur.com/a/hawFMhN
+
+
+## Parameters
+* **ped**:
+
+## Return value

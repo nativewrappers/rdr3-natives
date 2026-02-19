@@ -1,0 +1,22 @@
+---
+ns: TASK
+apiset: client
+aliases: ["0x583AE9AF9CEE0958"]
+needs_research: true
+nativedb: 93ddb030
+---
+## _TASK_VEHICLE_IS_HEADING_TO_COORDS
+
+```cpp
+// 0x583AE9AF9CEE0958
+bool _TASK_VEHICLE_IS_HEADING_TO_COORDS(Vehicle vehicle, Vector3 destination);
+```
+
+Returns true if the vehicle's current drive-to task is targeting the given coordinates (i.e., its active destination matches x,y,z).
+Useful to avoid reissuing TASK_VEHICLE_DRIVE_TO_DESTINATION_2 when already en route.
+
+## Parameters
+* **vehicle**:
+* **destination**:
+
+## Return value

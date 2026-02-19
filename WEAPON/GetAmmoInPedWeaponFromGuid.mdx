@@ -2,6 +2,7 @@
 ns: WEAPON
 apiset: client
 aliases: ["0x4823F13A21F51964"]
+nativedb: 93ddb030
 ---
 ## _GET_AMMO_IN_PED_WEAPON_FROM_GUID
 
@@ -9,6 +10,9 @@ aliases: ["0x4823F13A21F51964"]
 // 0x4823F13A21F51964
 int _GET_AMMO_IN_PED_WEAPON_FROM_GUID(Ped ped, Any* guid);
 ```
+
+Return total ammo in ped weapon from its guid, or false if 0
+Example: https://pastebin.com/u2Hcah3C
 
 ## Parameters
 * **ped**:

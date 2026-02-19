@@ -1,0 +1,23 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _REGISTER_WEAPON_OBJECT_FOR_IGNITION
+
+```cpp
+// 0x74C90AAACC1DD48F
+void _REGISTER_WEAPON_OBJECT_FOR_IGNITION(Any weaponObject);
+```
+
+Registers a spawned weapon object as ignitable (enables fuse/lighting behavior).
+
+Parameters:
+- weaponObject: Weapon OBJECT entity (e.g., from CREATE_WEAPON_OBJECT).
+
+Notes:
+- Does not ignite instantly; it only enables ignition/fuse handling on the object.
+
+
+## Parameters
+* **weaponObject**:

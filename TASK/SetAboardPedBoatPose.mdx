@@ -1,0 +1,23 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _SET_ABOARD_PED_BOAT_POSE
+
+```cpp
+// 0x517D01BF27B682D1
+void _SET_ABOARD_PED_BOAT_POSE(Ped ped, Entity boat, float offsetX, float offsetY, float offsetZ, float heading, int flags);
+```
+
+Set a ped's boat-local offset and/or facing (degrees). Boats only. Flags: 0=apply both; 1=heading only (lock offset); 2=offset only (lock heading); 3=apply neither.
+
+
+## Parameters
+* **ped**:
+* **boat**:
+* **offsetX**:
+* **offsetY**:
+* **offsetZ**:
+* **heading**:
+* **flags**:

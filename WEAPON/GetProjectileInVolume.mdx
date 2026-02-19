@@ -1,0 +1,35 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_PROJECTILE_IN_VOLUME
+
+```cpp
+// 0x74C8000FDD1BB222
+Any _GET_PROJECTILE_IN_VOLUME(Any volume, Any outEntity);
+```
+
+Finds a projectile entity inside the given Volume and writes its handle to the out pointer.
+
+Parameters:
+- volume: Volume to search in.
+- outEntity: [out] Receives the found projectile entity handle.
+
+Returns:
+- BOOL: true if a projectile was found and written; false otherwise.
+
+Notes:
+- Returns the first matching projectile the engine reports for that volume (order is unspecified).
+- Not limited to ignited projectiles (see 0x74C8000FDD1BB111 for the ignited-only variant).
+- The returned entity is typically an OBJECT; validate with ENTITY::DOES_ENTITY_EXIST.
+- Lua example: https://pastebin.com/ZgaUSEEP 
+
+_GET_PO*
+
+
+## Parameters
+* **volume**:
+* **outEntity**:
+
+## Return value

@@ -1,0 +1,20 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_WHISTLE_RANGE_MIN_FOR_BONDING_LEVEL
+
+```cpp
+// 0xEB67D4E056C85A81
+Any _GET_WHISTLE_RANGE_MIN_FOR_BONDING_LEVEL(Any bondingLevel);
+```
+
+Returns the minimum (baseline) whistle/call distance for the given horse bonding level.
+This value represents the lower bound used when computing whether a horse is considered "near" or "far" relative to the player, and is interpolated against the next level's max.
+
+
+## Parameters
+* **bondingLevel**:
+
+## Return value

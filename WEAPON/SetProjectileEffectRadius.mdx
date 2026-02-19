@@ -1,0 +1,24 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _SET_PROJECTILE_EFFECT_RADIUS
+
+```cpp
+// 0x74C9080FDD1BB48F
+void _SET_PROJECTILE_EFFECT_RADIUS(Any projectile, Any radius);
+```
+
+Sets the explosion/impact effect radius for an existing projectile entity (e.g., thrown dynamite).
+
+Notes:
+- Set before detonation/impact; no effect after.
+- Does not ignite/detonate; it only changes the projectile's later effect.
+- Typical R* flow: find projectile handle (e.g. GET_PROJECTILE_OF_PROJECTILE_TYPE_WITHIN_DISTANCE or _GET_PROJECTILE_IGNITED_IN_VOLUME) then apply a radius (e.g. 2.0f).
+- R* also sets very small values (e.g. 0.01f) when an ignited projectile is detected in a volume, likely to minimize the resulting blast/effect while keeping the same projectile.
+
+
+## Parameters
+* **projectile**:
+* **radius**:

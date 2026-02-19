@@ -1,0 +1,23 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _ENABLE_ALL_SPECIAL_AMMO_FOR_PED
+
+```cpp
+// 0x404514D231DB27A0
+void _ENABLE_ALL_SPECIAL_AMMO_FOR_PED(Any ped, Any weaponHash);
+```
+
+Re-enables all special ammo variants for the given weapon on the specified ped (inverse of _DISABLE_ALL_SPECIAL_AMMO_FOR_PED).
+
+Notes:
+	- Restores access to any supported special ammo types for that weapon (e.g. express, high velocity, split point, explosive, etc.).
+	- Useful to toggle back from a "regular ammo only" restriction.
+	- Per-ped/per-weapon setting.
+
+
+## Parameters
+* **ped**:
+* **weaponHash**:

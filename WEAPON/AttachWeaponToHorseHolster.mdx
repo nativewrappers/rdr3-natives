@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+apiset: client
+related_natives: ["_SEND_WEAPON_TO_INVENTORY"]
+nativedb: 93ddb030
+---
+## _ATTACH_WEAPON_TO_HORSE_HOLSTER
+
+```cpp
+// 0x14FF0C2545527F9B
+void _ATTACH_WEAPON_TO_HORSE_HOLSTER(Ped horse, eWeaponHash weaponHash, Ped ownerPed);
+```
+
+Puts the gun visibly in your horse's holster without having to be close to the horse. Use [`_SEND_WEAPON_TO_INVENTORY`](#_0xE9BD19F8121ADE3E) before using this native
+_A* or _B*
+
+## Parameters
+* **horse**:
+* **weaponHash**: Refer to [enum: eWeaponHash]
+* **ownerPed**:

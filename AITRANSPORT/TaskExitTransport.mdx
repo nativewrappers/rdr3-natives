@@ -1,6 +1,7 @@
 ---
 ns: AITRANSPORT
 apiset: client
+nativedb: 93ddb030
 ---
 ## TASK_EXIT_TRANSPORT
 
@@ -8,6 +9,19 @@ apiset: client
 // 0xC273A5B8488F7838
 void TASK_EXIT_TRANSPORT(Any* args);
 ```
+
+Request a ped to exit a transport. args is a script struct<7> (56 bytes); each field is 8-byte (alignas(8)).
+
+struct TaskExitTransportArgs
+{
+	alignas(8) Any     p0;       // unused/reserved in observed scripts
+	alignas(8) Any     p1;       // unused/reserved in observed scripts
+	alignas(8) Any     p2;       // unused/reserved in observed scripts
+	alignas(8) Ped     ped;      // performing ped (e.g. PLAYER_PED_ID())
+	alignas(8) Vehicle vehicle;  // transport to exit (vehicle or mount entity handle)
+	alignas(8) float   pedSpeed; // blend/speed
+	alignas(8) int     flags;    // seen values: (1<<30) and 1 (usage unclear)
+};
 
 
 ## Parameters

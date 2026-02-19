@@ -1,0 +1,43 @@
+---
+ns: VEHICLE
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_ALL_WAGON_PASSENGERS
+
+```cpp
+// 0x0E558D3A49D759D6
+Any _GET_ALL_WAGON_PASSENGERS(Any wagon, Any itemSet);
+```
+
+Collects all passenger peds (excluding the driver) from the specified wagon-type vehicle (train wagon) and appends them to itemSet as indexed items. Returns the number of passengers added (0 if none / invalid / non-wagon).
+
+Notes:
+	- Only works on wagon entities (train wagons). Regular vehicles/coaches typically return 0.
+	- Clear the itemset before calling.
+	- If you also need the driver, query GET_DRIVER_OF_VEHICLE(wagon) and handle/add it separately (see scripts).
+	- Resolve returned entries via indexed item helpers:
+		Ped p = MISC::_GET_PED_FROM_INDEXED_ITEM(ITEMSET::GET_INDEXED_ITEM_IN_ITEMSET(i, itemSet));
+		(or: Entity e = MISC::_GET_ENTITY_FROM_ITEM(...); then ENTITY::GET_PED_INDEX_FROM_ENTITY_INDEX(e)).
+	- Wagon auto-population can be toggled via ENTITY::_0x119A5714578F4E05(wagon, bool); scripts disable it in some flows.
+
+Example image: https://imgur.com/a/2V8Uk2K
+
+Example (C++):
+	ItemSet set = ITEMSET::CREATE_ITEMSET(true);
+	ITEMSET::_CLEAR_ITEMSET(set);
+	int count = VEHICLE::_GET_ALL_WAGON_PASSENGERS(wagon, set);
+	for (int i = 0; i < count; ++i) {
+		Ped p = MISC::_GET_PED_FROM_INDEXED_ITEM(ITEMSET::GET_INDEXED_ITEM_IN_ITEMSET(i, set));
+		if (ENTITY::DOES_ENTITY_EXIST(p) && !ENTITY::IS_ENTITY_DEAD(p)) {
+			// ...
+		}
+	}
+	ITEMSET::DESTROY_ITEMSET(set);
+
+
+## Parameters
+* **wagon**:
+* **itemSet**:
+
+## Return value

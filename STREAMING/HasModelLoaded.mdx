@@ -2,6 +2,7 @@
 ns: STREAMING
 apiset: client
 request_model: ["REQUEST_MODEL"]
+nativedb: 93ddb030
 ---
 ## HAS_MODEL_LOADED
 
@@ -9,6 +10,8 @@ request_model: ["REQUEST_MODEL"]
 // 0x1283B8B89DD5D1B6
 BOOL HAS_MODEL_LOADED(Hash model);
 ```
+
+Checks if the specified model has loaded into memory.
 
 ## Parameters
 * **model**: The model to load, you should check that its valid with [native: IS_MODEL_IN_CDIMAGE]

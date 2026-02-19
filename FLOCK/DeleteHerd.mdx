@@ -1,15 +1,16 @@
 ---
 ns: FLOCK
 apiset: client
+nativedb: 93ddb030
 ---
 ## _DELETE_HERD
 
 ```cpp
 // 0xE0961AED72642B80
-void _DELETE_HERD(Entity herd);
+void _DELETE_HERD(ScrHandle herdHandle);
 ```
 
-Delete and invalidate the herd.
+Delete and invalidate the herdHandle.
 
 ## Parameters
-* **herd**:
+* **herdHandle**:

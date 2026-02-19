@@ -1,0 +1,23 @@
+---
+ns: HUD
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_HUD_VISIBILITY_SLOT_STATE
+
+```cpp
+// 0x7EC0D68233E391AC
+int _GET_HUD_VISIBILITY_SLOT_STATE(int hudSlot);
+```
+
+Returns the current state value for a HUD component slot ID.
+Enum: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/eHudVisibilitySlotType 
+Notes:
+- Component-specific semantics: the same numeric state can mean different things depending on the component.
+- Used heavily as a gating signal for prompts/targeting/UI updates (e.g., return 0 when 21==2 or 54==2; block logic when 10==2 or 10==4).
+
+
+## Parameters
+* **hudSlot**:
+
+## Return value

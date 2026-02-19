@@ -1,6 +1,7 @@
 ---
 ns: WEAPON
 apiset: client
+nativedb: 93ddb030
 ---
 ## _GET_DEFAULT_WEAPON_ATTACH_POINT
 
@@ -8,6 +9,9 @@ apiset: client
 // 0x65DC4AC5B96614CB
 int _GET_DEFAULT_WEAPON_ATTACH_POINT(eWeaponHash weaponHash);
 ```
+
+Returns default attach point for given weapon hash. Returns -1 for melee as they can't be attached.
+Example: https://imgur.com/a/mUE5fug
 
 ## Parameters
 * **weaponHash**: Refer to [enum: eWeaponHash]

@@ -1,21 +1,24 @@
 ---
 ns: TASK
 apiset: client
+nativedb: 93ddb030
 ---
 ## TASK_FOLLOW_WAYPOINT_RECORDING
 
 ```cpp
 // 0x0759591819534F7B
-void TASK_FOLLOW_WAYPOINT_RECORDING(Ped ped, char* waypointRecording, int p2, int flag, int p4, BOOL p5, Any p6, int p7);
+void TASK_FOLLOW_WAYPOINT_RECORDING(Ped ped, char* waypointRecording, int startIndex, int flags, int endIndex, BOOL patrol, Any aimWeapon, int durationMs);
 ```
+
+Follow a loaded waypoint recording. startIndex/endIndex bound the segment; patrol makes it loop back-and-forth; aimWeapon sets aiming stance; durationMs=-1 for natural pacing, otherwise caps time (snaps to end on expiry).
 
 
 ## Parameters
 * **ped**:
 * **waypointRecording**:
-* **p2**:
-* **flag**:
-* **p4**:
-* **p5**:
-* **p6**:
-* **p7**:
+* **startIndex**:
+* **flags**:
+* **endIndex**:
+* **patrol**:
+* **aimWeapon**:
+* **durationMs**:

@@ -1,0 +1,28 @@
+---
+ns: PED
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_PED_DIRT_LEVEL
+
+```cpp
+// 0x0105FEE8F9091255
+Any _GET_PED_DIRT_LEVEL(Any ped, Any useCompositeLayer);
+```
+
+Returns the ped's dirt amount as a scalar in [0.0, 1.0].
+Notes:
+- The second parameter is treated as a boolean selector (0 or 1). Internally it indexes a 2-slot graphics/appearance bank (base + 0xB8 * index + 0xE4); Rockstar scripts pass 1.
+- Use 1 for the "active/composite" layer to match in-game usage.
+- SP scripts often read, adjust, clamp, then feed back into _SET_PED_DIRT_CLEANED.
+Example (C++):
+	float lvl = PED::_GET_PED_DIRT_LEVEL(ped, true);
+	lvl = std::clamp(lvl + 0.1f, 0.0f, 1.0f);
+	PED::_SET_PED_DIRT_CLEANED(ped, lvl, -1, true, true);
+
+
+## Parameters
+* **ped**:
+* **useCompositeLayer**:
+
+## Return value

@@ -1,6 +1,7 @@
 ---
 ns: PED
 apiset: client
+nativedb: 93ddb030
 ---
 ## SET_PED_COMBAT_ABILITY
 
@@ -8,6 +9,14 @@ apiset: client
 // 0xC7622C0D36B2FDA8
 void SET_PED_COMBAT_ABILITY(Ped ped, ePedCombatAbility abilityLevel);
 ```
+
+abilityLevel:
+enum eCombatAbilityLevel
+{
+	CAL_POOR,
+	CAL_AVERAGE,
+	CAL_PROFESSIONAL
+};
 
 ## Parameters
 * **ped**:

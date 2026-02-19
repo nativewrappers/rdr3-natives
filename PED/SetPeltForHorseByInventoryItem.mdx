@@ -1,12 +1,13 @@
 ---
 ns: PED
 apiset: client
+nativedb: 93ddb030
 ---
 ## _SET_PELT_FOR_HORSE_BY_INVENTORY_ITEM
 
 ```cpp
 // 0xC412AA1C73111FE0
-void _SET_PELT_FOR_HORSE_BY_INVENTORY_ITEM(Ped horse, Hash itemHash, Hash albedo, Hash normal, BOOL p4);
+void _SET_PELT_FOR_HORSE_BY_INVENTORY_ITEM(Ped horse, Hash inventoryItem, Hash albedoHash, Hash normalHash, BOOL p4);
 ```
 
 Set the pelt of the animal to the back of the horse
@@ -16,7 +17,7 @@ Citizen.InvokeNative(0xC412AA1C73111FE0,mount,GetHashKey('PROVISION_DEER_HIDE_PO
 
 ## Parameters
 * **horse**:
-* **itemHash**:
-* **albedo**:
-* **normal**:
+* **inventoryItem**:
+* **albedoHash**:
+* **normalHash**:
 * **p4**:

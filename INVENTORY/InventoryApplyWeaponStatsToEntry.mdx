@@ -2,17 +2,18 @@
 ns: INVENTORY
 apiset: client
 related_natives: ["_INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY"]
+nativedb: 93ddb030
 ---
 ## _INVENTORY_APPLY_WEAPON_STATS_TO_ENTRY
 
 ```cpp
 // 0x75CFAC49301E134E
-void _INVENTORY_APPLY_WEAPON_STATS_TO_ENTRY(int entryId, Hash weapon, Ped ped);
+void _INVENTORY_APPLY_WEAPON_STATS_TO_ENTRY(int databindingEntryId, BOOL weapon, Ped ped);
 ```
 
-Apply the weapon stats to the CatalogItemInspection stats entry id. get entryId with _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY
+Apply the weapon stats to the CatalogItemInspection stats entry id. get databindingEntryId with _INVENTORY_GET_CATALOG_ITEM_INSPECTION_STATS_ENTRY
 
 ## Parameters
-* **entryId**:
+* **databindingEntryId**:
 * **weapon**:
 * **ped**:

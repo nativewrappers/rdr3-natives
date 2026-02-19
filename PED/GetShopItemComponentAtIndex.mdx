@@ -2,20 +2,26 @@
 ns: PED
 aliases: ["0x77BA37622E22023B","_GET_SHOP_PED_COMPONENT_AT_INDEX"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _GET_SHOP_ITEM_COMPONENT_AT_INDEX
 
 ```cpp
 // 0x77BA37622E22023B
-Hash _GET_SHOP_ITEM_COMPONENT_AT_INDEX(Ped ped, int index, BOOL p2, Any* argStruct, Any* argStruct2);
+Hash _GET_SHOP_ITEM_COMPONENT_AT_INDEX(Ped ped, int index, BOOL resolveSelection, Any* outStatusFlag, Any* outWearableState);
 ```
+
+Returns 0 if index invalid/unresolvable; else the shop component hash.
+resolveSelection: true -> run the resolver (rebuild from ped meta/outfit - MP “net shop” style); false -> use cached entry only (singleplayer - offline).
+outStatusFlag: Set to 1 if the entry's internal status byte != 0.
+outWearableState: See _UPDATE_SHOP_ITEM_WEARABLE_STATE
 
 
 ## Parameters
 * **ped**:
 * **index**:
-* **p2**:
-* **argStruct**:
-* **argStruct2**:
+* **resolveSelection**:
+* **outStatusFlag**:
+* **outWearableState**:
 
 ## Return value

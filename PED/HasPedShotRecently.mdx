@@ -1,0 +1,20 @@
+---
+ns: PED
+apiset: client
+nativedb: 93ddb030
+---
+## _HAS_PED_SHOT_RECENTLY
+
+```cpp
+// 0xB7DBB2986B87E230
+BOOL _HAS_PED_SHOT_RECENTLY(Ped ped, float seconds);
+```
+
+True if the ped fired a weapon within the last `seconds` (seconds -> compared in ms internally). Returns false if no recent shot is recorded.
+
+
+## Parameters
+* **ped**:
+* **seconds**:
+
+## Return value

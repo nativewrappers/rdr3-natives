@@ -1,0 +1,21 @@
+---
+ns: VEHICLE
+apiset: client
+nativedb: 93ddb030
+---
+## _RECOVER_DRAFT_VEHICLE_FALLING_LOG
+
+```cpp
+// 0x42404D57D621601A
+Any _RECOVER_DRAFT_VEHICLE_FALLING_LOG(Any vehicle);
+```
+
+Returns the log prop entity that is currently detaching/falling from a draft (log) wagon. Returns 0 if no log is in the falling phase.
+R* scripts call this repeatedly to fetch each fallen piece, then apply forces to it.
+Video demo: https://imgur.com/a/5JEeOij
+
+
+## Parameters
+* **vehicle**:
+
+## Return value

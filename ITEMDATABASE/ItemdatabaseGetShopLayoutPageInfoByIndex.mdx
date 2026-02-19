@@ -1,0 +1,28 @@
+---
+ns: ITEMDATABASE
+apiset: client
+nativedb: 93ddb030
+---
+## _ITEMDATABASE_GET_SHOP_LAYOUT_PAGE_INFO_BY_INDEX
+
+```cpp
+// 0xDBEADA0DF5F9AB9F
+BOOL _ITEMDATABASE_GET_SHOP_LAYOUT_PAGE_INFO_BY_INDEX(Hash layout, int index, int* outData);
+```
+
+Outputs the layout page info at the selected index.
+struct LayoutPageInfo
+{
+	Hash pageKey;
+	Hash unk1;
+	BOOL unk2;
+	int numItems;
+};
+
+
+## Parameters
+* **layout**:
+* **index**:
+* **outData**:
+
+## Return value

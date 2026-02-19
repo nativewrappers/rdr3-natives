@@ -1,0 +1,20 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _CAN_PED_ACCESS_MOUNT_WEAPONS
+
+```cpp
+// 0x23BF601A42F329A0
+Any _CAN_PED_ACCESS_MOUNT_WEAPONS(Any ped);
+```
+
+True if the ped can access their *owned* mount/horse inventory for saddle weapon stow/retrieve (used to gate longarm-slot selection in the weapon wheel).
+Notes: does not require holding a weapon; returns false if too far, wrong/non-owned mount, or the saddle interaction state is not allowed.
+
+
+## Parameters
+* **ped**:
+
+## Return value

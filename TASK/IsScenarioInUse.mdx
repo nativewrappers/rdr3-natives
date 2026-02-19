@@ -2,18 +2,19 @@
 ns: TASK
 apiset: client
 aliases: ["0x1ACBC313966C21F3"]
+nativedb: 93ddb030
 ---
 ## _IS_SCENARIO_IN_USE
 
 ```cpp
 // 0x1ACBC313966C21F3
-BOOL _IS_SCENARIO_IN_USE(Hash scenarioHash);
+BOOL _IS_SCENARIO_IN_USE(Hash scenario);
 ```
 
 Checks whether a specified scenario is currently being used (actively played) by any entity (player or ped).
 
 ## Parameters
-* **scenarioHash**:
+* **scenario**:
 
 ## Return value
 Returns `true` if the scenario hash is in use, `false` otherwise.

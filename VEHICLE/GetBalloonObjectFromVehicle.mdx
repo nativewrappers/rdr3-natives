@@ -1,0 +1,28 @@
+---
+ns: VEHICLE
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_BALLOON_OBJECT_FROM_VEHICLE
+
+```cpp
+// 0x0BA4250D20007C2E
+Any _GET_BALLOON_OBJECT_FROM_VEHICLE(Any vehicle);
+```
+
+Returns the balloon OBJECT entity attached to a hot air balloon vehicle.
+
+Returns 0 if:
+	- vehicle is not a hot air balloon type, or
+	- the balloon object is not present.
+
+Notes:
+	- Returned handle is typically an OBJECT (not a ped/vehicle).
+	- Always validate with ENTITY::DOES_ENTITY_EXIST before use.
+	- Example image: https://imgur.com/a/YWDUJ56
+
+
+## Parameters
+* **vehicle**:
+
+## Return value

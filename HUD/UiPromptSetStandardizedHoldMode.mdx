@@ -2,16 +2,17 @@
 ns: HUD
 aliases: ["_PROMPT_SET_STANDARDIZED_HOLD_MODE"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _UI_PROMPT_SET_STANDARDIZED_HOLD_MODE
 
 ```cpp
 // 0x74C7D7B72ED0D3CF
-void _UI_PROMPT_SET_STANDARDIZED_HOLD_MODE(Prompt prompt, Hash timedEventHash);
+void _UI_PROMPT_SET_STANDARDIZED_HOLD_MODE(Prompt prompt, Hash holdType);
 ```
 
 Hashes: SHORT_TIMED_EVENT_MP, SHORT_TIMED_EVENT, MEDIUM_TIMED_EVENT, LONG_TIMED_EVENT, RUSTLING_CALM_TIMING, PLAYER_FOCUS_TIMING, PLAYER_REACTION_TIMING
 
 ## Parameters
 * **prompt**:
-* **timedEventHash**:
+* **holdType**:

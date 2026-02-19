@@ -1,19 +1,23 @@
 ---
 ns: TASK
 apiset: client
+nativedb: 93ddb030
 ---
 ## _TASK_INTIMIDATED
 
 ```cpp
 // 0x648B75D44930D6BD
-BOOL _TASK_INTIMIDATED(Ped victim, Ped attacker, BOOL p2);
+BOOL _TASK_INTIMIDATED(Ped victim, Ped ped, BOOL p2);
 ```
+
+Only used in R* SP Script homeinvasion:
+Params p2, p3, p4: 0, 0, 1
 
 
 ## Parameters
 * **victim**:
-* **attacker**:
+* **ped**:
 * **p2**:
 
 ## Return value
-Returns `true` on success, or `false` if `attacker` doesn't exist, or is dead.
+Returns `true` on success, or `false` if `ped` doesn't exist, or is dead.

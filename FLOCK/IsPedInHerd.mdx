@@ -1,18 +1,19 @@
 ---
 ns: FLOCK
 apiset: client
+nativedb: 93ddb030
 ---
 ## _IS_PED_IN_HERD
 
 ```cpp
 // 0x9E13ACC38BA8F9C3
-bool _IS_PED_IN_HERD(Entity herd, Ped ped);
+bool _IS_PED_IN_HERD(ScrHandle herdHandle, Ped ped);
 ```
 
-Return whether the ped is in the herd.
+Return whether the ped is in the herdHandle.
 
 ## Parameters
-* **herd**:
+* **herdHandle**:
 * **ped**:
 
 ## Return value

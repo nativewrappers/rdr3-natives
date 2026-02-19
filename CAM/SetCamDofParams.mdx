@@ -2,12 +2,13 @@
 ns: CAM
 apiset: client
 aliases: ["0xE4B7945EF4F1BFB2"]
+nativedb: 93ddb030
 ---
 ## _SET_CAM_DOF_PARAMS
 
 ```cpp
 // 0xE4B7945EF4F1BFB2
-void _SET_CAM_DOF_PARAMS(Cam cam, Any* p);
+void _SET_CAM_DOF_PARAMS(Cam cam, Any* args);
 ```
 
 Set cam DOF and focal settings.
@@ -30,6 +31,6 @@ struct CamDofParams {
 
 ## Parameters
 * **cam**:
-* **p**:
+* **args**:
 
 ## Return value

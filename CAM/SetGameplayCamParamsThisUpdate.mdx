@@ -1,23 +1,24 @@
 ---
 ns: CAM
 apiset: client
+nativedb: 93ddb030
 ---
 ## _SET_GAMEPLAY_CAM_PARAMS_THIS_UPDATE
 
 ```cpp
 // 0x066167C63111D8CF
-void _SET_GAMEPLAY_CAM_PARAMS_THIS_UPDATE(float camSpeed, BOOL enableSlide, float slideOffset, BOOL enableZoom, float zoomOffset);
+void _SET_GAMEPLAY_CAM_PARAMS_THIS_UPDATE(float speed, BOOL respectHorizontalOffset, float horizontalOffset, BOOL respectDistance, float distance);
 ```
 
 Not official name
-This native allows to move the gameplay cam with the given speed, enableSlide will allow to move the cam to the slideOffset, enableZoom will allow to move the cam to the zoomOffset. 
+This native allows to move the gameplay cam with the given speed, respectHorizontalOffset will allow to move the cam to the horizontalOffset, respectDistance will allow to move the cam to the distance. 
 
 EXAMPLE:
 Citizen.InvokeNative(0x066167c63111d8cf,1.0, true, -1.0, true, 2.0)
 
 ## Parameters
-* **camSpeed**:
-* **enableSlide**:
-* **slideOffset**:
-* **enableZoom**:
-* **zoomOffset**:
+* **speed**:
+* **respectHorizontalOffset**:
+* **horizontalOffset**:
+* **respectDistance**:
+* **distance**:

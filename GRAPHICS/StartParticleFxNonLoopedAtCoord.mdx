@@ -1,12 +1,13 @@
 ---
 ns: GRAPHICS
 apiset: client
+nativedb: 93ddb030
 ---
 ## START_PARTICLE_FX_NON_LOOPED_AT_COORD
 
 ```cpp
 // 0x2E80BF72EF7C87AC
-int START_PARTICLE_FX_NON_LOOPED_AT_COORD(char* effectName, Vector3 pos, Vector3 rot, float scale, int eventType, BOOL bPeekOnly, BOOL bIsRegistered);
+int START_PARTICLE_FX_NON_LOOPED_AT_COORD(char* effectName, Vector3 pos, Vector3 rot, float scale, int xAxis, BOOL yAxis, BOOL zAxis);
 ```
 
 https://github.com/femga/rdr3_discoveries/blob/master/graphics/ptfx/ptfx_assets_non_looped.lua
@@ -16,8 +17,8 @@ https://github.com/femga/rdr3_discoveries/blob/master/graphics/ptfx/ptfx_assets_
 * **pos**:
 * **rot**:
 * **scale**:
-* **eventType**:
-* **bPeekOnly**:
-* **bIsRegistered**:
+* **xAxis**:
+* **yAxis**:
+* **zAxis**:
 
 ## Return value

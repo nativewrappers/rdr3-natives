@@ -2,19 +2,23 @@
 ns: STREAMING
 aliases: ["0x19A6BE7D9C6884D3"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _REQUEST_SCENARIO_TYPE
 
 ```cpp
 // 0x19A6BE7D9C6884D3
-int _REQUEST_SCENARIO_TYPE(Hash scenarioType, int p1, Any p2, Any p3);
+int _REQUEST_SCENARIO_TYPE(Hash scenarioType, int p1, Any entityModel, Any conditionalAnim);
 ```
+
+entityModel can be 0 or using Hash or using GET_ENTITY_MODEL
+conditionalAnim can be 0 or using Hash also accepts GET_ACTIVE_DYNAMIC_SCENARIO.
 
 
 ## Parameters
 * **scenarioType**:
 * **p1**:
-* **p2**:
-* **p3**:
+* **entityModel**:
+* **conditionalAnim**:
 
 ## Return value

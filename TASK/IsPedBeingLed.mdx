@@ -1,0 +1,34 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _IS_PED_BEING_LED
+
+```cpp
+// 0xAC5045AB7F1A34FD
+BOOL _IS_PED_BEING_LED(Ped ped);
+```
+
+Returns true if the given ped (usually a horse) is currently being led by a ped (lead/rope).
+Mirrors usage with _IS_PED_LEADING_HORSE(ped) and _GET_LED_HORSE_FROM_PED(ped).
+
+
+## Parameters
+* **ped**:
+
+## Return value
+Returns `true` if the specified mount is currently being lead by a player, `false` otherwise.
+
+## Examples
+```lua
+local horse = GetActiveHorseForPlayer(PlayerId());
+local is_leading = IsPedBeingLead(horse);
+print(("%s current lead state is %s"):format(horse, is_leading));
+```
+
+```js
+const horse = GetActiveHorseForPlayer(PlayerId());
+const is_leading = IsPedBeingLead(horse);
+console.log(`${horse} current lead state is ${is_leading}`);
+```

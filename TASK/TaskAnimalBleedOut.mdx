@@ -2,19 +2,20 @@
 ns: TASK
 aliases: ["0x30A768C30D385EC5"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _TASK_ANIMAL_BLEED_OUT
 
 ```cpp
 // 0x30A768C30D385EC5
-void _TASK_ANIMAL_BLEED_OUT(Ped ped, Ped killer, BOOL p2, eWeaponHash weaponHash, int p4, int p5);
+void _TASK_ANIMAL_BLEED_OUT(Ped ped, Ped killer, BOOL flee, eWeaponHash weaponHash, int p4, int boneId);
 ```
 
 
 ## Parameters
 * **ped**:
 * **killer**:
-* **p2**:
+* **flee**:
 * **weaponHash**: Refer to [enum: eWeaponHash]
 * **p4**:
-* **p5**:
+* **boneId**:

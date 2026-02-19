@@ -1,0 +1,35 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_PROJECTILE_IGNITED_IN_VOLUME
+
+```cpp
+// 0x74C8000FDD1BB111
+Any _GET_PROJECTILE_IGNITED_IN_VOLUME(Any volume, Any outEntity);
+```
+
+Finds an ignited (lit/fused) explosive projectile inside a Volume.
+
+Parameters:
+- volume: Search volume.
+- outEntity: [out] Receives the projectile Entity handle.
+
+Returns:
+- BOOL: true if an ignited projectile was found (outEntity set), false otherwise.
+
+Notes:
+- Intended for explosives with a fuse/ignition state (e.g., lit dynamite).
+- If multiple ignited projectiles are present, returns the first match.
+- Requires a valid Volume; delete it when done.
+- Lua example: https://pastebin.com/N9p4anLU 
+
+_GET_PO*
+
+
+## Parameters
+* **volume**:
+* **outEntity**:
+
+## Return value

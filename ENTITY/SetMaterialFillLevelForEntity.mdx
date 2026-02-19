@@ -1,0 +1,21 @@
+---
+ns: ENTITY
+apiset: client
+nativedb: 93ddb030
+---
+## _SET_MATERIAL_FILL_LEVEL_FOR_ENTITY
+
+```cpp
+// 0x669655FFB29EF1A9
+void _SET_MATERIAL_FILL_LEVEL_FOR_ENTITY(Entity entity, int expressionType, char* dofName, float fillState);
+```
+
+sets the fillState in state for some objects like for the stew, coffee mug ,poker chips, jugs ? P1 is either 0 or 2 dofName seems to be a label/name p3 is the fillState in state, max seems to be for some 3.0 (most is 1.0) - 0.0
+heres some of the labels/names found 
+tumbler_fill, Canvas, Stew_Fill, from Chip01_Ctrl to Chip10_Ctrl, from empty_jug01_Ctrl to empty_jug20_Ctrl, from full_jug01_Ctrl to full_jug20_Ctrl, CTRL_cupFill, Food_DOF_Fill, from WhiteChip_Ctrl_0 to WhiteChip_Ctrl_10, from BlueChip_Ctrl_0 to BlueChip_Ctrl_10, from BlackChip_Ctrl_0 to BlackChip_Ctrl_10, from RedChip_Ctrl_0 to RedChip_Ctrl_10,
+
+## Parameters
+* **entity**:
+* **expressionType**:
+* **dofName**:
+* **fillState**:

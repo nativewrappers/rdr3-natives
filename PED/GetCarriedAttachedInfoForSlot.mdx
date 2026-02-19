@@ -2,19 +2,33 @@
 ns: PED
 aliases: ["0x608BC6A6AACD5036"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## GET_CARRIED_ATTACHED_INFO_FOR_SLOT
 
 ```cpp
 // 0x608BC6A6AACD5036
-Any GET_CARRIED_ATTACHED_INFO_FOR_SLOT(Any p0, Any p1, Any p2, Any p3);
+Any GET_CARRIED_ATTACHED_INFO_FOR_SLOT(Any outData, Any ped, Any carriableSlot, Any p3);
 ```
+
+Outputs carriable info for a ped's carriable slot (see TASK_CARRIABLE slot indices). p3 is always 0 in R* scripts. Returns true if outData was filled.
+
+outData: script struct<4> (32 bytes); each field is 8-byte (alignas(8)):
+	struct CarriedAttachedInfo
+	{
+		alignas(8) Hash   model;         // carried entity model
+		alignas(8) Hash   carryConfig;   // carry config (e.g. DEAD_CARRIABLE_FOX)
+		alignas(8) int    carriableSlot; // slot index queried
+		alignas(8) Entity entity;        // carried entity handle (0 if none)
+	};
+
+Example image: https://imgur.com/a/2wjt6PT
 
 
 ## Parameters
-* **p0**:
-* **p1**:
-* **p2**:
+* **outData**:
+* **ped**:
+* **carriableSlot**:
 * **p3**:
 
 ## Return value

@@ -1,18 +1,23 @@
 ---
 ns: PED
 apiset: client
+nativedb: 93ddb030
 ---
 ## _CAN_PED_HEAR_TARGET_PED
 
 ```cpp
 // 0x0EA9EACBA3B01601
-BOOL _CAN_PED_HEAR_TARGET_PED(Ped target, Ped ped, BOOL flag);
+BOOL _CAN_PED_HEAR_TARGET_PED(Ped source, Ped listener, BOOL includeNoiseBoost);
 ```
 
+Returns true if `listener` can hear `source`.
+If `includeNoiseBoost` is true, the source's noise radius is applied (easier to hear).
+It treats the source as louder—its current noise expands the effective hearing range (by subtracting noiseRadius² from dist²), while false uses the baseline distance-only check (stealth).
+
 ## Parameters
-* **target**:
-* **ped**:
-* **flag**: Usually flag is set to false when ped is in stealth mode
+* **source**:
+* **listener**:
+* **includeNoiseBoost**: Usually includeNoiseBoost is set to false when listener is in stealth mode
 
 ## Return value
-Return `true` if the ped is heard by the target ped.
+Return `true` if the listener is heard by the source listener.

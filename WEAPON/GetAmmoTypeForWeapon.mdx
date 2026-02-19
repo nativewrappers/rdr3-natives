@@ -2,6 +2,7 @@
 ns: WEAPON
 aliases: ["0x5C2EA6C44F515F34"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _GET_AMMO_TYPE_FOR_WEAPON
 
@@ -9,6 +10,8 @@ apiset: client
 // 0x5C2EA6C44F515F34
 Hash _GET_AMMO_TYPE_FOR_WEAPON(eWeaponHash weaponHash);
 ```
+
+Identical to _GET_AMMO_RECOMMENDED_TYPE_FOR_WEAPON (0xEC97101A8F311282) -> same native handler address
 
 ## Parameters
 * **weaponHash**: Refer to [enum: eWeaponHash]

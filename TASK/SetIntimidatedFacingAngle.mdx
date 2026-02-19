@@ -1,6 +1,7 @@
 ---
 ns: TASK
 apiset: client
+nativedb: 93ddb030
 ---
 ## _SET_INTIMIDATED_FACING_ANGLE
 
@@ -8,6 +9,10 @@ apiset: client
 // 0x0FE797DD9F70DFA6
 void _SET_INTIMIDATED_FACING_ANGLE(Ped ped, BOOL useLimits, float minAngle, float maxAngle);
 ```
+
+Controls intimidated/hogtied ped facing.
+If useLimits=false, always face the player; if =true, clamp facing within [minAngle, maxAngle] degrees.
+Angle note: the range defines the allowed yaw cone around the intimidator—e.g., [0,90] permits a quarter-turn, [-30,30] a tight ±30°, and wider ranges allow more swivel.
 
 
 ## Parameters

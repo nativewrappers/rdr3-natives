@@ -2,6 +2,7 @@
 ns: WEAPON
 aliases: ["0xF4823C813CB8277D"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _REMOVE_AMMO_FROM_PED
 
@@ -9,6 +10,10 @@ apiset: client
 // 0xF4823C813CB8277D
 void _REMOVE_AMMO_FROM_PED(Ped ped, eWeaponHash weaponHash, int amount, eRemoveItemReason removeReason);
 ```
+
+removeReason must be REMOVE_REASON_USED, REMOVE_REASON_GIVEN, REMOVE_REASON_DROPPED or REMOVE_REASON_DEBUG, unless amount is -1
+
+removeReason: see REMOVE_WEAPON_FROM_PED
 
 
 ## Parameters

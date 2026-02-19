@@ -1,16 +1,17 @@
 ---
 ns: FLOCK
 apiset: client
+nativedb: 93ddb030
 ---
 ## _REMOVE_HERD_PED
 
 ```cpp
 // 0x408D1149C5E39C1E
-void _REMOVE_HERD_PED(Entity herd, Ped ped);
+void _REMOVE_HERD_PED(ScrHandle herdHandle, Ped ped);
 ```
 
-Remove the ped from a herd.
+Remove the ped from a herdHandle.
 
 ## Parameters
-* **herd**:
+* **herdHandle**:
 * **ped**:

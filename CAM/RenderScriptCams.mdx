@@ -1,12 +1,13 @@
 ---
 ns: CAM
 apiset: client
+nativedb: 93ddb030
 ---
 ## RENDER_SCRIPT_CAMS
 
 ```cpp
 // 0x33281167E4942E4F
-void RENDER_SCRIPT_CAMS(BOOL render, BOOL ease, int easeTime, BOOL p3, BOOL p4, int p5);
+void RENDER_SCRIPT_CAMS(BOOL render, BOOL ease, int easeTime, BOOL p3, BOOL p4, int renderingFlags);
 ```
 
 ease - smooth transition between the camera's positions
@@ -22,4 +23,4 @@ Setting ease to TRUE will smooth the transition.
 * **easeTime**:
 * **p3**:
 * **p4**:
-* **p5**:
+* **renderingFlags**:

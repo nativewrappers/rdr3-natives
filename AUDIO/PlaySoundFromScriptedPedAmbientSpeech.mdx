@@ -1,0 +1,24 @@
+---
+ns: AUDIO
+apiset: client
+nativedb: 93ddb030
+---
+## _PLAY_SOUND_FROM_SCRIPTED_PED_AMBIENT_SPEECH
+
+```cpp
+// 0xB18FEC133C7C6C69
+Any _PLAY_SOUND_FROM_SCRIPTED_PED_AMBIENT_SPEECH(Any scriptedSpeech);
+```
+
+Play/advance a scripted speech created via _CREATE_NEW_SCRIPTED_PED_AMBIENT_SPEECH and return a status code.
+Return values:
+  0 = not ready/invalid/failed
+  1 = started/playing
+  2 = finished/consumed (you can drop the handle)
+Typical usage: poll this in a tick after creating the speech; when it returns 2, clear your handle.
+
+
+## Parameters
+* **scriptedSpeech**:
+
+## Return value

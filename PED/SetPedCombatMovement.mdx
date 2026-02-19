@@ -2,6 +2,7 @@
 ns: PED
 apiset: client
 related_natives: ["GET_PED_COMBAT_MOVEMENT"]
+nativedb: 93ddb030
 ---
 ## SET_PED_COMBAT_MOVEMENT
 
@@ -9,6 +10,11 @@ related_natives: ["GET_PED_COMBAT_MOVEMENT"]
 // 0x4D9CA1009AFBD057
 void SET_PED_COMBAT_MOVEMENT(Ped ped, ePedCombatMovement combatMovement);
 ```
+
+0 - Stationary (Will just stand in place)
+1 - Defensive (Will try to find cover and very likely to blind fire)
+2 - Offensive (Will attempt to charge at enemy but take cover as well)
+3 - Suicidal Offensive (Will try to flank enemy in a suicidal attack)
 
 
 ## Parameters

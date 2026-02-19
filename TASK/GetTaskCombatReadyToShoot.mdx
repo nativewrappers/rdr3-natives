@@ -2,6 +2,7 @@
 ns: TASK
 apiset: client
 aliases: ["0x5EA655F01D93667A"]
+nativedb: 93ddb030
 ---
 ## _GET_TASK_COMBAT_READY_TO_SHOOT
 
@@ -9,6 +10,11 @@ aliases: ["0x5EA655F01D93667A"]
 // 0x5EA655F01D93667A
 bool _GET_TASK_COMBAT_READY_TO_SHOOT(Ped ped);
 ```
+
+Returns true if the ped is in a ranged-attack task and is about to fire (ready/primed to shoot or throw).
+Covers firearms and projectiles (throwables/molotov/poison), not melee.
+Useful to block other actions just before the shot. Note: different from IS_PED_SHOOTING, which triggers only after the shot.
+May return true even in cases where IS_PED_WEAPON_READY_TO_SHOOT returns false.
 
 
 ## Parameters

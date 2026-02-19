@@ -1,18 +1,23 @@
 ---
 ns: AUDIO
 apiset: client
+nativedb: 93ddb030
 ---
 ## _0x9D6DEC9791A4E501
 
 ```cpp
 // 0x9D6DEC9791A4E501
-Any _0x9D6DEC9791A4E501(Any p0, Any p1, Any p2, Any p3);
+Any _0x9D6DEC9791A4E501(Any ped, Any speechName, Any p2, Any p3);
 ```
+
+Returns true or false if the ped can say a specific speech line with PLAY_PED_AMBIENT_SPEECH_NATIVE, similar to DOES_CONTEXT_EXIST_FOR_THIS_PED.
+Not reliable on remote clients when used on a player ped.
+Params: p2 and p3 are usually false and true, respectively.
 
 
 ## Parameters
-* **p0**:
-* **p1**:
+* **ped**:
+* **speechName**:
 * **p2**:
 * **p3**:
 

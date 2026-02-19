@@ -2,19 +2,20 @@
 ns: GRAPHICS
 aliases: ["0x9AB192A9EF980EED"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH
 
 ```cpp
 // 0x9AB192A9EF980EED
-Any ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH(Hash effectNameHash, int p1, BOOL p2, BOOL* p3);
+Any ANIMPOSTFX_HAS_EVENT_TRIGGERED_BY_STACKHASH(Hash effectNameHash, int eventType, BOOL bPeekOnly, BOOL* bIsRegistered);
 ```
 
 
 ## Parameters
 * **effectNameHash**:
-* **p1**:
-* **p2**:
-* **p3**:
+* **eventType**:
+* **bPeekOnly**:
+* **bIsRegistered**:
 
 ## Return value

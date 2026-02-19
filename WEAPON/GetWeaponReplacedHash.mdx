@@ -1,0 +1,21 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _GET_WEAPON_REPLACED_HASH
+
+```cpp
+// 0x9F0E1892C7F228A8
+Any _GET_WEAPON_REPLACED_HASH(BOOL clear);
+```
+
+Returns the last weapon hash that was replaced due to a slot/holster swap when giving/equipping a weapon (set internally during weapon give/equip when another weapon gets displaced).
+If clear==true, the stored value is reset to 0 after reading (consume semantics); if clear==false, it is not cleared.
+Returns 0 if no replacement is pending.
+
+
+## Parameters
+* **clear**:
+
+## Return value

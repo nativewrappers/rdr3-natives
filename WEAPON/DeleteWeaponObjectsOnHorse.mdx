@@ -1,0 +1,28 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _DELETE_WEAPON_OBJECTS_ON_HORSE
+
+```cpp
+// 0xD4C6E24D955FF061
+void _DELETE_WEAPON_OBJECTS_ON_HORSE(Any horse);
+```
+
+Deletes all visible weapon PROP objects attached to a horse's holsters/rack.
+This removes only the *rendered/attached objects*; it does not remove the weapons from inventory and they remain usable.
+
+Parameters:
+- horse: Horse ped whose attached weapon objects should be removed.
+
+Notes:
+- Useful to clear the horse's visible long-gun/holster props after manually attaching via 0x14FF0C2545527F9B.
+- Always validate the ped handle before calling.
+
+Example video:
+- https://imgur.com/a/BavwEfE
+
+
+## Parameters
+* **horse**:

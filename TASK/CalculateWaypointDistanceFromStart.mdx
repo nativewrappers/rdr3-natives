@@ -1,0 +1,21 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _CALCULATE_WAYPOINT_DISTANCE_FROM_START
+
+```cpp
+// 0x3ACC128510142B9D
+float _CALCULATE_WAYPOINT_DISTANCE_FROM_START(char* waypointRecording, Vector3 pos);
+```
+
+Signed arclength (meters) from the start of a loaded waypoint recording to the point on the path nearest to (x,y,z).
+Negative before the first node; clamped to total length past the last node. Recording must be requested/loaded.
+
+
+## Parameters
+* **waypointRecording**:
+* **pos**:
+
+## Return value

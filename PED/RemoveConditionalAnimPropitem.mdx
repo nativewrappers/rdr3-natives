@@ -1,0 +1,24 @@
+---
+ns: PED
+aliases: ["0x3A50753042B6891B"]
+apiset: client
+nativedb: 93ddb030
+---
+## _REMOVE_CONDITIONAL_ANIM_PROPITEM
+
+```cpp
+// 0x3A50753042B6891B
+void _REMOVE_CONDITIONAL_ANIM_PROPITEM(Ped ped, char* propItemId);
+```
+
+Stops and clears a running conditional locomotion animation state on the ped for the given prop item id (started via _PROPITEM_PLAY_CONDITIONAL_ANIM_WITH_OBJECT).
+
+Notes:
+- Ends the conditional locomotion/propitem state; it does not delete/detach any physical object entity.
+
+Old name: _REMOVE_PED_PROP
+
+
+## Parameters
+* **ped**:
+* **propItemId**:

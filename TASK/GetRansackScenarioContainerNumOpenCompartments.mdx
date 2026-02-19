@@ -1,16 +1,21 @@
 ---
 ns: TASK
 apiset: client
+nativedb: 93ddb030
 ---
 ## _GET_RANSACK_SCENARIO_CONTAINER_NUM_OPEN_COMPARTMENTS
 
 ```cpp
 // 0x849791EBBDBA0362
-int _GET_RANSACK_SCENARIO_CONTAINER_NUM_OPEN_COMPARTMENTS(Entity ent);
+int _GET_RANSACK_SCENARIO_CONTAINER_NUM_OPEN_COMPARTMENTS(Entity entity);
 ```
 
+Returns the number of currently open compartments for the specified scenario container entity.
+If the container has closeable compartments (like drawers), this will return how many of them are currently open.
+If the container is not closeable (like a chest or safe that cannot be closed again), it will return 0.
+
 ## Parameters
-* **ent**:
+* **entity**:
 
 ## Return value
 Returns the number currently open compartments for the specified scenario container entity.

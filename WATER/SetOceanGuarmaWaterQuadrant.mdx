@@ -2,12 +2,13 @@
 ns: WATER
 aliases: ["0xC63540AEF8384732"]
 apiset: client
+nativedb: 93ddb030
 ---
 ## _SET_OCEAN_GUARMA_WATER_QUADRANT
 
 ```cpp
 // 0xC63540AEF8384732
-void _SET_OCEAN_GUARMA_WATER_QUADRANT(float wavesHeight, float p1, int waveDirection, float p3, float waveAmmount, float p5, float waveSpeed, float wavesStrength, int p8);
+void _SET_OCEAN_GUARMA_WATER_QUADRANT(float wavesHeight, float p1, int wavesDirection, float p3, float wavesAmount, float p5, float wavesSpeed, float wavesStrength, int ignoreHeight);
 ```
 
 Only used in R* Script guama1 this native allows to modify the ocean water in the guarma island. wave direction accepts 0, 1 and 2 values.
@@ -15,10 +16,10 @@ Only used in R* Script guama1 this native allows to modify the ocean water in th
 ## Parameters
 * **wavesHeight**:
 * **p1**:
-* **waveDirection**:
+* **wavesDirection**:
 * **p3**:
-* **waveAmmount**:
+* **wavesAmount**:
 * **p5**:
-* **waveSpeed**:
+* **wavesSpeed**:
 * **wavesStrength**:
-* **p8**:
+* **ignoreHeight**:

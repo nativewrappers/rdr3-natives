@@ -1,0 +1,23 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _DISABLE_ALL_SPECIAL_AMMO_FOR_PED
+
+```cpp
+// 0xD63B4BA3A02A99E0
+void _DISABLE_ALL_SPECIAL_AMMO_FOR_PED(Any ped, Any weaponHash);
+```
+
+Disables all special ammo variants for the given weapon on the specified ped, forcing regular/basic ammo only.
+
+Notes:
+	- Higher-level override vs. per-ammo-type disables (targets all special variants at once).
+	- Useful to enforce "no special ammo" rules for a specific ped/weapon.
+	- Per-ped/per-weapon setting.
+
+
+## Parameters
+* **ped**:
+* **weaponHash**:

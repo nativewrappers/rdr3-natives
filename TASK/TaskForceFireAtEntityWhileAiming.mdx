@@ -1,0 +1,23 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _TASK_FORCE_FIRE_AT_ENTITY_WHILE_AIMING
+
+```cpp
+// 0x2416EC2F31F75266
+void _TASK_FORCE_FIRE_AT_ENTITY_WHILE_AIMING(Entity ped, Entity targetEntity, int durationMs, Any p3, Any p4);
+```
+
+Makes a ped that is already aiming keep firing at `targetEntity` for `durationMs`.
+Uses projectile logic if holding a throwable/bow, otherwise gun logic. `p3` unused; `p4` is an extra mode flag (observed 0/1).
+_TASK_FORCE_M*
+
+
+## Parameters
+* **ped**:
+* **targetEntity**:
+* **durationMs**:
+* **p3**:
+* **p4**:

@@ -1,12 +1,13 @@
 ---
 ns: TASK
 apiset: client
+nativedb: 93ddb030
 ---
 ## _TASK_BOARD_VEHICLE
 
 ```cpp
 // 0xE53D17AD837CBF7C
-void _TASK_BOARD_VEHICLE(Ped ped, Vehicle vehicle, Any p2, Any p3, Any p4, Any p5);
+void _TASK_BOARD_VEHICLE(Ped ped, Vehicle vehicle, Any p2, Any p3, Any speed, Any boardingFlags);
 ```
 
 
@@ -15,5 +16,5 @@ void _TASK_BOARD_VEHICLE(Ped ped, Vehicle vehicle, Any p2, Any p3, Any p4, Any p
 * **vehicle**:
 * **p2**:
 * **p3**:
-* **p4**:
-* **p5**:
+* **speed**:
+* **boardingFlags**:

@@ -1,0 +1,25 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _SET_PROJECTILE_FUSE_TIME
+
+```cpp
+// 0x74C9080FDD1BB48E
+void _SET_PROJECTILE_FUSE_TIME(Any projectile, Any time);
+```
+
+Sets the remaining fuse time (seconds) for an ignited explosive projectile.
+
+Parameters:
+- projectile: Projectile entity (e.g., lit dynamite).
+- time: Remaining fuse time in seconds (0.0 = immediate detonation).
+
+Notes:
+- Typically only applies after the projectile has been ignited.
+
+
+## Parameters
+* **projectile**:
+* **time**:

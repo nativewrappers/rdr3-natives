@@ -1,0 +1,20 @@
+---
+ns: TASK
+apiset: client
+nativedb: 93ddb030
+---
+## _SET_CARRIABLE_CONFIG_PROMPT_ENABLED
+
+```cpp
+// 0x816A3ACD265E2297
+void _SET_CARRIABLE_CONFIG_PROMPT_ENABLED(Any carriableConfig, Any toggle);
+```
+
+Enables or disables the interaction prompt for a given carriable config (e.g. DEAD_CARRIABLE_HUMAN).
+Use after loading the config; when disabled, pickup/use prompts will not appear.
+carriableConfig: see _REQUEST_CARRIABLE_CONFIG
+
+
+## Parameters
+* **carriableConfig**:
+* **toggle**:

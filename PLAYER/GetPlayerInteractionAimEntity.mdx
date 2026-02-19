@@ -1,18 +1,19 @@
 ---
 ns: PLAYER
 apiset: client
+nativedb: 93ddb030
 ---
 ## _GET_PLAYER_INTERACTION_AIM_ENTITY
 
 ```cpp
 // 0xBEA3A6E5F5F79A6F
-bool _GET_PLAYER_INTERACTION_AIM_ENTITY(Player player, Entity* entity);
+bool _GET_PLAYER_INTERACTION_AIM_ENTITY(Player player, Entity* outEntity);
 ```
 
-Get the entity the player is aiming at with/without weapon.
+Get the outEntity the player is aiming at with/without weapon.
 
 ## Parameters
 * **player**:
-* **entity**:
+* **outEntity**:
 
 ## Return value

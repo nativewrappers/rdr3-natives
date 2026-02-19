@@ -1,0 +1,26 @@
+---
+ns: WEAPON
+apiset: client
+nativedb: 93ddb030
+---
+## _EXPLODE_PED_AMMO_TYPE
+
+```cpp
+// 0x44C8F4908F1B2622
+BOOL _EXPLODE_PED_AMMO_TYPE(Ped ped, eAmmoType ammoHash);
+```
+
+Triggers detonation/effect for a specific throwable ammo type associated with the given ped (commonly used to remotely detonate placed dynamite).
+Known ammo hashes seen in scripts:
+- AMMO_DYNAMITE
+- AMMO_MOLOTOV
+- AMMO_POISONBOTTLE
+Notes:
+- Only affects throwables of that ammo type that are attributable to the ped (i.e., their placed/owned instances).
+
+
+## Parameters
+* **ped**:
+* **ammoHash**: Refer to [enum: eAmmoType]
+
+## Return value
