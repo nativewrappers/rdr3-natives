@@ -11,10 +11,12 @@ BOOL _TASK_EMOTE_ACTION(Ped ped);
 ```
 
 Triggers the 'action / flourish' sub-clip of the ped's currently playing emote.
-Returns true on success, false if no valid emote state.
 Observed in ingame UIs to fire a flourish while an emote loop is active.
 Internally resets the ped's synced-emote entity and sets a flag to play the action once.
 
 
 ## Parameters
 * **ped**:
+
+## Return value
+Returns `true` on success, `false` if no valid emote state.
